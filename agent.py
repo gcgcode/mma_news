@@ -74,17 +74,29 @@ def prefilter(item: Item) -> Optional[str]:
 
 # ---------------------------------------------------------------- utilidades
 def extract_json(text: str) -> dict:
-    """Tolera ```json ... ``` y texto sobrante alrededor del objeto."""
+    """Tolera ```json ... ```, prosa alrededor y un SEGUNDO objeto pegado detrás."""
     if not text:
         raise ValueError("respuesta vacía del LLM")
     cleaned = text.strip()
     fence = re.search(r"```(?:json)?\s*(.*?)```", cleaned, re.S)
     if fence:
         cleaned = fence.group(1).strip()
-    start, end = cleaned.find("{"), cleaned.rfind("}")
-    if start == -1 or end <= start:
+    start = cleaned.find("{")
+    if start == -1:
         raise ValueError(f"no se encontró un objeto JSON en: {text[:200]!r}")
-    return json.loads(cleaned[start : end + 1])
+
+    # raw_decode se para al cerrar el PRIMER objeto completo. Con rfind('}')
+    # abarcábamos hasta la última llave del texto, así que una respuesta con dos
+    # objetos seguidos reventaba con 'Extra data: line 7 column 1'.
+    try:
+        objeto, _ = json.JSONDecoder().raw_decode(cleaned[start:])
+    except json.JSONDecodeError as exc:
+        raise ValueError(
+            f"JSON inválido o incompleto ({exc}) en: {text[:200]!r}"
+        ) from exc
+    if not isinstance(objeto, dict):
+        raise ValueError(f"se esperaba un objeto JSON, llegó {type(objeto).__name__}")
+    return objeto
 
 
 class LLMError(RuntimeError):
@@ -269,8 +281,11 @@ def _default_model(provider: str) -> str:
     Aviso: los modelos gemini-2.x devuelven 404 'no longer available to new users'
     para claves creadas a partir de 2026. No los pongas como primera opción.
     """
+    # gemini-3.6-flash va el ÚLTIMO a propósito: en producción devuelve 429 en
+    # todas las llamadas (cuota gratuita mínima), y tenerlo primero desperdiciaba
+    # una petición fallida por cada noticia antes de degradar.
     return {
-        "gemini": "gemini-3.6-flash,gemini-3.5-flash,gemini-3.5-flash-lite",
+        "gemini": "gemini-3.5-flash,gemini-3.5-flash-lite,gemini-3.6-flash",
         "groq": "llama-3.3-70b-versatile",
         "openai": "gpt-4o-mini",
         "together": "meta-llama/Llama-3.3-70B-Instruct-Turbo",

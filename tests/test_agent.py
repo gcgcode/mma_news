@@ -49,6 +49,24 @@ def test_extract_json_falla_sin_objeto():
         agent.extract_json("no hay JSON aquí")
 
 
+def test_extract_json_con_dos_objetos_pegados():
+    """Fallo real de producción: 'Extra data: line 7 column 1'.
+    El modelo devolvió dos objetos seguidos; nos quedamos con el primero."""
+    crudo = '{"relevancia": 8, "incluir_en_telegram": true}\n{"otra": "cosa"}'
+    assert agent.extract_json(crudo)["relevancia"] == 8
+
+
+def test_extract_json_con_prosa_detras():
+    crudo = '{"relevancia": 6}\n\nEspero que esto te sirva para tu análisis.'
+    assert agent.extract_json(crudo)["relevancia"] == 6
+
+
+def test_extract_json_rechaza_objeto_truncado():
+    """Si la respuesta viene cortada, hay que fallar: no inventar datos."""
+    with pytest.raises(ValueError):
+        agent.extract_json('{"relevancia": 8, "justificacion_relevancia": "a med')
+
+
 # ----------------------------------------------------------------- pre-filtro
 def test_prefiltro_deja_pasar_noticia_mma(noticia):
     assert agent.prefilter(noticia) is None

@@ -130,10 +130,12 @@ def fetch_reddit_rss(source: dict, ctx: dict) -> list[Item]:
     listing = source.get("listing", "new")
     url = f"https://www.reddit.com/r/{subreddit}/{listing}/.rss"
 
-    # Reddit limita el RSS con dureza: dos subreddits seguidos bastan para un 429.
-    # 8 s entre peticiones al mismo dominio es el mínimo que aguanta sin quejarse.
-    resp = polite_get(url, min_interval=float(source.get("intervalo_min", 8.0)),
-                      respect_robots=False, retries=3,
+    # Reddit limita el RSS con dureza y desde IPs de datacenter (GitHub Actions)
+    # aún más: medido en producción, 8 s entre subreddits no bastan y el segundo
+    # se come cuatro 429 seguidos. Se separa más y se reintenta menos: insistir
+    # no ayuda y nos costaba 40 s de ciclo para acabar fallando igual.
+    resp = polite_get(url, min_interval=float(source.get("intervalo_min", 20.0)),
+                      respect_robots=False, retries=int(source.get("reintentos", 1)),
                       headers={"User-Agent": _reddit_ua() or USER_AGENT})
     if resp is None:
         raise FetchError(

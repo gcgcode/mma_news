@@ -53,6 +53,8 @@ fuentes:
   # votos, así que no podemos filtrar por `min_score`. `hot` ya viene filtrado
   # por la comunidad y evita que r/ufc nos inunde de memes.
   # ======================================================================
+  # r/MMA va primero porque es la fuente de noticias; r/ufc es más de comunidad.
+  # Si Reddit sólo nos deja pasar una petición por ciclo, que sea esta.
   - name: "r/MMA"
     adaptador: reddit_rss
     subreddit: MMA
@@ -62,10 +64,15 @@ fuentes:
     activo: true
     max_items: 25
 
+  # 25 s de espera medidos en producción: con menos, Reddit devuelve 429 desde
+  # las IPs de GitHub Actions. Si aun así falla a diario, pon activo: false —
+  # r/MMA ya cubre lo noticiable y r/ufc aporta sobre todo contenido de foro.
   - name: "r/ufc"
     adaptador: reddit_rss
     subreddit: ufc
     listing: hot
+    intervalo_min: 25
+    reintentos: 1
     prioridad: 3
     idioma: en
     activo: true

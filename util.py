@@ -214,7 +214,10 @@ def polite_get(
             log.warning("GET falló (%s/%s) %s: %s", attempt + 1, retries + 1, url, exc)
             time.sleep(2 ** attempt)
             continue
-        if resp.status_code == 200:
+        # Cualquier 2xx: ESPN responde 202 a las peticiones desde datacenter y
+        # el cuerpo trae el feed igualmente. Si viniera vacío, quien parsea ya
+        # se queja; descartarlo aquí nos costaba la fuente entera.
+        if 200 <= resp.status_code < 300:
             return resp
         if resp.status_code in (429, 500, 502, 503, 504):
             espera = 2 ** attempt + 1
