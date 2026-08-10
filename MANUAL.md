@@ -646,7 +646,77 @@ El briefing te llega en el siguiente ciclo (máximo 20 minutos).
 | Comando | Qué hace |
 |---|---|
 | `/status` | Cuántas noticias procesadas, enviadas y en cola |
+| `/whoami` | Tu ID de usuario y el de este chat |
 | `/help` | Recordatorio de comandos |
+
+### 9.4 · Dar acceso a más personas
+
+Hay **dos permisos distintos** y conviene no mezclarlos:
+
+| Permiso | Variable | Qué concede |
+|---|---|---|
+| **Recibir** los briefings | `TELEGRAM_CHAT_ID` | Te llegan los mensajes |
+| **Enviar** `/add` | `TELEGRAM_ALLOWED_USERS` | Puedes meter enlaces al sistema |
+
+Puedes dar uno sin el otro: alguien que recibe pero no manda, o al revés.
+
+#### Paso 1 — Que la persona averigüe su ID
+
+Que abra tu bot en Telegram, pulse **Start** y envíe:
+
+```
+/whoami
+```
+
+El bot le responde con su ID aunque **todavía no tenga acceso** — está pensado
+justo para eso. Que te pase ese número.
+
+#### Paso 2 — Elige cómo quieres que reciban
+
+**Opción A — Un grupo (recomendado para 2-3 personas)**
+
+Todos ven lo mismo en un sitio y podéis comentar cada briefing ahí mismo.
+
+1. En Telegram: **Nuevo grupo** → añade a las personas → añade también a tu bot.
+2. Averigua el ID del grupo: escribe `/whoami` **dentro del grupo**. El *"ID de
+   este chat"* será un número negativo, tipo `-1001234567890`.
+3. Pon ese número como `TELEGRAM_CHAT_ID`.
+
+> ⚠️ **Importante en grupos:** por defecto los bots sólo ven los mensajes que
+> empiezan por `/`. Pegar un enlace de Instagram a secas **no funcionará** en un
+> grupo; hay que escribir `/add <url>`. Si prefieres que también funcione pegar
+> el enlace suelto, habla con `@BotFather` → `/setprivacy` → elige tu bot →
+> **Disable**.
+
+**Opción B — Chats privados separados**
+
+Cada uno recibe los briefings en su conversación con el bot. Más discreto, sin
+conversación compartida.
+
+Cada persona pulsa **Start** en el bot y envía `/whoami`. Pones todos los IDs
+separados por comas.
+
+#### Paso 3 — Actualiza la configuración
+
+En GitHub → **Settings → Secrets and variables → Actions → Secrets**, edita:
+
+| Secret | Ejemplo (grupo) | Ejemplo (privados) |
+|---|---|---|
+| `TELEGRAM_CHAT_ID` | `-1001234567890` | `1379532921,987654321,555444333` |
+| `TELEGRAM_ALLOWED_USERS` | `1379532921,987654321` | `1379532921,987654321` |
+
+En `TELEGRAM_ALLOWED_USERS` van **siempre IDs de persona**, nunca el del grupo.
+
+Y en tu `.env` local, lo mismo, para que las pruebas se comporten igual.
+
+El cambio entra en el siguiente ciclo. No hace falta tocar código ni volver a
+desplegar.
+
+#### Qué pasa si alguien bloquea el bot
+
+Nada grave: el sistema entrega a los demás y deja un aviso en el registro
+(`No se pudo entregar a <id>`). Sólo falla el envío si **ningún** destinatario lo
+recibe, y en ese caso la noticia no se marca como enviada y se reintenta.
 
 ---
 

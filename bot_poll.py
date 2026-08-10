@@ -6,6 +6,7 @@ Latencia máxima de un /add: un ciclo de cron. Coste de infraestructura: 0 €.
 """
 from __future__ import annotations
 
+import html
 import logging
 import os
 import re
@@ -25,6 +26,7 @@ HELP = (
     "<code>/add &lt;url&gt; [nota]</code>  Envía un post de Instagram (o cualquier "
     "enlace) al agente. La nota es opcional y ayuda a puntuar mejor.\n"
     "<code>/status</code>  Estado del sistema y últimos envíos.\n"
+    "<code>/whoami</code>  Tu ID de usuario (para pedir acceso).\n"
     "<code>/help</code>  Esta ayuda.\n\n"
     "Ejemplo:\n"
     "<code>/add https://www.instagram.com/p/Cxyz123/ Topuria confirma peso pluma</code>"
@@ -32,12 +34,19 @@ HELP = (
 
 
 def _allowed_users() -> set[int]:
+    """Quién puede usar /add. Lista de IDs numéricos separados por comas."""
     raw = os.getenv("TELEGRAM_ALLOWED_USERS", "")
     ids = {int(x) for x in re.findall(r"\d+", raw)}
-    if not ids:
-        chat = os.getenv("TELEGRAM_CHAT_ID", "")
-        if chat.lstrip("-").isdigit():
-            ids.add(int(chat))
+    if ids:
+        return ids
+
+    # Sin lista explícita, valen los chats PRIVADOS de TELEGRAM_CHAT_ID: en un
+    # chat privado el id del chat coincide con el del usuario. Los grupos tienen
+    # id negativo y no identifican a nadie; incluirlos dejaría fuera a todos.
+    for destino in os.getenv("TELEGRAM_CHAT_ID", "").split(","):
+        destino = destino.strip()
+        if destino.isdigit():
+            ids.add(int(destino))
     return ids
 
 
@@ -133,12 +142,35 @@ def process_updates(state: State) -> int:
             if not text or not chat_id:
                 continue
 
-            if not _authorized(user_id):
-                log.warning("Usuario no autorizado: %s", user_id)
-                tg.send_text("🔒 No autorizado.", chat_id=chat_id)
+            command = text.split()[0].split("@")[0].lower()
+
+            # /whoami va ANTES del control de acceso a propósito: es como una
+            # persona nueva averigua su ID para que tú puedas autorizarla. Sólo
+            # revela el ID de quien pregunta, que ya es suyo.
+            if command == "/whoami":
+                nombre = (message.get("from") or {}).get("first_name", "")
+                tg.send_text(
+                    f"👤 <b>{html.escape(str(nombre))}</b>\n"
+                    f"Tu ID de usuario: <code>{user_id}</code>\n"
+                    f"ID de este chat: <code>{chat_id}</code>\n\n"
+                    + ("✅ Ya tienes acceso a /add"
+                       if _authorized(user_id) else
+                       "🔒 Aún sin acceso. Pásale tu ID al administrador para "
+                       "que lo añada a <code>TELEGRAM_ALLOWED_USERS</code>."),
+                    chat_id=chat_id,
+                )
+                handled += 1
                 continue
 
-            command = text.split()[0].split("@")[0].lower()
+            if not _authorized(user_id):
+                log.warning("Usuario no autorizado: %s", user_id)
+                tg.send_text(
+                    "🔒 No autorizado. Envía <code>/whoami</code> y pásale tu ID "
+                    "al administrador.",
+                    chat_id=chat_id,
+                )
+                continue
+
             if command == "/add":
                 _handle_add(text, int(user_id), chat_id, state)
             elif command == "/status":

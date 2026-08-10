@@ -37,11 +37,17 @@ def _token() -> str:
     return token
 
 
-def _chat_id() -> str:
-    chat = os.getenv("TELEGRAM_CHAT_ID")
-    if not chat:
+def _chat_ids() -> list[str]:
+    """Destinos del briefing. TELEGRAM_CHAT_ID admite varios separados por comas.
+
+    Sirve tanto para chats privados (id positivo) como para un grupo (id
+    negativo, tipo -1001234567890) al que hayas añadido el bot.
+    """
+    crudo = os.getenv("TELEGRAM_CHAT_ID", "")
+    destinos = [c.strip() for c in crudo.split(",") if c.strip()]
+    if not destinos:
         raise TelegramError("falta TELEGRAM_CHAT_ID")
-    return chat
+    return destinos
 
 
 def call(method: str, payload: dict[str, Any], *, retries: int = 2) -> dict:
@@ -102,31 +108,54 @@ def send_briefing(item: Item, verdict: Verdict, *, dry_run: bool = False) -> Opt
         ]]
     }
 
+    destinos = _chat_ids()
     message_id = None
-    for index, chunk in enumerate(chunks):
-        payload: dict[str, Any] = {
-            "chat_id": _chat_id(),
-            "text": chunk,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": index > 0,   # preview sólo en el primero
-        }
-        if index == len(chunks) - 1:
-            payload["reply_markup"] = keyboard
-        result = call("sendMessage", payload)
-        message_id = message_id or result.get("message_id")
-        if len(chunks) > 1:
-            time.sleep(0.6)
+    entregados = 0
+    fallos: list[str] = []
+
+    for destino in destinos:
+        try:
+            for index, chunk in enumerate(chunks):
+                payload: dict[str, Any] = {
+                    "chat_id": destino,
+                    "text": chunk,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": index > 0,  # preview sólo en el primero
+                }
+                if index == len(chunks) - 1:
+                    payload["reply_markup"] = keyboard
+                result = call("sendMessage", payload)
+                message_id = message_id or result.get("message_id")
+                if len(chunks) > 1:
+                    time.sleep(0.6)
+            entregados += 1
+        except TelegramError as exc:
+            # Un destinatario que bloqueó al bot no puede tumbar el envío a los
+            # demás, ni marcar la noticia como fallida y reintentarla eternamente.
+            fallos.append(f"{destino}: {exc}")
+            log.error("No se pudo entregar a %s: %s", destino, exc)
+
+    if not entregados:
+        raise TelegramError("ningún destino recibió el briefing — " + " | ".join(fallos))
+    if fallos:
+        log.warning("Entregado a %s/%s destinos", entregados, len(destinos))
     return message_id
 
 
 def send_text(text: str, *, chat_id: Optional[str] = None) -> None:
-    for chunk in _split(text):
-        call("sendMessage", {
-            "chat_id": chat_id or _chat_id(),
-            "text": chunk,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": True,
-        })
+    """Sin `chat_id` se emite a todos los destinos configurados."""
+    destinos = [chat_id] if chat_id else _chat_ids()
+    for destino in destinos:
+        try:
+            for chunk in _split(text):
+                call("sendMessage", {
+                    "chat_id": destino,
+                    "text": chunk,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": True,
+                })
+        except TelegramError as exc:
+            log.error("No se pudo escribir a %s: %s", destino, exc)
 
 
 # ------------------------------------------------------------------- formato
