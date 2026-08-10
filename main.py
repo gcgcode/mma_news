@@ -120,8 +120,14 @@ def main() -> int:
             continue
         candidates.append(item)
 
-    # Los enviados a mano y las fuentes prioritarias van primero si hay tope.
-    candidates.sort(key=lambda i: (int(i.priority), i.published_at or ""))
+    # Con tope de llamadas importa QUÉ noticias entran. Dos ordenaciones
+    # estables encadenadas: primero por fecha descendente, luego por prioridad.
+    # El resultado es "mejor fuente primero y, dentro de cada una, lo más
+    # reciente". Ordenar por fecha ascendente, como hacía antes, significaba
+    # gastar el presupuesto en lo más viejo de la cola: veneno para un bot de
+    # noticias, que es justo donde el retraso se nota.
+    candidates.sort(key=lambda i: i.published_at or "", reverse=True)
+    candidates.sort(key=lambda i: int(i.priority))
     if len(candidates) > max_calls:
         log.warning("%s candidatos > tope de %s llamadas; el resto se verá en el próximo ciclo",
                     len(candidates), max_calls)
