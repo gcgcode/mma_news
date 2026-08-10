@@ -1,0 +1,9 @@
+# Normaliza los finales de línea a LF dentro del repositorio.
+# Sin esto, el bash embebido en .github/workflows/run.yml puede llegar al runner
+# de Linux con retornos de carro de Windows y fallar de forma difícil de depurar.
+* text=auto eol=lf
+
+# Binarios: que git no los toque.
+*.png binary
+*.jpg binary
+*.ico binary

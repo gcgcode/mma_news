@@ -1,0 +1,317 @@
+# ==========================================================================
+# DEMOCLES — configuración de fuentes
+#
+# Añadir/quitar/desactivar fuentes NO requiere tocar código. Sólo este archivo.
+#
+# Campos comunes:
+#   name        nombre legible (aparece en Telegram)
+#   adaptador   rss | gnews | html | twitter | reddit | reddit_rss | instagram_manual
+#   prioridad   1 (máxima) .. 5 — al deduplicar gana el item de menor número
+#   activo      true/false
+#   max_items   tope de items por ciclo
+#   idioma      es | en
+#   verificar   true = la URL NO está confirmada; compruébala antes de fiarte
+#
+# SOBRE LOS FEEDS RSS: sólo se listan URLs que siguen el patrón habitual del CMS
+# de cada medio. Las marcadas `verificar: true` NO están confirmadas — ábrelas en
+# el navegador antes de darlas por buenas. Si una falla, el sistema lo registra
+# como aviso y sigue: la red de seguridad `gnews` cubre a todos los medios.
+# ==========================================================================
+
+ajustes:
+  umbral_relevancia: 7          # >= 7 se envía a Telegram
+  max_llamadas_llm: 25          # tope por ciclo (protege el free tier)
+  ventana_dedup_horas: 72       # ventana de similitud difusa
+  umbral_similitud: 88          # rapidfuzz token_set_ratio (0-100)
+  dias_historico: 14            # purga de state.json
+  archivo_estado: state/state.json
+
+fuentes:
+
+  # ======================================================================
+  # ENTRADA MANUAL (Instagram) — ver fetchers/instagram.py
+  # Máxima prioridad: ya lo ha filtrado un humano.
+  # ======================================================================
+  - name: "Instagram (entrada manual /add)"
+    adaptador: instagram_manual
+    prioridad: 1
+    activo: true
+    max_items: 20
+
+  # ======================================================================
+  # REDDIT — vía RSS público, SIN credenciales.
+  #
+  # La API oficial de Reddit ahora exige solicitar permiso, así que el
+  # adaptador `reddit` (OAuth) queda desactivado hasta que lo aprueben.
+  # El RSS público sigue abierto: comprobado, 25 items por subreddit.
+  #
+  # Aviso honesto: esto funciona desde una IP doméstica. Desde GitHub Actions
+  # (IPs de datacenter) Reddit devuelve 403/429 con bastante frecuencia. Si
+  # ocurre, la fuente registra un aviso y el ciclo continúa con las demás.
+  #
+  # Se usa `hot` en lugar de `new` a propósito: el RSS no expone el número de
+  # votos, así que no podemos filtrar por `min_score`. `hot` ya viene filtrado
+  # por la comunidad y evita que r/ufc nos inunde de memes.
+  # ======================================================================
+  - name: "r/MMA"
+    adaptador: reddit_rss
+    subreddit: MMA
+    listing: hot
+    prioridad: 2
+    idioma: en
+    activo: true
+    max_items: 25
+
+  - name: "r/ufc"
+    adaptador: reddit_rss
+    subreddit: ufc
+    listing: hot
+    prioridad: 3
+    idioma: en
+    activo: true
+    max_items: 20
+
+  # Adaptador OAuth. Actívalo el día que Reddit te apruebe el acceso a la API:
+  # es más fiable desde datacenter y permite filtrar por `min_score`.
+  - name: "r/MMA (API oficial)"
+    adaptador: reddit
+    subreddit: MMA
+    listing: new
+    min_score: 25
+    prioridad: 2
+    idioma: en
+    activo: false
+    max_items: 25
+
+  # ======================================================================
+  # TWITTER / X — una sola fuente con las 14 cuentas.
+  # La estrategia (rsshub / nitter / apify) se elige en TWITTER_STRATEGY.
+  # Si todas fallan devuelve 0 items y el ciclo continúa. Ver BLOQUE 1.
+  # ======================================================================
+  - name: "Twitter/X — cuentas MMA"
+    adaptador: twitter
+    prioridad: 2
+    idioma: es
+    activo: true
+    max_items: 40
+    apify_max_items: 30
+    cuentas:
+      - arielhelwani        # primicias, el estándar del sector
+      - espnmma
+      - mmafighting
+      - ufc
+      - danawhite
+      - pound4pound
+      - alandawsonsport
+      - BigMarcel24
+      - elclubdelamma       # hispano
+      - spanish_mma         # hispano
+      - alvarocolmenero     # hispano
+      - mmagonzalocampos    # hispano
+      - ufcconparamount     # hispano
+      - greenfits
+
+  # ======================================================================
+  # MEDIOS EN INGLÉS — feed nativo (si existe) + red de seguridad Google News
+  # ======================================================================
+  # Feeds COMPROBADOS con `python doctor.py --fuentes` (2026-08-10).
+  # Si alguno empieza a dar 0 items, vuelve a ejecutar ese comando antes de tocar nada.
+
+  - name: "MMA Fighting"
+    adaptador: rss
+    # OJO: /rss/current da 404. La ruta buena lleva .xml
+    url: "https://www.mmafighting.com/rss/current.xml"   # ✅ 10 entradas
+    prioridad: 2
+    idioma: en
+    activo: true
+    max_items: 15
+
+  # MMA Junkie sigue publicando, pero su ruta RSS redirige a archive.mmajunkie.com,
+  # que ya no existe en DNS. Se accede vía Google News, que sí lo indexa.
+  - name: "MMA Junkie"
+    adaptador: rss
+    url: "https://mmajunkie.usatoday.com/feed"       # ❌ redirige a host muerto
+    verificar: true
+    prioridad: 2
+    idioma: en
+    activo: false
+    max_items: 15
+
+  - name: "MMA Junkie (vía Google News)"
+    adaptador: gnews
+    query: "site:mmajunkie.usatoday.com when:2d"
+    hl: en-US
+    gl: US
+    idioma: en
+    prioridad: 2
+    activo: true
+    max_items: 12
+
+  - name: "Sherdog"
+    adaptador: rss
+    url: "https://www.sherdog.com/rss/news.xml"      # ✅ 15 entradas
+    prioridad: 3
+    idioma: en
+    activo: true
+    max_items: 15
+
+  - name: "ESPN MMA"
+    adaptador: rss
+    url: "https://www.espn.com/espn/rss/mma/news"    # ✅ 15 entradas
+    prioridad: 2
+    idioma: en
+    activo: true
+    max_items: 15
+
+  - name: "Bloody Elbow"
+    adaptador: rss
+    url: "https://www.bloodyelbow.com/feed"          # ✅ 12 entradas
+    prioridad: 3
+    idioma: en
+    activo: true
+    max_items: 12
+
+  - name: "LowKick MMA"
+    adaptador: rss
+    url: "https://www.lowkickmma.com/feed/"          # ✅ 10 entradas
+    prioridad: 4
+    idioma: en
+    activo: true
+    max_items: 12
+
+  # --- Sin feed conocido: sólo Google News (endpoint público y estable) -----
+  - name: "Yahoo Sports MMA"
+    adaptador: gnews
+    query: "site:sports.yahoo.com (UFC OR MMA) when:2d"
+    hl: en-US
+    gl: US
+    idioma: en
+    prioridad: 4
+    activo: true
+    max_items: 10
+
+  - name: "Fox Sports MMA"
+    adaptador: gnews
+    query: "site:foxsports.com (UFC OR MMA) when:2d"
+    hl: en-US
+    gl: US
+    idioma: en
+    prioridad: 4
+    activo: true
+    max_items: 10
+
+  # ======================================================================
+  # MEDIOS EN ESPAÑOL — vía Google News. Ninguno publica un feed de MMA
+  # documentado y estable; el `site:` de Google News es el camino honesto.
+  # ======================================================================
+  - name: "AS — UFC/MMA"
+    adaptador: gnews
+    query: "site:as.com (UFC OR MMA) when:2d"
+    hl: es-ES
+    gl: ES
+    idioma: es
+    prioridad: 3
+    activo: true
+    max_items: 10
+
+  - name: "Marca — UFC/MMA"
+    adaptador: gnews
+    query: "site:marca.com (UFC OR MMA) when:2d"
+    hl: es-ES
+    gl: ES
+    idioma: es
+    prioridad: 3
+    activo: true
+    max_items: 10
+
+  - name: "ESPN Argentina MMA"
+    adaptador: gnews
+    query: "site:espn.com.ar (UFC OR MMA) when:2d"
+    hl: es-419
+    gl: AR
+    idioma: es
+    prioridad: 3
+    activo: true
+    max_items: 10
+
+  - name: "TUDN MMA"
+    adaptador: gnews
+    query: "site:tudn.com (UFC OR MMA) when:2d"
+    hl: es-419
+    gl: MX
+    idioma: es
+    prioridad: 3
+    activo: true
+    max_items: 10
+
+  - name: "UFC Español"
+    adaptador: gnews
+    query: "site:ufcespanol.com when:3d"
+    hl: es-419
+    gl: MX
+    idioma: es
+    prioridad: 3
+    activo: true
+    max_items: 10
+
+  - name: "El Rocktagono"
+    adaptador: gnews
+    query: "site:elrocktagono.com when:3d"
+    hl: es-419
+    gl: MX
+    idioma: es
+    prioridad: 4
+    activo: true
+    max_items: 10
+
+  # Alternativa directa si confirmas que el feed WordPress existe:
+  - name: "El Rocktagono (RSS)"
+    adaptador: rss
+    url: "https://elrocktagono.com/feed/"            # [verificar RSS]
+    verificar: true
+    prioridad: 4
+    idioma: es
+    activo: false
+    max_items: 10
+
+  # ======================================================================
+  # RED DE SEGURIDAD TEMÁTICA — captura primicias en medios no listados.
+  # ======================================================================
+  - name: "Google News — MMA en español"
+    adaptador: gnews
+    query: '(UFC OR MMA OR "artes marciales mixtas") when:1d'
+    hl: es-419
+    gl: MX
+    idioma: es
+    prioridad: 4
+    activo: true
+    max_items: 15
+
+  - name: "Google News — MMA breaking (EN)"
+    adaptador: gnews
+    query: '(UFC OR MMA) (breaking OR official OR announced OR "steps in") when:1d'
+    hl: en-US
+    gl: US
+    idioma: en
+    prioridad: 4
+    activo: true
+    max_items: 15
+
+  # ======================================================================
+  # EJEMPLO de scraping HTML con selectores CSS (desactivado).
+  # Úsalo sólo si un medio no tiene RSS, respeta su robots.txt y limítate a
+  # titular + enlace. Nunca copies el artículo completo.
+  # ======================================================================
+  - name: "Ejemplo scraping HTML"
+    adaptador: html
+    url: "https://ejemplo.com/mma"
+    selector_lista: "article.post"
+    selector_titulo: "h2.title"
+    selector_enlace: "h2.title a"
+    selector_fecha: "time"
+    selector_resumen: "p.excerpt"
+    intervalo_min: 5
+    prioridad: 5
+    idioma: es
+    activo: false
+    max_items: 10

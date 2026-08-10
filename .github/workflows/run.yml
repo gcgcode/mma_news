@@ -1,0 +1,79 @@
+name: DEMOCLES — ciclo de noticias MMA
+
+on:
+  schedule:
+    # Cada 20 minutos. GitHub retrasa los cron de repos gratuitos en momentos de
+    # carga (a veces 5-15 min): no cuentes con puntualidad al segundo.
+    - cron: "*/20 * * * *"
+  workflow_dispatch:          # botón "Run workflow" para probar a mano
+
+# Dos ejecuciones a la vez pisarían el commit de estado.
+concurrency:
+  group: democles-ciclo
+  cancel-in-progress: false
+
+permissions:
+  contents: write             # necesario para commitear state/state.json
+
+jobs:
+  ciclo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar ciclo
+        env:
+          TELEGRAM_BOT_TOKEN:     ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:       ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_ALLOWED_USERS: ${{ secrets.TELEGRAM_ALLOWED_USERS }}
+          LLM_PROVIDER:           ${{ vars.LLM_PROVIDER    || 'gemini' }}
+          LLM_MODEL:              ${{ vars.LLM_MODEL       || 'gemini-3.6-flash,gemini-3.5-flash,gemini-3.5-flash-lite' }}
+          GEMINI_API_KEY:         ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY:           ${{ secrets.GROQ_API_KEY }}
+          OPENAI_API_KEY:         ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY:      ${{ secrets.ANTHROPIC_API_KEY }}
+          REDDIT_CLIENT_ID:       ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET:   ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT:      ${{ vars.REDDIT_USER_AGENT || 'democles-mma-bot/1.0' }}
+          TWITTER_STRATEGY:       ${{ vars.TWITTER_STRATEGY  || 'rsshub,nitter' }}
+          RSSHUB_BASE:            ${{ vars.RSSHUB_BASE }}
+          RSSHUB_ACCESS_KEY:      ${{ secrets.RSSHUB_ACCESS_KEY }}
+          NITTER_MIRRORS:         ${{ vars.NITTER_MIRRORS }}
+          APIFY_TOKEN:            ${{ secrets.APIFY_TOKEN }}
+          LLM_MAX_TOKENS:         ${{ vars.LLM_MAX_TOKENS     || '4000' }}
+          RELEVANCE_THRESHOLD:    ${{ vars.RELEVANCE_THRESHOLD || '7' }}
+          MAX_LLM_CALLS:          ${{ vars.MAX_LLM_CALLS      || '25' }}
+          LOG_LEVEL:              INFO
+        run: python main.py
+
+      - name: Persistir estado
+        # `if: always()` — si el ciclo falla a mitad, el estado ya escrito sigue
+        # siendo válido y el commit mantiene vivo el cron (GitHub desactiva los
+        # workflows programados tras 60 días sin actividad en el repo).
+        if: always()
+        run: |
+          git config user.name  "democles-bot"
+          git config user.email "actions@github.com"
+          git add state/state.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios de estado."
+            exit 0
+          fi
+          git commit -m "chore(state): ciclo $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for intento in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+            git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "Push rechazado (intento $intento); reintento en 5s"
+            sleep 5
+          done
+          echo "::warning::No se pudo persistir el estado; se recuperará en el próximo ciclo"

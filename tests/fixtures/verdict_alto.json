@@ -1,0 +1,13 @@
+{
+  "relevancia": 9,
+  "justificacion_relevancia": "Cancelación de un combate por el título a cinco días del evento: rompe la cartelera principal de un PPV y afecta a un campeón en activo.",
+  "incluir_en_telegram": true,
+  "briefing": {
+    "formato_instagram": "Carrusel",
+    "justificacion_formato": "Hay cronología y consecuencias que desglosar: lesión, sustituto y qué pasa con el título.",
+    "caption_sugerido": "Se cae el estelar. Lesión confirmada a cinco días del evento y la UFC ya busca recambio. El cinturón se queda en el aire y toda la cartelera se reordena.\n\nLa promotora tiene 72 horas para decidir si mantiene el combate por el título o lo convierte en un pesaje pactado.",
+    "sugerencia_visual": "Carrusel de 4: (1) foto del campeón en el careo con la palabra CANCELADO en rojo sobre fondo negro; (2) captura del comunicado oficial de UFC recortada al párrafo clave; (3) tarjeta con la cartelera antes/después; (4) foto del posible sustituto con interrogante.",
+    "hashtags": ["#UFC", "#MMA", "#UFCEspanol", "#ArtesMarcialesMixtas", "#Octagono", "#FightNight", "#MMANews", "#UFCTitle", "#MMAEspana", "#Combate"],
+    "angulo_engagement": "¿Deben mantener el combate por el título con un sustituto de última hora o aplazarlo entero?"
+  }
+}

@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.log
+
+# El estado SÍ se versiona: es la persistencia entre ejecuciones de Actions.
+!state/state.json
