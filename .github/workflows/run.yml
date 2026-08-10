@@ -71,11 +71,36 @@ jobs:
             echo "Sin cambios de estado."
             exit 0
           fi
-          git commit -m "chore(state): ciclo $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          # state.json lo escriben el runner y, a veces, un humano desde su
+          # equipo. Git no sabe fusionar JSON: `pull --rebase` producía un
+          # conflicto y dejaba el repo a medias, así que los reintentos morían
+          # con "unmerged files" sin haber intentado nada.
+          #
+          # Por eso aquí NO se fusiona: se reconstruye. Se toma el código del
+          # remoto tal cual y se le pone encima nuestro estado, que es el
+          # acumulado bueno (lo que había al empezar el ciclo + lo nuevo).
+          # Cada reintento parte de un árbol limpio, así que los tres cuentan.
+          cp state/state.json "${RUNNER_TEMP}/state.json"
+
           for intento in 1 2 3; do
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
-            git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
-            echo "Push rechazado (intento $intento); reintento en 5s"
+            git fetch --quiet origin "${GITHUB_REF_NAME}"
+            git reset --quiet --hard "origin/${GITHUB_REF_NAME}"
+            cp "${RUNNER_TEMP}/state.json" state/state.json
+            git add state/state.json
+
+            if git diff --cached --quiet; then
+              echo "El remoto ya tiene exactamente este estado."
+              exit 0
+            fi
+
+            git commit --quiet -m "chore(state): ciclo $(date -u +'%Y-%m-%d %H:%M UTC')"
+            if git push --quiet origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Estado persistido correctamente."
+              exit 0
+            fi
+
+            echo "Push rechazado (intento $intento): el remoto avanzó. Reintento en 5s"
             sleep 5
           done
           echo "::warning::No se pudo persistir el estado; se recuperará en el próximo ciclo"

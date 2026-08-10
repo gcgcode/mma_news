@@ -743,6 +743,26 @@ Actions: el paso *Persistir estado* debe hacer un `commit`, no un warning.
 Si el permiso está bien y aun así se cuelan parecidas, baja `umbral_similitud` de
 `88` a `84` en `config.yaml`.
 
+### No commitees `state/state.json` a mano
+
+`state/state.json` lo escribe el robot en cada ciclo. Es el único archivo del
+proyecto con **dos autores**: GitHub Actions y tú.
+
+Si haces `git add .` después de una ejecución local, subirás tu estado y chocará
+con el de la nube. Git no sabe fusionar JSON, así que el ciclo siguiente no podrá
+guardar nada y te repetirá noticias.
+
+**Antes de commitear cambios de código, descarta tu estado local:**
+
+```powershell
+git checkout state/state.json
+git add . ; git commit -m "..." ; git push
+```
+
+El workflow ya está preparado para no perder datos si aun así ocurre: en vez de
+fusionar, se queda con el código del remoto y le pone encima el estado del
+runner, que es el acumulado bueno.
+
 ### El ciclo falla en GitHub con ❌
 
 Abre la ejecución fallida y busca la línea roja:
@@ -756,6 +776,7 @@ Abre la ejecución fallida y busca la línea roja:
 | `respuesta cortada por maxOutputTokens` | Sube la Variable `LLM_MAX_TOKENS` a `6000`. Los modelos que razonan gastan del mismo presupuesto que la respuesta |
 | `Reddit RSS no responde` / `403` / `429` | Reddit bloquea IPs de datacenter a ratos. Es esperable y el ciclo continúa. Si es permanente, pon `activo: false` a r/MMA y r/ufc |
 | `Permission denied` en *Persistir estado* | Falta el permiso del paso 8.6 |
+| `CONFLICT ... in state/state.json` | Ver abajo: no commitees el estado a mano |
 
 ### `python` no se reconoce
 
