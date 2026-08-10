@@ -45,7 +45,9 @@ jobs:
           REDDIT_CLIENT_ID:       ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET:   ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USER_AGENT:      ${{ vars.REDDIT_USER_AGENT || 'democles-mma-bot/1.0' }}
-          TWITTER_STRATEGY:       ${{ vars.TWITTER_STRATEGY  || 'rsshub,nitter' }}
+          # Vacío a propósito: sin vía gratuita fiable para X. Para activarlo,
+          # crea la Variable TWITTER_STRATEGY con "rsshub" y define RSSHUB_BASE.
+          TWITTER_STRATEGY:       ${{ vars.TWITTER_STRATEGY }}
           RSSHUB_BASE:            ${{ vars.RSSHUB_BASE }}
           RSSHUB_ACCESS_KEY:      ${{ secrets.RSSHUB_ACCESS_KEY }}
           NITTER_MIRRORS:         ${{ vars.NITTER_MIRRORS }}
