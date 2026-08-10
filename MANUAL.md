@@ -142,24 +142,46 @@ por `.gitignore`.
 
    **Ese es tu `TELEGRAM_BOT_TOKEN`.** Cópialo entero, incluidos los dos puntos.
 
-**Conseguir tu ID de chat:**
+**Conseguir tu ID de chat** — pon el token en `.env` y deja que el proyecto lo
+averigüe por ti:
 
-6. Busca tu bot por su usuario (`@democles_mma_bot`), ábrelo y pulsa **Start**.
-   Escríbele cualquier cosa, por ejemplo `hola`. **Este paso es obligatorio**: un
-   bot no puede escribirte hasta que tú le hables primero.
-7. Abre en el navegador esta dirección, sustituyendo `<TOKEN>` por tu token:
+```powershell
+python chat_id.py
+```
 
-   ```
-   https://api.telegram.org/bot<TOKEN>/getUpdates
-   ```
+El script comprueba el token, detecta si hay un webhook estorbando y luego se
+queda esperando. Abre Telegram, escríbele cualquier cosa a tu bot y te imprimirá
+las dos líneas listas para pegar en `.env`:
 
-   Ejemplo real: `https://api.telegram.org/bot7812345678:AAH9xK2m.../getUpdates`
+```
+TELEGRAM_CHAT_ID=1379532921
+TELEGRAM_ALLOWED_USERS=1379532921
+```
 
-8. Verás un texto con llaves. Busca `"chat":{"id":123456789`. **Ese número es tu
-   `TELEGRAM_CHAT_ID`** y también tu `TELEGRAM_ALLOWED_USERS`.
+<details>
+<summary>Método manual, si prefieres hacerlo desde el navegador</summary>
 
-   > Si sale `{"ok":true,"result":[]}` (vacío), es que no le has escrito al bot.
-   > Vuelve al paso 6.
+1. Busca tu bot por su usuario, ábrelo y pulsa **Start**. Escríbele algo.
+   **Obligatorio**: un bot no puede escribirte hasta que tú le hables primero.
+2. Abre `https://api.telegram.org/bot<TOKEN>/getUpdates` sustituyendo `<TOKEN>`.
+3. Busca `"chat":{"id":1379532921` — ese número es el que necesitas.
+
+</details>
+
+> **Si te devuelve `{"ok":true,"result":[]}`**, es una de estas tres, en orden de
+> frecuencia:
+>
+> 1. **No le has escrito al bot todavía**, o consultaste la URL antes de escribir.
+> 2. **Hay un webhook configurado**: mientras exista, `getUpdates` devuelve vacío
+>    siempre. Bórralo abriendo `https://api.telegram.org/bot<TOKEN>/deleteWebhook`.
+> 3. **Los mensajes ya se consumieron**: Telegram los borra al leerlos con un
+>    offset mayor, y los descarta pasadas 24 h. Escribe otro mensaje.
+>
+> `python chat_id.py` distingue los tres casos y te dice cuál es.
+
+> ⚠️ **Error clásico:** dejar el `123456789` de ejemplo en el `.env`. Telegram
+> responde `Bad Request: chat not found` y parece un problema del token cuando en
+> realidad es el chat. `python doctor.py --enviar` lo detecta al instante.
 
 ---
 
