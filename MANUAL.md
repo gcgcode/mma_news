@@ -813,6 +813,23 @@ Actions: el paso *Persistir estado* debe hacer un `commit`, no un warning.
 Si el permiso está bien y aun así se cuelan parecidas, baja `umbral_similitud` de
 `88` a `84` en `config.yaml`.
 
+### `! [rejected] main -> main (non-fast-forward)` al hacer push
+
+No es un fallo: el robot commitea el estado **cada 20 minutos** en la misma
+rama, así que tu copia local se queda atrás enseguida. Basta con traer lo suyo
+antes de subir lo tuyo:
+
+```powershell
+git pull ; git push
+```
+
+El repositorio ya viene con `pull.rebase = true` en su configuración local, así
+que `git pull` reordena tus commits encima de los del robot en vez de crear
+mezclas. No afecta a tus otros proyectos.
+
+Si el `pull` se para con un conflicto, será en `state/state.json`: ver el
+apartado siguiente.
+
 ### No commitees `state/state.json` a mano
 
 `state/state.json` lo escribe el robot en cada ciclo. Es el único archivo del
