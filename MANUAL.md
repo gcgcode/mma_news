@@ -158,22 +158,26 @@ TELEGRAM_CHAT_ID=1379532921
 TELEGRAM_ALLOWED_USERS=1379532921
 ```
 
-<details>
-<summary>Método manual, si prefieres hacerlo desde el navegador</summary>
+> ### 🚫 No abras la URL de la API en el navegador
+>
+> Verás por ahí el consejo de visitar
+> `https://api.telegram.org/bot<TOKEN>/getUpdates`. **No lo hagas.**
+>
+> El token va dentro de la ruta, así que esa URL no es una página protegida:
+> **es la credencial**. Cualquiera que la tenga lee tus mensajes desde cualquier
+> dispositivo, sin login y para siempre. Y una URL en un navegador acaba en el
+> historial, en el autocompletado y en la sincronización entre tus dispositivos.
+>
+> `python chat_id.py` hace exactamente lo mismo leyendo el token del `.env`, sin
+> que llegue a aparecer en ninguna barra de direcciones. Si alguna vez la
+> abriste, rota el token (sección 11 bis).
 
-1. Busca tu bot por su usuario, ábrelo y pulsa **Start**. Escríbele algo.
-   **Obligatorio**: un bot no puede escribirte hasta que tú le hables primero.
-2. Abre `https://api.telegram.org/bot<TOKEN>/getUpdates` sustituyendo `<TOKEN>`.
-3. Busca `"chat":{"id":1379532921` — ese número es el que necesitas.
-
-</details>
-
-> **Si te devuelve `{"ok":true,"result":[]}`**, es una de estas tres, en orden de
+> **Si `chat_id.py` no encuentra nada**, es una de estas tres, en orden de
 > frecuencia:
 >
 > 1. **No le has escrito al bot todavía**, o consultaste la URL antes de escribir.
 > 2. **Hay un webhook configurado**: mientras exista, `getUpdates` devuelve vacío
->    siempre. Bórralo abriendo `https://api.telegram.org/bot<TOKEN>/deleteWebhook`.
+>    siempre. `chat_id.py` lo detecta y lo borra por ti.
 > 3. **Los mensajes ya se consumieron**: Telegram los borra al leerlos con un
 >    offset mayor, y los descarta pasadas 24 h. Escribe otro mensaje.
 >
@@ -932,8 +936,20 @@ Eso incluye las URLs de la API, porque **llevan el token dentro de la ruta**:
 https://api.telegram.org/bot<AQUÍ_VA_TU_TOKEN>/getUpdates
 ```
 
-Compartir ese enlace es compartir la contraseña. En sí, el endpoint no es
-público: sin token responde 404. El riesgo no es que exista, es enseñarlo.
+Conviene entender por qué eso es peor de lo que parece. Esa URL **no es una
+página protegida que pida credenciales: la URL es la credencial**. La API de
+bots no usa cabeceras de autenticación, ni sesiones, ni cookies, ni caducidad,
+ni restricción por IP, ni vínculo con el dispositivo. Quien tenga el enlace lo
+abre desde cualquier móvil del mundo y ve todos tus mensajes. Que sin token
+devuelva 404 no lo hace privado.
+
+Por eso se filtra tan fácil: una URL escrita en un navegador queda en el
+historial, en el autocompletado y **se sincroniza con tus otros dispositivos**.
+También pasa por proxies y por cualquier inspección TLS corporativa.
+
+**Regla práctica: trata esa URL como si fuera la contraseña escrita en claro,
+porque lo es.** Para lo que necesites, usa `python chat_id.py` o
+`python main.py --comandos`, que leen el token del `.env` y nunca lo exponen.
 
 **Si se te escapa, rótalo. Son dos minutos:**
 

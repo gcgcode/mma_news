@@ -113,9 +113,10 @@ def check_telegram(enviar: bool) -> None:
         return
 
     if not chat:
+        # Nunca sugerir abrir la URL de la API: lleva el token en la ruta y
+        # acaba en el historial del navegador, que además se sincroniza.
         check(FAIL, "TELEGRAM_CHAT_ID vacío",
-              f"Escribe algo a tu bot y abre: "
-              f"https://api.telegram.org/bot{token[:10]}.../getUpdates → message.chat.id")
+              "Escribe algo a tu bot y ejecuta:  python chat_id.py")
         return
 
     if enviar:

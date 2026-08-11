@@ -91,8 +91,11 @@ def main() -> int:
         print("     Mientras exista, getUpdates SIEMPRE devolverá una lista vacía.")
         print("     Lo borro para poder leer los mensajes...")
         if llamar(token, "deleteWebhook") is None:
-            print("     ❌ No se pudo borrar. Hazlo a mano abriendo esta URL:")
-            print(f"     https://api.telegram.org/bot<TU_TOKEN>/deleteWebhook")
+            # A propósito no se imprime la URL para hacerlo a mano: llevaría el
+            # token y acabaría en el historial del navegador.
+            print("     ❌ No se pudo borrar el webhook. Reintenta en un minuto;")
+            print("        si persiste, rota el token con @BotFather (/revoke)")
+            print("        y vuelve a ejecutar este script.")
             return 1
         print("     ✅ Webhook borrado (el bot no lo usa; DEMOCLES lee por getUpdates)")
     else:
