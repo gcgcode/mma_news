@@ -1793,14 +1793,81 @@
    "title_norm": "conclusiones ufc 329 espn deportes",
    "ts": "2026-08-11T10:15:54+00:00",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXJOZlRjMVZueFk3amhiUmNULVVrNFozd19SeTBnTWt2eG9sbFVEUTZ2WVRWTGp1b1ZYR2VCSFM2VjhlZ3RjczhfVV9EczhxRGMwc09zT3dVMmJDUVpkVHFmQmM3VUxHZE9tLUJXVThoaFJYdUxPTXRLN1I5TlZCWjNjZHVjazJ4b1MtQmZPaF9OSnlpaFZPZXBEX2ZlMnZrTlktelJMdkk3Mm11TlFpQTA1UWg0NGhqdV9jZmlGZ3hta1pz?oc=5"
+  },
+  {
+   "key": "c97b2ef1d61a2d24e3b53ce6674afe661aae8fc1",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Inside David Tetreault’s Plan to Turn BKB Into a Global Sports Franchise",
+   "title_key": "892221a939737538873bd16f1a36e1821ab692e8",
+   "title_norm": "inside david tetreault plan turn bkb into global sports franchise",
+   "ts": "2026-08-11T11:08:26+00:00",
+   "url": "https://lowkickmma.com/inside-david-tetreault-bkb-global-sports-franchise"
+  },
+  {
+   "key": "fabbc1eb6aab2061881854b35adf19018591aacc",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ex-UFC star suffers fourth loss in a row after entering fight with 2-point deduction",
+   "title_key": "e6e1ec37eb6044ab4e9e6d3da366751e27153a1c",
+   "title_norm": "ex ufc star suffers fourth loss row after entering fight point deduction",
+   "ts": "2026-08-11T11:08:32+00:00",
+   "url": "https://bloodyelbow.com/2026/08/11/ex-ufc-star-suffers-fourth-loss-in-a-row-after-entering-fight-with-2-point-deduction"
+  },
+  {
+   "key": "bb82d7dbc254c0e31273407eccc059182590e117",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Rizin 54: Kyoma Akimoto beats Kleber Koike Erbst, ‘Patchy’ Mix loses again",
+   "title_key": "2f7264b0f53fce893bafc943ba4d2977e4eaade1",
+   "title_norm": "rizin 54 kyoma akimoto beats kleber koike erbst patchy mix loses again",
+   "ts": "2026-08-11T11:08:36+00:00",
+   "url": "https://sherdog.com/news/news/Rizin-54-Kyoma-Akimoto-beats-Kleber-Koike-Erbst-Patchy-Mix-loses-again-202317"
+  },
+  {
+   "key": "80877b51e341a20b9070f05767fff49486d00d27",
+   "score": 1,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC - ESPN Deportes",
+   "title_key": "287174b9b3894ee9aaa6c47a72d01b8337256fee",
+   "title_norm": "ufc espn deportes",
+   "ts": "2026-08-11T11:08:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOejVwQ1VBeklXc1dXZG5RdHpYd0FTbk93aHJTVGcwSmgtNFdHVDlmYmpuTmQ1T3IwREg1NGlvYnlLV0x6eW9zdGVieUNZUi1uT01RRHVRbVFXLWNkVXowSW14ZWJqSHRUWUJzbmlIMnRZZFA3bmR4Vm5ycmFUQkNsaGhLbFlOb1JDdElBUWd1dXJFSzZfanhDMjBqal9sT1ZyMFd4blVMLXp1NVJoVUxSZENGdkF1M1RYc0duMi1iMUNYY1JUZUFmS3BEaDJuVjA?oc=5"
+  },
+  {
+   "key": "a2509d5417b2879f02f18d179bf02b4a6c8bb88b",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "‘We will make him humble’: Islam Makhachev vows to make Ian Machado Garry ‘respectful’ at UFC 330",
+   "title_key": "0af873f5573de1808bb4e6d8c8d0b6754b483b99",
+   "title_norm": "we will make him humble islam makhachev vows make ian machado garry respectful ufc 330",
+   "ts": "2026-08-11T11:08:42+00:00",
+   "url": "https://bloodyelbow.com/2026/08/10/we-will-make-him-humble-islam-makhachev-vows-to-make-ian-machado-garry-respectful-at-ufc-330"
+  },
+  {
+   "key": "e0ec59de4819231e131ca80a24206139f5f5ec90",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC 330 weigh-ins set to run unique format giving fans an ‘exclusive final look’ ahead of fight night",
+   "title_key": "416ad94fa6560760d5b61816e1004d5bb60caffb",
+   "title_norm": "ufc 330 weigh ins set run unique format giving fans exclusive final look ahead fight night",
+   "ts": "2026-08-11T11:08:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/10/ufc-330-weigh-ins-set-to-run-unique-format-giving-fans-an-exclusive-final-look-ahead-of-fight-night"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
+  "prefiltrados": 1,
   "recogidos": 157,
-  "unicos": 59
+  "unicos": 53
  },
  "telegram_offset": 958387804,
  "version": 1
