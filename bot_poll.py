@@ -118,14 +118,32 @@ def _handle_callback(update: dict) -> None:
 
 
 # --------------------------------------------------------------------------
-def process_updates(state: State) -> int:
-    """Procesa todo lo pendiente. Devuelve el número de updates atendidos."""
-    try:
-        updates = tg.get_updates(state.telegram_offset)
-    except tg.TelegramError as exc:
-        log.warning("No se pudieron leer los updates: %s", exc)
-        return 0
+def process_updates(state: State, *, max_lotes: int = 5) -> int:
+    """Procesa todo lo pendiente. Devuelve el número de updates atendidos.
 
+    Se piden lotes hasta que Telegram devuelve vacío, por dos razones:
+    un lote trae como mucho 100 updates, y sobre todo porque Telegram **sólo
+    da por leído un update cuando vuelves a llamar con un offset mayor**.
+    Guardar el offset en el estado no basta: sin esa llamada final de
+    confirmación, la cola seguía creciendo indefinidamente.
+    """
+    handled = 0
+    for _ in range(max_lotes):
+        try:
+            updates = tg.get_updates(state.telegram_offset)
+        except tg.TelegramError as exc:
+            log.warning("No se pudieron leer los updates: %s", exc)
+            break
+        if not updates:
+            break          # esta llamada ya ha confirmado el lote anterior
+        handled += _procesar_lote(updates, state)
+
+    if handled:
+        log.info("Telegram: %s comandos procesados", handled)
+    return handled
+
+
+def _procesar_lote(updates: list[dict], state: State) -> int:
     handled = 0
     for update in updates:
         state.telegram_offset = int(update["update_id"]) + 1
@@ -186,6 +204,4 @@ def process_updates(state: State) -> int:
         except Exception as exc:  # noqa: BLE001 - un update roto no debe parar el ciclo
             log.exception("Error procesando update %s: %s", update.get("update_id"), exc)
 
-    if handled:
-        log.info("Telegram: %s comandos procesados", handled)
     return handled

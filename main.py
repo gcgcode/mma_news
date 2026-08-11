@@ -67,6 +67,9 @@ def main() -> int:
                         help="llama al modelo pero imprime en consola")
     parser.add_argument("--source", help="filtra por nombre de fuente")
     parser.add_argument("--limit", type=int, help="máximo de noticias a analizar")
+    parser.add_argument("--comandos", action="store_true",
+                        help="atiende sólo los comandos de Telegram y sale "
+                             "(sin fuentes ni LLM): respuesta inmediata")
     parser.add_argument("--config", default="config.yaml")
     args = parser.parse_args()
 
@@ -85,6 +88,29 @@ def main() -> int:
 
     state = State(os.getenv("STATE_FILE", settings.get("archivo_estado", "state/state.json")))
     state.data["stats"] = {}
+
+    # En la nube los comandos se atienden una vez cada ciclo (hasta 20 min de
+    # espera). Para /whoami o /add eso es demasiado: este modo los responde al
+    # instante desde tu equipo sin tocar fuentes ni gastar LLM.
+    if args.comandos:
+        en_cola_antes = len(state.manual_queue)
+        atendidos = bot_poll.process_updates(state)
+        state.save()
+        log.info("Comandos atendidos: %s", atendidos)
+
+        nuevos = len(state.manual_queue) - en_cola_antes
+        if nuevos > 0:
+            # Telegram entrega cada mensaje UNA vez: si lo consumes aquí, el
+            # ciclo de la nube ya no lo verá. El enlace sólo llegará al agente
+            # si subes tu estado.
+            log.warning(
+                "%s enlace(s) de /add han quedado en TU estado local. Súbelos o "
+                "se perderán:  git add state/state.json && git commit -m cola && git push",
+                nuevos,
+            )
+        elif not atendidos:
+            log.info("Nada pendiente. Escribe al bot y vuelve a lanzarlo.")
+        return 0
 
     # 1) Comandos de Telegram (/add, botones). Antes de recoger, para que la
     #    cola manual entre en este mismo ciclo.

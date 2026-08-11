@@ -712,6 +712,29 @@ Y en tu `.env` local, lo mismo, para que las pruebas se comporten igual.
 El cambio entra en el siguiente ciclo. No hace falta tocar código ni volver a
 desplegar.
 
+#### El bot tarda hasta 20 minutos en contestar
+
+En la nube los comandos se atienden **una vez por ciclo**. Si escribes `/whoami`
+y no pasa nada, casi siempre es eso: está esperando al siguiente ciclo.
+
+Para respuesta inmediata, atiéndelos tú desde el ordenador:
+
+```powershell
+python main.py --comandos
+```
+
+Sólo lee Telegram y responde. No consulta fuentes ni gasta LLM, así que tarda
+un segundo.
+
+> ⚠️ **Ojo con `/add` en este modo.** Telegram entrega cada mensaje una sola
+> vez: si lo consumes aquí, el ciclo de la nube ya no lo verá. Los enlaces
+> quedan en **tu** estado local y sólo llegarán al agente si los subes:
+> ```powershell
+> git add state/state.json ; git commit -m "cola manual" ; git push
+> ```
+> El comando te avisa en pantalla cuando esto ocurre. Para `/whoami` y
+> `/status` no hay problema, porque no dejan nada pendiente.
+
 #### Qué pasa si alguien bloquea el bot
 
 Nada grave: el sistema entrega a los demás y deja un aviso en el registro
@@ -893,6 +916,37 @@ Es un problema de tu Python, no del proyecto (un `pyreadline` antiguo). Usa:
 ```powershell
 python -m pytest tests -q -p no:capture
 ```
+
+---
+
+## 11 bis. Seguridad del token
+
+El `TELEGRAM_BOT_TOKEN` es la credencial **completa** del bot. Quien lo tenga
+puede leer todo lo que le escriban, publicar en tu grupo haciéndose pasar por él
+y vaciarte la cola de mensajes.
+
+**Nunca lo pegues** en un chat, una captura, un issue ni un mensaje de soporte.
+Eso incluye las URLs de la API, porque **llevan el token dentro de la ruta**:
+
+```
+https://api.telegram.org/bot<AQUÍ_VA_TU_TOKEN>/getUpdates
+```
+
+Compartir ese enlace es compartir la contraseña. En sí, el endpoint no es
+público: sin token responde 404. El riesgo no es que exista, es enseñarlo.
+
+**Si se te escapa, rótalo. Son dos minutos:**
+
+1. `@BotFather` → `/revoke` → elige tu bot. El token viejo muere al instante.
+2. Actualiza `TELEGRAM_BOT_TOKEN` en tu `.env`.
+3. Actualiza el Secret `TELEGRAM_BOT_TOKEN` en GitHub.
+4. Comprueba: `python doctor.py --enviar`
+
+No pierdes nada: el bot conserva su nombre de usuario, el grupo, los miembros y
+todos los IDs. Sólo cambia la credencial.
+
+> El `.env` está protegido por `.gitignore` y nunca se sube al repositorio.
+> El riesgo real es humano: copiar y pegar.
 
 ---
 
