@@ -2123,15 +2123,92 @@
    "title_norm": "ufc 322 had one my favorite press conferences first time crowd rooting islam you could tell surprised crowd would be even crazier ufc 330",
    "ts": "2026-08-11T14:42:09+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vkw3gm/ufc_322_had_one_of_my_favorite_press_conferences"
+  },
+  {
+   "key": "47167a4af36d33ddc8c84ce4942851472245e0e0",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Would the Jon Jones fights have gone differently if DC was built like this?",
+   "title_key": "bfae1d08999dd6a69f735982aa3989ea915b48b1",
+   "title_norm": "would jon jones fights have gone differently if dc built like this",
+   "ts": "2026-08-11T15:38:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vli62t/would_the_jon_jones_fights_have_gone_differently"
+  },
+  {
+   "key": "9c66879e4b4409fc4298358acdf2f84218c1cb8b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Talbott is back boys",
+   "title_key": "09a20d24f7136fead2399675a0b4e42094ca3f56",
+   "title_norm": "talbott back boys",
+   "ts": "2026-08-11T15:38:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vljt01/talbott_is_back_boys"
+  },
+  {
+   "key": "5001b01dafffbb2447babecaf1455786b6ade595",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Payton Talbott targeted to fight former UFC champion at UFC 332",
+   "title_key": "09af4f4b2778c15aeb06efe45a1f79b1dc94304f",
+   "title_norm": "payton talbott targeted fight former ufc champion ufc 332",
+   "ts": "2026-08-11T15:38:45+00:00",
+   "url": "https://mmafighting.com/ufc/504291/payton-talbott-targeted-to-fight-former-ufc-champion-at-ufc-332"
+  },
+  {
+   "key": "41cb4c7b2e8ae31b53f704d91d916468746959a6",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Former UFC title challenger books return fight after over two years away from the Octagon",
+   "title_key": "5bf17d9579a858fb45d5060fdd145bedcc9cbbde",
+   "title_norm": "former ufc title challenger books return fight after over two years away octagon",
+   "ts": "2026-08-11T15:38:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/11/former-ufc-title-challenger-books-return-fight-after-over-two-years-away-from-the-octagon"
+  },
+  {
+   "key": "06784132af86537e94f07c9aa58812ae01a65d00",
+   "score": 4,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Apuestas Makhachev vs Ian Garry UFC 330",
+   "title_key": "b785e07769758f86c9eb09ded3aff4796d95fd61",
+   "title_norm": "apuestas makhachev vs ian garry ufc 330",
+   "ts": "2026-08-11T15:38:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMYWdES1AyQjl1LUQ4ZWdoSlNLc3ppNHNybGI5dDRVVDJ1S1oyWXFOTEtER0tjTlB6ZllqdFVUYnAtVDlZdkhzc0gwbThicjlSQmM1bHlGN1RJTXM?oc=5"
+  },
+  {
+   "key": "71d6c0e4bacff490a4ee2b21feaabe48f740e719",
+   "score": 6,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC: Los latinos de habla hispana en Contender Series 2026",
+   "title_key": "5dee86fd0892973cd7e6275dc674cfc90d5c2814",
+   "title_norm": "ufc latinos habla hispana contender series 2026",
+   "ts": "2026-08-11T15:38:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDlDc1U3RWhrTGxnekVPSkMwLS15TVY4MUhmV2dSZE1MZUM5VktsczN6TFdzTk9JeldUOHRXQWNQTl9fdC1RZVo5WW5mSGkzeF9WTFljVGZZUklnNElNbV9xSkNQa1pyVnlNSlJtVnZoRWFQTm1iRHBLbmFFdnlTQm9GaUU1aTJkLUlsOG5wZV9IdEVPcW1YN2R0bUd1YnRQZUszbXlQbzNEV1FQSnhMVWlfLTFKbUhESll1Q3JqU21iQQ?oc=5"
+  },
+  {
+   "key": "788ee55f22077e1da2ec804938b12991dab89f4e",
+   "score": 7,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Khabib Says Pro-Palestine Stance Cost Fighters Sponsors and Contracts",
+   "title_key": "9eea99a2c1317c394c812c076b39c507c0a2d162",
+   "title_norm": "khabib says pro palestine stance cost fighters sponsors contracts",
+   "ts": "2026-08-11T15:38:58+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vkl9j9/khabib_says_propalestine_stance_cost_fighters"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
-  "recogidos": 176,
-  "unicos": 57
+  "prefiltrados": 2,
+  "recogidos": 178,
+  "unicos": 56
  },
  "telegram_offset": 958387804,
  "version": 1
