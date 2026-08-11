@@ -946,16 +946,82 @@
    "title_norm": "ufc 330 embedded vlog series episode",
    "ts": "2026-08-10T23:54:04+00:00",
    "url": "https://reddit.com/r/MMA/comments/1vko2vj/ufc_330_embedded_vlog_series_episode_1"
+  },
+  {
+   "key": "b9f204ac407789fb8ced3b3faa2e0311dcb8f3b0",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Quillan Salkilld: A La Caza Del Top 5",
+   "title_key": "fcdf34b69ad0e5dca393253414f4299ec2e9c145",
+   "title_norm": "quillan salkilld caza top",
+   "ts": "2026-08-11T00:29:26+00:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcU0tSEpBaUdaQ01UU2RReHRZa21ubjdobkhJXzJ6OEg2b2E0eEN0WUlRZmI5cFhEWDdodU90WlVTRldiTUlzR1BWeWpiek8yTUxZbThCSHpCYTF2Y3dKRTNHWW1iSkZieEJ4OW1nenJSMlZm?oc=5"
+  },
+  {
+   "key": "bb4d9f92fe331964379f8b2ba6a114aa8c6b08bb",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 330 main card announced",
+   "title_key": "3f7fe48aa5a37623837319e6a1a2bd90b9f3607e",
+   "title_norm": "ufc 330 main card announced",
+   "ts": "2026-08-11T00:29:34+00:00",
+   "url": "https://mmafighting.com/ufc/504135/ufc-330-main-card-announced"
+  },
+  {
+   "key": "e750e333e3886239993c36772054a1d4fcfe8356",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Carlos Prates: Ian Machado Garry upsets Islam Makhachev at UFC 330",
+   "title_key": "8fdd62b64f2eb9526ca2acf0debb37f0bbd95064",
+   "title_norm": "carlos prates ian machado garry upsets islam makhachev ufc 330",
+   "ts": "2026-08-11T00:29:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZnR2cHI5dkJTOHVJR24zdk0xRFhMWnFISzljbUMtTFNVRExjVWtCeVA2VFRVbFZaRVp3ZGpMaG95dnpaZENaWFpFcC1NakZfQ2lheVFlNGpLeXJRcFEwMDhuMU5BRjNlS2lIeTdJOEEtN1RubXZpVjBLVzdIYTZRaENZN2Q1ZlVZdVNKUVBHei1KQmExdHFrdEJTdjBzaG5tREpLa1Azd0k5bDBtZDVHWHdrYnZFNzZkU0d4dy00VU9zTE8yS1pubU1RZVhlNDJwZUtDcWVYS2RsQ1NYSFQ1ZTVYZFYxeVdpWjQ1b0hrVUd6dnBBS2xqTnFjdEo?oc=5"
+  },
+  {
+   "key": "1a55fcf9f4b0a59ae23c65d3009c4d6e7039a041",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Ian Machado Garry explains why he puts Islam Makhachev on a ‘pedestal’ ahead of UFC 330 showdown",
+   "title_key": "f09d55c6f60edd50ca68d584b2807e5b78a669c8",
+   "title_norm": "ian machado garry explains why puts islam makhachev pedestal ahead ufc 330 showdown",
+   "ts": "2026-08-11T00:29:43+00:00",
+   "url": "https://mmafighting.com/ufc/504075/ian-machado-garry-explains-why-he-puts-islam-makhachev-on-a-pedestal-ahead-of-ufc-330-showdown"
+  },
+  {
+   "key": "108f489a7b70ed782c119a2129512ae07565cfb6",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Patchy Mix misses weight by staggering amount at RIZIN 54 weigh-ins",
+   "title_key": "55315fc64c4a8482271e1e0a6479e736aaba8366",
+   "title_norm": "patchy mix misses weight staggering amount rizin 54 weigh ins",
+   "ts": "2026-08-11T00:29:46+00:00",
+   "url": "https://mmafighting.com/rizin/504093/patchy-mix-misses-weight-by-staggering-amount-at-rizin-54-weigh-ins"
+  },
+  {
+   "key": "8ce68a6409a5aad3a670636b9f9a8727780042ac",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "42-year-old Diego Ferreira inspired by Glover Teixeira's late-career UFC title run",
+   "title_key": "4ce41807d75830dcdfdafafd636582a686d2f0e7",
+   "title_norm": "42 year old diego ferreira inspired glover teixeira late career ufc title run",
+   "ts": "2026-08-11T00:29:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2xTblZMMXN5TWZ6cGV6UFItQjNvbG5oWk56cXV5N2pQX2J1a3dZUDhwWkkxZVd6OFpIcFBXb2hvTzVXMzJNZ0RFQlN6X3hSby1pbm92dTd1NFlBS0h2aUx2eGowNlcySVhyZml5Tlp4RG56LTBmYWlacHN1eXlvVjR5NVlhNXBreF9VUEtkM2tDd2xIVzZYMF9tSGllQmV1R2VsVTdUT1dwdF9HUlltbEp0MlYtdzlkajB0MVp2dHIxOHVTOVNCRlFERlNKQTdBb3o5RklhVnQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 1,
+  "enviados": 4,
   "llamadas_llm": 5,
-  "prefiltrados": 14,
-  "recogidos": 202,
-  "unicos": 112
+  "prefiltrados": 1,
+  "recogidos": 158,
+  "unicos": 82
  },
- "telegram_offset": 958387786,
+ "telegram_offset": 958387799,
  "version": 1
 }
