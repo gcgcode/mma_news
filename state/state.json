@@ -3674,15 +3674,92 @@
    "title_norm": "dana white backs bella mir ufc olympics boxing ambitions",
    "ts": "2026-08-12T08:14:31+00:00",
    "url": "https://sherdog.com/news/news/Dana-White-backs-Bella-Mirs-UFC-Olympics-and-boxing-ambitions-202332"
+  },
+  {
+   "key": "6ffb89126b58ae08613e01853c4356a5cfdeb704",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "¿México podría dejar Concacaf para jugar en Conmebol?",
+   "title_key": "1c129d47ae3d8afa8b17b8e7055321621e7ac2fa",
+   "title_norm": "mexico podria dejar concacaf jugar conmebol",
+   "ts": "2026-08-12T09:34:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3pmeFBEaEhLM1JOYXZQMXh2SlRsVWtDM09DU2pweXdHZldxLXpBcURuN3ByWktpbzJ3ak9Bd3M4VGVrZkpZYTdwS2JGdU5kVEhBOHVvWktpTEFTLXNrcFJDOG1pMUExSk4yWWhINEtCeGtfTFBISFlOd2JlWUZCWXNyb3ZucjNCdjU3eEo0VWtrNGNWaXZwOWJjM3lYSk5fTWNVT3pqZEV3X1ZzMG9nd3ZnNE5Ybm1hQzJkM2Q5X3NWZnFBeHdvTEtJZjlkV05JQ3fSAeYBQVVfeXFMT2VJMGpkWF9hekpvQk1vb1Q4dmZVczh5bVl6MlpCTkx3X0xWMVUzSUtsWUlvSi1Ka3dMNE5uQ2NoT0gxRUdGbFJsMmc2dFBHdnV0RnJjLXBnUU1GT2FsZUZRN1U3eExOMVRfeUVZTXB0T3VDdHFQWTNVamxBMEZnN3RpUXlNakpsOFlfcTdOcmN0ZHNYZ0pkWWctNGkwOXJkS0dWYWN5aGxVaW91UlVqbnhrYkdkQ1FkS1dWR29pWUs0ZElacTJPb3Jta0hlNHR6X2pyVDI3eDB0ZWs0SEMxRVZJYlV1QVE?oc=5"
+  },
+  {
+   "key": "f750ead121f96fdbb62778d4c63ff8db259e16d4",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Caitlin Clark Top Points vs. New York Liberty",
+   "title_key": "01dfce5f9341a70d49932ca0a32753e6665b5d00",
+   "title_norm": "caitlin clark top points vs new york liberty",
+   "ts": "2026-08-12T09:34:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52M3Jjb0h3REt6U1NLR2xDbWoydndsRndXekRaaTlXSzliZGowTTYxVWVTTU1MWF9pZ2ZKQ3IxeURaZ2FTdlVsbGVEMGhmWDJWQVJ0dHYwSGZFNnlCU3B3dGdzRktTSGlqbl83NG1kcEFBUmdIbTRWTkwxR3gxX2c?oc=5"
+  },
+  {
+   "key": "a806fe7a1feaac6ca9260dda943719890985e313",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Jamahal Hill wants Josh Hokit for UFC heavyweight debut",
+   "title_key": "a58bcf91b3e37c22b39f2715fcea7d691eb0085d",
+   "title_norm": "jamahal hill wants josh hokit ufc heavyweight debut",
+   "ts": "2026-08-12T09:34:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHNsa05XR0VRdWg5REN2WkhRSmhmRm1ObWc4U05yd0VfZWpzU0FsNDF6YVlDQU1IUFJUU1BkQjFjeXZDVExoMUNBRXR1bHFxd2JEZnN2ODdjX01sOXRJV3dCRWtWb1BlRk5BbnZBRXdzVHh3WDJHVi1EUWYyYWZxekhEWURqNjRiYmp5eHhtMzlwMmlfVnQyUFhyZWRzOU1ibExXSWVldEV6WEhxcEFzQzRJTkl1amM5YXd4Tk5jZWhwb3M?oc=5"
+  },
+  {
+   "key": "e9522d65c1c6390a16517638485f8a106b27ac92",
+   "score": 8,
+   "sent": true,
+   "source": "Marca — UFC/MMA",
+   "title": "Makhachev, sobre Topuria: \"Si se centra, puede ser campeón otra vez\"",
+   "title_key": "c75f70f8266e2977516c863cc25e1969b88167cd",
+   "title_norm": "makhachev sobre topuria si centra puede ser campeon otra vez",
+   "ts": "2026-08-12T09:35:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3I4dnlHTEIxdkJqazZBRVFlQnRFd24yYWVWT3FiVDJPSlN5WVBjX0hhUndkazlqY05VN2RFSWFOeGRpb0trSVlzZnZjLWFPbFNVNUVpVjd1WEFJdGttelN4OTlXU2Z6TjJBMDhQSXdkdGppQVVxd3lzcEQydFdyeE84YmlOdU1CckczWG85Mmlic3hrMUdwbNIBmAFBVV95cUxQcGJObTlIblNCVmhKektoRVBUcHIySHJkZnFZZGFXQlJ5bXhiX2JNVmtNWlZaOXVHYmtCdDR6S0czTEFZR0xWcXF0WVFSS1k4QTBDNEtvdmk2Uk1ldUFRWDZ5dGs1LVNSNm1sbEN5MTd1TDZDaURlT0J2STNrZEhEMjBSd2dNTjVpb1EzVHNUM2ZGWV9PTFB3OQ?oc=5"
+  },
+  {
+   "key": "f223184b006ba0f8b8bd90aa719406782cfa77ef",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Jamahal Hill targeting undefeated Josh Hokit in heavyweight move",
+   "title_key": "6b7486695080a7aff1fb53bfef1b0d4625bdfeb3",
+   "title_norm": "jamahal hill targeting undefeated josh hokit heavyweight move",
+   "ts": "2026-08-12T09:35:12+00:00",
+   "url": "https://sherdog.com/news/news/Jamahal-Hill-targeting-undefeated-Josh-Hokit-in-heavyweight-move-202333"
+  },
+  {
+   "key": "b791442c0368bd1654dc919ef9c556dd6f70d397",
+   "score": 9,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Ian Garry reveals what drives him ahead of UFC 330 title fight against Islam Makhachev",
+   "title_key": "dc9c00ef3c0f52ac520553c0022a933176be23d5",
+   "title_norm": "ian garry reveals what drives him ahead ufc 330 title fight against islam makhachev",
+   "ts": "2026-08-12T09:35:19+00:00",
+   "url": "https://sherdog.com/news/news/Ian-Garry-reveals-what-drives-him-ahead-of-UFC-330-title-fight-against-Islam-Makhachev-202331"
+  },
+  {
+   "key": "eca634f7587ca4c5bd5a8e9b8cfeec3d05998cbc",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Islam Makhachev reels in shark ahead of UFC 330 title fight",
+   "title_key": "47115c88f7ef28c1aa74f615b67db4ed19e2356a",
+   "title_norm": "islam makhachev reels shark ahead ufc 330 title fight",
+   "ts": "2026-08-12T09:35:22+00:00",
+   "url": "https://sherdog.com/news/news/Islam-Makhachev-reels-in-shark-ahead-of-UFC-330-title-fight-202330"
   }
  ],
  "stats": {
   "descartados": 3,
-  "enviados": 1,
-  "llamadas_llm": 4,
-  "prefiltrados": 4,
+  "enviados": 2,
+  "llamadas_llm": 5,
+  "prefiltrados": 2,
   "recogidos": 187,
-  "unicos": 54
+  "unicos": 52
  },
  "telegram_offset": 958387804,
  "version": 1
