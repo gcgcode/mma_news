@@ -3751,15 +3751,69 @@
    "title_norm": "islam makhachev reels shark ahead ufc 330 title fight",
    "ts": "2026-08-12T09:35:22+00:00",
    "url": "https://sherdog.com/news/news/Islam-Makhachev-reels-in-shark-ahead-of-UFC-330-title-fight-202330"
+  },
+  {
+   "key": "5a86700d1ed99d837c452ec4da94829479a0d72f",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Myktybek Orolbai enters UFC 330 with 'future champion' mindset, dreams of Kyrgyzstan card",
+   "title_key": "a57b1d7ed30e1b81d5b70f4099828c8925da3452",
+   "title_norm": "myktybek orolbai enters ufc 330 future champion mindset dreams kyrgyzstan card",
+   "ts": "2026-08-12T10:41:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZkIxNXprS2piWjJDbmVzSVNILWJhMWM5TzF1a0NlMkhlblBrX0I4RmYxd295RWc4RTZhNFgzNnE0U1BMbWxWU3ZmaVpEbF9wR2JqaEt3UGEtbkU2ZWpGVEE0Y1p4MnlMNmk0c2FZRTR5RHBBcm5UQ25fc0JsamhyaTBuTHE4TzVGVlFQSFd2TnJlOXV2b1JJcGJhajhrTXpRMlhMVG5meXhlbTN6RHgxVlFRSmppZVc4M1lGWVJ2VlhEcHBnc1lJaUFR?oc=5"
+  },
+  {
+   "key": "40deea808caa6c0752036a85dcbad08be171d101",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "HOW IT FEELS TO GRADUALLY LOSE INTEREST IN UFC",
+   "title_key": "2e7fc8cb9ad94dcbf56d8449ea2aa9013d20c49a",
+   "title_norm": "how feels gradually lose interest ufc",
+   "ts": "2026-08-12T10:42:05+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vm52hw/how_it_feels_to_gradually_lose_interest_in_ufc"
+  },
+  {
+   "key": "2d04076a0c87dc913c8bd0cbaea9da24a99c8247",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Dana White, Craig Borsari working on next unique UFC venue",
+   "title_key": "1d2b4b8791c7c31dfd9b193a8db260177c9d9130",
+   "title_norm": "dana white craig borsari working next unique ufc venue",
+   "ts": "2026-08-12T10:42:56+00:00",
+   "url": "https://sherdog.com/news/news/Dana-White-Craig-Borsari-working-on-next-unique-UFC-venue-202329"
+  },
+  {
+   "key": "1765343a5fd4d04904201f3329b45640e51600e1",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "the ufc should allow atleast 10 mins of the press conference to be fan questions, fans will always ask better questions than \"what would a win mean to you\"",
+   "title_key": "a825c198ee56030368daac53b2556f23ac5f68b0",
+   "title_norm": "ufc should allow atleast 10 mins press conference be fan questions fans will always ask better questions than what would win mean you",
+   "ts": "2026-08-12T10:43:00+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vm3xgy/the_ufc_should_allow_atleast_10_mins_of_the_press"
+  },
+  {
+   "key": "e8ee243beb058402b870f412ace57819afa51537",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Umar Nurmagomedov reacts after Merab Dvalishvili slaps his friend in street altercation",
+   "title_key": "b6351cc7aecaeda79202abb8ea641c5e0825589a",
+   "title_norm": "umar nurmagomedov reacts after merab dvalishvili slaps friend street altercation",
+   "ts": "2026-08-12T10:43:22+00:00",
+   "url": "https://bloodyelbow.com/2026/08/11/umar-nurmagomedov-reacts-after-merab-dvalishvili-slaps-his-friend-in-street-altercation"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
   "recogidos": 187,
-  "unicos": 52
+  "unicos": 47
  },
  "telegram_offset": 958387804,
  "version": 1
