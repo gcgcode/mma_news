@@ -4499,15 +4499,92 @@
    "title_norm": "payton talbott takes former ufc champ ufc 332",
    "ts": "2026-08-12T19:30:53+00:00",
    "url": "https://sherdog.com/news/news/Report-Payton-Talbott-takes-on-former-UFC-champ-at-UFC-332-202325"
+  },
+  {
+   "key": "4d2b5b699442cd5b661f578eac66fd0b24a2e0bb",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Zubaira Tukhugov says Islam Makhachev \"Asks His Wife for Permission\"",
+   "title_key": "15fad1cc6cdb8c838c9b842f1347403914d7e69c",
+   "title_norm": "zubaira tukhugov says islam makhachev asks wife permission",
+   "ts": "2026-08-12T20:20:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vmkme9/zubaira_tukhugov_says_islam_makhachev_asks_his"
+  },
+  {
+   "key": "ee8d237433a4ebd4ab031cf83315ab68879ded06",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Eduardo Chapolin",
+   "title_key": "9f75121845c691499b22c827eaaa3f091e42cda9",
+   "title_norm": "eduardo chapolin",
+   "ts": "2026-08-12T20:20:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oWTQwUHo4Ti1ZRmtBcUxFem5EWEpsTmtjTEtBa2doR0hOWjZoUnNqS21KNHhSVUFGdVRrY3NVbzA5VENJbklTQlJlSU5wYzFkWXRnZWVETF90WWd6Q25rZg?oc=5"
+  },
+  {
+   "key": "d121cef3d92ac22eaed7e4c890c5f8a877581532",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Islam Makhachev scoffs at Ian Machado Garry being his toughest opponent to date at UFC 330: ‘It’s not going to be my biggest challenge’",
+   "title_key": "ae4b6993d5e77a9df6deec5766c0c17d708aa323",
+   "title_norm": "islam makhachev scoffs ian machado garry being toughest opponent date ufc 330 not going be my biggest challenge",
+   "ts": "2026-08-12T20:20:58+00:00",
+   "url": "https://mmafighting.com/ufc/504552/islam-makhachev-scoffs-at-ian-machado-garry-being-his-toughest-opponent-to-date-at-ufc-330-its-not-going-to-be-my-biggest-challenge"
+  },
+  {
+   "key": "677f0d0901dcd6c40eb192d6e090d126d85c6bb9",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Gauge Young vs Stan Dorsainvil set for UFC Sacramento on August 22nd.",
+   "title_key": "19ea3834c353a6ff10fa866d4800b7f03dc7b6b8",
+   "title_norm": "gauge young vs stan dorsainvil set ufc sacramento august 22nd",
+   "ts": "2026-08-12T20:21:02+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vmngje/gauge_young_vs_stan_dorsainvil_set_for_ufc"
+  },
+  {
+   "key": "932a88d68698802ba571d68778ee6c167ae93a6c",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Diego Lopes indicates a fight is lined up for his Lightweight debut",
+   "title_key": "b2f7fec1d0a7567f6d67dfd8e6570896c4f1df40",
+   "title_norm": "diego lopes indicates fight lined up lightweight debut",
+   "ts": "2026-08-12T20:21:03+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vmknxe/diego_lopes_indicates_a_fight_is_lined_up_for_his"
+  },
+  {
+   "key": "918751c6920d0707a08a5982f44d706b928425bb",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC Fight Night Opening Odds: Roman Dolidze (+285) Reinier de Ridder (-350)",
+   "title_key": "8fda3e860ff1610c0cb3e7b2c87f634eadd3b2b6",
+   "title_norm": "ufc fight night opening odds roman dolidze 285 reinier ridder 350",
+   "ts": "2026-08-12T20:21:04+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vmkjzv/ufc_fight_night_opening_odds_roman_dolidze_285"
+  },
+  {
+   "key": "bbefc18f929e3651c4f96d31e1735c4c919f2ae5",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Patchy Mix loses big on scale at RIZIN 54 weigh-ins",
+   "title_key": "906d5fc54cb468760358a34bd6867f10fcb2f181",
+   "title_norm": "patchy mix loses big scale rizin 54 weigh ins",
+   "ts": "2026-08-12T20:21:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFFFdUxsSlp4MU9nbmRPOV9tZ29WOFJqWkFRak5RQlZYR1V4bnVibVkwX1FHZWtkVlNwRFkyYUhONndmUjJlVEVmcmNJampJTUZQNTluUWhzRWpLRnBhbTFfMHRhTmtQM1dKMFp5Z0ZfVTN2WnNaWjNreEdEOUhvbDFzR3BfNURhYW1GODE5X0cxLTlpTmZ5Q0dNZmdibnNwM0YxS1lGbVUtUFMyZy1vUlR3?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
-  "recogidos": 183,
-  "unicos": 42
+  "prefiltrados": 2,
+  "recogidos": 207,
+  "unicos": 41
  },
  "telegram_offset": 958387804,
  "version": 1
