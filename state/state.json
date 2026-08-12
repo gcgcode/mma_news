@@ -3872,15 +3872,103 @@
    "title_norm": "darren till vs yoel romero track break bkfc records thousands buy tickets early sales",
    "ts": "2026-08-12T11:30:44+00:00",
    "url": "https://bloodyelbow.com/2026/08/11/darren-till-vs-yoel-romero-on-track-to-break-bkfc-records-as-thousands-buy-tickets-in-early-sales"
+  },
+  {
+   "key": "193e3a6d3cdd4bd78d156df2f8b3a812c38b06db",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "That's a legit question",
+   "title_key": "c4b26c051664300111b15f4be84ef66d550f5535",
+   "title_norm": "that legit question",
+   "ts": "2026-08-12T12:29:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vmafio/thats_a_legit_question"
+  },
+  {
+   "key": "34a796e912ff2dfb08031c26399fb3245799b32c",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam learns a new word",
+   "title_key": "9f5c9c68bfb5eff42c2dd00039b311b496cf5d1a",
+   "title_norm": "islam learns new word",
+   "ts": "2026-08-12T12:29:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vmbi7r/islam_learns_a_new_word"
+  },
+  {
+   "key": "243a126b34b9412c87213739ce5dc94afa71a139",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Sharing some stickers I made",
+   "title_key": "34186340d5c3a4431f2a93e65feb9832112b4019",
+   "title_norm": "sharing some stickers made",
+   "ts": "2026-08-12T12:29:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vmcejg/sharing_some_stickers_i_made"
+  },
+  {
+   "key": "3ba4592d53550decdd426ffd8a55f5a3f5204fd1",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "17 title challengers have arrived on 4+ straight decisions. Only 4 won. Nobody but Petr Yan ever did it on 6+, which is exactly what Ian Machado Garry brings to",
+   "title_key": "267b8c4f737051d858e755c3b4c5ef2ec7d7c2f3",
+   "title_norm": "17 title challengers have arrived straight decisions only won nobody but petr yan ever did which exactly what ian machado garry brings ufc 330",
+   "ts": "2026-08-12T12:29:41+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vmcnn5/17_title_challengers_have_arrived_on_4_straight"
+  },
+  {
+   "key": "50945eb9a8d7c86f4e1461533384a58ac65e4660",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Morning Report: Joe Rogan reveals what he considers ‘the most bullsh*t part of the UFC’",
+   "title_key": "5dd6d151146013e02e627236d235fb052e2f58dc",
+   "title_norm": "morning report joe rogan reveals what considers most bullsh part ufc",
+   "ts": "2026-08-12T12:29:42+00:00",
+   "url": "https://mmafighting.com/ufc/504286/morning-report-joe-rogan-reveals-what-he-considers-the-most-bullsht-part-of-the-ufc"
+  },
+  {
+   "key": "4901d5e50bbf4b7210241bdb6893e95143c17f49",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Gina Carano put up a solid effort against Cyborg considering the beast she was facing",
+   "title_key": "247e868bb0dbd5128ef990d969617cac88bc534f",
+   "title_norm": "gina carano put up solid effort against cyborg considering beast facing",
+   "ts": "2026-08-12T12:29:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vlcfg4/gina_carano_put_up_a_solid_effort_against_cyborg"
+  },
+  {
+   "key": "d35dd925b67b462745a65ed729cdcd74f3592b84",
+   "score": 10,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "‘It’s all fake’… Ian Machado Garry believes UFC fans love him despite online hate",
+   "title_key": "cf0fe49823e19108b530b77b3be5c296d375fd46",
+   "title_norm": "all fake ian machado garry believes ufc fans love him despite online hate",
+   "ts": "2026-08-12T12:29:45+00:00",
+   "url": "https://bloodyelbow.com/2026/08/12/its-all-fake-ian-machado-garry-believes-ufc-fans-love-him-despite-online-hate"
+  },
+  {
+   "key": "8a1cecb59b0c3e4329944dfc21fe140bab504fcd",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Can you guess this UFC fighter? Difficulty level - Easy",
+   "title_key": "fc50b4f1399901598ac5c78955f7517b663462ac",
+   "title_norm": "can you guess this ufc fighter difficulty level easy",
+   "ts": "2026-08-12T12:29:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vmbr0h/can_you_guess_this_ufc_fighter_difficulty_level"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 166,
-  "unicos": 43
+  "prefiltrados": 3,
+  "recogidos": 211,
+  "unicos": 45
  },
  "telegram_offset": 958387804,
  "version": 1
