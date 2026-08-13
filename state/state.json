@@ -6336,15 +6336,81 @@
    "title_norm": "islam makhachev details plans final ufc fight location put gloves down",
    "ts": "2026-08-13T21:10:03+00:00",
    "url": "https://bloodyelbow.com/2026/08/13/islam-makhachev-details-plans-for-his-final-ufc-fight-with-location-to-put-his-gloves-down"
+  },
+  {
+   "key": "33c37b7b7b8d977f78114221d7ede6e73c3c87d7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "DC is mad at Khabib",
+   "title_key": "bdb3aa370e880ec6e42cccc48fbdc0c22de28ee6",
+   "title_norm": "dc mad khabib",
+   "ts": "2026-08-13T22:06:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vnnhe8/dc_is_mad_at_khabib"
+  },
+  {
+   "key": "ff9f2c937660c2acdecf4684b34d4d2d48ea233d",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Joe Rogan had UFC 330 star down as a potential world champion before upset loss: ‘He got beat up’",
+   "title_key": "3507fcbe050314bd4fdec7c07a3cd6f7ecc52617",
+   "title_norm": "joe rogan had ufc 330 star down potential world champion before upset loss got beat up",
+   "ts": "2026-08-13T22:06:40+00:00",
+   "url": "https://bloodyelbow.com/2026/08/13/joe-rogan-had-ufc-330-star-down-as-a-potential-world-champion-before-upset-loss-he-got-beat-up"
+  },
+  {
+   "key": "41233259d0a173e1cf0eaa803b837407f3843bb1",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Darren Till appears to knock out bare-knuckle boxer in wild street fight footage",
+   "title_key": "b273c4f16cb78f1205ba2b267b0973771a0a453c",
+   "title_norm": "darren till appears knock out bare knuckle boxer wild street fight footage",
+   "ts": "2026-08-13T22:06:41+00:00",
+   "url": "https://bloodyelbow.com/2026/08/13/watch-darren-till-knock-out-bare-knuckle-boxer-in-wild-street-fight-footage"
+  },
+  {
+   "key": "59ae1558ca69ace96ab7d9dc3a309c19ae69ebd7",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Conor McGregor gives UFC 330 Makhachev vs. Machado Garry prediction: ‘He still has things to prove’",
+   "title_key": "28562b8ee2d18593a747a96c015151b44fed8fa1",
+   "title_norm": "conor mcgregor gives ufc 330 makhachev vs machado garry prediction still has things prove",
+   "ts": "2026-08-13T22:06:43+00:00",
+   "url": "https://bloodyelbow.com/2026/08/13/conor-mcgregor-gives-ufc-330-makhachev-vs-machado-garry-prediction-he-still-has-things-to-prove"
+  },
+  {
+   "key": "3c361ca6fcc65f9040b731376ec45fce2f415c17",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ian Machado Garry to ditch signature purple shorts for UFC 330 title fight",
+   "title_key": "dabbbf59e3e2cae85daa32f82c4a7f231c4cc2ce",
+   "title_norm": "ian machado garry ditch signature purple shorts ufc 330 title fight",
+   "ts": "2026-08-13T22:06:44+00:00",
+   "url": "https://bloodyelbow.com/2026/08/13/ian-machado-garry-to-ditch-signature-purple-shorts-for-ufc-330-title-fight"
+  },
+  {
+   "key": "bfa7b9aa2c2541112b3e0ec5fe2c05289a5fac04",
+   "score": 7,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Diego Lopes confirms that he’s moving up to lightweight, and is in “advanced talks” about the next opponent: We’re hoping we can get it finalized this week. I w",
+   "title_key": "c78985b09934f7ee1f00018b50c3bfc5cf9727fc",
+   "title_norm": "diego lopes confirms that moving up lightweight advanced talks about next opponent we re hoping we can get finalized this week want fight november msg think that good date me also gives me enough time adapt my weight little more",
+   "ts": "2026-08-13T22:06:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vnmctr/diego_lopes_confirms_that_hes_moving_up_to"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 203,
-  "unicos": 42
+  "prefiltrados": 1,
+  "recogidos": 178,
+  "unicos": 41
  },
  "telegram_offset": 958387804,
  "version": 1
