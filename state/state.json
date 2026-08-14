@@ -7238,15 +7238,92 @@
    "title_norm": "alberto blas defends bkb super featherweight title against brandon birr miami",
    "ts": "2026-08-14T12:01:26+00:00",
    "url": "https://lowkickmma.com/alberto-blas-defend-bkb-title-vs-brandon-birr-miami"
+  },
+  {
+   "key": "da676bc767b1342190c0aabefbe81a71df44055a",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Prichard Colón has passed away — the former boxer suffered significant brain damage after back of the head shots in 2015",
+   "title_key": "3b0b35cec1974eaf451d9f9862c740a57f46c097",
+   "title_norm": "prichard colon has passed away former boxer suffered significant brain damage after back head shots 2015",
+   "ts": "2026-08-14T13:22:25+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vnrqkn/prichard_colón_has_passed_away_the_former_boxer"
+  },
+  {
+   "key": "1dbdc81a808f966c852fcf25b2808d3e453c983a",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Islam Makhachev: “Ian acts like he’s a bad boy. But I will make him humble. I will make him good guy. He talks too much. I can wrestle with him, I can strike wi",
+   "title_key": "1926183b15dd1026a5c79cea12c55c7c3b227a3f",
+   "title_norm": "islam makhachev ian acts like bad boy but will make him humble will make him good guy talks too much can wrestle him can strike him too watch my fights against volkanovski poirier have some keys beat him easy can beat everyone else but different",
+   "ts": "2026-08-14T13:22:25+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vnybdf/islam_makhachev_ian_acts_like_hes_a_bad_boy_but_i"
+  },
+  {
+   "key": "822b99154e89f8d9aeefa136d0b6af786e8d3808",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 330 weigh-in video: Makhachev vs. Machado Garry",
+   "title_key": "59fe0fd56c95ff7b0730f42dd7ee0815414fca7f",
+   "title_norm": "ufc 330 weigh video makhachev vs machado garry",
+   "ts": "2026-08-14T13:22:37+00:00",
+   "url": "https://mmafighting.com/ufc/504726/ufc-330-weigh-in-video-makhachev-vs-machado-garry"
+  },
+  {
+   "key": "245016b7a344d292d5e29a2f725550fed83a17d6",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] ONE Friday Fights 166 | Muay Thai, MMA, & Kickboxing Event - Live Discussion Thread",
+   "title_key": "57404b155e0f0156753082eac8dbf0d033e6cf31",
+   "title_norm": "official one friday fights 166 muay thai mma kickboxing event live discussion thread",
+   "ts": "2026-08-14T13:22:38+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vo5vl7/official_one_friday_fights_166_muay_thai_mma"
+  },
+  {
+   "key": "e02e259b7b7e3ed8d1a2d740c7aad913b6ebdf19",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Demetrious Johnson on his UFC & ONE Championship payouts",
+   "title_key": "aca8f9224d35fefdf58e3329096304052ea8a69e",
+   "title_norm": "demetrious johnson ufc one championship payouts",
+   "ts": "2026-08-14T13:22:44+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vo5trx/demetrious_johnson_on_his_ufc_one_championship"
+  },
+  {
+   "key": "b78ea3965589fa874097e89334eebc0fb0ac2337",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Morning Report &#124; Dana White teases more about UFC’s next ‘impossible event’: ‘Hopefully I can get this thing done next week’",
+   "title_key": "2e08efdcedf9d33fb9cd1a7195390b5132f9b420",
+   "title_norm": "morning report 124 dana white teases more about ufc next impossible event hopefully can get this thing done next week",
+   "ts": "2026-08-14T13:22:48+00:00",
+   "url": "https://mmafighting.com/ufc/504214/morning-report-dana-white-teases-more-about-ufcs-next-impossible-event-hopefully-i-can-get-this-thing-done-next-week"
+  },
+  {
+   "key": "0c4ae479f95aaad9e8e4fa8e072347c111e46800",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "How big was Korean Zombie?",
+   "title_key": "a8217a11ee68bcbb5bed13eb21013c9579ffe5a8",
+   "title_norm": "how big korean zombie",
+   "ts": "2026-08-14T13:22:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vo1iq4/how_big_was_korean_zombie"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 6,
-  "recogidos": 175,
-  "unicos": 49
+  "prefiltrados": 2,
+  "recogidos": 180,
+  "unicos": 45
  },
  "telegram_offset": 958387804,
  "version": 1
