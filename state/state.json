@@ -7315,15 +7315,136 @@
    "title_norm": "how big korean zombie",
    "ts": "2026-08-14T13:22:49+00:00",
    "url": "https://reddit.com/r/MMA/comments/1vo1iq4/how_big_was_korean_zombie"
+  },
+  {
+   "key": "eec446c73b76250a91a57d8fc41dc936d92fb0e6",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Tyron Woodley shows off physique after losing 30 lbs. for RAF debut",
+   "title_key": "a76be625c96cfe4c1eb1b8a243251cae3ce83abe",
+   "title_norm": "tyron woodley shows off physique after losing 30 lbs raf debut",
+   "ts": "2026-08-14T14:35:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vo87hp/tyron_woodley_shows_off_physique_after_losing_30"
+  },
+  {
+   "key": "d4e2dc801513bfcc8c565c9a0aaf84594a78d23f",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Khabib Nurmagomedov scolds Islam Makhachev for saying “Shut Up” to young Ian Garry",
+   "title_key": "23e5e4be50e31c32048e5a4d45d352306387a4fe",
+   "title_norm": "khabib nurmagomedov scolds islam makhachev saying shut up young ian garry",
+   "ts": "2026-08-14T14:35:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vo8hvw/khabib_nurmagomedov_scolds_islam_makhachev_for"
+  },
+  {
+   "key": "70928f3d6186963fe06b3f1550c20b13732bd6bb",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "The goat makes weight",
+   "title_key": "57c8694a451098f5d86ced3df93b748f3e34073a",
+   "title_norm": "goat makes weight",
+   "ts": "2026-08-14T14:35:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vo6qto/the_goat_makes_weight"
+  },
+  {
+   "key": "61de80051d7b03a2a430da31b81943247cda3cb7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Ian gary makes weight",
+   "title_key": "b136e3065ac3d3f2f9460669eebf47441be330c3",
+   "title_norm": "ian gary makes weight",
+   "ts": "2026-08-14T14:35:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vo7b8n/ian_gary_makes_weight"
+  },
+  {
+   "key": "abab469d84e51174b4fbb7fcd8e8f982feb6eb5f",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "☝️Weight Done",
+   "title_key": "e9e9b6ad509d2e8e6ab1a97bc0cff96ef5f6a183",
+   "title_norm": "weight done",
+   "ts": "2026-08-14T14:35:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vo7e81/weight_done"
+  },
+  {
+   "key": "11730c2d803cba9d1cef7d691f7d95296f882717",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Will you dare jump into Mackenzie Dern’s guard?",
+   "title_key": "4832a5041d84ca5c9c69711f610cce1ff3b55c09",
+   "title_norm": "will you dare jump into mackenzie dern guard",
+   "ts": "2026-08-14T14:35:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vo80c0/will_you_dare_jump_into_mackenzie_derns_guard"
+  },
+  {
+   "key": "ac9d206cdce21a6b190cceb9a78d0d7426a4e414",
+   "score": 8,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Michael Morales weighs in at 170 lbs as the official backup for the UFC 330 main event",
+   "title_key": "1dc5dfab56d897d78d7ddc27e78bf6a85dd9c7df",
+   "title_norm": "michael morales weighs 170 lbs official backup ufc 330 main event",
+   "ts": "2026-08-14T14:35:53+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vo8esw/michael_morales_weighs_in_at_170_lbs_as_the"
+  },
+  {
+   "key": "2c9de07c3bba390f5e8a08a627a2e583275afdc2",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Never will there be another Genki Sudo the Neo Samurai in mma",
+   "title_key": "9d1f64c6be57d9a259c0705a3892dda2ceb33ab6",
+   "title_norm": "never will there be another genki sudo neo samurai mma",
+   "ts": "2026-08-14T14:35:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vo77qe/never_will_there_be_another_genki_sudo_the_neo"
+  },
+  {
+   "key": "d544d96b86f3c6a742ec174900736509573e910c",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 330 official weigh-in results, live video stream",
+   "title_key": "1b4a2e3fb0a74e067cadfb12b00ee3a68467d3ed",
+   "title_norm": "ufc 330 official weigh results live video stream",
+   "ts": "2026-08-14T14:35:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTzY3VWxCc1VCQ2gyZTc1NmE2T2dzeEtOX1h4LWg1SVliVDl0Mm5ReE5kbGJ2VVdhMlpHWldjM1lVNjgyNDlRX1pnaEl0c2M5OWEtakhFYWt3aXI0cWd4eDZHZ0hLNlJ4X3FBODJ0UDhDVnRKVHZ4WnFiSkkwa2RjSWxScVBxdDhIYS10NDRKN0kyb245ZWZISkdVcWZUaGo1RU81dWplS21TM05FVldGejh5Uy1BNDc3TTdyU3dJcFdBOUpRMWtLQnp6OVFGaUZlaW9nNXB1LWRMaDBu?oc=5"
+  },
+  {
+   "key": "2222dcda8690dbc17e2e474d4e2f16d998f7b081",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Stephen Thompson has one wish in mind for final UFC fight",
+   "title_key": "02b076ae0f8c29a870dce86c3abfc5faee89ef69",
+   "title_norm": "stephen thompson has one wish mind final ufc fight",
+   "ts": "2026-08-14T14:35:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGlPb3hpQkV4MHZGakg2NmFOMnl4ZkZ3N1lvbGhPdmlsQkt1b1RBTnYtekNuM19IOTQzWGttMW10bmRqdHhSdWFmSko0V3ZUSXl2STFUbkpySzZfdmNLRU9SYXpfRWpKalV3NmczbzVxNWhOV3lDR0NjNmtSV0lWVEtZZ2ZEd0NpNjZfTFYwMHlhQnhCM1NRYlpRamxqUW1jNHRiMndYcVJOaTV2d0ZEaXJhdmxQSzlzc0RyYlFsaE9RZ1hN?oc=5"
+  },
+  {
+   "key": "00379f5799f8f5c282fb3ac9d5ac0be4c9f32054",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC 330's Gillian Robertson: Weili Fight Needs to Happen",
+   "title_key": "3777b7e6b9816f5e9002fd8197de252a0d5a4aeb",
+   "title_norm": "ufc 330 gillian robertson weili fight needs happen",
+   "ts": "2026-08-14T14:37:05+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vntp4w/ufc_330s_gillian_robertson_weili_fight_needs_to"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 180,
-  "unicos": 45
+  "prefiltrados": 6,
+  "recogidos": 200,
+  "unicos": 50
  },
  "telegram_offset": 958387804,
  "version": 1
