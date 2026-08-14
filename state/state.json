@@ -7942,14 +7942,92 @@
    "title_norm": "official scorecards ufc 330 makhachev vs machado garry",
    "ts": "2026-08-14T18:31:29+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OQWJwVkRqUDYxTlJ3MjFHUGg4QU81OXhPMTQ4MUstcXJPUjdhd0RmcGpIWmFaYmphUGFORkhxU1AyZ1ZNUVVycktYMG9KMWx3ZkNWTUF5bkR4TU1uTWg1UGFB?oc=5"
+  },
+  {
+   "key": "52562819a958c53dffa98c3f8aeb5e1c2deaf8b2",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "Pereira vs. Ankalaev - ESPN",
+   "title_key": "029050a630aa1fd026209a00e7f946c9a48f5dc8",
+   "title_norm": "pereira vs ankalaev espn",
+   "ts": "2026-08-14T19:34:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDVOU2xKa25yTGp5dEJvdjNuSW51WEZQamtTcjFxWFBUY0l2NWpNaUNfY1JQYXdFYVpfaG9BNG0tSWRUcVJNSTdmNktwUFR5QTBsbU9QQ1BjX0tPeFJvZnp4ZVNpUlVlRXd0Y04zQzhMbGdWc01ETTFEa085aXpIZlIwNnFpVjlGSTZlMUI3c2VENGRSNnN2N1RMSy1KMTd5S1h5Z1IySDRabEdFMEhSeWl2MUxodzRrdEpB?oc=5"
+  },
+  {
+   "key": "571d5ec4935b7aebb2df4cf5dd1666840d12d2b6",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam is asked how much Ian fans there where during the press conference.",
+   "title_key": "7fb91eb8cce6eccf2065352de75e4cdbdccf770f",
+   "title_norm": "islam asked how much ian fans there where during press conference",
+   "ts": "2026-08-14T19:34:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vocm3l/islam_is_asked_how_much_ian_fans_there_where"
+  },
+  {
+   "key": "3d5ed39909a59f94950a628300111d6ed0e4fc3b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Money compared to life is nothing",
+   "title_key": "50b523e41b480b1fb466f2ae4ca0889273bb9851",
+   "title_norm": "money compared life nothing",
+   "ts": "2026-08-14T19:34:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1voedct/money_compared_to_life_is_nothing"
+  },
+  {
+   "key": "d4a82ce090a36861b7fe4bedb3347cf0677fb85c",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Official poster for UFC 331",
+   "title_key": "d33e7b28d00b65b268492be91a413eced63529bb",
+   "title_norm": "official poster ufc 331",
+   "ts": "2026-08-14T19:35:40+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vofija/official_poster_for_ufc_331"
+  },
+  {
+   "key": "f71dfda2ee17707c058c73af334934c548b246da",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Payton Talbott teases UFC fight vs. Adrian Yanez",
+   "title_key": "780fe4094d34bbb32ecb7ee1cc92522040334fd2",
+   "title_norm": "payton talbott teases ufc fight vs adrian yanez",
+   "ts": "2026-08-14T19:36:15+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1voesqa/payton_talbott_teases_ufc_fight_vs_adrian_yanez"
+  },
+  {
+   "key": "cdaf55b51187ebaf1851877a4ba28291c8f2e68f",
+   "score": 2,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "MMA Fight Results: UFL, PPL & Bellator",
+   "title_key": "db90df29b3c5df46718138eb6963ee5fa0566ce2",
+   "title_norm": "mma fight results ufl ppl bellator",
+   "ts": "2026-08-14T19:36:16+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HLWJNN1RnLVVySmxVSmZDM2NDbU53Z0xfQzVBTERITG55clhLRklxT2VaS1EwbEdEYXBFSU5YOGN6WDVTWmlicndJWEJDRVlCM21WSXdn?oc=5"
+  },
+  {
+   "key": "df49ac415258e7acb6ab65b128ff6c21ccdd2a3a",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ian Machado Garry suggests he could surpass Conor McGregor: ‘Give me time’",
+   "title_key": "e5d64a8fcce8ece9f1449371a75b67ad8ff78086",
+   "title_norm": "ian machado garry suggests could surpass conor mcgregor give me time",
+   "ts": "2026-08-14T19:36:17+00:00",
+   "url": "https://bloodyelbow.com/2026/08/14/ian-machado-garry-suggests-he-could-surpass-conor-mcgregor-give-me-time"
   }
  ],
  "stats": {
-  "descartados": 5,
+  "descartados": 4,
   "enviados": 0,
-  "llamadas_llm": 5,
-  "recogidos": 175,
-  "unicos": 35
+  "llamadas_llm": 4,
+  "prefiltrados": 3,
+  "recogidos": 200,
+  "unicos": 38
  },
  "telegram_offset": 958387804,
  "version": 1
