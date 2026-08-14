@@ -8250,15 +8250,69 @@
    "title_norm": "ufc 330 dos peleas titulo son suficientes salvar cartelera",
    "ts": "2026-08-14T21:22:34+00:00",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRGttMFNKM0liZ0R5ZzJUT205WklYbElzQUZUVy1qaDlQbWpNTlR4Zk5ucWNqbHhuX0kxTFVwbExiUTg4MFE0TEgyNFhtRXNoUUxEa2VIZWlsZ0pXeHBhSFp1akVvbGNVb1RLUjhJWFgya2UwVEFN?oc=5"
+  },
+  {
+   "key": "ea3e19087bc4407f1b75e0388ee217f4415cad51",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Dana White intervenes to prevent faceoff shenanigans between Arman Tsarukyan and Mauricio Ruffy",
+   "title_key": "1f47b82616ccd0eb343c3f28faf1c0375485468d",
+   "title_norm": "dana white intervenes prevent faceoff shenanigans between arman tsarukyan mauricio ruffy",
+   "ts": "2026-08-14T21:55:33+00:00",
+   "url": "https://mmafighting.com/ufc/504843/dana-white-intervenes-to-prevent-faceoff-shenanigans-between-arman-tsarukyan-and-mauricio-ruffy"
+  },
+  {
+   "key": "339c67190eb9302ead542eafffee99f583261d0c",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Dana White forced to step in as brawl almost breaks out at the UFC 331 launch press conference",
+   "title_key": "dc5722b2e9f7da76c9bd2e1b1b738911273bf168",
+   "title_norm": "dana white forced step brawl almost breaks out ufc 331 launch press conference",
+   "ts": "2026-08-14T21:55:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/14/dana-white-forced-to-step-in-as-brawl-almost-breaks-out-at-the-ufc-331-launch-press-conference"
+  },
+  {
+   "key": "8aa9442064e12f931d6da4b0e1b683efe0de8599",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "LIVE! Watch UFC 330 Ceremonial Weigh Ins Video Stream",
+   "title_key": "ff715f740143b11349c0c8c29b9ede5c928fe4e7",
+   "title_norm": "live watch ufc 330 ceremonial weigh ins video stream",
+   "ts": "2026-08-14T21:55:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDBNMmRzNi1oR3RucVdfNkNVcUZIR240Y0dYYlBRaW1DWUVpbE96VDhrS3R3STAyRkdrZjR6VGY4bE43cGtaMjFGVjBqSzl6cUpweGQ0V3pzazBOeWFnUmMxeXpfOUoyaVJ2MVgxU1hLdXR6VDhDakd6REIyR05xMVdvYlg?oc=5"
+  },
+  {
+   "key": "9ecdb4efbd6183f685a9c928b343e67b6c887e03",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Hidalgo consigue 35 medallas en nacional de MMA",
+   "title_key": "9c476e12d8f95e550eceadce9dae5f5ffc236485",
+   "title_norm": "hidalgo consigue 35 medallas nacional mma",
+   "ts": "2026-08-14T21:55:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOENyYVZuT2VjVVZxQ0lwaU1HWmcwa2lySnpMaV9YY0dkOTdpZmFBLUd6MVBSVVo1bDhCVnQ2SUNHN3h1RS13TEZ6TzRoa3FHWTlHQWYycXpXT0tYd01mWXFveW5Ba1V2MlFkS01WUDQwY0VwLTVjc0R4dXNxakx5dHNyTzJUMmptTTRUbUJ5R3ktMUJJQVQwWVpCdFZjUjBU?oc=5"
+  },
+  {
+   "key": "d8c2b81ef29e146e8e1531ccd69f49cfe97386c2",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Apuestas UFC 2026: Pronósticos y paso a paso cómo apostar en la UFC en México",
+   "title_key": "c57170b63f7ed1d4ccf43fee81a12b6badaed563",
+   "title_norm": "apuestas ufc 2026 pronosticos paso paso como apostar ufc mexico",
+   "ts": "2026-08-14T21:55:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zcnpYMWNrdGdPU0JLaG8tRWlHdmZaMFRpNzMyREJQb2ROVy1RTnhhY3NFZ3dQa3RONWN6bUlsTnVrN3NTWU1QYnJRYnQ0RjVjVTFRMm5kOEZ2MEdPTktz?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
   "recogidos": 199,
-  "unicos": 32
+  "unicos": 27
  },
  "telegram_offset": 958387804,
  "version": 1
