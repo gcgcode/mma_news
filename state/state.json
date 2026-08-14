@@ -7887,15 +7887,69 @@
    "title_norm": "former ufc title challenger withdraws noche ufc mismatch reportedly gets replaced",
    "ts": "2026-08-14T17:35:53+00:00",
    "url": "https://bloodyelbow.com/2026/08/14/former-ufc-title-challenger-withdraws-from-noche-ufc-mismatch-and-reportedly-gets-replaced"
+  },
+  {
+   "key": "ea236230aefdd7eba0b56d10b82e203561481f8c",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC Mailbag: Is UFC 330 the beginning of the end?",
+   "title_key": "8530f521108ef4e4f3e90b36a85d394b37bf4571",
+   "title_norm": "ufc mailbag ufc 330 beginning end",
+   "ts": "2026-08-14T18:30:49+00:00",
+   "url": "https://mmafighting.com/ufc/504650/ufc-mailbag-is-ufc-330-the-beginning-of-the-end"
+  },
+  {
+   "key": "8310ee8792ac2893ad2a2f55f1dd73a5bc400aea",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Struggling UFC division gets a much-needed boost as two-division MMA champion reportedly signs",
+   "title_key": "8e787e50963048cbb45b693c52358f4830dc140e",
+   "title_norm": "struggling ufc division gets much needed boost two division mma champion reportedly signs",
+   "ts": "2026-08-14T18:31:04+00:00",
+   "url": "https://bloodyelbow.com/2026/08/14/struggling-ufc-division-gets-a-much-needed-boost-as-two-division-mma-champion-reportedly-signs"
+  },
+  {
+   "key": "7a57bfdf4668d20a1663d76abd33a7b924d0720f",
+   "score": 4,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "Vicente Luque, con la mejor preparación para UFC 330",
+   "title_key": "b2fff787cae9c91cc5db083cb30604740fb010e4",
+   "title_norm": "vicente luque mejor preparacion ufc 330",
+   "ts": "2026-08-14T18:31:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjNxS2RQRDhMVW4yUlVxeThWeVpRUHlKSzdMdG1Qaldmbkg0NFJhTmhOZTE3UFZ6YWNFRTFsSU1BYVlDZ3ZOWDZ3T3N2UE83eFdxblVmeU5KbEI4ZWVJaXZaSjBhNmlZbS1qZ2lmZ2tLdFNnVjVoektFVm9qU3hLMFhhdmw4bUxseE5KT2g4aTVwSFpVdlZxcDN1WU5Oa0dSOVE?oc=5"
+  },
+  {
+   "key": "a7bae236a7a9554987fc668e19271090d50aa38d",
+   "score": 5,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Ian Machado Garry CAN beat Islam Makhachev, claims Dominick Cruz",
+   "title_key": "e3d2695c8077c592a365646029966995e27590ce",
+   "title_norm": "ian machado garry can beat islam makhachev claims dominick cruz",
+   "ts": "2026-08-14T18:31:06+00:00",
+   "url": "https://lowkickmma.com/ian-machado-garry-makhachev-cruz-ufc-330"
+  },
+  {
+   "key": "72e14ceb752dc1529fdd4f74f19b85bb7d6b7cb8",
+   "score": 1,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Official Scorecards | UFC 330: Makhachev vs Machado Garry",
+   "title_key": "ba6e2a6040c14fdcc11c74417ad8da75a73352a8",
+   "title_norm": "official scorecards ufc 330 makhachev vs machado garry",
+   "ts": "2026-08-14T18:31:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OQWJwVkRqUDYxTlJ3MjFHUGg4QU81OXhPMTQ4MUstcXJPUjdhd0RmcGpIWmFaYmphUGFORkhxU1AyZ1ZNUVVycktYMG9KMWx3ZkNWTUF5bkR4TU1uTWg1UGFB?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 13,
-  "recogidos": 200,
-  "unicos": 53
+  "recogidos": 175,
+  "unicos": 35
  },
  "telegram_offset": 958387804,
  "version": 1
