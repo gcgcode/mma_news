@@ -8503,15 +8503,92 @@
    "title_norm": "ufc 330 careos ceremoniales",
    "ts": "2026-08-14T23:17:59+00:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KeUcxX3J1d0ZQdjRkazg5c1EyTW1QWjRwbzlXbllqcUtYeTViR19KS3l3V3RZMk1VaVd1RThwU180SkV3ejBWdTlmYUxyZzVf?oc=5"
+  },
+  {
+   "key": "f8ff532c924c550c7faf1a37b069194755188c32",
+   "score": null,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "Jon Anik defiende a Ian Machado Garry y cuestiona la falta de reconocimiento de los fanáticos",
+   "title_key": "6ebfa1abf3d95972cb6281a73aba8c4a426521e3",
+   "title_norm": "jon anik defiende ian machado garry cuestiona falta reconocimiento fanaticos",
+   "ts": "2026-08-14T23:42:24+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1V4bld5ZlhyZEJEU3JSd0N1ZnhTaTE3OF9SdUdSaGZYUTJOc1p1OXZDNWVleU9VMzFMVTZGSnNVbTFCSEtjazJ4aVpoOEh5eGlMZV9rYUdSTWRlNk5ncjZ1R1dPTWJ3a0JCd1RQOC1sdGw4amNCbURqMFdFVGxjQ1prSUdZcmQ3a0dPTDk4WWxaSkE5WVVmVWlVUGNFcmtURDZ3Y25QOEpfLTFFR3dXdUx4TFcxbHZ1NEMtazNKRWU?oc=5"
+  },
+  {
+   "key": "bfffd01f3c4f3a0f7b959f1d1e3aa072bdc4f2ae",
+   "score": null,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "Khabib Nurmagomedov cuestiona a Islam Makhachev por su actitud con Ian Machado Garry",
+   "title_key": "c9e402f609e819c86bf55dc6be547f03aef2c2ed",
+   "title_norm": "khabib nurmagomedov cuestiona islam makhachev actitud ian machado garry",
+   "ts": "2026-08-14T23:42:24+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmlDekhyYnh4Z0JILXhTRmFUY0JLMDNwVTFSZ01Xcy1qSEk2WEJSNmJRVU9sODNQUDlaNDdoYlQ2b09lUUNucnR2ZmlyRThYblV2Rmx5Q0ZuR2lLcDZNaTFHNGFZcmh3Zm8wMEpPRmRZQnJKbEdwNEprNFhicHBRMGY1OVlEZmZkTVlfb1ZRN3NIM1ZmVWZzVUppQzloZjF3cExONjhFSEJfbWw0dzloQzk1MDE?oc=5"
+  },
+  {
+   "key": "9a1b6ef4c09d98742e2f1210f0d0738bc31ad134",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Arman Tsarukyan knows a win over Mauricio Ruffy at UFC 331 doesn’t guarantee him a title shot",
+   "title_key": "3163586031f7fa8c7a933c78a4acfdbbdb731c81",
+   "title_norm": "arman tsarukyan knows win over mauricio ruffy ufc 331 doesn guarantee him title shot",
+   "ts": "2026-08-14T23:42:26+00:00",
+   "url": "https://mmafighting.com/ufc/504852/arman-tsarukyan-knows-a-win-over-mauricio-ruffy-at-ufc-331-doesnt-guarantee-him-a-title-shot"
+  },
+  {
+   "key": "c81f6992b59e51b87560d0f65fdf142d2fbeb238",
+   "score": 6,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "Islam Makhachev e Ian Machado Garry protagonizan un último cruce antes de UFC 330",
+   "title_key": "7ef48512d8daf80cc898eff942e61f242c08eb2d",
+   "title_norm": "islam makhachev ian machado garry protagonizan ultimo cruce antes ufc 330",
+   "ts": "2026-08-14T23:42:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0w3OTd6M3o5TGZhNC1sZ1dZWXdhcTZpbmdJRXF2R3RCT1FFTHNWczlneGFjeEpTc1FJeG5MeTBZb3pnbGMxcGhGbW82VlJUVG5JY1ZOSDNWWTVXVlhBMkFSMUdWSUlVRlU5SjJ1N0psUXZjMFlxQVNJN0c0aThYQjJMbUs1Y0szUmotWUxtYXFBWEtOaUpoTVJVRk1lLXA4cXdneExzaHQtRFNkbG1TSw?oc=5"
+  },
+  {
+   "key": "bf90fd4d8917028661d0d5bf8ab8189c5d43d6e0",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "UFC 330: Makhachev y Machado Garry cumplen en el pesaje",
+   "title_key": "ae16ed2cb48988b265890f046a2b2a8c8a638344",
+   "title_norm": "ufc 330 makhachev machado garry cumplen pesaje",
+   "ts": "2026-08-14T23:42:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdW1oUGE1VzFuRGxrejg2ZHE2WUh3bTVLTzZIRUV0eXVFOWVOeFBqSGREeHN2Y3BGN2FNa2tRalRpZDFjaFNEbzhraXNSUG9uX2ktSE5FZEZjbC1ETnUyT3B0ZzB2OGVXeGtzZThzcjRfbFNBcmZvUEV2TjZOTkZlcldlWmN0a3VPSDNSOVpnSzQyZkdtclJ3cTEzZFVKOGZl?oc=5"
+  },
+  {
+   "key": "2e0433451b01f309e4cd3ed87a752c2ef9073f2a",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC 330 official weigh-in video highlights, photo gallery",
+   "title_key": "cd595bb8e78733e649459346d4171f976c69650d",
+   "title_norm": "ufc 330 official weigh video highlights photo gallery",
+   "ts": "2026-08-14T23:42:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TbU5lTERqR2JEWEN3VTNHZVpZV1Z4QXdBXzVoem9jSlN0Y2drLU9WbXRYYVM3dlgzRXFaQ084UjdQMUZPdEVjd0RZUklIWW9OVzctZ1dobVViOUp1ajBORWZtb2xjMkNYS3U0QjVhb1dWUHRnR0hObEF4dw?oc=5"
+  },
+  {
+   "key": "466d8cefe70a804ad60a4ab867c1d2768099e42f",
+   "score": 8,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Why Gillian Robertson Is a Live UFC 330 Underdog Against Mackenzie Dern",
+   "title_key": "97f8a6bf15818361e85b3819b45adc44eff8c6f4",
+   "title_norm": "why gillian robertson live ufc 330 underdog against mackenzie dern",
+   "ts": "2026-08-14T23:42:33+00:00",
+   "url": "https://lowkickmma.com/why-gillian-robertson-live-ufc-330-underdog-vs-mackenzie-dern"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 199,
-  "unicos": 21
+  "prefiltrados": 2,
+  "recogidos": 182,
+  "unicos": 19
  },
  "telegram_offset": 958387804,
  "version": 1
