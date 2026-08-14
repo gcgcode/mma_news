@@ -8437,15 +8437,81 @@
    "title_norm": "islam makhachev ufc 330 official weigh ins",
    "ts": "2026-08-14T22:45:05+00:00",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZl81MWdDS3pfZ2dqZnZZd084SGNOWXJtaTdzMDcxWVNmQzZfS2w3SGFvXzFjMFNLSHJhWGwzZ2YtaS1YMkVTQ0x5V1VhQ3ZoWHR1SmlnaU1kVVVVZUxLMWJvUGZTdFZDelczdm5TbHJYamVOUUotbWpOaFp4TXdSZEpLbDhneHIzUW9pM2h3eEN3eXNndzJYUXFFdlp2bXVCRXJFdmRGSWQ2el9YOWFTMXQ0Tk1JOXVNamFDUkV0M0t2cXliQVlETHV4ZjBfSEFNSWhDOERGdw?oc=5"
+  },
+  {
+   "key": "80737bd7260b1cebe051773881bdb6179fde4846",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Joshua Van vs Alexandre Pantoja Faceoff",
+   "title_key": "099c356dd311b5035aa5cbe4dfc124f21a2887f9",
+   "title_norm": "joshua van vs alexandre pantoja faceoff",
+   "ts": "2026-08-14T23:17:53+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vokzia/joshua_van_vs_alexandre_pantoja_faceoff"
+  },
+  {
+   "key": "cba525d8ee87bf0102a3922963095a14763f4a85",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Ian Machado Garry's son Leo meets Islam Makhachev after the weigh-ins",
+   "title_key": "1053b2f8264795d8f939f8f66b9660a5088e5b88",
+   "title_norm": "ian machado garry son leo meets islam makhachev after weigh ins",
+   "ts": "2026-08-14T23:17:53+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vommk6/ian_machado_garrys_son_leo_meets_islam_makhachev"
+  },
+  {
+   "key": "02a82c81c0fa80c5f5192116929294fb942b9536",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Islam Makhachev, Ian Machado Garry trade words at final faceoff before UFC 330",
+   "title_key": "2752cbad29b6bbe6a17f5ae15a49037a7dbf9201",
+   "title_norm": "islam makhachev ian machado garry trade words final faceoff before ufc 330",
+   "ts": "2026-08-14T23:17:56+00:00",
+   "url": "https://mmafighting.com/ufc/504866/islam-makhachev-ian-machado-garry-trade-words-at-final-faceoff-before-ufc-330"
+  },
+  {
+   "key": "7516c6f1d5c8bf97c36cb2e19c580c82309b0c2d",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Islam Makhachev vs Ian Garry Faceoff at Ceremonial Weigh-Ins",
+   "title_key": "5182c05021a247e49d7068cd0b033410e8f2dec3",
+   "title_norm": "islam makhachev vs ian garry faceoff ceremonial weigh ins",
+   "ts": "2026-08-14T23:17:57+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1volvxu/islam_makhachev_vs_ian_garry_faceoff_at"
+  },
+  {
+   "key": "e2a18e76c6cee0367de5643862deb1651b92359c",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Kamaru Usman references history with Ian Machado Garry when arguing how he can beat Islam Makhachev",
+   "title_key": "9ac9f6db4efbdea28473cecce06f515ead7acdb2",
+   "title_norm": "kamaru usman references history ian machado garry when arguing how can beat islam makhachev",
+   "ts": "2026-08-14T23:17:58+00:00",
+   "url": "https://bloodyelbow.com/2026/08/14/kamaru-usman-references-history-with-ian-machado-garry-when-arguing-how-he-can-beat-islam-makhachev"
+  },
+  {
+   "key": "6fd811aeb3bfcd5a64b8161915ef0b372f8a8a95",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC 330: Careos Ceremoniales",
+   "title_key": "f5c17b5e126ceae43c1f2374d8228ea14442b419",
+   "title_norm": "ufc 330 careos ceremoniales",
+   "ts": "2026-08-14T23:17:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KeUcxX3J1d0ZQdjRkazg5c1EyTW1QWjRwbzlXbllqcUtYeTViR19KS3l3V3RZMk1VaVd1RThwU180SkV3ejBWdTlmYUxyZzVf?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 174,
-  "unicos": 20
+  "prefiltrados": 1,
+  "recogidos": 199,
+  "unicos": 21
  },
  "telegram_offset": 958387804,
  "version": 1
