@@ -9350,14 +9350,36 @@
    "title_norm": "jack della maddalena predicts islam makhachev lose ufc 330 despite being 50 45 champ",
    "ts": "2026-08-15T09:00:55+00:00",
    "url": "https://bloodyelbow.com/2026/08/15/jack-della-maddalena-predicts-islam-makhachev-to-lose-at-ufc-330-despite-being-50-45d-by-the-champ"
+  },
+  {
+   "key": "03d5387e19e4bc73ee943af25328591021bc1816",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I feel like it's gonna be Islam's toughest matchup so for. I'm worried for Bratha ngl.",
+   "title_key": "62ba62f359e2124f38dc7ac978d7c46afe52b6b1",
+   "title_norm": "feel like gonna be islam toughest matchup so worried bratha ngl",
+   "ts": "2026-08-15T09:32:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vovq4m/i_feel_like_its_gonna_be_islams_toughest_matchup"
+  },
+  {
+   "key": "34af49902c6fcdc669e38e901c120b15003ca271",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Guys... I think Islam is cooked 😭",
+   "title_key": "e7d56f093bd6018608072574a360a26002bf9dd3",
+   "title_norm": "guys think islam cooked",
+   "ts": "2026-08-15T09:32:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1voxlqs/guys_i_think_islam_is_cooked"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 1,
-  "recogidos": 174,
-  "unicos": 1
+  "prefiltrados": 2,
+  "recogidos": 173,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
