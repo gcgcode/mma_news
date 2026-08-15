@@ -9471,15 +9471,59 @@
    "title_norm": "former ufc heavyweight jairzinho rozenstruik signs pfl",
    "ts": "2026-08-15T10:19:56+00:00",
    "url": "https://lowkickmma.com/jairzinho-rozenstruik-signs-with-pfl"
+  },
+  {
+   "key": "309b9627706ce1b2efbd141aa022f51fde239e4b",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Canada News - World Baseball Classic",
+   "title_key": "4d8adeb9d34de8b2368e5eff499a083223916fce",
+   "title_norm": "canada news world baseball classic",
+   "ts": "2026-08-15T10:44:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DaW1sZTJDd0JJWWU4Q2NXcW5OcVcxUGl2UWhUbEVXbXBRYmdxVko0TXZsVnlqMHN5Nlp2QjFUblNNamFXbVJhZTRXQzE4bUJGejVZVVNVZmRjQzRNMndQTnpRVGdHQnVraE9EUQ?oc=5"
+  },
+  {
+   "key": "faa65dfd4338444cedc8585d14e4ed94d162350f",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "For a guy who had a short stunt with the ufc from 2008-2011 how do you think in your opinion brock did in the octagon even though he only had 7 matches and two ",
+   "title_key": "d203dc87779a75827a367dc260abc8898a9c4625",
+   "title_norm": "guy who had short stunt ufc 2008 2011 how do you think your opinion brock did octagon even though only had matches two being against frank mir",
+   "ts": "2026-08-15T10:45:10+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1voxc68/for_a_guy_who_had_a_short_stunt_with_the_ufc_from"
+  },
+  {
+   "key": "8ac5cfe7847439f2b051563d2316843bb8ed3d9e",
+   "score": 5,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Jamal Ben Saddik Leaves GLORY, Signs with Melvin Manhoef’s WFL for Debut in Antwerp",
+   "title_key": "cc434566d33c3e0f298cb9b2c7f1b3f5776ddd57",
+   "title_norm": "jamal ben saddik leaves glory signs melvin manhoef wfl debut antwerp",
+   "ts": "2026-08-15T10:45:11+00:00",
+   "url": "https://lowkickmma.com/jamal-ben-saddik-leaves-glory-signs-with-melvin-manhoefs-wfl-for-debut-in-antwerp"
+  },
+  {
+   "key": "1a8ef8929f37500b677606d22a4688a7699a4a8b",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "UFC 330 predictions: Can Ian Machado Garry stop Islam Makhachev's reign of dominance?",
+   "title_key": "8d9285cfebeba8790d66af8ab43e130740e6ff13",
+   "title_norm": "ufc 330 predictions can ian machado garry stop islam makhachev reign dominance",
+   "ts": "2026-08-15T10:45:12+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFAybkhxMlJheDNuS3N4dDBHMjdKTVJSNHZkM0pWNDNMT1E4YUVDX0dVQm9XSnplREZiWkpqOG8wWi1mQWo1cmxMTURiQ1B1bTB4enpfREtHRWZMajhuV1JubmZEbXo1eFVoY1NYUDExOWZZY0gxdTI1SUk4RzFzdHhfWGpkVWRKUnotV3lSb1NiY0p2ZjNUU3pDY3UyX0xMME9UVmFBWVliWDlkb1ItRjVYOVAyeTdCeUQ1V0puRzBMOXNrSXlqRlZhczdNeEE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 3,
-  "llamadas_llm": 4,
-  "prefiltrados": 2,
-  "recogidos": 173,
-  "unicos": 6
+  "descartados": 3,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
+  "recogidos": 174,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
