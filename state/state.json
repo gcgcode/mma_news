@@ -9889,15 +9889,47 @@
    "title_norm": "historic ufc showdown confirmed gary dares champion makhachev vows knock out world best fighter",
    "ts": "2026-08-15T14:17:56+00:00",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaWhoaWtMejlta3FhaVdrSVBEeGhNZHR0THgyU3d5bnlrdEtvY0QtallBUW9qdFBMak9wN2NrZVJBbm1ZcUwwZVc4N21TeWdNS1lUcG5XNGFBSk9uai1WcFlCNGVVNllsTkZNaUd1YllBeHVXYkNOZDF3?oc=5"
+  },
+  {
+   "key": "a34aa3314b56354b843a43de19a565c7e882f011",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Khamzat Chimaev’s return in jeopardy as US presidential order threatens RAF Moscow event",
+   "title_key": "b041ebf64daad88aead4405394316a191e9597f7",
+   "title_norm": "khamzat chimaev return jeopardy us presidential order threatens raf moscow event",
+   "ts": "2026-08-15T14:43:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/khamzat-chimaevs-return-in-jeopardy-as-us-presidential-order-threatens-raf-moscow-event"
+  },
+  {
+   "key": "78e7bc77471d96f2697bd5588ca6b9efd194d0d9",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What is the most egregious title shot of the decade so far?",
+   "title_key": "68ec1b2e4557bc0c0870767af2cadfd7e97617a9",
+   "title_norm": "what most egregious title shot decade so far",
+   "ts": "2026-08-15T14:43:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vp3cyr/what_is_the_most_egregious_title_shot_of_the"
+  },
+  {
+   "key": "c933704df718e96642ad67adafa82eed028b3bee",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC 330 'Embedded,' No. 6: Up close and personal one last time",
+   "title_key": "74f789731c885e25c18c12650f9c84d547c7fb0c",
+   "title_norm": "ufc 330 embedded no up close personal one last time",
+   "ts": "2026-08-15T14:43:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNGl5WWp4cFoyRXEtQklGSkw1cmFHVVZjd0ppN0JSaXB4aXZuLXM2QzMzU0hjMGtwT1RGd2VuSEt5MzhEdVBWR1FUWmtTYU9pcVdBRjgybnZmS3hYRXJ4ekotWW1ielhwNkZwdV9VQW1GeC1sdUhqR0pla2t1OUVNUjlWSDV4UVF2SGh4bHI4SWltLXZfcHBDbEM3QkJ5QmZINXJYSldiSDlPY3lLdVdrQU1iNDdSc3pSMWZqM1JieTl0UHo2VjRKODJDTWJVOFJmYTJlRFBnQllIXzdBRlVmOEtERlhoUWQtWkVJazVoeTZTTU53RlhiaHRkeldyQQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 0,
+  "descartados": 2,
+  "enviados": 1,
   "llamadas_llm": 3,
-  "prefiltrados": 2,
-  "recogidos": 175,
-  "unicos": 5
+  "recogidos": 174,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
