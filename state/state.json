@@ -9592,15 +9592,36 @@
    "title_norm": "10 datos debes conocer antes ufc 330",
    "ts": "2026-08-15T11:19:49+00:00",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10b0VjdElaaURYdmRLSkJ1a2Q0cThkU3FjeUc4SVhITDNROFo0U1RJUzFURWZaMWhHM2ctWjRIb19jX2hKUUdrQWVFRDBIZXZqWXloUGNUeHBrNklTQkx5RWdKY3dNNk1EZGhYcUNR?oc=5"
+  },
+  {
+   "key": "1cdcf81161cd42f91d531f478af33cdbfc178a8f",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Vale Tudo Japan 1995 Poster",
+   "title_key": "7bbb176b7e8f07632d05cb70d1dbe262ea053379",
+   "title_norm": "vale tudo japan 1995 poster",
+   "ts": "2026-08-15T11:38:08+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vou3nv/vale_tudo_japan_1995_poster"
+  },
+  {
+   "key": "fbf5f5ba14751a8214e093577d2058d897a7dbe2",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC 330: horario y dónde ver por TV en España el Makhachev vs Garry, Joel Álvarez, cartelera y combates",
+   "title_key": "462671600029d20f7191cf6ea10164ba73c76b50",
+   "title_norm": "ufc 330 horario donde ver tv espana makhachev vs garry joel alvarez cartelera combates",
+   "ts": "2026-08-15T11:38:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JeWFER2xxaC1kMjc3b1FSSXpEXzA1aGt2X3MxbmRNcmlPSko4REQtU21ValV2RXNSSDBFd21TSmYyaDllR1N1WndZcDllRUpEM1BJVFE0RzF5ZldicU9XaWFHbE1jTW9zdDR5UVJjLWhoeGNNQ2pr0gF3QVVfeXFMT3d0NXc4VWw0OUxYM1d1SDFqb21VZVlZYzlsLXhSWDRZcC1ka1hvS2ZhdzhvTzhNLWtmZnRpal84QkNRcnY4SE14OFVnQzhSX0RWNjRpeEVTZmtETGRhNXVCR19DQmd1Qlk4b0R4QzV4MDFvQVdheG8?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "prefiltrados": 3,
+  "enviados": 0,
+  "llamadas_llm": 2,
   "recogidos": 199,
-  "unicos": 9
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
