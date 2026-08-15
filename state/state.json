@@ -10659,15 +10659,69 @@
    "title_norm": "can think anyone who had worst ufc run than cm punk matches lost decided quit",
    "ts": "2026-08-15T19:53:09+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vp8deg/i_cant_think_of_anyone_whos_had_the_worst_ufc_run"
+  },
+  {
+   "key": "70907ecb56a4d74d7d17fd21b61aad33111745fb",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Mackenzie Dern respects Gillian Robertson’s ground game, but ‘there are definitely weaknesses or holes there’",
+   "title_key": "655f5981a79f186d8a12f648772c212c25b354b0",
+   "title_norm": "mackenzie dern respects gillian robertson ground game but there are definitely weaknesses or holes there",
+   "ts": "2026-08-15T20:17:51+00:00",
+   "url": "https://mmafighting.com/ufc/504775/mackenzie-dern-respects-gillian-robertsons-ground-game-but-there-are-definitely-weaknesses-or-holes-there"
+  },
+  {
+   "key": "0d1074f3f46dff6e42705506f4b1e720f6293b48",
+   "score": 2,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Who are the UFC 330 ring girls? Meet the models from Islam Makhachev vs. Ian Machado Garry",
+   "title_key": "afba34a4f2e531cca7bb16ffb53582a8c8e96fee",
+   "title_norm": "who are ufc 330 ring girls meet models islam makhachev vs ian machado garry",
+   "ts": "2026-08-15T20:17:52+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/who-are-the-ufc-330-ring-girls-meet-the-models-from-islam-makhachev-vs-ian-machado-garry"
+  },
+  {
+   "key": "832f887e42a8553e75ade024ad552eddce417766",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Khabib Nurmagomedov shares heartfelt message for Islam Makhachev ahead of UFC 330",
+   "title_key": "b8374cceab7b89eb2c1ed960b0012073295d8359",
+   "title_norm": "khabib nurmagomedov shares heartfelt message islam makhachev ahead ufc 330",
+   "ts": "2026-08-15T20:18:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDNWYUdsbDVMTzNkU05ObnMyZlVwczg3YWxvVE1XTktNZHhrZmY3azhMaEY3OGJxb1gzVzVBMElYZG0yYWVBb3dTSE84NHdPS0Jyam5NVXRDVFN2Mm1STlI2YW01YmVmamFDanhOTTRtcXYwTHZRQTRVUHhON1ZUT2hhbjBEaGt0a0xzbElYNE5SVTFfcHVpal92SUxMQnlqNW5ER25pWmp4c1NW?oc=5"
+  },
+  {
+   "key": "b7380ca9caf8a6270ce2cf504f78e14f2c2fa547",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Prediction, pick for Chidi Njokuani vs. Joel Alvarez at UFC 330",
+   "title_key": "e922b27b70e701fe1aa576062a27f8836ffe1d9e",
+   "title_norm": "prediction pick chidi njokuani vs joel alvarez ufc 330",
+   "ts": "2026-08-15T20:18:02+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlpEcnVYaU9EdjlyVGJ3ODZvVXpac0hIMXhxZ1J0VWVSSXdSYUF3R3dacm1HTlpBRU1LcV9aMG9ZSTM1bjZvaUF5akJ5V3NEUGdQZmZVbWQ3RElXYjZIVlhhWElrTkgyTmllMUFITWxPczZqb0RXUEY3MEp6eHQ2d3c2T1lxRmx0Ymg3LUVGYlNUVHNwZmRlanN4cnhhUS1zQ2Z2SElsTkxwUQ?oc=5"
+  },
+  {
+   "key": "e366a721b2363e5026bc9687f639ed2f0a4e1e32",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC 330: Makhachev vs. Machado Garry Live Fight Coverage",
+   "title_key": "461f55293f2d350bb9fbe6e5317310aac1923366",
+   "title_norm": "ufc 330 makhachev vs machado garry live fight coverage",
+   "ts": "2026-08-15T20:18:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nZzhrb184SUJ5dnpuT0FLSktzVGtxWVdRNmwxRWJ6Ni10Ry1Oa1BJeHhiWEl3TjZkS01SWU5EMzZ4QlRSckdtTldEbmJaeGdnblJ6dkEyVFFDTGhGV1lCRm1MUHlTV3JEYTFWa3Bnaw?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 175,
-  "unicos": 5
+  "enviados": 1,
+  "llamadas_llm": 5,
+  "recogidos": 176,
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
