@@ -11000,15 +11000,81 @@
    "title_norm": "ian machado garry preparing biggest night career ufc 330",
    "ts": "2026-08-15T21:56:39+00:00",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTFyTmJpZUxuTDZ2S3NSZUY5alhfQWJBOTBneHZWZ0tNYVRCZk9kb242blZHNklPbkExNGNfSXZ4N1R6eGZRWTRZdW1weWRNZFRkbF9qbWlhbVdyUlVQc2hIZWx1azRKdy1yaGhpcGZYS2Q0aG8zdlFLMkptaVdjdDZQMWlBMUJTUUZJSHhNdGFBRy1WdzdiNXNJcTNNTnVwZHlLSVVPNG1CdlBzdzFHb056aFNHYUZw?oc=5"
+  },
+  {
+   "key": "d67319cc53458d18d4d8f3732a698f1497b4679b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "WHAAAATTTT!? ABSOLUTELY COLD SUB",
+   "title_key": "4d644225886a1733a1128986586729b0e8f74a47",
+   "title_norm": "whaaaatttt absolutely cold sub",
+   "ts": "2026-08-15T22:16:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vpfdye/whaaaatttt_absolutely_cold_sub"
+  },
+  {
+   "key": "7918ade47956439e1c40e33cc1cc6afc17c975a2",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Tom Aspinall admits he’s afraid of retirement when revealing he expects career to be over by 2030",
+   "title_key": "e66b97f3f0d04ec01ff788c3f896b9da7e0a6e73",
+   "title_norm": "tom aspinall admits afraid retirement when revealing expects career be over 2030",
+   "ts": "2026-08-15T22:16:54+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/tom-aspinall-admits-hes-afraid-of-retirement-when-revealing-he-expects-career-to-be-over-by-2030"
+  },
+  {
+   "key": "2f6a8d6343e8349747e07f114b00099f1b5ef275",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "ooga boga is dead bro",
+   "title_key": "53f1a12be811b92cf4413f04c64247e05141278d",
+   "title_norm": "ooga boga dead bro",
+   "ts": "2026-08-15T22:16:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vpfelo/ooga_boga_is_dead_bro"
+  },
+  {
+   "key": "8d1f534977a541a8851f9d2cfae8e98af49e35fe",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "They did not have front choke defense in 10,000 BC",
+   "title_key": "0e9bf7be6f7e12c25d197b20b62ca7089357324d",
+   "title_norm": "they did not have front choke defense 10 000 bc",
+   "ts": "2026-08-15T22:16:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vpffii/they_did_not_have_front_choke_defense_in_10000_bc"
+  },
+  {
+   "key": "54f58ade14ed0a401f85e7949bb44bffa3c31300",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Wells gets it done",
+   "title_key": "b59b66c2af4f1c20ba6c6066203dcc6c71ffd56f",
+   "title_norm": "wells gets done",
+   "ts": "2026-08-15T22:16:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vpfgg2/wells_gets_it_done"
+  },
+  {
+   "key": "c03e06a3d7bfa25ba9cfa4caca12493bce23bc65",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Myktybek Orolbai choked unconscious by Jeremiah Wells’ comeback guillotine at UFC 330",
+   "title_key": "558efb4f28908ebf0fb94f1caeb92e5bbe9973ae",
+   "title_norm": "myktybek orolbai choked unconscious jeremiah wells comeback guillotine ufc 330",
+   "ts": "2026-08-15T22:16:58+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/myktybek-orolbai-put-to-sleep-by-jeremiah-wells-comeback-submission-at-ufc-330"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
+  "descartados": 0,
+  "enviados": 1,
+  "llamadas_llm": 1,
+  "prefiltrados": 5,
   "recogidos": 176,
-  "unicos": 5
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
