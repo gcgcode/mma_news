@@ -10582,14 +10582,36 @@
    "title_norm": "khabib nurmagomedov talks islam makhachev potential lightweight return welterweight move before ufc 330",
    "ts": "2026-08-15T19:02:32+00:00",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWG80UWZmSnV5czVhVlFUNExvMmVkSGVJZVNuekNYVFMyd3IwOUZaMV9WTG5vTE9Nb2prdVFSQWNSYmZVR3Z1ay1aTlFLNk81Q0t1RXNPY015U2RfWFl6eWhlSE14b0NXRnZpSklNdkstd2NlMjBFUWdpLWN2VkppWm5OLWV4Ump6a2h2cWU4dnFQOTlucFFlYWhQRUN1MWNMY1UtdkVKb2huM3hkNE5vUjh2MGQzQnBxRTZNenRYcGZGUQ?oc=5"
+  },
+  {
+   "key": "6ed7124cf7d3f0d5a6cb1940aae3f53b59e4535c",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Tsarukyan y Ruffy encienden la previa de UFC 331 con intenso careo en Los Ángeles",
+   "title_key": "b653dd429521b14a5cc60dab8475c319c2f7f013",
+   "title_norm": "tsarukyan ruffy encienden previa ufc 331 intenso careo angeles",
+   "ts": "2026-08-15T19:28:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVllCamp0cmc2T0NPNTNrd0t1NTZRRks2SWxqY2tsNm5tOHpacjB3clQ1c0tNS0RyYm4zWVRxRV9WNFlCVXlySVpSY1dBdWdQUEtVS04wY2s1cGRJSHVibE5mR2xIZHk1SDY4SmNXM3dWZG4yTlg5eklrNS01X3dPcWtVdUhyYVcycWYwdm5qMnpBM2xySkZJWHhDMDlxX3gwU1VjcWxFU2JxUUp2ZW5tS2l30gGyAUFVX3lxTE5WWUJqanRyZzZPQ081M2t3S3U1NlFGSzZJbGpja2w2bm04elpyMHdyVDVzS01LRHJibjNZVHFFX1Y0WUJVeXJJWlJjV0F1Z1BQS1VLTjBjazVwZElIdWJsTmZHbEhkeTVINjhKY1czd1ZkbjJOWDl6SWs1LTVfd09xa1V1SHJhVzJxZjB2bmoyekEzbHJKRklYeEMwOXFfeDBTVWNxbEVTYnFRSnZlbm1LaXc?oc=5"
+  },
+  {
+   "key": "bb1b73fd7736d46898e8b40bdb5140934f1ced52",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Joshua Van plans to finish Alexandre Pantoja at UFC 331, defend again quickly",
+   "title_key": "c413d08d58204200b46d62e84c5748eac1190a95",
+   "title_norm": "joshua van plans finish alexandre pantoja ufc 331 defend again quickly",
+   "ts": "2026-08-15T19:28:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3FqNlFQeVlLZUhraC1pRkNESkZuOTIzS180dWtweS1jOGR0R010SWRHb1VwdVR2VlpQRnRFdENrbFhKbHYydGZ2UWE0TzNOeU5zdGRpbHBoRlRTdGdqbE1zQVFXOUhscXVRWUVoSW5yRnI5eG9TRHF0cnQtcHFldUZvakJvVkZOVU9sWXpOUG8xX0t4NDVqcEt2VE0tNmkwN01nUmhDZU9wY3VMVnRveDJrdUJZUjF3UHFJSTdBR0RrRFJfMGNNYm5UVjFfV3loalNqZXpNUjEyQVk?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
-  "llamadas_llm": 5,
-  "recogidos": 154,
-  "unicos": 7
+  "descartados": 0,
+  "enviados": 2,
+  "llamadas_llm": 2,
+  "recogidos": 155,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
