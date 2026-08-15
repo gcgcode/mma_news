@@ -10604,14 +10604,70 @@
    "title_norm": "joshua van plans finish alexandre pantoja ufc 331 defend again quickly",
    "ts": "2026-08-15T19:28:44+00:00",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3FqNlFQeVlLZUhraC1pRkNESkZuOTIzS180dWtweS1jOGR0R010SWRHb1VwdVR2VlpQRnRFdENrbFhKbHYydGZ2UWE0TzNOeU5zdGRpbHBoRlRTdGdqbE1zQVFXOUhscXVRWUVoSW5yRnI5eG9TRHF0cnQtcHFldUZvakJvVkZOVU9sWXpOUG8xX0t4NDVqcEt2VE0tNmkwN01nUmhDZU9wY3VMVnRveDJrdUJZUjF3UHFJSTdBR0RrRFJfMGNNYm5UVjFfV3loalNqZXpNUjEyQVk?oc=5"
+  },
+  {
+   "key": "9c1e7132536eee6cabc2d9991b2c712ae5c759fb",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Mackenzie Dern fight day #UFC330.",
+   "title_key": "583b9c60db2ab7a75de63b0e0719f6925831932b",
+   "title_norm": "mackenzie dern fight day ufc330",
+   "ts": "2026-08-15T19:52:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vp82ib/mackenzie_dern_fight_day_ufc330"
+  },
+  {
+   "key": "5ca1c6157d076a98b827ec2f11999585f6544896",
+   "score": 2,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "What time does Mackenzie Dern vs. Gillian Robertson start at UFC 330?",
+   "title_key": "e72bbefe7b85a3d6d8b12219669c00b6d1f93c93",
+   "title_norm": "what time does mackenzie dern vs gillian robertson start ufc 330",
+   "ts": "2026-08-15T19:52:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOanJ0ZFRaTk9TSlVIQy1GVEFoX0R6eDFidi1tcC1xZmE0YjdUd0pISmZoQzd3bms3Mlo2b2tYdmcwLXE0QzNDc0htOFRsd1pfcmV3UDNZV3NFeDA3V3E1aUNzdk5qeGFrd0FfV1ZXR2p0bXlTaUVBWVBqa3FwZWZhV29ubVFFLXdrSmVrRG8zOWVPZUV6bHpIaFVBSW1tSkw1Tk5ELUtySnVzRFhIaS1ZaGExeFptZFVhY3NrbHdMTGVoMFNjTlN3?oc=5"
+  },
+  {
+   "key": "1d367fe4228b8a86b9e95bd5b77516d6335b79e5",
+   "score": 1,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ray J v Orlando Brown and Tesehki v Big Lex boxing fight LIVE stream info, results and more from Zeus Network card",
+   "title_key": "2e00fcb03511cc7117304e786b93a01b93f9a3cd",
+   "title_norm": "ray orlando brown tesehki big lex boxing fight live stream info results more zeus network card",
+   "ts": "2026-08-15T19:52:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/ray-j-v-orlando-brown-and-tesehki-v-big-lex-boxing-fight-live-stream-info-results-and-more-from-zeus-network-card"
+  },
+  {
+   "key": "d72740f4386810b8861589a0b1a9301449ad3949",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Why Islam Makhachev avoided punishment for positive drug test a decade before UFC 330",
+   "title_key": "46368fb33b6077e1e4e7736c48a0bda9d1446844",
+   "title_norm": "why islam makhachev avoided punishment positive drug test decade before ufc 330",
+   "ts": "2026-08-15T19:53:08+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/why-islam-makhachev-avoided-punishment-for-positive-drug-test-a-decade-before-ufc-330"
+  },
+  {
+   "key": "f4edf26d4c1c9fcca84ce70d2e82e08cd2caa6a5",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I can't think of anyone who's had the worst UFC run than cm punk 2 matches lost and decided to quit",
+   "title_key": "0d5d22b5642091ad6c5f7e96e0fe643558d24900",
+   "title_norm": "can think anyone who had worst ufc run than cm punk matches lost decided quit",
+   "ts": "2026-08-15T19:53:09+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vp8deg/i_cant_think_of_anyone_whos_had_the_worst_ufc_run"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 2,
-  "llamadas_llm": 2,
-  "recogidos": 155,
-  "unicos": 2
+  "descartados": 4,
+  "enviados": 0,
+  "llamadas_llm": 4,
+  "prefiltrados": 1,
+  "recogidos": 175,
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
