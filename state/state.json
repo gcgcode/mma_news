@@ -8580,15 +8580,92 @@
    "title_norm": "why gillian robertson live ufc 330 underdog against mackenzie dern",
    "ts": "2026-08-14T23:42:33+00:00",
    "url": "https://lowkickmma.com/why-gillian-robertson-live-ufc-330-underdog-vs-mackenzie-dern"
+  },
+  {
+   "key": "465009c59b9078924e6d722a77cb50d80a28c730",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Ian Garry accuses Islam Makhachev of wearing heels at face-off",
+   "title_key": "1cb93199278e7e451ad37ccf393ba2f9e8253316",
+   "title_norm": "ian garry accuses islam makhachev wearing heels face off",
+   "ts": "2026-08-15T00:57:42+00:00",
+   "url": "https://sherdog.com/news/news/Ian-Garry-accuses-Islam-Makhachev-of-wearing-heels-at-faceoff-202337"
+  },
+  {
+   "key": "ed87e52910536a204817ec084e720056967536c6",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam Makhachev sharing a moment with Ian Garry’s son",
+   "title_key": "f9a91f68f8c7a1bbf4074c0b6e020d63de4555ca",
+   "title_norm": "islam makhachev sharing moment ian garry son",
+   "ts": "2026-08-15T00:57:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vomduh/islam_makhachev_sharing_a_moment_with_ian_garrys"
+  },
+  {
+   "key": "af52a7d444aa5ea31c565865d9e7d9931254dcc7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "This day was fun",
+   "title_key": "afdc84dc5e0bac228288e52cf197e41eeccd744c",
+   "title_norm": "this day fun",
+   "ts": "2026-08-15T00:57:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1voo1xw/this_day_was_fun"
+  },
+  {
+   "key": "3044bc6c1ae1e99d0788136dd5697dcdd51ddee7",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Dana White says one fight stops Islam Makhachev from already being the UFC GOAT",
+   "title_key": "55b6c40e1641ffc0cd17396906cda52641d56aa4",
+   "title_norm": "dana white says one fight stops islam makhachev already being ufc goat",
+   "ts": "2026-08-15T00:57:47+00:00",
+   "url": "https://bloodyelbow.com/2026/08/14/dana-white-says-one-fight-stops-islam-makhachev-from-already-being-the-ufc-goat"
+  },
+  {
+   "key": "747559945d4c11d7dcf7ff1989b9dd63c0aaa168",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "11 consecutive title defenses is nuts lol",
+   "title_key": "da327c0559fc231f240bbd2a2a23b49c6ec2bba4",
+   "title_norm": "11 consecutive title defenses nuts lol",
+   "ts": "2026-08-15T00:57:48+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1von27n/11_consecutive_title_defenses_is_nuts_lol"
+  },
+  {
+   "key": "715ae6dfd6cddef4ca269dec08d3b0144ff08176",
+   "score": 9,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev and Ian Machado Garry share intense final face-off ahead of UFC 330",
+   "title_key": "8a6cff94081f6ac220d3b6684eccfebf6b7e9aca",
+   "title_norm": "islam makhachev ian machado garry share intense final face off ahead ufc 330",
+   "ts": "2026-08-15T00:57:53+00:00",
+   "url": "https://bloodyelbow.com/2026/08/14/islam-makhachev-and-ian-machado-garry-share-intense-final-face-off-ahead-of-ufc-330"
+  },
+  {
+   "key": "ce1fb3bfd7d43d781c804d33744c6780d4debe07",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Why do I see this going in the “Cocky fighter got humbled” type of videos on Sept 19",
+   "title_key": "67ef66d6d0c4806a23dff8c0a7e9cf4b2f218da4",
+   "title_norm": "why do see this going cocky fighter got humbled type videos sept 19",
+   "ts": "2026-08-15T00:57:57+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vokq2e/why_do_i_see_this_going_in_the_cocky_fighter_got"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 3,
-  "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 182,
-  "unicos": 19
+  "enviados": 2,
+  "llamadas_llm": 4,
+  "prefiltrados": 3,
+  "recogidos": 175,
+  "unicos": 20
  },
  "telegram_offset": 958387804,
  "version": 1
