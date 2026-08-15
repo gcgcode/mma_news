@@ -10406,15 +10406,47 @@
    "title_norm": "ufc 330 horarios cartelera velada como ver vivo",
    "ts": "2026-08-15T17:17:54+00:00",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSk16dHVEOExNZ0prbFJyT2FUMG44ME1FT3lWVVpUX19yUEZEOVJjWEp6aVdsQkI0V0ZZZW5EWmUtZE5uQ1pGcHlUYU9nOU4wTkF3SmdzcjliMXJiYXRrd1VHLUpHczNSZnVhYTNwTG9TT0hyTFdBRmIyTXA1WFhtOXpYUUtFOEhpWTdjTngwbDRoYWlPVWFnS2oyTmZNT2Fp?oc=5"
+  },
+  {
+   "key": "4eb55a70a70a2edabef8cb4f10b0e3dc00922b7b",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Karen Martinez Bio Information - UFC",
+   "title_key": "aa78e4cd05ede8364e84c83f5fbebd98df66b2e7",
+   "title_norm": "karen martinez bio information ufc",
+   "ts": "2026-08-15T17:40:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wcWJIN25jMHZiV2tRQjNBQmliamRJQjZneS1xUDlxa0pPM1VDYU52T0g0eDNTeW11REJxSlh5YmcwZEZkUXZ2dy1qT2tlcGhrOGVRZmo4eGZDQ29ZV3hBcWVqNklPNU0?oc=5"
+  },
+  {
+   "key": "2c3e62086b49b16287b41dbc130e0bed4a8f277b",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Nestor Huerta Highlights and Videos - UFC",
+   "title_key": "cd6554470340a636b9aee8368faa1c2603425400",
+   "title_norm": "nestor huerta highlights videos ufc",
+   "ts": "2026-08-15T17:40:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SRWsxdV90NzNCckxUcU5OX3ZVdkN4LXRGdm04TDNfOHJpLUw4UVA1NnozU2Y1Rmc1M3I5R2hVTUlhTm91a3FIX1hXWHVSbWtxNjFqQ3V6MUtNYVJqWkx5ZU56a2hwdURmaHlWUWtVUQ?oc=5"
+  },
+  {
+   "key": "511ec1cf2ff5451ec20370c85569672c809781a4",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Gabriel Martinez - News & Rumors - UFC",
+   "title_key": "5acac4e5a70ef450c0d8d38b0a8af9bf934c02e4",
+   "title_norm": "gabriel martinez news rumors ufc",
+   "ts": "2026-08-15T17:40:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qY20tR0tKNWtEYkhWM0EtbmEySkl1Rm9tNjY1TVllai1jWU9WOHJEZXJvOVVNUVBwNy1wXzdJRW44LWZPRURGb05vdldQVUhQbVR3Ujh5QUxEbWdfdndoM0Y0TjE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 4,
-  "recogidos": 174,
-  "unicos": 10
+  "descartados": 3,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "recogidos": 175,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
