@@ -9680,15 +9680,48 @@
    "title_norm": "diego lopes confirms ufc weight class change",
    "ts": "2026-08-15T11:54:48+00:00",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1pkVWswOWkwU2Z6cktOMDFLZWVsN3I3cGxUMGZxT0pKSmJPUDZPVWVRT2Zha0Y4MkFCd3hwRWpDMEk5UDYwYXFkVDhDaTBZd1JBWmcza0I3MEg5UWtlT0JBYnJoS3V5LV9NNFpxVEJicFI3c2VQajhrS1FQYkozYkllZE1XeGM?oc=5"
+  },
+  {
+   "key": "50382b8c58c7456fe11b750b698792d4fbf2d0df",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Programa Marcador de Radio MARCA",
+   "title_key": "9bce2b7a5e69fdbf5729ac35c9809ee2a04a93b6",
+   "title_norm": "programa marcador radio marca",
+   "ts": "2026-08-15T12:27:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfc3JlWHFiWkx1cG1yYUhpQnBiR290ZENtOFdHeGsxVjBSNk1aeXI2VmsyYUx5M3R1Nk9teUNkbG91cERCc0VTdVNYcjhDM0pZQ3llYlpEdVh2b214amI0YTVpdHBLX3g1UTc3ckctZw?oc=5"
+  },
+  {
+   "key": "1b817b906ca2a42ae0244edfff38f594a6249916",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 330 predictions",
+   "title_key": "d9317ad04d10d94b601fe0b524fbd61a272e0c9a",
+   "title_norm": "ufc 330 predictions",
+   "ts": "2026-08-15T12:27:52+00:00",
+   "url": "https://mmafighting.com/ufc/504798/ufc-330-predictions"
+  },
+  {
+   "key": "b53e2ea720c6f57ecb80b24b0c033992795b0c47",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Arman Tsarukyan calls for Dana White’s help as he plans latest side quest after UFC 331",
+   "title_key": "a5b66f3ee15460def31d9f66672f37f4c3402f49",
+   "title_norm": "arman tsarukyan calls dana white help plans latest side quest after ufc 331",
+   "ts": "2026-08-15T12:27:52+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/arman-tsarukyan-calls-for-dana-whites-help-as-he-plans-latest-side-quest-after-ufc-331"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 1,
   "enviados": 1,
-  "llamadas_llm": 5,
+  "llamadas_llm": 2,
   "prefiltrados": 1,
   "recogidos": 199,
-  "unicos": 8
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
