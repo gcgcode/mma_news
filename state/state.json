@@ -9141,14 +9141,58 @@
    "title_norm": "five burning questions heading into ufc 330",
    "ts": "2026-08-15T05:34:02+00:00",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGZpRk1jRFNvZUprZzMtejFxZklhbkFHcnh1Sk15Sm4za055TzBVeWdpaUhkdjhVMDVhTEw1R1VHNi0waWUtXy1zYmE1VWtFVkFsa1EtcS1XN0VQN2xoZ2l6V2VCRlp2QVdjRTVhSDdteVhRVXJ5eFZRNklremFlSGUtVkpkZFotSWRrREdLMVpWTTF4ZmRmZTVYcw?oc=5"
+  },
+  {
+   "key": "32dfd906dae6649938ec09456fa58dc7a4af46a4",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Ilia Topuria - News & Rumors - UFC",
+   "title_key": "08572c836d59f4e56dda8f1f4a4c7fe3d52fc611",
+   "title_norm": "ilia topuria news rumors ufc",
+   "ts": "2026-08-15T05:57:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOcmtTYVNtUmdNM1RSa0JkUnFTMl9PM2ItV0NXRVBYdC1pQjZvLVpELVR0ajdNdGZlNGVPajU2a0NhS2dtQ3NSSFRyancwMmkzZEo2U1R6akJ0NTZiU3pz?oc=5"
+  },
+  {
+   "key": "0a55231d521e90f3c8e62f6ddd9508da02eaf0c8",
+   "score": 7,
+   "sent": true,
+   "source": "Yahoo Sports MMA",
+   "title": "UFC 330 coming to Philadelphia this weekend. Here's who's fighting",
+   "title_key": "f1cb5dc9cd487f44508c9bcde5180143aa06d9ed",
+   "title_norm": "ufc 330 coming philadelphia this weekend here who fighting",
+   "ts": "2026-08-15T05:59:08+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXpkTUFlTzVPOElCeHF5TWRVUU43cVE1X1hBNUhkbGs3M3p2ZFpzM01rY1J5U1d0SG5ObzVvQjFrdDZMYVQycjFZanJHX2hqNTVGVlFLalJBcHQtcHh0NTdJc3VzU2RzRkVoTmY4U1dTMTlueGF2UTB0S1dsZ18xVTcxdDdrXzNvcXdSVQ?oc=5"
+  },
+  {
+   "key": "b28e75e5ff22d8b64760b99f5802cb9abc51cfc7",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Josh Hokit - News & Rumors - UFC",
+   "title_key": "d90cb9b3c3d8d99004c14c0ac6d2b9db91c4ee61",
+   "title_norm": "josh hokit news rumors ufc",
+   "ts": "2026-08-15T05:59:24+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JNjAzMm5JdXFFcnBOVllkMVVvOTEtM2Z1QmR0TGtJSTJhTnlGZ25iT0cxTUtxSkJsekxhNlNLbTdaRFVqb2Y3dDlJcllxWE1HV0pmR3RWZ0hlS2lF?oc=5"
+  },
+  {
+   "key": "2633cc04cf7cac6588ee5d9ee9fb3bb3a0a16594",
+   "score": 1,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "El Rocktagono | Noticias Reportajes MMA UFC en español",
+   "title_key": "90170a00b4ae5b4f9440ae394263f6ba8f69dc4d",
+   "title_norm": "rocktagono noticias reportajes mma ufc espanol",
+   "ts": "2026-08-15T05:59:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wYTBwTzZ6Q3lNVTVHc21FZXV5RkcyQ2tIWG56OGx6eDNqZVp6eG5WVUFLZFNCS1NNYUQ3dzE5X2sybTg?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
-  "llamadas_llm": 5,
-  "recogidos": 175,
-  "unicos": 9
+  "descartados": 3,
+  "enviados": 1,
+  "llamadas_llm": 4,
+  "recogidos": 176,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
