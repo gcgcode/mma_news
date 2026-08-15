@@ -9328,14 +9328,25 @@
    "title_norm": "resumen sv groedig vs ufc hallein septiembre 2026 regionalliga north",
    "ts": "2026-08-15T07:47:51+00:00",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yYzFDcVVwRGJBenlFT0xSa3dPRmlEZG5FSkEyZUNUMFluaVA2dS1ZdVR0QmRRTV9YREN6VFNOYkNJVEV3eWNOYWVaakZmN2ZGdnV0Z1pYQ1JtUWdzR2w2OEJrTFd3MHRSa2xNWEtVVGd2TEZGbXNVM05Zem0?oc=5"
+  },
+  {
+   "key": "37a24a8fec72deb292ec65aaa23db2c5665162d9",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "New Khabib reaction gif",
+   "title_key": "d97e26841c1f8691355ed0028813d6b9bca4b201",
+   "title_norm": "new khabib reaction gif",
+   "ts": "2026-08-15T08:22:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1votle4/new_khabib_reaction_gif"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 1,
-  "llamadas_llm": 2,
-  "recogidos": 154,
-  "unicos": 2
+  "descartados": 0,
+  "enviados": 0,
+  "prefiltrados": 1,
+  "recogidos": 173,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
