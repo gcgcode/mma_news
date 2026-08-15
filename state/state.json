@@ -10054,14 +10054,59 @@
    "title_norm": "ea sports ufc official reveal trailer centerpoint outage l0cdovszac",
    "ts": "2026-08-15T15:39:59+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51N0ZBUUc5Yk4wdjNQSFBhNm5PZUg1SUNzMUJNaGlIaF93NHZyQlQ2bzZIWE9UQTNTdkU0SXRyR3dUb2dudU0yTjg2ZnhWMVFkZXNnSURYVGpDb1E?oc=5"
+  },
+  {
+   "key": "2c324db0003015e9f4c334ada8ca1e0180a6f3e8",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "The time Islam ignored Khabib’s instructions Khabib was telling him to take the back, but Islam refused and finished the fight with a D’Arce choke just seconds ",
+   "title_key": "5bd98e5387d6d0683737da2ebbe9216d712d7f04",
+   "title_norm": "time islam ignored khabib instructions khabib telling him take back but islam refused finished fight arce choke just seconds later",
+   "ts": "2026-08-15T15:55:37+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vp5bz2/the_time_islam_ignored_khabibs_instructions"
+  },
+  {
+   "key": "5a3c500afdeb598995d01ef87a5a6b237da495f5",
+   "score": 2,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "Calificaciones UFC 328 - ESPN",
+   "title_key": "099f4e7add63b89230039ef97df8ddd917418b7f",
+   "title_norm": "calificaciones ufc 328 espn",
+   "ts": "2026-08-15T15:55:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZERHc2N4R3VKVzVTYW81N0t6Sml6MWE0YUhCeXRGaU9OcDdBQ2YwUDBEM2V0UFFoOXN2RjN6UXYwcENJWllfQWVsZ3Q2d0dXYnQ2M1N3U0Vud2tVdElYb3hkUm5uX1NxVDh5bTFCTnFYQk1QU1oxTlNic1lXOTMtMHZvNHBOb19jYVpDMXdjSXhaSlVCcGl5bnN0c21BM2pTQmpTR2xNMlFNOE1SWG56ejVMaUNSdS12WU4takJ2Mk9ZRFpoZ3pGaTlaZ2QwVTVOam9z?oc=5"
+  },
+  {
+   "key": "13cbfb42217afb3064409dde58f8ca9ad35c477e",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Islam Makhachev va por el récord histórico de Anderson Silva en UFC 330",
+   "title_key": "26de216300a0504f1248e446449b6b9100a3a2d8",
+   "title_norm": "islam makhachev va record historico anderson silva ufc 330",
+   "ts": "2026-08-15T15:55:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0hpMDJlbUEzNW5yR2xMV2RwUFVId3AtdDFXcUo5S3dEVFBIOW43NE9IZXNJUUZNUlN4emZhdUNoaV9oX1pYcGdFMzh0d01RcnFpcEJHTFJUWjVDYTlsM3h1VXpGMkdIZmtEV2hnVUFLVGJ0NVhWN2EwTkhaT3AxT3ZlNVZrbndKUXkwQzhvUmF0ODhfb1dTRVl6MkFOQzZpQ2tpejBFTHhSTVE2eGNQdGJyNW1RZnVYTGVJSHdpQ1NNVkZi?oc=5"
+  },
+  {
+   "key": "c36542c906c4d2071a96b35f412a7e54da1fd9c0",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC 328 full card official weigh-in highlights",
+   "title_key": "859abf407326f7a12b510f891935135fccf42e6e",
+   "title_norm": "ufc 328 full card official weigh highlights",
+   "ts": "2026-08-15T15:55:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTA3S3ZfcXVGWFFpa01mamRlNnRRanpaREFnX1BZTzU2Nl80U1FCcDJwV1lnT01zVXZncVp1R2xndjM3bDVzTkM4N0NEbnJlbldsMmtyVVRieFFtak5pMnRtSmhEd1dLenpTUGxGcU45dGZ3VnYwR005SWxyTlBfdE9XenhkaTJOWXJnZlo1NA?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "recogidos": 155,
-  "unicos": 5
+  "descartados": 3,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
+  "recogidos": 174,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
