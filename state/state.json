@@ -9405,15 +9405,81 @@
    "title_norm": "horario donde ufc 330 joel alvarez vuelve jaula makhachev pelea cinturon",
    "ts": "2026-08-15T09:56:22+00:00",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkNpaU9WSnVBV3ZsSU9fVERNMjB0c2lrWGNHc3o2bnRRUUU0WTN1VndaQUp0bUZOSkZQY01SeXNhbUFwZ0x5aUtHWDBobWRtSnViRUdQUk9SRF9RSHdmSlpHcGFhR1RXUFkwVk9EbWtZTmtwRWxoM21uZnhVSjNfVGI2c1VIcXhoeDFPOTdqUjRsTklneXRQcVFpUmp0ZGJCN0RUcGJ3elVGSm5LTFhWZWljbV9OcXd1bGc?oc=5"
+  },
+  {
+   "key": "ae15f244860fc7d38b1dada23942f0320cb4266a",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "All you bandwagoners will soon be reminded what greatness looks like 👑",
+   "title_key": "c49d3585c050fd0fe20c8b64cd73ebbddad21bfb",
+   "title_norm": "all you bandwagoners will soon be reminded what greatness looks like",
+   "ts": "2026-08-15T10:18:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1voxs2h/all_you_bandwagoners_will_soon_be_reminded_what"
+  },
+  {
+   "key": "1ee6788d44d267e90ce51b33acdf8390bcb4bfa7",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Jon Telfer Signs With BKB, Targets Newcastle Return on October 10",
+   "title_key": "988eae83da5960ac6ba9a5284dca3dae443ac5f3",
+   "title_norm": "jon telfer signs bkb targets newcastle return october 10",
+   "ts": "2026-08-15T10:18:41+00:00",
+   "url": "https://lowkickmma.com/jon-telfer-signs-with-bkb-targets-newcastle-return-on-october-10"
+  },
+  {
+   "key": "b55b2c868a9424eddc898687714d6ae94a42b91f",
+   "score": 7,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "UFC 330 Odds: Esteban Ribovics a Huge Favorite Over Edson Barboza in Philadelphia",
+   "title_key": "8f6e4633f009cb823657c784d871871456166d95",
+   "title_norm": "ufc 330 odds esteban ribovics huge favorite over edson barboza philadelphia",
+   "ts": "2026-08-15T10:19:01+00:00",
+   "url": "https://lowkickmma.com/ufc-330-odds-esteban-ribovics-a-huge-favorite-over-edson-barboza-in-philadelphia"
+  },
+  {
+   "key": "810759691f9eff2ea5117a76efa74a5a6362eda1",
+   "score": 8,
+   "sent": true,
+   "source": "Yahoo Sports MMA",
+   "title": "UFC 330 live stream: How to watch Makhachev vs. Machado Garry, start time, channel",
+   "title_key": "410237e41809fbcd68a6d82b631674ab79cec31e",
+   "title_norm": "ufc 330 live stream how watch makhachev vs machado garry start time channel",
+   "ts": "2026-08-15T10:19:10+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2dWRKa1d2bDVsUVJhcUFQWFNoZHh6NGZtaUhnLUsxTkxNS24tUG9mR3hXcDIzXzhLLUZXMWVPWW95ajVUOGdTZHZ2cllrZHFzcXNpM2MySWxWODRad1MxOTk4aG5wTE82RUpvNnJFb29zb0g5cFBVVi1hSmtCUQ?oc=5"
+  },
+  {
+   "key": "5da0388a1c8a8469cd620014265854f475cee299",
+   "score": 3,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Claressa Shields Heavy Favorite Over Kaye Scott as Middleweight Belts Go on the Line",
+   "title_key": "b87075c5946dc94e2cea8f49fe9e8a3bbc47376c",
+   "title_norm": "claressa shields heavy favorite over kaye scott middleweight belts go line",
+   "ts": "2026-08-15T10:19:15+00:00",
+   "url": "https://lowkickmma.com/claressa-shields-heavy-favorite-over-kaye-scott-as-middleweight-belts-go-on-the-line"
+  },
+  {
+   "key": "db33d1de94721e63ba9643a7f6f603f9488010ed",
+   "score": 7,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Former UFC heavyweight Jairzinho Rozenstruik signs with PFL",
+   "title_key": "dd8decabcc3f4d0e4e20571d59cab41c32c7dd76",
+   "title_norm": "former ufc heavyweight jairzinho rozenstruik signs pfl",
+   "ts": "2026-08-15T10:19:56+00:00",
+   "url": "https://lowkickmma.com/jairzinho-rozenstruik-signs-with-pfl"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 2,
-  "llamadas_llm": 2,
-  "prefiltrados": 1,
-  "recogidos": 164,
-  "unicos": 3
+  "descartados": 1,
+  "enviados": 3,
+  "llamadas_llm": 4,
+  "prefiltrados": 2,
+  "recogidos": 173,
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
