@@ -9790,15 +9790,59 @@
    "title_norm": "ufc prop bets best champion props today",
    "ts": "2026-08-15T13:14:57+00:00",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WVERWQ0YwVHg3NjNjX2wwblQyc1E5QUZCUnVYQzQxZWNZMnB3T1E2Y0pnVEtZRzluUkRhSG83V1dxUmRVZHlxMjMxdVVQd3o2WkFKUzJR?oc=5"
+  },
+  {
+   "key": "6586992a7a78bc8b157fcc2c2b2d73215aa36060",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "DiJonai Carrington has WNBA fan removed from courtside before he returns after “unfounded” complaint",
+   "title_key": "da848f4cdef1d5ba401e26852e71f2accab36b1b",
+   "title_norm": "dijonai carrington has wnba fan removed courtside before returns after unfounded complaint",
+   "ts": "2026-08-15T13:46:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDlFXzduckxHb0U4Zi1xTlRRQkZCNG1Qakp3LW9OeklGcnkxbVBxaDNSNWJJT29ma0ZRTXh3MFFGRk5JeXpOaHpBMXBpTTZRUkxudzZyMDNqc2d2YmVnanpqTG12T3RMcHpMWWlvVGgwWmV3SGxCSWt6UERTNDZjNmhZVElQV0t2QWdF?oc=5"
+  },
+  {
+   "key": "15ff44b568db138c00df7309a23d247998040702",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Who’s predicting upsets and two new champs at UFC 330?",
+   "title_key": "e8060cc0b2f20aaf5229ec82430d988486a31346",
+   "title_norm": "who predicting upsets two new champs ufc 330",
+   "ts": "2026-08-15T13:46:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZDdxYjVtSi1JaUJITWFLbEdzSHNwSDQxMzN0dUlUUzZ2blJjZzh2UnpwbEo2bzFiZ29BXzc5TkhCbkZlLVdfU3RPNEhWZGdDWHdPVlNyZ09qU2pmelRXd3A1QU1GMjZKOHNmNTF6WUEyRGhRdW9Na01odmtRUk9fVzJuVC1OTHZHcHFUcnZqUFJiRk9mbmF3QXRxT0ZNTVE5SS1JVy04U1NfSkw1U1g5SllhWGw2Mk9zOEZ4ZDFndXNtbmQ1NHgwSXFjeENZakdjZ25KNXRORUpPTW1uWGRwekpPb050ZzZCckpfbEczci1OeTJsY25CdA?oc=5"
+  },
+  {
+   "key": "86e30ce335fa4928bf7ce222ed1077f7e9107227",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Belal Muhammad could see Islam Makhachev submitting Ian Machado Garry late",
+   "title_key": "4e255f5af88f16a9a1bd3c6e59a9bd1d30bc399c",
+   "title_norm": "belal muhammad could see islam makhachev submitting ian machado garry late",
+   "ts": "2026-08-15T13:46:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZXdydW8ydEpaWm4xWjJtUWY2QklfSVpadndXTTJmRTVjdktLQnVZMEFVMDctbDlDNmktSldUYUtJYVFrUnotN3pJd2tVQU55V2FscnJVQWp3V3NIQ1hHUUNUdnlGNXJOMUs1dTVwUExrb19GbG5qaU5UWXRwNnZCZ2tyS1lLaTlVZnBOYzFzNmVpUVA4WFk3eU1TWDVGRDNtZ1ktWktZdjEzRFNTQXd4ZUh1Ml95OUNpQVNpaHhMQWJsbjdQUHQzbTFjS0JZZ0Q5eWFHWFdLV1E5eDlXOWFaQlNodkxIaldubnQwYzJiYVoxbG8?oc=5"
+  },
+  {
+   "key": "f1ae32b23cbdee1956b525e50960bb36104fe2de",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Justin Gaethje - News & Rumors - UFC",
+   "title_key": "e263434426df48cc275d480981488f4c36504452",
+   "title_norm": "justin gaethje news rumors ufc",
+   "ts": "2026-08-15T13:46:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHVXpoRTE1V3owWExBNmFlTExXdVBSLTlwa2JLdDY1eE9vdVpObk1lU1VMTTFwclJFamFpSTNGcTIydHZ3UF9JT1d6a2VGSzJDTlpyVnFMb1ZwWHVYYVhBTUFn?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 200,
-  "unicos": 7
+  "descartados": 3,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
+  "recogidos": 199,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
