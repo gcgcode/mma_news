@@ -9339,13 +9339,24 @@
    "title_norm": "new khabib reaction gif",
    "ts": "2026-08-15T08:22:40+00:00",
    "url": "https://reddit.com/r/ufc/comments/1votle4/new_khabib_reaction_gif"
+  },
+  {
+   "key": "0b0dd83b77f03d9288fd15fef097829693ac1937",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Jack Della Maddalena predicts Islam Makhachev to lose at UFC 330 despite being 50-45’d by the champ",
+   "title_key": "84c6ae4f85034b25a3a7f69b5ee3aa1b3fae753c",
+   "title_norm": "jack della maddalena predicts islam makhachev lose ufc 330 despite being 50 45 champ",
+   "ts": "2026-08-15T09:00:55+00:00",
+   "url": "https://bloodyelbow.com/2026/08/15/jack-della-maddalena-predicts-islam-makhachev-to-lose-at-ufc-330-despite-being-50-45d-by-the-champ"
   }
  ],
  "stats": {
-  "descartados": 0,
+  "descartados": 1,
   "enviados": 0,
-  "prefiltrados": 1,
-  "recogidos": 173,
+  "llamadas_llm": 1,
+  "recogidos": 174,
   "unicos": 1
  },
  "telegram_offset": 958387804,
