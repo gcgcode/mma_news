@@ -9306,15 +9306,36 @@
    "title_norm": "ufc 330 makhachev vs garry start time undercard how watch fight this weekend",
    "ts": "2026-08-15T07:11:22+00:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaldUR1dwYVhRZTUzY0lTMjRWRnM5QUduYWNQUWpGUmtSWnNoZXdmRG0wSXE4MFZXOENURXdBN1E4S0FTdmtLaV8zUURoOTAwZ1RQSUdOaDdfWHd0U1E3dng0dnhmRmh4YUhTZ1hwVE5oemQtY1JpRnI1LV9CVnZhVQ?oc=5"
+  },
+  {
+   "key": "993bb2a245ad556822baa372aa5b0bac0746a503",
+   "score": 7,
+   "sent": true,
+   "source": "AS — UFC/MMA",
+   "title": "El dinero en premios que ganan Makhachev y Joel Álvarez por sus combates en el UFC 330",
+   "title_key": "09a1798f8cb04b7bcef785acd9b2d40814901e8f",
+   "title_norm": "dinero premios ganan makhachev joel alvarez combates ufc 330",
+   "ts": "2026-08-15T07:47:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemFubVNGRFpOWkxqbXdDVUt3aElGVmFQRkgtaG5rZVV1REVDWDl3R0ItdnE5MlhmaUJDSGFlRzRJT1VVNlZ2VktnX3JRb0JOUVpIbHRrcW1OSlFkb25zRkJtYWdWVHZpVFp1YTBhUG5nVWVaa2NUZS1kcjZEXy01WDdUdy01MjM4Q01HVkhxQWpWMmVTUEtneXQ2Skk1cWZHVW4tbW0tWTFkOW9reE16REhpN0VZM1JOV05hQzlwN1Z6enluVTZMbzFfM2tkb21nMmJr0gHnAUFVX3lxTE5qMEdwZy1rN3l1akE0YVR3T2Z4RUdWSE9hakpGalpjVFdLck9RZkJMU0lPVlFKVTFBa2htZ3EycU9LOUhwdU1OMnlVWndXSTdlWkZ4SUlUVjNGOGt2aEFadThWSXMtSzBJXzJCYjhTNUVWQm5IT25OQnBwLXJJbkt6dEJCcVVhRzgyLWcwX29uREpCaG4zT0pEQk9Xc05qR1B1M3VLYXNid1REUzdQZ3A4TU1vbHdzUU1xbFBTQlNxSk1LY1gxX1hVb01ldklJTzlkLXpLNXhyZlF0elN2SHRJOG9fUGVkaw?oc=5"
+  },
+  {
+   "key": "89f4a074b000806fcb0cefba1b27152444eeb8f6",
+   "score": 1,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Resumen: SV Groedig vs UFC Hallein septiembre de 2026 - Regionalliga North",
+   "title_key": "5c0802772461df0762d1b2d8e08d3122b46607f5",
+   "title_norm": "resumen sv groedig vs ufc hallein septiembre 2026 regionalliga north",
+   "ts": "2026-08-15T07:47:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yYzFDcVVwRGJBenlFT0xSa3dPRmlEZG5FSkEyZUNUMFluaVA2dS1ZdVR0QmRRTV9YREN6VFNOYkNJVEV3eWNOYWVaakZmN2ZGdnV0Z1pYQ1JtUWdzR2w2OEJrTFd3MHRSa2xNWEtVVGd2TEZGbXNVM05Zem0?oc=5"
   }
  ],
  "stats": {
   "descartados": 1,
-  "enviados": 4,
-  "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 173,
-  "unicos": 7
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "recogidos": 154,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
