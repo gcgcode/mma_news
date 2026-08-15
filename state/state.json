@@ -11066,15 +11066,69 @@
    "title_norm": "myktybek orolbai choked unconscious jeremiah wells comeback guillotine ufc 330",
    "ts": "2026-08-15T22:16:58+00:00",
    "url": "https://bloodyelbow.com/2026/08/15/myktybek-orolbai-put-to-sleep-by-jeremiah-wells-comeback-submission-at-ufc-330"
+  },
+  {
+   "key": "a2cd4432256ed7ea03e0979bc6db8f4d37b703ed",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC 330 video: Neil Magny outlasts Ramiz Brahimaj for dramatic second-round knockout",
+   "title_key": "6ed7ebb32cbe32fe048948a11068c20ca4593a86",
+   "title_norm": "ufc 330 video neil magny outlasts ramiz brahimaj dramatic second round knockout",
+   "ts": "2026-08-15T22:42:26+00:00",
+   "url": "https://mmafighting.com/ufc/504971/ufc-330-video-neil-magny-outlasts-ramiz-brahimaj-for-dramatic-second-round-knockout"
+  },
+  {
+   "key": "e2f3ed4aa420e6ce0dcccd88ba6302a6c73c2bdd",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 330 video: Jeremiah Wells comes back to put Myktybek Orolbai to sleep with shocking ninja choke submission",
+   "title_key": "329666d88da97987f52cc86e35d8ee575bd4943f",
+   "title_norm": "ufc 330 video jeremiah wells comes back put myktybek orolbai sleep shocking ninja choke submission",
+   "ts": "2026-08-15T22:42:32+00:00",
+   "url": "https://mmafighting.com/ufc/504954/ufc-330-video-jeremiah-wells-comes-back-to-put-myktybek-orolbai-to-sleep-with-shocking-ninja-choke-submission"
+  },
+  {
+   "key": "bf0bf510d384b03adc0bbaf1c67c9c5cbc6d8caa",
+   "score": 7,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Philadelphia’s Jeremiah Wells Sleeps Myktybek Orolbai With Brutal Comeback Guillotine At UFC 330",
+   "title_key": "c496e993139bf4a37f45d7fdc34a43af489b19a8",
+   "title_norm": "philadelphia jeremiah wells sleeps myktybek orolbai brutal comeback guillotine ufc 330",
+   "ts": "2026-08-15T22:43:11+00:00",
+   "url": "https://lowkickmma.com/jeremiah-wells-sleeps-myktybek-orolbai-ufc-330"
+  },
+  {
+   "key": "1a8fb1c5308e2d5864b3c0fd072c6bec36d6c2b9",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "How to watch UFC Makhachev vs. Machado Garry (8/15/26) | Live Stream, time, fight card",
+   "title_key": "cb8fa964659b7c0394998f8134ef995673d59b91",
+   "title_norm": "how watch ufc makhachev vs machado garry 15 26 live stream time fight card",
+   "ts": "2026-08-15T22:43:12+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2dTQXNYVExpN05ZVnFYYlFINDdLTDlnck16NkZHT3NzMHI3dDdNaDZ0aU1DM1htS0pnTEw3ZU5JdFR1amhCLXJNakQwSkdKblVXUWZUdmU0bDUzaURfd3VjTkFBZVlpUHUyN0wwZExKX0xCaXFONHJmRHJ0SFdyMDRBNHM3NlhEWkIxTHhTdnhacF9fS0lfTno5TEJXQzZOZlpmV2pwbjVES2FBU3dwRmlB0gHGAUFVX3lxTE4tQXM3VEJ0SFBjRldXZzRKaVJnVXVvS3o1dTNndXlaWGhXdFRuUGlwcGlVZDBWMzJZR2RJc1Z5REZ2QVZsbXJlNW9HZUhyVFhxaDBUYlJ1blFvS0QtWmZ0emdRMGRsRTZCT09DTmFDQ292bU01MzVzU2xBdkkyTE55eEYtb1NrVHFqTTNLRkk5YXp5Qi1LOUY4czI2RHBnaktWYVRaLURFUWVWSEtHTHhGMVhmWnM0WXIzZm9QVFJiNnJUSHhaQQ?oc=5"
+  },
+  {
+   "key": "fadde2f87ef4ffa18f9acce6f44339243462184f",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC 320: Khalil Rountree Jr. on breaking light heavyweight knockdown record",
+   "title_key": "69e05dcb53061752b4b5fff4e79ebaabb6ada929",
+   "title_norm": "ufc 320 khalil rountree jr breaking light heavyweight knockdown record",
+   "ts": "2026-08-15T22:43:13+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWhJT3RJTS1vZldFOXF3dUVDSFBCdWlXN0VLMUdBdWtWUWZnNFRXWExaZkJJVi1kSk5BR0o3RjR5WFVIQzdnVnItZ1JiYXFENkFKOVZlb3F1MWgzRERFVmRUU2VFNHFaNU5HV1dUc003djB1akViMi11ajFmMXNQb2lPV19jN2g0WjE4c2ZuZw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 1,
-  "llamadas_llm": 1,
-  "prefiltrados": 5,
-  "recogidos": 176,
-  "unicos": 6
+  "descartados": 3,
+  "enviados": 2,
+  "llamadas_llm": 5,
+  "recogidos": 156,
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
