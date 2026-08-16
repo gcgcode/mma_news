@@ -13926,14 +13926,58 @@
    "title_norm": "mackenzie dern takes pic fan after first title defense",
    "ts": "2026-08-16T20:42:51+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vq7a4h/mackenzie_dern_takes_a_pic_with_a_fan_after_her"
+  },
+  {
+   "key": "e9797ff412617586572dbdf69136098374099b79",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Chidi Njokuani rips commission for weight cut controversy at UFC 330",
+   "title_key": "eef9d88af1bca6fab143a2e614345334c97f5b1b",
+   "title_norm": "chidi njokuani rips commission weight cut controversy ufc 330",
+   "ts": "2026-08-16T21:15:57+00:00",
+   "url": "https://mmafighting.com/ufc/505366/chidi-njokuani-rips-commission-for-weight-cut-controversy-at-ufc-330"
+  },
+  {
+   "key": "40186952cefe7a8eb2d0d5ca214c3a4b52e8d63c",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 330 Promotional Guidelines Compliance pay: Makhachev, Dern lead way",
+   "title_key": "c6064d4e1e39ae265118883d32d8280946f4ef9b",
+   "title_norm": "ufc 330 promotional guidelines compliance pay makhachev dern lead way",
+   "ts": "2026-08-16T21:15:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc08yMkE0bUt0V2FZY3BqUlB4TTJXaWJ2VXMyaVprZUJhb3NwaHhxdXJzbW1JUkZvMllzdXpvUXFPZGJaWVRSOTByRjUwSlFQRjlpUGZhNlMtWVY0VEpkVHBqWWJUVlBnbkNiNzlGdmxmZmlqZlhUOERwUnNVd1dUNFROLVFiRWhKbmMxRWQ5M3R1Yy1DR3UxbzVhWU5JcGsyS2Vnc19ZNjBzQ09CcWs3N3BRNG9JejM4eTJpcHlwQVk4a0xlazhudVN1enI5cHprRXNuYWFGNVY5amlsVUpOd1M0STdhcXNBcmxITEpmb18?oc=5"
+  },
+  {
+   "key": "bf89c1e65d77413a4505c0caf9e88fdd70107889",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Khabib Nurmagomedov reveals his true weight after Dana White used it to end new comeback rumors",
+   "title_key": "80f3b1e68b1be6f3681afb408fc346402ebe1383",
+   "title_norm": "khabib nurmagomedov reveals true weight after dana white used end new comeback rumors",
+   "ts": "2026-08-16T21:15:59+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/khabib-nurmagomedov-reveals-his-true-weight-after-dana-white-used-it-to-end-new-comeback-rumors"
+  },
+  {
+   "key": "1af897b310c015dd104d731abcc23762920aac2d",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "UFC fighters went CRAZY after Islam Makhachev dropped Ian Garry with that kick 😭🔥",
+   "title_key": "7fbb498352dfb785e9840c1491bee82badb594bf",
+   "title_norm": "ufc fighters went crazy after islam makhachev dropped ian garry that kick",
+   "ts": "2026-08-16T21:16:00+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vq7xq0/ufc_fighters_went_crazy_after_islam_makhachev"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 0,
-  "llamadas_llm": 2,
+  "descartados": 3,
+  "enviados": 1,
+  "llamadas_llm": 4,
   "recogidos": 200,
-  "unicos": 2
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
