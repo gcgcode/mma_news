@@ -13794,14 +13794,59 @@
    "title_norm": "david mendoza highlights videos ufc",
    "ts": "2026-08-16T19:27:40+00:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15RmtLNmxJNEFqMm9tNmEwTmlacTBPVFR6T0lsZF8zSG5oQnkyMU9HTkhYanFWcWJaUWIwR3dJMmt2a1JLdzg0TThxbF9Lbmh4bXAteUl0WGlMSUNBdzB1LTFaLVk2a1FaWkFILXpSQQ?oc=5"
+  },
+  {
+   "key": "d03b1f4214b9da18bb862e35cbddbc2977acc937",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "movsar vs volk opens up as near pickem",
+   "title_key": "2fb41698adbaa41066f3ef3c86956cfc458779aa",
+   "title_norm": "movsar vs volk opens up near pickem",
+   "ts": "2026-08-16T19:51:27+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vq55is/movsar_vs_volk_opens_up_as_near_pickem"
+  },
+  {
+   "key": "254d1ae33ae70d1281a0d3b7e0e6012f79cd5fe1",
+   "score": 6,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "UFC 311: 4 Actuaciones De La Noche",
+   "title_key": "b5d9d757f97f0afbcfa07750abc3051d7e31fedb",
+   "title_norm": "ufc 311 actuaciones noche",
+   "ts": "2026-08-16T19:51:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wVUdQRnFRX1NZX29YcXJxSGZaZTE0U2t6QTdadzRsWFZYVEhqVDdCZWI3ODZvdG1yODB1eXNfUUhQQ2RxMkJYUUMxWm4ta1JZdTZvbnotMDZwUnZJaUhfdWVpckJVUVJrYkUtR1RjbFROM1U?oc=5"
+  },
+  {
+   "key": "ac7b405ede220e132c056b0472011cd1e3bf8052",
+   "score": 6,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Carlos Prates Sends Terrifying Warning to Islam Makhachev After UFC 330 Win",
+   "title_key": "e791463b667dc10743ef71f5c1cf2ccde30ff7a7",
+   "title_norm": "carlos prates sends terrifying warning islam makhachev after ufc 330 win",
+   "ts": "2026-08-16T19:51:29+00:00",
+   "url": "https://lowkickmma.com/carlos-prates-sends-terrifying-warning-to-islam-makhachev"
+  },
+  {
+   "key": "727e9454a1def8d0b76cb9863916f9bb41a3514a",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "¿Cuánto dinero obtuvo Islam Makhachev por ganar su pelea vs. Ian Machado Garry en UFC 330?",
+   "title_key": "3e8df9191282680f33cea9df4a24ee926b70d714",
+   "title_norm": "cuanto dinero obtuvo islam makhachev ganar pelea vs ian machado garry ufc 330",
+   "ts": "2026-08-16T19:51:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEwyaFh0MWRtY1I5M21CbEIweWVRU0R5aVBWcU9EUDF2dS10SUtkRDM1TkVvMDdTVnItQmwxaEYwSWRLX2ZmQXZsRUt4V1VqR2pac2RNdllrTUE1LXZMZldkSk00X1FWU3dmc2ZXZ1FLdG52dHFqUjNmWEdQNlZtR2VfajFiemZNZnZFbmpQcmlqQXF1eThfM20wdWEzRTAwZ3NNRmdsa2Y1RXBCSHdVTy1pdUnSAboBQVVfeXFMT0RBNmN1VWFxaXJCanJ1MTlKT0toX3V1OFVEMzM1c2RBMXgxaDNoc1JzeHpfdXkwV0ZvQlFkSnZNMmNMMWRORjNaandLclFpVk16Z1R2Q3M4N2VVdVNQc1FMZ2FkTXc1M3FlWUFBWWJfWXBzTDNKbzUtZ2tXR3JIZW1TaWVxczk4czVMUEMydUVPeVJRelJmY0xFVHZvb2FjZ1VXOFhhOW9Tc3B5VkhVTXBPcVJMNlNEcFh3?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
-  "llamadas_llm": 5,
+  "descartados": 3,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 180,
-  "unicos": 5
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
