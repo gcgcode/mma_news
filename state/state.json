@@ -12100,14 +12100,69 @@
    "title_norm": "ian garry praises islam makhachev but stands one bold claim",
    "ts": "2026-08-16T06:43:44+00:00",
    "url": "https://sherdog.com/news/news/Ian-Garry-praises-Islam-Makhachev-but-stands-by-one-bold-claim-202371"
+  },
+  {
+   "key": "e75e43c4bd6fa2431266c787a95fe7483aced2cb",
+   "score": 9,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Jalin Turner pays tribute to Edson Barboza after UFC 330 retirement",
+   "title_key": "91a9ad54b34e0aa5b8620ea47f5d4583cecbe008",
+   "title_norm": "jalin turner pays tribute edson barboza after ufc 330 retirement",
+   "ts": "2026-08-16T07:28:03+00:00",
+   "url": "https://sherdog.com/news/news/Jalin-Turner-pays-tribute-to-Edson-Barboza-after-UFC-330-retirement-202373"
+  },
+  {
+   "key": "a53577257de6e03be5d6c346b567b1ba5c5df31a",
+   "score": 8,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Gillian Robertson said she was the better grappler; Dern had her answer",
+   "title_key": "3a39e26b405728f348aaca24b4ad7d23a3f27a20",
+   "title_norm": "gillian robertson said better grappler dern had answer",
+   "ts": "2026-08-16T07:28:16+00:00",
+   "url": "https://sherdog.com/news/news/Gillian-Robertson-said-she-was-the-better-grappler-Dern-had-her-answer-202372"
+  },
+  {
+   "key": "3a1bb2da3353dad5c944c9f925ebf149fb55bdf8",
+   "score": 5,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC Fight Night: Bonfim vs. Brady Cobertura de la pelea en vivo",
+   "title_key": "aaeb7f823ed2830bc050d951091fee43cb7a16a7",
+   "title_norm": "ufc fight night bonfim vs brady cobertura pelea vivo",
+   "ts": "2026-08-16T07:28:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xMTY1MTdaNlk5TVRXWFM4M0lkS3RVMHhUYTlnbXplRU9KRUl2QTdrSG5DRVRfSUJOeFR5Ul9IOWt2R3hJQXVwczU3STJ6MHUwaS1VN1A0QjlVOTZvQjRuR19YV2VLS2FQWjhVWFlBUkw?oc=5"
+  },
+  {
+   "key": "9c8528219c5b155a0239efca694a5ca51c396b5a",
+   "score": 9,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "UFC 330 results: Islam Makhachev defeats Ian Garry, breaks UFC record",
+   "title_key": "39ca2e02e81905366ab06adff1f3566a36ab1947",
+   "title_norm": "ufc 330 results islam makhachev defeats ian garry breaks ufc record",
+   "ts": "2026-08-16T07:29:19+00:00",
+   "url": "https://sherdog.com/news/news/UFC-330-results-Islam-Makhachev-defeats-Ian-Garry-breaks-UFC-record-202362"
+  },
+  {
+   "key": "83d9e4945f7ed4659ee0bab91f35adbe36acfcaf",
+   "score": 6,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "UFC 330 bonuses: Charles Johnson, 3 standouts pocket &#36;100K bonus",
+   "title_key": "ab34060f3b9837809bddf8125c739a387727ec06",
+   "title_norm": "ufc 330 bonuses charles johnson standouts pocket 36 100k bonus",
+   "ts": "2026-08-16T07:29:41+00:00",
+   "url": "https://sherdog.com/news/news/UFC-330-bonuses-Charles-Johnson-3-standouts-pocket-36100K-bonus-202363"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 3,
   "llamadas_llm": 5,
-  "recogidos": 156,
-  "unicos": 43
+  "recogidos": 155,
+  "unicos": 41
  },
  "telegram_offset": 958387804,
  "version": 1
