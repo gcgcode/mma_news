@@ -13640,14 +13640,47 @@
    "title_norm": "chidi njokuani frena joel alvarez ufc 330 tras tensa batalla decidida jueces",
    "ts": "2026-08-16T17:37:51+00:00",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMFpxTUJzODZZaTJiMjdweDlSTVR0WkQzSk9xd0hLaVNQU0dOd25ZSXVjQ3RDTm85R2lxdTY0SnluckoyNEd5a01tWXgwcHJiU2dPNE5wTDJucjlveTNial9nRDJ5bDZDUU5IS0F6QlpEdlRiWURqWEJNNEkzM1JTZUUtbW83S1Z5d0g4ek52VjF0RU5JS2lXRE1Bci1aczRMWDhkdEdQbEc4X0JVa01rc2w0eXlOLTUzMTBjaXl0Sk5SZXBBWmJpS1VQY0JkcE44bDFDZ0gxTXFIdDRZYmVKTDBmY3hnZklQLWJr?oc=5"
+  },
+  {
+   "key": "8d88e2752d431e7d66d565f17deb25774e700c7a",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Danna Andrea Cortes Paz Social Feeds - UFC",
+   "title_key": "70aa9799a682a8d39cc367daf1ab05f7fc69521c",
+   "title_norm": "danna andrea cortes paz social feeds ufc",
+   "ts": "2026-08-16T17:53:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xTnA2TzBkZHJCNjd2RzBJRldHRkxKb0NHc3V6c3dLZ0tlQTNpWmpOOGQxTXZMcXdnOXFmeFlJc2dsT3BLbTJ3MGdHcDIycGV5Nk5mcVdGaFZqUkRnd1pLWGlSSmx0dk1SZmNrZVVmc3AxYnhVSkFR?oc=5"
+  },
+  {
+   "key": "e7f52a8fe68169fea0f1f6a65906d9ad41a56f18",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Jorge Cobos Marin - News & Rumors - UFC",
+   "title_key": "4536b21b435b672446cd3aa5d27b900007924c46",
+   "title_norm": "jorge cobos marin news rumors ufc",
+   "ts": "2026-08-16T17:53:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YMVN5d1hwbTRvQkJESVNZWk1yZUxkWFRFTDJNTDd1WGxCbDZxc3R2YWwtREMwRVhnc05mVTAwSTlUdGtxaGZ1ZS0yM3BwYkJERTBpUl96VU5PbVJ6U3VYMmZZakk?oc=5"
+  },
+  {
+   "key": "49fc15c1e98580b8510b38a3b99d238140b94a90",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "What time does Islam Makhachev vs. Ian Machado Garry start at UFC 330?",
+   "title_key": "9e5326a5da46b05f736e7e3d6fb53eef3b5dacb1",
+   "title_norm": "what time does islam makhachev vs ian machado garry start ufc 330",
+   "ts": "2026-08-16T17:53:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXZ3Q21tRGtLQkRHek9mWlJEeGEzeXN1d1BjTXFIR1dIcXotNUhOZlFkYkQ0ckxWNUxJczVpTEtXVzF0alQwY2RGUkZnZjh2VFdrYXdIUXNJd0JkNk52cEpaaWVrblRJR3M3UHRIZjl2eklvMmhuNjFRQXpURGNYT0h1UQ?oc=5"
   }
  ],
  "stats": {
   "descartados": 3,
-  "enviados": 2,
-  "llamadas_llm": 5,
+  "enviados": 0,
+  "llamadas_llm": 3,
   "recogidos": 200,
-  "unicos": 8
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
