@@ -13706,14 +13706,46 @@
    "title_norm": "joel alvarez no puede corto aviso makhachev campeon record victorias",
    "ts": "2026-08-16T18:21:41+00:00",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlpyYmtpUGV0WF9pLVl5NmpUU2QyNVEtdDJWekFFYkl3R1JGNGxtZUxNMGZqZnE4SmpjQlllMzFCTUJMMFhHTTlDM3ZTV0pRQUQ0bHNKYVd3cmptdi1ZeTFLT21EYlZsZlFDMVA4bHNOczczSTRBSVR1QkVpTE9hLTQ5aWtJUVpLLXlkNVRlZ3pxUnU1SGlYQkFMOTJfYkNoeXpZWkswSXLSAbwBQVVfeXFMTmVIRUJLZkN1cHZSSE9QUkFSalJ5TUdDSFhRUWI5OWVtMXRacWJYXzFQLTZpQm5XS0ZzUTVmZXRheVhCY2tBd3daaVU1eUtzNjlJaENudnFXbVdnYjZoVkpGTmRxa0RtU09Gb1hxTXVVTm5YbG1RTFNPYTNES0pUeHdKbjF3c3ZVZ1lYTDVpbGRLTlprY0tsRkJ5R2lRMVY3bmdySXB0QUZFNU1GQU9GZnY2azZKa2NqY3ZvUEk?oc=5"
+  },
+  {
+   "key": "66a2a135e67fc8603a4520f86b02e0e8d1be6fb8",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Islam Makhachev is now the 5th fighter to defend 2 belts in 2 divisions",
+   "title_key": "096abe7e433f3344ba631af675eca932c8f1459e",
+   "title_norm": "islam makhachev now 5th fighter defend belts divisions",
+   "ts": "2026-08-16T19:00:38+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vq4x8a/islam_makhachev_is_now_the_5th_fighter_to_defend"
+  },
+  {
+   "key": "2d541cdcf479cd4eb7450081b5f65312b76a562f",
+   "score": 9,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "¡No hay quien lo pare! Islam Makhachev consiguió la racha de victorias más larga en la UFC | El Colombiano",
+   "title_key": "ddc02b224fc37943aa9bf05fa21b469f49a4bcbf",
+   "title_norm": "no hay quien lo pare islam makhachev consiguio racha victorias mas larga ufc colombiano",
+   "ts": "2026-08-16T19:00:52+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkh2Z25Sb2R1cUJpQzYySFJ4SHJQNi1yOEJtanVQazBUR2NjSEt2WTRIX2hVOHN5TjFzY25xc0JBSk1reUstLXBPRG03dnA3ZnNsN2dtRV9BZ3kwM3duTkp1RFc2TG5wMS1USTBsWjRNd1VXQzlRZEx6aTlyVzNTMVhCdWIxTHlObHgxMEowRWJoTm5waWfSAZsBQVVfeXFMTUliVjQ5TVpBTkFQRkMxVXV6TFc0akN1UTVnM21qNVdTcldZQnZtVTh1M3lrS29pYnl5NndVSWpBakMzZkVfT2xfWWdsMzN3Sm5BSFZHaHZKcWxzUzUzSVROOTBXX0N3VjJ0RVF2RDZxVnhTNnVRak1KYlpCZUUxUnY0SVY4dFZtWDlMWnVuX0U0dWFmT1c2N2YwSVE?oc=5"
+  },
+  {
+   "key": "ffc59c274e35b6a6586ca70b17df96cbbc284eea",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "\"Somos los número uno\": el ruso Majáchev renueva el récord en la UFC con 17 victorias seguidas",
+   "title_key": "b99e687cc4a977acbe20469c2b47be448fe6c5ec",
+   "title_norm": "somos numero uno ruso majachev renueva record ufc 17 victorias seguidas",
+   "ts": "2026-08-16T19:01:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUp1QU5rWXFKOWpydGdGdndpa09MeVFOdXJnZUwwR2pNb3pmeDhBbk5uZU5Zb2dvbzhlTkJfaVozQ1JtSHB4ZmlzUlVIYjM3RnZPenQ3aTJtREN3ZVpUZU93akxnYVU4bkhCOTA5SFNHR1dSRG1scWZMcFlKT3F5bHJiYzF4bEd1eDRjX3c0TjZvQzBfUHFoRmNvdlg2M3JhbUFnTnZmQmN1ZmRKSm9IdFBSUjNQSGlIVXVMMlA5TFh5YnJXaGh0UUV3?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 0,
-  "llamadas_llm": 2,
-  "prefiltrados": 1,
-  "recogidos": 190,
+  "descartados": 1,
+  "enviados": 2,
+  "llamadas_llm": 3,
+  "recogidos": 200,
   "unicos": 3
  },
  "telegram_offset": 958387804,
