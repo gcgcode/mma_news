@@ -13442,15 +13442,81 @@
    "title_norm": "maxx crosby mocks kirk cousins beef ufc 330 poster",
    "ts": "2026-08-16T16:19:31+00:00",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm80Ul9CcTdaX3F0T2JxN0sxZGYzV0JXb3VSb09QZVZTSkxGRUk5ZVhVVGMtTnp4QVY1YldNa2QyMkcxRkliQlY0QmhqNVozdDZkc25waDI2bjJNYnFOV3JaSjdTU0VrU21nZ2xVX1hLYkpnM2hOWmpyM1NTWXM4MkxQOE8tdw?oc=5"
+  },
+  {
+   "key": "5bbbe50aa1e9437b90945ebb9baac129ac8f094f",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Volk’s loss aging well 🍷🔥",
+   "title_key": "1528dda1a81835fcc51e6882a681ea4017a4b9cd",
+   "title_norm": "volk loss aging well",
+   "ts": "2026-08-16T16:52:28+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vptrbw/volks_loss_aging_well"
+  },
+  {
+   "key": "e8df100a6b44e74056df833ff7dae94678a0a3f1",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Seeing a certain group crash out after every Islam fight",
+   "title_key": "ddedce47256ee1fdbffff452d0a52c4fd8815c7a",
+   "title_norm": "seeing certain group crash out after every islam fight",
+   "ts": "2026-08-16T16:52:28+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vpz5l6/seeing_a_certain_group_crash_out_after_every"
+  },
+  {
+   "key": "3a5b6030d87d3018c86779a1b38847787829cc2d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Dropping facts to casuals here",
+   "title_key": "438f7d17318ca31172b885a38d7016f13c3682e7",
+   "title_norm": "dropping facts casuals here",
+   "ts": "2026-08-16T16:52:28+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vq02tk/dropping_facts_to_casuals_here"
+  },
+  {
+   "key": "3813fcf8ccff4b07c5e79a090b50d0ab97052dff",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Mackenzie Dern doesn’t feel she needs to beat Zhang Weili to cement championship status after UFC 330",
+   "title_key": "d9784f7cada420439bf64e294c849d4fa1bbb51c",
+   "title_norm": "mackenzie dern doesn feel needs beat zhang weili cement championship status after ufc 330",
+   "ts": "2026-08-16T16:52:30+00:00",
+   "url": "https://mmafighting.com/ufc/505309/mackenzie-dern-doesnt-feel-she-needs-to-beat-zhang-weili-to-cement-championship-status-after-ufc-330"
+  },
+  {
+   "key": "f9a5875dccecb537d549d775a7f7eb5514231707",
+   "score": 5,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Dustin Stoltzfus Dominates Mansur Abdul-Malik Before Securing Submission at UFC 330",
+   "title_key": "7e00d6c9997fe906d09076cb12bd9ab940cd4950",
+   "title_norm": "dustin stoltzfus dominates mansur abdul malik before securing submission ufc 330",
+   "ts": "2026-08-16T16:52:31+00:00",
+   "url": "https://lowkickmma.com/dustin-stoltzfus-dominates-mansur-abdul-malik-before-securing-submission-at-ufc-330"
+  },
+  {
+   "key": "8b8d8916e99dfcf2c46dbf0bbf3862fe01738cb8",
+   "score": 7,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Esteban Ribovics Defeats Edson Barboza by TKO at UFC 330 as Veteran Retires After One-Sided Beatdown",
+   "title_key": "814466dde24d80c13317d4229acbe793067a102d",
+   "title_norm": "esteban ribovics defeats edson barboza tko ufc 330 veteran retires after one sided beatdown",
+   "ts": "2026-08-16T16:52:33+00:00",
+   "url": "https://lowkickmma.com/esteban-ribovics-defeats-edson-barboza-by-tko-at-ufc-330-as-veteran-retires-after-one-sided-beatdown"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 181,
-  "unicos": 13
+  "descartados": 1,
+  "enviados": 2,
+  "llamadas_llm": 3,
+  "prefiltrados": 3,
+  "recogidos": 92,
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
