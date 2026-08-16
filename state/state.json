@@ -12155,14 +12155,81 @@
    "title_norm": "ufc 330 bonuses charles johnson standouts pocket 36 100k bonus",
    "ts": "2026-08-16T07:29:41+00:00",
    "url": "https://sherdog.com/news/news/UFC-330-bonuses-Charles-Johnson-3-standouts-pocket-36100K-bonus-202363"
+  },
+  {
+   "key": "d5bbabf951d8038b4f6f808ea8ad23a98d31be85",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam Makhachev Survives the Year of the Upsets",
+   "title_key": "4c8945d5c2e17e35037401c32fdc96ac7188d117",
+   "title_norm": "islam makhachev survives year upsets",
+   "ts": "2026-08-16T07:57:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vpn72j/islam_makhachev_survives_the_year_of_the_upsets"
+  },
+  {
+   "key": "7f9b57d90f629d1b6e050f7ebca663aa1492cc55",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Neil Magny just joined Charles Oliveira in rare UFC company",
+   "title_key": "87093c17585df4df12a464a6e265747a65acd0c9",
+   "title_norm": "neil magny just joined charles oliveira rare ufc company",
+   "ts": "2026-08-16T07:57:51+00:00",
+   "url": "https://sherdog.com/news/news/Neil-Magny-just-joined-Charles-Oliveira-in-rare-UFC-company-202375"
+  },
+  {
+   "key": "6182ac29558763f0f46e44e704e7a7f6db0d0c14",
+   "score": 7,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Charles Johnson: I learned Scottish twister submission from former Bellator champ",
+   "title_key": "1937db32967d26a458e3183815ee60bdbf036ac3",
+   "title_norm": "charles johnson learned scottish twister submission former bellator champ",
+   "ts": "2026-08-16T07:57:57+00:00",
+   "url": "https://sherdog.com/news/news/Charles-Johnson-I-learned-Scottish-twister-submission-from-former-Bellator-champ-202374"
+  },
+  {
+   "key": "0e747e45601773f60119e8dbc5bf0fb031707094",
+   "score": 9,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "UFC 333 gets Volkanovski-Evloev title fight, Yan-Dvalishvili trilogy",
+   "title_key": "e5d99a6eefe494153fa9e9a8eb40d97ece89ad3f",
+   "title_norm": "ufc 333 gets volkanovski evloev title fight yan dvalishvili trilogy",
+   "ts": "2026-08-16T07:58:04+00:00",
+   "url": "https://sherdog.com/news/news/UFC-333-gets-VolkanovskiEvloev-title-fight-YanDvalishvili-trilogy-202368"
+  },
+  {
+   "key": "f4fcf8672b6b0374b75a1672cd7d96db8bfedbf7",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Lucas Fernando didn’t come to UFC 330 to be ‘just another fighter’",
+   "title_key": "a44d65a0db8ba19caeaa3d08cbda2d7120c08686",
+   "title_norm": "lucas fernando didn come ufc 330 be just another fighter",
+   "ts": "2026-08-16T07:58:08+00:00",
+   "url": "https://sherdog.com/news/news/Lucas-Fernando-didnt-come-to-UFC-330-to-be-just-another-fighter-202367"
+  },
+  {
+   "key": "60fbb635c6e74dd8929025e6587da10169bc2d37",
+   "score": 3,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Donte Johnson scores stunning knockout, calls for UFC title run",
+   "title_key": "f7fe47b2dcd0f3665f719be526374a37406ac045",
+   "title_norm": "donte johnson scores stunning knockout calls ufc title run",
+   "ts": "2026-08-16T07:58:11+00:00",
+   "url": "https://sherdog.com/news/news/Donte-Johnson-scores-stunning-knockout-calls-for-UFC-title-run-202369"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "recogidos": 155,
-  "unicos": 41
+  "prefiltrados": 1,
+  "recogidos": 175,
+  "unicos": 38
  },
  "telegram_offset": 958387804,
  "version": 1
