@@ -12980,13 +12980,80 @@
    "title_norm": "dana white islam makhachev puzzled ian machado garry show respect during ufc 330 title fight",
    "ts": "2026-08-16T12:29:59+00:00",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2oxWmsxcVVFR2I5TFBRNUV2aUp1TmtLMFZBSzJvSFJBc1pSZ3JZQjhoYk95QldkWEU2bnEtOWs3OG8zekl3RjVaZFVMY21EMWNKTlB3cXdXMkRJYXR5a2tXcTdpTDVfd0lOUGdWN3c4NnJ0bjVyVlRLM3VzSFZYNldHMVR4UVhPcjBHUG1neGVXaHdvaWM1czByNEdQR292REo2aUlTMVhjOEE2VkpoM2NOVktWbkoyYmVNUk9OOHJ1Tnp6WGg5Rjh1WE5uMTJXcUNQVFJfQWtRNlBpcmdUZkpUa1Y0dw?oc=5"
+  },
+  {
+   "key": "88f888c9094d3d567e7156e476462570da16455a",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Ilia on his Conor arc",
+   "title_key": "501ec364472d3d69c9a07207164550620b41d970",
+   "title_norm": "ilia conor arc",
+   "ts": "2026-08-16T13:17:35+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vptvoh/ilia_on_his_conor_arc"
+  },
+  {
+   "key": "02af4e3ed16711b65364a45e636e6896ac2d7548",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "“We Don’t Pay for Names”: GLORY’s CEO Isn’t Blinking as Champions Walk Out the Door",
+   "title_key": "972b5bfd4d4907f036d5468af38605ca79e48e10",
+   "title_norm": "we don pay names glory ceo isn blinking champions walk out door",
+   "ts": "2026-08-16T13:17:35+00:00",
+   "url": "https://lowkickmma.com/dont-pay-names-glory-ceo-isnt-blinking-champs-walk-out"
+  },
+  {
+   "key": "ef1520251e2398ce127813c14f35e54d4e79045f",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Dana White criticizes Ian Machado Garry for lack of ‘killer instinct’ against Islam Makhachev at UFC 330",
+   "title_key": "aeb04354ef84d5b53e521ea8dfc84d2686078057",
+   "title_norm": "dana white criticizes ian machado garry lack killer instinct against islam makhachev ufc 330",
+   "ts": "2026-08-16T13:17:41+00:00",
+   "url": "https://mmafighting.com/ufc/505329/dana-white-criticizes-ian-machado-garry-for-lack-of-killer-instinct-against-islam-makhachev-at-ufc-330"
+  },
+  {
+   "key": "c30f2a266811e2b0ed02f8ce93de2118fffcf593",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Mackenzie Dern’s UFC 330 win sparks promise from 10-1 contender to ‘save the strawweight division’",
+   "title_key": "1ecc2ba7afca28622cd301499163bb2f3d05fcc1",
+   "title_norm": "mackenzie dern ufc 330 win sparks promise 10 contender save strawweight division",
+   "ts": "2026-08-16T13:17:42+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/mackenzie-derns-ufc-330-win-sparks-promise-from-10-1-contender-to-save-the-strawweight-division"
+  },
+  {
+   "key": "a80047e4f37afe40af20e79eed154213905d05b3",
+   "score": 2,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Watch: Claressa Shields Stops Kaye Scott With Brutal Hooks To Earn Multiple World Titles",
+   "title_key": "1330bffbae3856f3b23a3b31a4924381fb46a58b",
+   "title_norm": "claressa shields stops kaye scott brutal hooks earn multiple world titles",
+   "ts": "2026-08-16T13:17:43+00:00",
+   "url": "https://lowkickmma.com/video-claressa-shields-tko-kaye-scott-boxing"
+  },
+  {
+   "key": "2d23cabb9341f3f1a4bbff4d3dcca19c552cb700",
+   "score": 9,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Mackenzie Dern Shuts Down All of Gillian Robertson’s Weapons at UFC 330",
+   "title_key": "01d3b5b395b2c2fee171fde30611457d5e053ace",
+   "title_norm": "mackenzie dern shuts down all gillian robertson weapons ufc 330",
+   "ts": "2026-08-16T13:17:45+00:00",
+   "url": "https://lowkickmma.com/mackenzie-dern-shuts-down-all-of-gillian-robertsons-weapons-at-ufc-330"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 2,
   "enviados": 2,
-  "llamadas_llm": 5,
-  "recogidos": 201,
+  "llamadas_llm": 4,
+  "prefiltrados": 2,
+  "recogidos": 176,
   "unicos": 20
  },
  "telegram_offset": 958387804,
