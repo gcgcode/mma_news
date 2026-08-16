@@ -13970,14 +13970,36 @@
    "title_norm": "ufc fighters went crazy after islam makhachev dropped ian garry that kick",
    "ts": "2026-08-16T21:16:00+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vq7xq0/ufc_fighters_went_crazy_after_islam_makhachev"
+  },
+  {
+   "key": "a332430cbfb03573508abf7655dd8276de95cd75",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Jalin Turner: BMF title fight 'very enticing' after UFC 330 KO win",
+   "title_key": "2d3e13047214b730b222636e78e9a327dc43a0bc",
+   "title_norm": "jalin turner bmf title fight very enticing after ufc 330 ko win",
+   "ts": "2026-08-16T21:37:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTldvU2oyX0lKekYyTDY1cFpFUS1ZeTI3eDQ3bkw1QmNDZ0hCbmpVTVVXTW5QcDRBTWIxSUwxZ2J0SUFFZEZMNFpqWjJFQzNCclB3U3psNkxsYXRPUmpJcEtaVDRsVkRteEhPM3VicUg1bk5UU19SNDJkTlRUMzFjNngxSVRuekFvcGgwZVRULVBHa2t1cUVJc1RKc0IyQTVVaHVXTXhpQ2JUNkg4Uml4Ny15eUVEeU5IejhXTkplVmNVMVR5aXYtdGs3eVNFOW5X?oc=5"
+  },
+  {
+   "key": "4610fe26eb0741b893543bab89afca7a9de0362a",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Islam Makhachev Reveals What Khabib Nurmagomedov Told Him Before The Final Round At UFC 330",
+   "title_key": "015c0d67361a8d44d46d83cbf72c6e85dac023cc",
+   "title_norm": "islam makhachev reveals what khabib nurmagomedov told him before final round ufc 330",
+   "ts": "2026-08-16T21:38:05+00:00",
+   "url": "https://lowkickmma.com/islam-makhachev-reveals-what-khabib-nurmagomedov-told-him-before-the-final-round-at-ufc-330"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 1,
-  "llamadas_llm": 4,
+  "descartados": 2,
+  "enviados": 0,
+  "llamadas_llm": 2,
   "recogidos": 200,
-  "unicos": 4
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
