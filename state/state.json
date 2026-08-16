@@ -14113,14 +14113,58 @@
    "title_norm": "artes marciales mixtas",
    "ts": "2026-08-16T22:57:55+00:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PX01oUF9sYzZHUUIyOEJfNFlOWW1lSl9wRktBSk5CZU5rVHN2M0ctV3gyM2hzSDB3NUUzanhfdW40TS1ySGREbzB5UWZ6TzdjendVTHVPRy1hSzI3d2pFN2N4X3paNXJIV19pdWdyYk4?oc=5"
+  },
+  {
+   "key": "5953382f6277b0d0672e4507f75c731b7d69f9ab",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Fatima Kline after UFC 330 co-main: \"HERE TO SAVE THE STRAWWEIGHT DIVISION\"",
+   "title_key": "ade621751659d00c049fe2506646faddca0a5502",
+   "title_norm": "fatima kline after ufc 330 co main here save strawweight division",
+   "ts": "2026-08-16T23:19:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqbcyz/fatima_kline_after_ufc_330_comain_here_to_save"
+  },
+  {
+   "key": "2c5194ced39dbd9fa621cf17cdc2e61dde18ebff",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White debuts AI assistant during UFC 330 post-fight press conference to help with continuous problem",
+   "title_key": "5f7115d3c7925199262994cd8af4ad9f062faab4",
+   "title_norm": "dana white debuts ai assistant during ufc 330 post fight press conference help continuous problem",
+   "ts": "2026-08-16T23:19:58+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/dana-white-debuts-ai-assistant-during-ufc-330-post-fight-press-conference-to-help-with-continuous-problem"
+  },
+  {
+   "key": "f67e3f3f3ee88a7be76e4f80656b45fb781fe9c4",
+   "score": 3,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Watch: Joe Rogan Credits Islam Makhachev With Beating A Fighter He’s Never Actually Fought",
+   "title_key": "f045ce945240c2432d79448483a9c4e9bbfd96fe",
+   "title_norm": "joe rogan credits islam makhachev beating fighter never actually fought",
+   "ts": "2026-08-16T23:19:59+00:00",
+   "url": "https://lowkickmma.com/joe-rogan-islam-makhachev-justin-gaethje-botch"
+  },
+  {
+   "key": "888c94703a995d35ecc3267460d31fd7175d5ae5",
+   "score": 5,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "'He looked human': Fighters react to Islam Makhachev's historic UFC 330 title defense",
+   "title_key": "e72bee18b2b228c1774fd8ae025d77404b4c3a17",
+   "title_norm": "looked human fighters react islam makhachev historic ufc 330 title defense",
+   "ts": "2026-08-16T23:20:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3hIV25KNzlCTkFRWmFNOUFYTUw5c2xuMk90UzlhTElXSXY5UFAzeml4TldKcUtnMmNHeEkzck1qZHdPZ1dtN3NNM0tuNGNyenNXeXpLYlFiNEVjU2hZQWJteHkteWIxWmxuOGxfcEhjR3cxUlp1dVMyNWxmRU02cVVIcnl6N1B1S0E?oc=5"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 0,
-  "prefiltrados": 2,
+  "descartados": 3,
+  "enviados": 1,
+  "llamadas_llm": 4,
   "recogidos": 200,
-  "unicos": 2
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
