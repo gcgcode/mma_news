@@ -11297,15 +11297,36 @@
    "title_norm": "danna andrea cortes paz news rumors ufc",
    "ts": "2026-08-15T23:38:05+00:00",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11NVVTNG1Qbk1CNERTQTNSNnVrU2M2QktRWmlzTGo0SHZpVTBMdVcxdHNyTjd2OTdPZnBRdTFfTG96LTNaa1FBazFsdUphR0pOMDFIY0dqWlhJenhOQTIzaEFHemQ4a1JDdjFQaU93?oc=5"
+  },
+  {
+   "key": "c683517d360e169f8e4fb1efa7ceea4eeadea969",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "LUQUE KNOCKED GORE'S TEETH OUT AT THE BUZZER, OH MY GOD",
+   "title_key": "634cea745a6c4f372727de2e9968ad16fb7d43ae",
+   "title_norm": "luque knocked gore teeth out buzzer oh my god",
+   "ts": "2026-08-16T00:00:08+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vphica/luque_knocked_gores_teeth_out_at_the_buzzer_oh_my"
+  },
+  {
+   "key": "bdeaf0049b12a7cdf03801d6df8975788d3a2026",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "OMG Luque knocked out Tresean Gore teeth",
+   "title_key": "d9678991e5f0bdcd24647ea7261f883ad2e54fdd",
+   "title_norm": "omg luque knocked out tresean gore teeth",
+   "ts": "2026-08-16T00:00:08+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vphijo/omg_luque_knocked_out_tresean_gore_teeth"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 5,
-  "recogidos": 176,
-  "unicos": 12
+  "descartados": 0,
+  "enviados": 0,
+  "prefiltrados": 2,
+  "recogidos": 67,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
