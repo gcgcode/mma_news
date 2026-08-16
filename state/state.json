@@ -14058,14 +14058,47 @@
    "title_norm": "my dream islam makhachev makes cancer patient cry joy during meeting ufc 330",
    "ts": "2026-08-16T22:16:36+00:00",
    "url": "https://bloodyelbow.com/2026/08/16/its-my-dream-islam-makhachev-makes-cancer-patient-cry-with-joy-during-meeting-at-ufc-330"
+  },
+  {
+   "key": "13e54fea2d748b8eb4be32930e60d7fbe3c9b20d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Dana and Islam's post fight comments on Garry",
+   "title_key": "f0e42e088ef34f78649cc4f4c74127657470d0c4",
+   "title_norm": "spoiler dana islam post fight comments garry",
+   "ts": "2026-08-16T22:40:44+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqaalf/spoiler_dana_and_islams_post_fight_comments_on"
+  },
+  {
+   "key": "4551091d6805162242c7fe6acbb47233dc1969a5",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Terrance Chatman",
+   "title_key": "5ad3a7f9ce440ef8a8f8f3cdef21679cf9a2ed1b",
+   "title_norm": "terrance chatman",
+   "ts": "2026-08-16T22:40:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GYlgyNW1mdUNaSy1iTDlwME54am9YQklQSjVScld3WDlVR21OTGtGQ2t0THZMNm1OS19ybGVlREZVaDFqY21tVjFRVGljWTFHLXJUVWlpaDB2ZTh3VU9HdQ?oc=5"
+  },
+  {
+   "key": "e93f4ed90a000d46602bcaa4298cef5c4f8f79a9",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Newly Booked UFC Fights: Week Ending 16 August 2026",
+   "title_key": "55f0cfcf2b3c8c689f86844f49308f7662fda005",
+   "title_norm": "newly booked ufc fights week ending 16 august 2026",
+   "ts": "2026-08-16T22:40:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrcWQwYm1TeTJZU3lGVWlvQWgyTDFhREFWOUt5SnpuZmZOZHVhaUdsc0Y1RFh6S0d5a2MzTENaeTJLX3FXcGRMT1JKaWlxRE9wdy04UERqMGVIZThrMnNIQ0dCYU9XMkM0bmM3WmNhZm1MZHdVbkhQSE5zM29yZw?oc=5"
   }
  ],
  "stats": {
   "descartados": 1,
-  "enviados": 1,
-  "llamadas_llm": 2,
-  "prefiltrados": 1,
-  "recogidos": 180,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "prefiltrados": 2,
+  "recogidos": 200,
   "unicos": 3
  },
  "telegram_offset": 958387804,
