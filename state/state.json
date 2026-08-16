@@ -14025,13 +14025,47 @@
    "title_norm": "objectively speaking we have never seen champ champ who defended both do what islam just did before",
    "ts": "2026-08-16T21:53:45+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vq89my/objectively_speaking_we_have_never_seen_a_champ"
+  },
+  {
+   "key": "b6692630c76a2fde9caa2a328f693058180001ab",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "La protagonista de Crepúsculo responde sin rodeos a uno de los mayores debates de la saga",
+   "title_key": "12abe6bb0ea9bc1d1bcea4ad9488b31f44b1507a",
+   "title_norm": "protagonista crepusculo responde sin rodeos uno mayores debates saga",
+   "ts": "2026-08-16T22:16:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPekRRREZZWDBuUUh5aGJPNlMyN0FXZGI5cUViWUc0ei1SR1RudmpYWGF3cVVtOHdqZFVwLWhKV2I1MnJWU3YtZzZ1bERmdlVJcjVXeVZiNUlFaDJ0NlBsVGdGMVkyT2JVZ2hacEoxQ2F3UjF3NjZoM1dGSXNHRFI4T0c3ck9XWXVBdHJSc0hKNkh4UG42eXVnS2h6YWNmU2dIZDktNGlPN043b1BvQlRCOFBmd1BNZ1JRQ3NfOExHZTl3RHlL?oc=5"
+  },
+  {
+   "key": "5ba10e289cac3f6ad2ed42dbfbbecb52ec66d483",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 330 post-event facts: Islam Makhachev breaks new ground in history",
+   "title_key": "096280e7faa2e58f1ef86366c6fe5f58bcbc7441",
+   "title_norm": "ufc 330 post event facts islam makhachev breaks new ground history",
+   "ts": "2026-08-16T22:16:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdXhZNFBfNHIxNVhpMmJjak1MQ1VUaVpuVTduTVdfN1hVX1ZncXYtUGZ0MGtzRG1zbDMtc0s4Tnp1NUl1UmVyWkNkNDlmVC1wY0VfR0UxWF9YRE0xbk5GN3BvRGUxaGlaN1VNMm5nSlUxSVYySGd5UzNJOFBiaUNUdGR5elFHNDUzRHpuOTEyMGNZcXo4VGN2VVc2S2Y2SHNpdEJBNU1hZ2htbHdEek9mQ2lHbjV1d1ZDdzh6RlNUVFRVNjBVSUN3M2JKM3VWUGk1Tm5DZ21zSmZzdw?oc=5"
+  },
+  {
+   "key": "cd0a4a10d32333384c823b5f8f7db1cff93bc2ec",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "‘It’s my dream’… Islam Makhachev makes cancer patient cry with joy during meeting at UFC 330",
+   "title_key": "de4ecf9c12a65958f28362238ac8be6d9a5518d1",
+   "title_norm": "my dream islam makhachev makes cancer patient cry joy during meeting ufc 330",
+   "ts": "2026-08-16T22:16:36+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/its-my-dream-islam-makhachev-makes-cancer-patient-cry-with-joy-during-meeting-at-ufc-330"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 0,
-  "llamadas_llm": 3,
-  "recogidos": 200,
+  "descartados": 1,
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "prefiltrados": 1,
+  "recogidos": 180,
   "unicos": 3
  },
  "telegram_offset": 958387804,
