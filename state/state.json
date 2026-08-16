@@ -14171,11 +14171,10 @@
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 1,
-  "recogidos": 200,
-  "unicos": 1
+  "recogidos": 180,
+  "unicos": 0
  },
  "telegram_offset": 958387804,
  "version": 1
