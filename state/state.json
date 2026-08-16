@@ -11913,15 +11913,69 @@
    "title_norm": "mackenzie dern vs gillian robertson full fight video highlights",
    "ts": "2026-08-16T04:55:35+00:00",
    "url": "https://mmafighting.com/ufc/505133/mackenzie-dern-vs-gillian-robertson-full-fight-video-highlights-ufc-330"
+  },
+  {
+   "key": "363fb936e79b7400fb65165db684b949b116037b",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "‘Ian Garry would have won if he ate a steak’: Pros react to Islam Makhachev eking out title fight win at UFC 330",
+   "title_key": "f18a185741f2af4b9f0ec25153b94239edb22c54",
+   "title_norm": "ian garry would have won if ate steak pros react islam makhachev eking out title fight win ufc 330",
+   "ts": "2026-08-16T05:24:33+00:00",
+   "url": "https://mmafighting.com/ufc/505277/ian-garry-would-have-won-if-he-ate-a-steak-pros-react-to-islam-makhachev-eking-out-title-fight-win-at-ufc-330"
+  },
+  {
+   "key": "345de7f45ad5e726547e526a6a95226a0a36d1d5",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 330 results: Islam Makhachev wins chess match over Ian Machado Garry",
+   "title_key": "1967f5c6f0b54e02b1ba69574520e9159b8c8da7",
+   "title_norm": "ufc 330 results islam makhachev wins chess match over ian machado garry",
+   "ts": "2026-08-16T05:24:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSXROQ0FMdnRKaTBaNFRnME5ua3hyTTdnejduVmdmRGVjVUZKbk1wTWRvcFhpNkYxN01LMG5UZ3V1c0pOX3laMGMwcU1QVHF5RXNUNnNYby1NOE5BSTBSZGotMTNsRXRmTmFhMUo4MGwzb3FqSHlDV202Zm9uajVtUWN0V2dROGNZREJsTHVHUXVTRzJaOW5qV1RWd1VEeEdHSXBTd3dqX0ZmTkc0SEpvVXNKRzVCY1BtcnlzUElKcndfTEFPSno4WFlvRFg0QWJLQXc3WTYyS0E0aEk?oc=5"
+  },
+  {
+   "key": "a88b830d3b061e308fa5ca0b03ed0e3ce860df6c",
+   "score": 9,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "‘Drives me crazy’… Dana White rips Ian Machado Garry for lacking killer instinct at UFC 330",
+   "title_key": "6ad2e5dc8bb8927bb3ddce2e28144baf0e96ef66",
+   "title_norm": "drives me crazy dana white rips ian machado garry lacking killer instinct ufc 330",
+   "ts": "2026-08-16T05:24:38+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/drives-me-crazy-dana-white-rips-ian-machado-garry-for-lacking-killer-instinct-at-ufc-330"
+  },
+  {
+   "key": "c341f41c63d55c89c6f50efbdefe776b08c97617",
+   "score": 10,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev’s UFC 330 win breaks coveted record Anderson Silva set 14 years ago",
+   "title_key": "a7dbc641f96cbd574b509d1e0ce981133c7506d6",
+   "title_norm": "islam makhachev ufc 330 win breaks coveted record anderson silva set 14 years ago",
+   "ts": "2026-08-16T05:24:40+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/islam-makhachevs-ufc-330-win-breaks-coveted-record-anderson-silva-set-14-years-ago"
+  },
+  {
+   "key": "0cd2d937b89db511dd0326f2da68476506f5faec",
+   "score": 3,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC 333: Volkanovski vs. Evloev Cobertura de la pelea en vivo",
+   "title_key": "b1d0358a87700aa458d2dfcf710f64201b87e130",
+   "title_norm": "ufc 333 volkanovski vs evloev cobertura pelea vivo",
+   "ts": "2026-08-16T05:24:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mX1Bta2VNR2traVozdWdLSjgwWFFYLV8yeW0tZVFhMDA5Tm1waEk3TDh2MGVaUEtJSm9zZG9wN1F4OWpzYkZlTElKQk04NGVnNmJFN0VtN29TRnYyV2YtQVNXY1EzM1haaVB0NEZaMFc?oc=5"
   }
  ],
  "stats": {
   "descartados": 1,
   "enviados": 4,
   "llamadas_llm": 5,
-  "prefiltrados": 10,
-  "recogidos": 176,
-  "unicos": 51
+  "recogidos": 156,
+  "unicos": 40
  },
  "telegram_offset": 958387804,
  "version": 1
