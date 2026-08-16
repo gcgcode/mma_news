@@ -13673,13 +13673,47 @@
    "title_norm": "what time does islam makhachev vs ian machado garry start ufc 330",
    "ts": "2026-08-16T17:53:55+00:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXZ3Q21tRGtLQkRHek9mWlJEeGEzeXN1d1BjTXFIR1dIcXotNUhOZlFkYkQ0ckxWNUxJczVpTEtXVzF0alQwY2RGUkZnZjh2VFdrYXdIUXNJd0JkNk52cEpaaWVrblRJR3M3UHRIZjl2eklvMmhuNjFRQXpURGNYT0h1UQ?oc=5"
+  },
+  {
+   "key": "e8194528b233958fff3861a06437b1ca518f7ea5",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Merab got upset that Islam was allowed to wave Russian flag after the fight",
+   "title_key": "5b5d1acfb4c3f69434ead56122267df01b138a21",
+   "title_norm": "merab got upset that islam allowed wave russian flag after fight",
+   "ts": "2026-08-16T18:21:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vprptq/merab_got_upset_that_islam_was_allowed_to_wave"
+  },
+  {
+   "key": "445477f72b9b3a4b6422a9b6652222e62ecbe4f3",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Herb Dean praised for Edson Barboza UFC 330 stoppage after months of criticism led by Alex Pereira",
+   "title_key": "9ccd2024a269e271f59a882820cd6cac053c62f2",
+   "title_norm": "herb dean praised edson barboza ufc 330 stoppage after months criticism led alex pereira",
+   "ts": "2026-08-16T18:21:40+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/herb-dean-praised-for-edson-barboza-ufc-330-stoppage-after-months-of-criticism-led-by-alex-pereira"
+  },
+  {
+   "key": "2786623def93fdab284ecf68006c286dd4938c34",
+   "score": 3,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Joel Álvarez no puede con el corto aviso; Makhachev, campeón y récord de victorias",
+   "title_key": "31f8c2df02d8148c4245349e98794522aa2d58bb",
+   "title_norm": "joel alvarez no puede corto aviso makhachev campeon record victorias",
+   "ts": "2026-08-16T18:21:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlpyYmtpUGV0WF9pLVl5NmpUU2QyNVEtdDJWekFFYkl3R1JGNGxtZUxNMGZqZnE4SmpjQlllMzFCTUJMMFhHTTlDM3ZTV0pRQUQ0bHNKYVd3cmptdi1ZeTFLT21EYlZsZlFDMVA4bHNOczczSTRBSVR1QkVpTE9hLTQ5aWtJUVpLLXlkNVRlZ3pxUnU1SGlYQkFMOTJfYkNoeXpZWkswSXLSAbwBQVVfeXFMTmVIRUJLZkN1cHZSSE9QUkFSalJ5TUdDSFhRUWI5OWVtMXRacWJYXzFQLTZpQm5XS0ZzUTVmZXRheVhCY2tBd3daaVU1eUtzNjlJaENudnFXbVdnYjZoVkpGTmRxa0RtU09Gb1hxTXVVTm5YbG1RTFNPYTNES0pUeHdKbjF3c3ZVZ1lYTDVpbGRLTlprY0tsRkJ5R2lRMVY3bmdySXB0QUZFNU1GQU9GZnY2azZKa2NqY3ZvUEk?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 2,
   "enviados": 0,
-  "llamadas_llm": 3,
-  "recogidos": 200,
+  "llamadas_llm": 2,
+  "prefiltrados": 1,
+  "recogidos": 190,
   "unicos": 3
  },
  "telegram_offset": 958387804,
