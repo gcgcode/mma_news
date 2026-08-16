@@ -13244,15 +13244,69 @@
    "title_norm": "jalin turner blasts kaue fernandes into oblivion vicious 39 second ko ufc 330",
    "ts": "2026-08-16T14:43:41+00:00",
    "url": "https://lowkickmma.com/ufc-330-jalin-turner-kaue-fernandes-ko"
+  },
+  {
+   "key": "4cee4c3fb56bcb15fed9bc41bdf2671b40ad2b1f",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Ian Machado Garry releases statement following UFC 330 loss to Islam Makhachev",
+   "title_key": "2122cca3ac87aca6f7ecce51ff71d16eb248f9d8",
+   "title_norm": "ian machado garry releases statement following ufc 330 loss islam makhachev",
+   "ts": "2026-08-16T15:17:53+00:00",
+   "url": "https://mmafighting.com/ufc/505343/ian-machado-garry-releases-statement-following-ufc-330-loss-to-islam-makhachev"
+  },
+  {
+   "key": "a5274571606122af6c4e103f827f2eeb6b7110c8",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Islam Makhachev respects Ian Machado Garry but all the hugs were too much at UFC 330: ‘This is a fight. This is not a game’",
+   "title_key": "f1d0f1fd25e40b216ada931fd8ec15e3ba19bee2",
+   "title_norm": "islam makhachev respects ian machado garry but all hugs were too much ufc 330 this fight this not game",
+   "ts": "2026-08-16T15:17:56+00:00",
+   "url": "https://mmafighting.com/ufc/505349/islam-makhachev-respects-ian-machado-garry-but-all-the-hugs-were-too-much-at-ufc-330-this-is-a-fight-this-is-not-a-game"
+  },
+  {
+   "key": "7581df12a3a5ff9a7f972ebf2d6f4f956cb353a3",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev cleared by doctor despite fears he broke a bone against Ian Machado Garry at UFC 330",
+   "title_key": "3d52e25c9fb9fd6f61a10b38889d3fef1cdf93c7",
+   "title_norm": "islam makhachev cleared doctor despite fears broke bone against ian machado garry ufc 330",
+   "ts": "2026-08-16T15:17:58+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/islam-makhachev-cleared-by-doctor-after-fearing-ian-machado-garry-broke-a-bone-at-ufc-330"
+  },
+  {
+   "key": "b4c1681557f26ea8fe73affa78705185f144a167",
+   "score": 9,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Stacked UFC 333 card announced with Alexander Volkanovski and exciting trilogy",
+   "title_key": "52772a38597c4d546029f01a36e6e9c19dd8d7b9",
+   "title_norm": "stacked ufc 333 card announced alexander volkanovski exciting trilogy",
+   "ts": "2026-08-16T15:18:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGFZb2dpZ2tFR1NMOE93VTVjd0tnUGIwcnY5cU1Uak1LOVlaZWdMTnlLVTNZQ215OEZWek1YRGVEUkVmcUNQYTRCZkNLb2ZpaVlzakMwNHk1VlM0d3dDRmlkVnh1QU1lVy1hSm4yNXpuZG5fUGFzek0ybG9reXBKT0lETkp3Y0stNE1mSVFLV0JwSmI5amhwQmRGT21ielRzbXEyMGJlVQ?oc=5"
+  },
+  {
+   "key": "b5ea8a1c82f1cd7d8ca2d1f286ebdfdbe98a01ea",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC schedule: Every fight announced for 2026",
+   "title_key": "77e54832316d50bdf03b0e69e7e9e7d7d4c2cef9",
+   "title_norm": "ufc schedule every fight announced 2026",
+   "ts": "2026-08-16T15:18:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd09BMHdrRUtzMW1udkctOWh1RURKajNPYlE4OFl3UUpqRDBkUlo4R3VIUVNEeDZMVjh1d1djYTFGYzI0ZUZWbFBLR1dzNzJ4X090NmZUc0N0SXdhVXZrZ2Q1MDQxbEdMYmN6YnBsZGlHVEVleHhqR1k2TE9fZlM2N3MyUU40VzN3TTFmWDBOQ25NWGVEaXdF?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 1,
+  "enviados": 4,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
   "recogidos": 176,
-  "unicos": 10
+  "unicos": 12
  },
  "telegram_offset": 958387804,
  "version": 1
