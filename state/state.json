@@ -12925,6 +12925,61 @@
    "title_norm": "ufc 330 conferencia posterior",
    "ts": "2026-08-16T11:55:40+00:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2R3RKX05aQkZ3WTRjVWkzVFFRS3hmOTg1X053djhycENsdDJ0SHBjZk5fS0I1eXZ3M1lHc3ZFQlBBUWMxYmhRZEdWQi1mQ2Fq?oc=5"
+  },
+  {
+   "key": "c453e98ff45d38caf9f98c5e7eda85f6d3d91c01",
+   "score": 9,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Watch Khabib’s live corner reaction as Islam Makhachev dropped Ian Machado Garry with a head kick",
+   "title_key": "f90b5a102146c3ea841fcf43d35fc960509d60a4",
+   "title_norm": "watch khabib live corner reaction islam makhachev dropped ian machado garry head kick",
+   "ts": "2026-08-16T12:29:54+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/watch-khabibs-live-corner-reaction-as-islam-makhachev-dropped-ian-machado-garry-with-a-head-kick"
+  },
+  {
+   "key": "0151286cb47ec7b6ac1c3cc17b0dfb20714a6996",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Haters, remember: Islam just defeated a fighter with the height, reach, size, range, youth and natural 170 advantage. It may not have been the fight we wanted, ",
+   "title_key": "c62daf875096e0a15bbca78ce2849c6efc1f541a",
+   "title_norm": "haters remember islam just defeated fighter height reach size range youth natural 170 advantage may not have been fight we wanted but former 155er head kicking natural 170er incredible islam keeps proving doubters wrong has cemented himself goat",
+   "ts": "2026-08-16T12:29:55+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vpu07a/haters_remember_islam_just_defeated_a_fighter"
+  },
+  {
+   "key": "c4c88423a553d031180c8fec23f433a3f9cbdd13",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Wins in LW: Naah he’s a bully, Wins in WW: Naah it was a hard win; You guys need to grow up",
+   "title_key": "1e5a82717e19e0c270ded21e482e6fe2addf03ad",
+   "title_norm": "wins lw naah bully wins ww naah hard win you guys need grow up",
+   "ts": "2026-08-16T12:29:56+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vptxe3/wins_in_lw_naah_hes_a_bully_wins_in_ww_naah_it"
+  },
+  {
+   "key": "82f0d6e7f3f63cf36f1ea81268fcdc990e7ab034",
+   "score": 9,
+   "sent": true,
+   "source": "Yahoo Sports MMA",
+   "title": "UFC 330: Love or hate Ian Machado Garry, he deserves respect after battling Islam Makhachev in Philadelphia",
+   "title_key": "66c0892b18bded06af3c390381486d032b8be1e4",
+   "title_norm": "ufc 330 love or hate ian machado garry deserves respect after battling islam makhachev philadelphia",
+   "ts": "2026-08-16T12:29:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNGo3ZDZPRXIwUmxzam9CSGRHaXZ5NVc5Qy1rR2NiVllIVmRmU19zN0VkLVUxX1BOcWVkWklGODRIQVU1RFJhOWxGdDJRejFyS3RIeFczelE0ejZqanVsT2dydi1idlVSRUxJRWltcDZLaWNXMU00M29VektIemdtYmg1c3QzQ1dubkN0bVlYRjZNbkNIVnRvU013alE4bzUyeW51T2FrbGctM2E1WDhsRmN0QXIwb2NVbmYzYXhuMnNfd0JWYTdfMjVIU3ZuM3hhN3AwZHQ4THhMSkRfNmEwUmJSVFRiV2lwTlRpa3dB?oc=5"
+  },
+  {
+   "key": "ae5d3446289b20907c2822088bcd2d01e7e69f18",
+   "score": 6,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Dana White, Islam Makhachev puzzled by Ian Machado Garry's show of respect during UFC 330 title fight",
+   "title_key": "ed78afea965d46f27489c6317065abca1918ac56",
+   "title_norm": "dana white islam makhachev puzzled ian machado garry show respect during ufc 330 title fight",
+   "ts": "2026-08-16T12:29:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2oxWmsxcVVFR2I5TFBRNUV2aUp1TmtLMFZBSzJvSFJBc1pSZ3JZQjhoYk95QldkWEU2bnEtOWs3OG8zekl3RjVaZFVMY21EMWNKTlB3cXdXMkRJYXR5a2tXcTdpTDVfd0lOUGdWN3c4NnJ0bjVyVlRLM3VzSFZYNldHMVR4UVhPcjBHUG1neGVXaHdvaWM1czByNEdQR292REo2aUlTMVhjOEE2VkpoM2NOVktWbkoyYmVNUk9OOHJ1Tnp6WGg5Rjh1WE5uMTJXcUNQVFJfQWtRNlBpcmdUZkpUa1Y0dw?oc=5"
   }
  ],
  "stats": {
@@ -12932,7 +12987,7 @@
   "enviados": 2,
   "llamadas_llm": 5,
   "recogidos": 201,
-  "unicos": 21
+  "unicos": 20
  },
  "telegram_offset": 958387804,
  "version": 1
