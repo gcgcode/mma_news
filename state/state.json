@@ -12045,15 +12045,69 @@
    "title_norm": "tesehki vs big lex boxing fight result new baddies champion crowned three round zeus network fight",
    "ts": "2026-08-16T05:59:06+00:00",
    "url": "https://bloodyelbow.com/2026/08/15/tesehki-vs-big-lex-boxing-fight-result-new-baddies-champion-crowned-in-three-round-zeus-network-fight"
+  },
+  {
+   "key": "71a7a8505fe629c889603502134f1c33aba274d3",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 330 post-fight show: Reaction to Islam Makhachev outlasting Ian Machado Garry to break UFC record",
+   "title_key": "04d1b0e32fe9aa8e58bf7d7f707d6447602671f0",
+   "title_norm": "ufc 330 post fight show reaction islam makhachev outlasting ian machado garry break ufc record",
+   "ts": "2026-08-16T06:43:32+00:00",
+   "url": "https://mmafighting.com/ufc/505311/ufc-330-post-fight-show-reaction-to-islam-makhachev-outlasting-ian-machado-garry-to-break-ufc-record"
+  },
+  {
+   "key": "7689d1bac63ea626629cf30e1993fc51ef592888",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev reveals timeframe for UFC return after bloody battle with Ian Machado Garry",
+   "title_key": "4f5fc73cf9e5e175b95a293028d4e3b38e12ce2a",
+   "title_norm": "islam makhachev reveals timeframe ufc return after bloody battle ian machado garry",
+   "ts": "2026-08-16T06:43:34+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/islam-makhachev-reveals-timeframe-for-ufc-return-after-bloody-battle-with-ian-machado-garry"
+  },
+  {
+   "key": "678dbb8f94d996eb09ae1fa9fa7882178e821938",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Watch Ian Machado Garry confront Michael Morales in backstage footage after UFC 330 loss",
+   "title_key": "93e584e6503041196abfce3f2fcb09ce0891afe8",
+   "title_norm": "watch ian machado garry confront michael morales backstage footage after ufc 330 loss",
+   "ts": "2026-08-16T06:43:42+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/watch-ian-machado-garry-confront-michael-morales-in-backstage-footage-after-ufc-330-loss"
+  },
+  {
+   "key": "205e89c872a01f7412aacbf9a51662875210ace7",
+   "score": 6,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Islam Makhachev puts Ian Machado Garry in rare company after UFC 330",
+   "title_key": "6e2b0e8c265e10d82ddaa50be9e3fe3b28caa8f8",
+   "title_norm": "islam makhachev puts ian machado garry rare company after ufc 330",
+   "ts": "2026-08-16T06:43:43+00:00",
+   "url": "https://sherdog.com/news/news/Islam-Makhachev-puts-Ian-Machado-Garry-in-rare-company-after-UFC-330-202370"
+  },
+  {
+   "key": "33860b28a00c604033630473275312fb62d5158e",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Ian Garry praises Islam Makhachev, but stands by one bold claim",
+   "title_key": "9d433ffe20f5f64ec3bed104ac83527ce521cf2a",
+   "title_norm": "ian garry praises islam makhachev but stands one bold claim",
+   "ts": "2026-08-16T06:43:44+00:00",
+   "url": "https://sherdog.com/news/news/Ian-Garry-praises-Islam-Makhachev-but-stands-by-one-bold-claim-202371"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 2,
+  "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 165,
-  "unicos": 41
+  "recogidos": 156,
+  "unicos": 43
  },
  "telegram_offset": 958387804,
  "version": 1
