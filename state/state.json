@@ -13992,14 +13992,47 @@
    "title_norm": "islam makhachev reveals what khabib nurmagomedov told him before final round ufc 330",
    "ts": "2026-08-16T21:38:05+00:00",
    "url": "https://lowkickmma.com/islam-makhachev-reveals-what-khabib-nurmagomedov-told-him-before-the-final-round-at-ufc-330"
+  },
+  {
+   "key": "1a3cab1c022fce6bb1cc68d8e8e4bb08a1c9b978",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Main card fighter likes the idea of Tom Nolan or Rafael Fiziev for his next fight",
+   "title_key": "50a9668c16e8092c9db263a20455006b0a7f5fde",
+   "title_norm": "spoiler main card fighter likes idea tom nolan or rafael fiziev next fight",
+   "ts": "2026-08-16T21:53:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vq8fuj/spoiler_main_card_fighter_likes_the_idea_of_tom"
+  },
+  {
+   "key": "6dca53090f1ab0c4736ce1ac4562f6d78de0fba3",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Sean Shelby's Shoes: What's next for Islam Makhachev after UFC 330 win?",
+   "title_key": "7cfbcccb8b560a818280d5b60b896253af6b8e24",
+   "title_norm": "sean shelby shoes what next islam makhachev after ufc 330 win",
+   "ts": "2026-08-16T21:53:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUEwybFZwZWN5WFpkLTBPQlhCZWtXQ3dZa3RVYjdoN1Q0Tjg2NEttUUhHblF2RWVrdGE2WWhsMU9Bc0drTmpQazJkTHBBNlRtTjFFelVSUnljMHNiaWgyTkoyT3dMQTg5SE5zTF9yYkJZV0ZsWXRSZ1N1QXdCRzVFdUszUGc0WkJNRl9hcW9MZkJuVldzYjVGNFNvVmR4V25WN3hWRW5qNzZlQ2NQdF8zZkJaZHNORDh2TkxmUFJ6cER0LUxiRmRJRDc1YVZyUXh0aTJnc3dlbXVEa0hQaUE?oc=5"
+  },
+  {
+   "key": "a94dd7d0be87fc79486138f7cd7d68666c086c50",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "objectively speaking we have never seen a champ champ who defended both do what islam just did before",
+   "title_key": "14cd25fe1aaa25a5428e1def0cbd686cddc61968",
+   "title_norm": "objectively speaking we have never seen champ champ who defended both do what islam just did before",
+   "ts": "2026-08-16T21:53:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vq89my/objectively_speaking_we_have_never_seen_a_champ"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 3,
   "enviados": 0,
-  "llamadas_llm": 2,
+  "llamadas_llm": 3,
   "recogidos": 200,
-  "unicos": 2
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
