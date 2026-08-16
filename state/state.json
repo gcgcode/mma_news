@@ -12804,15 +12804,81 @@
    "title_norm": "spoiler main event winner drops opponent head kick",
    "ts": "2026-08-16T11:16:11+00:00",
    "url": "https://reddit.com/r/MMA/comments/1vpnn89/spoiler_main_event_winner_drops_his_opponent_with"
+  },
+  {
+   "key": "e29d68369d2000883607bad98212bd33dbc742ef",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Coach of Dern vs. Robertson loser says he's done cornering fighters",
+   "title_key": "c612f5c623e2952d3541aab99c8e7a74905abde7",
+   "title_norm": "coach dern vs robertson loser says done cornering fighters",
+   "ts": "2026-08-16T11:38:52+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vpp1m1/coach_of_dern_vs_robertson_loser_says_hes_done"
+  },
+  {
+   "key": "3e68ed00a8bcc13e6bb46c9d83ed9c1ef11dc9b9",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] UFC 330: Main Event Scorecard",
+   "title_key": "608cf348a40c0faa1f006c467517c0102c647857",
+   "title_norm": "spoiler ufc 330 main event scorecard",
+   "ts": "2026-08-16T11:38:53+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vpnhsi/spoiler_ufc_330_main_event_scorecard"
+  },
+  {
+   "key": "be1151c3bff98f2dd99902b4c654103d873c22d6",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Fight stats of the Main Event",
+   "title_key": "c30c0a9210b3eeb4988ecd8f0383e80cc92acf3d",
+   "title_norm": "fight stats main event",
+   "ts": "2026-08-16T11:38:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vpne60/fight_stats_of_the_main_event"
+  },
+  {
+   "key": "1dc6ff914c4928cafaf7930292d0e206127f0ce9",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC 333 prelims confirmed",
+   "title_key": "2502d6ff5b0c7f31a0d1ca3758e458115a800d79",
+   "title_norm": "ufc 333 prelims confirmed",
+   "ts": "2026-08-16T11:38:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vpl8hn/ufc_333_prelims_confirmed"
+  },
+  {
+   "key": "7d95b706ee366bbb9bedc5da6ad488d00bf2476c",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Spoiler] Main card fighter suffers gnarly leg cut",
+   "title_key": "b109ccac8400a8c94f100fc23f805f3595b48bc1",
+   "title_norm": "spoiler main card fighter suffers gnarly leg cut",
+   "ts": "2026-08-16T11:38:55+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vpkdaa/spoiler_main_card_fighter_suffers_gnarly_leg_cut"
+  },
+  {
+   "key": "6f47d893d3fb4b6227c0c67021459c62fb7d046e",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev picks his next opponent after Prates and Morales argued in the crowd at UFC 330",
+   "title_key": "6e16e5eeb48486870a493047853f9567da7ee140",
+   "title_norm": "islam makhachev picks next opponent after prates morales argued crowd ufc 330",
+   "ts": "2026-08-16T11:38:58+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/islam-makhachev-picks-his-next-opponent-after-prates-and-morales-argued-in-the-crowd-at-ufc-330"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 10,
-  "recogidos": 201,
-  "unicos": 40
+  "prefiltrados": 1,
+  "recogidos": 191,
+  "unicos": 20
  },
  "telegram_offset": 958387804,
  "version": 1
