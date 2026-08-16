@@ -14091,15 +14091,36 @@
    "title_norm": "newly booked ufc fights week ending 16 august 2026",
    "ts": "2026-08-16T22:40:45+00:00",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrcWQwYm1TeTJZU3lGVWlvQWgyTDFhREFWOUt5SnpuZmZOZHVhaUdsc0Y1RFh6S0d5a2MzTENaeTJLX3FXcGRMT1JKaWlxRE9wdy04UERqMGVIZThrMnNIQ0dCYU9XMkM0bmM3WmNhZm1MZHdVbkhQSE5zM29yZw?oc=5"
+  },
+  {
+   "key": "da562a83e28d4076e895ea8b5a4c945533467dee",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Man fuckk din",
+   "title_key": "1a6fb21a6d7855e943822e50821cb495983b2398",
+   "title_norm": "man fuckk din",
+   "ts": "2026-08-16T22:57:55+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vq9x9c/man_fuckk_din"
+  },
+  {
+   "key": "69ae32014ef5b9165f40238dea2a1c71b0a84137",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "#artes marciales mixtas",
+   "title_key": "acd534a5569b76f9433a69b71526591e3a56f1a3",
+   "title_norm": "artes marciales mixtas",
+   "ts": "2026-08-16T22:57:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PX01oUF9sYzZHUUIyOEJfNFlOWW1lSl9wRktBSk5CZU5rVHN2M0ctV3gyM2hzSDB3NUUzanhfdW40TS1ySGREbzB5UWZ6TzdjendVTHVPRy1hSzI3d2pFN2N4X3paNXJIV19pdWdyYk4?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 1,
   "prefiltrados": 2,
   "recogidos": 200,
-  "unicos": 3
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
