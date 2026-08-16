@@ -13904,15 +13904,36 @@
    "title_norm": "mackenzie dern disappointed could ve done better ufc 330 win",
    "ts": "2026-08-16T20:17:09+00:00",
    "url": "https://lowkickmma.com/mackenzie-dern-reflects-ufc-330-title-win"
+  },
+  {
+   "key": "1a9609987dd608a9a186eeabd38746d1306c7d15",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Who is your pick for the most underrated MMA fighter ever? Mine is Igor Vovchanchyn. He still holds records to this day that nobody has beaten yet, plus he was ",
+   "title_key": "9ef88596a9f5f7808606a7e0cd62baf6ac4a761b",
+   "title_norm": "who your pick most underrated mma fighter ever mine igor vovchanchyn still holds records this day that nobody has beaten yet plus one most influential fighters mma yet most people don even know exists",
+   "ts": "2026-08-16T20:42:50+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vq7euq/who_is_your_pick_for_the_most_underrated_mma"
+  },
+  {
+   "key": "79dc0cef4e63f10b7f815f48aa6f6c31785ad1ba",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Mackenzie Dern takes a pic with a fan after her first title defense",
+   "title_key": "7c996408fdb73526b713bda9e6e79851619dbcd6",
+   "title_norm": "mackenzie dern takes pic fan after first title defense",
+   "ts": "2026-08-16T20:42:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vq7a4h/mackenzie_dern_takes_a_pic_with_a_fan_after_her"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 2,
   "enviados": 0,
-  "llamadas_llm": 3,
-  "prefiltrados": 3,
+  "llamadas_llm": 2,
   "recogidos": 200,
-  "unicos": 6
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
