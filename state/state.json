@@ -13739,14 +13739,69 @@
    "title_norm": "somos numero uno ruso majachev renueva record ufc 17 victorias seguidas",
    "ts": "2026-08-16T19:01:17+00:00",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUp1QU5rWXFKOWpydGdGdndpa09MeVFOdXJnZUwwR2pNb3pmeDhBbk5uZU5Zb2dvbzhlTkJfaVozQ1JtSHB4ZmlzUlVIYjM3RnZPenQ3aTJtREN3ZVpUZU93akxnYVU4bkhCOTA5SFNHR1dSRG1scWZMcFlKT3F5bHJiYzF4bEd1eDRjX3c0TjZvQzBfUHFoRmNvdlg2M3JhbUFnTnZmQmN1ZmRKSm9IdFBSUjNQSGlIVXVMMlA5TFh5YnJXaGh0UUV3?oc=5"
+  },
+  {
+   "key": "c891a05bfd08dc38f78b2078a2009aa03737997e",
+   "score": 10,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "After nearly 14 years, Anderson Silva’s 16-fight UFC win-streak record has been broken. Islam Makhachev has now ended multiple legendary win streaks, become a t",
+   "title_key": "e3bbab411d03e8ef37e556cc3da815756b50d94b",
+   "title_norm": "after nearly 14 years anderson silva 16 fight ufc win streak record has been broken islam makhachev has now ended multiple legendary win streaks become two division champion broken record most ufc lightweight title defenses now holds longest win streak ufc history",
+   "ts": "2026-08-16T19:27:34+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vq5tp1/after_nearly_14_years_anderson_silvas_16fight_ufc"
+  },
+  {
+   "key": "db6aec55a550c73804a3eebe2d700e71ed817c32",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Din Thomas retires from cornering fighters after Gillian Robertson’s disappointing loss at UFC 330",
+   "title_key": "45b022c2407d4aada11c22c938878257698cc52b",
+   "title_norm": "din thomas retires cornering fighters after gillian robertson disappointing loss ufc 330",
+   "ts": "2026-08-16T19:27:35+00:00",
+   "url": "https://mmafighting.com/ufc/505345/din-thomas-retires-from-cornering-fighters-after-gillian-robertsons-disappointing-loss-at-ufc-330"
+  },
+  {
+   "key": "e26c6fb0913d981deb48308713dea8bd044388a4",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Khabib Nurmagomedov says Islam Makhachev has ‘reached the pinnacle’ as he pays homage to teammate after UFC 330",
+   "title_key": "3a1cefacfc3bbc4ea8715bdfcb267a5638f35edd",
+   "title_norm": "khabib nurmagomedov says islam makhachev has reached pinnacle pays homage teammate after ufc 330",
+   "ts": "2026-08-16T19:27:37+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/khabib-nurmagomedov-says-islam-makhachev-has-reached-the-pinnacle-as-he-pays-homage-to-teammate-after-ufc-330"
+  },
+  {
+   "key": "2fd55c6054aa7270ab7c9e9f5d423c114eb46907",
+   "score": 9,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Makhachev rompe récord con su 17ma victoria en fila en UFC 330",
+   "title_key": "ddfe899a24a9e78ec2f709b090d3c870d9fe04dc",
+   "title_norm": "makhachev rompe record 17ma victoria fila ufc 330",
+   "ts": "2026-08-16T19:27:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUJkVzVLemV0Z3dfN3Z3emJWekFVZ0Y3WmNxUGp2MWdzTVpyVURaZEJTRGVJa3FWTlBSRFMyTjJySTg1S2VmR2ZnMi11bVcxeVlQbmRqUVNETGdYWUFLdTRFcFpLNEt1U0tGUnVwbklTSVJ3Ymk2dVJYM2VmaHBZd0RhaGlqNHhIMnZrMkFydG5fWEI1RWtZaXFHdmozVkNYcTdZYW9zYUdXMkJrcDRpdGtGaGkzTlZYeFNwWmVqX3VudzBO?oc=5"
+  },
+  {
+   "key": "e23aeb03641c6cc5dd0a28c662c5b476854eabc2",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "David Mendoza Highlights and Videos - UFC",
+   "title_key": "35bb011935d3c5ebc7cef0d7f1c749e1790e14b0",
+   "title_norm": "david mendoza highlights videos ufc",
+   "ts": "2026-08-16T19:27:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15RmtLNmxJNEFqMm9tNmEwTmlacTBPVFR6T0lsZF8zSG5oQnkyMU9HTkhYanFWcWJaUWIwR3dJMmt2a1JLdzg0TThxbF9Lbmh4bXAteUl0WGlMSUNBdzB1LTFaLVk2a1FaWkFILXpSQQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 2,
-  "llamadas_llm": 3,
-  "recogidos": 200,
-  "unicos": 3
+  "descartados": 2,
+  "enviados": 3,
+  "llamadas_llm": 5,
+  "recogidos": 180,
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
