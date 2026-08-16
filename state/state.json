@@ -12353,15 +12353,81 @@
    "title_norm": "watch ufc live",
    "ts": "2026-08-16T08:29:29+00:00",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmamhEOFF6SlBrWDF0Sk1FUXBNZnZZM1pja3ktb3NPZU8yaXRaSDI2NUtyZjFwbWg1U1psZHFfS2szM3hleWx3?oc=5"
+  },
+  {
+   "key": "43656eb73b9d7d1cdf935a6e1bcd9e1730517691",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "A Tenazón",
+   "title_key": "46857cc8676294ae647e81a8a5c87be704826779",
+   "title_norm": "tenazon",
+   "ts": "2026-08-16T09:01:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04SUp3SEltUFlhdGF4YXZyR2dHSmczZExzaXBvTU1UcnNKOGdPSkdNR1ZuRlJkc0tscE83QjJYVTVkbUZMS1VxajFFLWpkdlBjOEpIS0draUtpSU45RUllNDEwVEVkTnltdzg0RXp5dw?oc=5"
+  },
+  {
+   "key": "5e9025eb5d5e7cd5e08bdf52710d614d859c084f",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev agrees with what drove Dana White ‘absolutely crazy’ about Ian Machado Garry at UFC 330",
+   "title_key": "8f6a2e717a9104271332cbd183e9f6c447de24a0",
+   "title_norm": "islam makhachev agrees what drove dana white absolutely crazy about ian machado garry ufc 330",
+   "ts": "2026-08-16T09:01:31+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/islam-makhachev-agrees-with-what-drove-dana-white-absolutely-crazy-about-ian-machado-garry-at-ufc-330"
+  },
+  {
+   "key": "8b2904f2e64a1222ae981f54c1054038176e7e31",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White bemoans lack of progress on Anthony Joshua vs Tyson Fury super-fight",
+   "title_key": "262dfe52541cc4c11b4f00b9fffc753325078bb4",
+   "title_norm": "dana white bemoans lack progress anthony joshua vs tyson fury super fight",
+   "ts": "2026-08-16T09:01:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/dana-white-bemoans-lack-of-progress-on-anthony-joshua-vs-tyson-fury-super-fight"
+  },
+  {
+   "key": "7bba94f0a70844e2887e0ddb3cac354f7d96f0a4",
+   "score": 7,
+   "sent": true,
+   "source": "UFC Español",
+   "title": "Jalin Turner Gets The TKO Just 39 Seconds Into Round 1 | UFC 330",
+   "title_key": "aa1a99201321ba761c2e6caa3b94a82828cbe71c",
+   "title_norm": "jalin turner gets tko just 39 seconds into round ufc 330",
+   "ts": "2026-08-16T09:01:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iMDZmcWdpSnhyMU1kUDJzNTFpU3pqWWlPLUN0eEd0cjBYNFhpbDRjQ0tZczNmYlVDVUFvTE5ONm52OVExWkpCTnRuUWFEb28?oc=5"
+  },
+  {
+   "key": "1223cafe296f8c810ef59cb481c892fbca5947b6",
+   "score": 9,
+   "sent": true,
+   "source": "Yahoo Sports MMA",
+   "title": "UFC 330 takeaways: Islam Makhachev remains king, but Ian Machado Garry leaves with something, too",
+   "title_key": "9415e2d68749b5e154752b3cfbc4ea89856cef1d",
+   "title_norm": "ufc 330 takeaways islam makhachev remains king but ian machado garry leaves something too",
+   "ts": "2026-08-16T09:02:11+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkl3eVE3MVh4eWU3LXY2M1NwYlF3Y0xOejFQMEJ2TkdneEhGQldGbUdXVklwWlR5NGhsVnFibEJHemxFeTFDSXQ3SWhPXzBLckYyNGgyN2pTOF93WGpwRjJ0bWIxcEw0ckRPamYxYUdScnBuTy1ER0JtTHFwcV96d25ja3d3U1FoMlRwMGh0T0cybGtHbGtuYklJLXR6RFBkZ3JlX1ZSZEtTREZxM2VCVjVHR2NsaVFRYUFUZUc0dkc3U1dUUUJhMXhubnBWeEFEaFg3OFhkaGRYV0hhajl3?oc=5"
+  },
+  {
+   "key": "7805d4d4eebc679653312745dc33a6571e450443",
+   "score": 9,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Islam Makhachev construye su leyenda: vence a Ian Garry y establece récord histórico en UFC",
+   "title_key": "bcc5c49aa23819f5c1987d3e4c6e6467fa390ff7",
+   "title_norm": "islam makhachev construye leyenda vence ian garry establece record historico ufc",
+   "ts": "2026-08-16T09:02:18+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yS3RtX0dyaVZhR2ZnWFhENVp5RTlnTjNveWtLR3FBazZTOUhzMWZ3OUtfVGxFbGZnNHJibEFsRExhVGljR2tWUnZYeDE5X1UwVmZCbFZIUjVMQUlhbm5CWElXajhBdVR1WnU5dnNCVWs3QdIBckFVX3lxTE5GZGU5aTRHbnRtZ2hHR3loV3J0Tzhobjl4dmcydF9LaFlxUEhFaGhVb3IzZmhFbHBSb3VJVWxyOEstRzk4eVZPVjZjNmJOZzlkSzV2dTJJMk1NYTM0ZUhzajg2TXlYOW9wSWpjd1VLZkhfdw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 2,
+  "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 7,
-  "recogidos": 175,
-  "unicos": 42
+  "prefiltrados": 1,
+  "recogidos": 155,
+  "unicos": 35
  },
  "telegram_offset": 958387804,
  "version": 1
