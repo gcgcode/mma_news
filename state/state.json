@@ -13046,15 +13046,81 @@
    "title_norm": "mackenzie dern shuts down all gillian robertson weapons ufc 330",
    "ts": "2026-08-16T13:17:45+00:00",
    "url": "https://lowkickmma.com/mackenzie-dern-shuts-down-all-of-gillian-robertsons-weapons-at-ufc-330"
+  },
+  {
+   "key": "3a7a65bf6e26b62c2eba753eecbba479ab0a4ed4",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Sharif Rahman: Protecting the “0” Is Important, But It Isn’t Everything",
+   "title_key": "1c8943e6a9ae9dffad7c1b5fb3963a3228103e05",
+   "title_norm": "sharif rahman protecting important but isn everything",
+   "ts": "2026-08-16T13:48:37+00:00",
+   "url": "https://lowkickmma.com/sharif-rahman-protecting-the-0-is-important-but-it-isnt-everything"
+  },
+  {
+   "key": "4513c75be932e2f807eb1dfb348eac0f0cea7c6b",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Ian Machado Garry lectures Michael Morales backstage at UFC 330: ‘The shit you talk… make sure you back it up’",
+   "title_key": "047e0424f83743d9799e72eeeb1cae82a3d223e3",
+   "title_norm": "ian machado garry lectures michael morales backstage ufc 330 shit you talk make sure you back up",
+   "ts": "2026-08-16T13:48:44+00:00",
+   "url": "https://mmafighting.com/ufc/505325/ian-machado-garry-lectures-michael-morales-backstage-at-ufc-330-the-shit-you-talk-make-sure-you-back-it-up"
+  },
+  {
+   "key": "2cc6d7a293527d5e639cad0d7f026d3ae95625d8",
+   "score": 6,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Donte Johnson Lands Powerful KO In Round 1 | UFC 330",
+   "title_key": "6823ed797e442587d5722e5646ccbecf27c74e1b",
+   "title_norm": "donte johnson lands powerful ko round ufc 330",
+   "ts": "2026-08-16T13:48:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JQ2VGcU0yN3h4dnBSZlVKVngwamYxU3N3VUs0aTA2SXMzbGVxbXRsYUtKVHJCQ2liSEdmaXFNWE91LTZ5VEtGY09lUFJuYmc?oc=5"
+  },
+  {
+   "key": "a5794f61919abc0cffa946a96d8dc9e4539abd48",
+   "score": 8,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Dana White Blasts Ian Garry’s “Killer Instinct” After UFC 330 Loss to Islam Makhachev",
+   "title_key": "d420588b7b8dad35f63995a6a4cea97368dafba8",
+   "title_norm": "dana white blasts ian garry killer instinct after ufc 330 loss islam makhachev",
+   "ts": "2026-08-16T13:48:47+00:00",
+   "url": "https://lowkickmma.com/dana-white-blasts-ian-garry-killer-instinct-ufc-330"
+  },
+  {
+   "key": "33e06a0e0b46f4dba16eb6ed80deacc5890ffa13",
+   "score": 9,
+   "sent": true,
+   "source": "Fox Sports MMA",
+   "title": "Mackenzie Dern wins 115-pound title defense at UFC 330; Makhachev goes for record win streak",
+   "title_key": "1ca1a521e74206342c0d628dd02c57fa54862579",
+   "title_norm": "mackenzie dern wins 115 pound title defense ufc 330 makhachev goes record win streak",
+   "ts": "2026-08-16T13:48:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMU81RzEyNjFQRUJqdkg1aE5lbTkwQ1pjeW9wZ0JOTWt4QWFieExRVkhJbUpMMTJwcXp3bnM4SDk1TEVOS29yNXVrSHk1am5GWGk5aUx1M0pqUENxTDdyU0VsX3o4Sk1ZZG4zN3gtZFBUNTQxdXR4Um50YmJ6aTh4QzJ0MmZ5blMyZzkyWTU0ek5fS2FYYTNGbEVzbVRGb0pIa1ZkY1RXZkZ1V3ZoYTBUeDFTR2dKSzlpbVZmOVVXM21ENWliVkJfcA?oc=5"
+  },
+  {
+   "key": "d259859d8013bd82f3e55aea07719a3bd9d8dd22",
+   "score": 10,
+   "sent": true,
+   "source": "Fox Sports MMA",
+   "title": "Make it 17 straight! Makhachev sets UFC record for consecutive wins in welterweight title defense",
+   "title_key": "8329be622bd1f0e7830a3a989df8b8ad0fce2ac1",
+   "title_norm": "make 17 straight makhachev sets ufc record consecutive wins welterweight title defense",
+   "ts": "2026-08-16T13:49:02+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSGxrVm5DT2ZDM3Y1TzJyYlNnWWlMQWJjT29pQ3plQmd1ZU9aXzFPRExzYVQtbWpBQkFzX3NhVk1mR0l1Z1dYX0RVaVlxRlBDVDgwa2xHMWJVZG9ZMzAwNERkeExNNW5sS2V0bmpSWkxzQWtJT00tWklqc2F4aGJCV2dySmh2elR2OGdwd240UW9veHBueXRLa1hPeW5mWVZ3YUEyUENaUjdfV24tTVNkTG1sV21aLVE3RmZNMV9KdEFVT2FmQXNYY2dGUjdseTh2?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "prefiltrados": 2,
+  "descartados": 1,
+  "enviados": 4,
+  "llamadas_llm": 5,
+  "prefiltrados": 1,
   "recogidos": 176,
-  "unicos": 20
+  "unicos": 17
  },
  "telegram_offset": 958387804,
  "version": 1
