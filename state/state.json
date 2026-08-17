@@ -15994,15 +15994,48 @@
    "title_norm": "khabib nurmagomedov credits dana white mafia movie mentality cold blooded nature behind ufc success",
    "ts": "2026-08-17T21:31:46+00:00",
    "url": "https://lowkickmma.com/khabib-nurmagomedov-credits-dana-whites-mafia-movie-mentality-and-cold-blooded-nature-behind-ufcs-success"
+  },
+  {
+   "key": "a7029e4e9d322cea9c26109961a348638f934f47",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Todas las noticias publicadas el 16 de agosto de 2026 - Página 3",
+   "title_key": "af65a019fda5bf347d733c1ffa42a1606277b1b9",
+   "title_norm": "todas noticias publicadas 16 agosto 2026 pagina",
+   "ts": "2026-08-17T21:56:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUUk5ob211NndsYk9HX1YtajI1ckVEMjdqZTgzZGw5VHNVUFJweWtRRjZHN2xKQjBNNGVtT0lTY1hGLVBNQVV4WVJTeWhPM2xMZmNaTzR6N2hpTHVjb29YQzJabnR4QlVtUzY3NnV1T0RGX2c?oc=5"
+  },
+  {
+   "key": "378445d56dcfe58ace0b819c6277e23ee0854bdd",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Demetrious Johnson believes Garry lacked the killer instinct against Islam “When Ian Garry stood in front of Prates he had no problem getting into the fire, but",
+   "title_key": "2c5a8e475a7c8893892adc49758ab85995d9a29b",
+   "title_norm": "demetrious johnson believes garry lacked killer instinct against islam when ian garry stood front prates had no problem getting into fire but islam just different there hesitancy too much respect that had him not able pull trigger costed him",
+   "ts": "2026-08-17T21:56:34+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vr0ur3/demetrious_johnson_believes_garry_lacked_the"
+  },
+  {
+   "key": "247188a5d0402198b6a71b770d1016e3e1d6041b",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "\"Korean Zombie\" Jung Chan-sung (39) was a fighter with a weight that can be counted with his hands t..",
+   "title_key": "73d297e7c7b2365c5a1ea055fe4bb73ecdbfe349",
+   "title_norm": "korean zombie jung chan sung 39 fighter weight that can be counted hands",
+   "ts": "2026-08-17T21:56:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLV3FGNGFsZmI2NmNhUGQ5am9LaUJLazUyekFLd3FnM2pJclpfN0RUR1hpUGFQdU9vVGM4ejdLRW5Zazl2akVMajVMd19PNVJk?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "prefiltrados": 1,
-  "recogidos": 179,
-  "unicos": 4
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "prefiltrados": 2,
+  "recogidos": 199,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
