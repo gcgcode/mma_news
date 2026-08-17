@@ -15950,15 +15950,59 @@
    "title_norm": "jon jones news rumors ufc",
    "ts": "2026-08-17T20:59:53+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LRFlxcjRWb25IYkFXdFdJTldpOHU4RkJ1U2pfZEt2eXRlQjIxSDBNc0FsdlozZjhxcV9ZeDZMc1ZkWDNIY2VqdEVTVXhFYkJOaldsSG9nZ3dlYXc?oc=5"
+  },
+  {
+   "key": "92f26f09adf9ed05bb0767c1c08ed9d31648217c",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Mackenzie Dern: ¿Qué Sigue?",
+   "title_key": "b617603b00ab20fd404d19dba6e1b8d25340dec2",
+   "title_norm": "mackenzie dern sigue",
+   "ts": "2026-08-17T21:31:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sblZsV2pwUmNmTW00SWI1YXY5TmJDZGNkTU5pYkcyd2E2WHJuY2tVazJFTlY5WHpHNjA4V2VDOXlrbmtrNThsTTZsVWpKYVRQMUg4WmZfdGhzS05tQllVN1lPLXdDTjA?oc=5"
+  },
+  {
+   "key": "5bb8c364a4cd91e18b048e05d820e33a6d0819b5",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Sean Brady vs. Gabriel Bonfim booked for UFC main event on Nov. 7",
+   "title_key": "487306b315e4f566d3f3dd454419ec2f1093abe6",
+   "title_norm": "sean brady vs gabriel bonfim booked ufc main event nov",
+   "ts": "2026-08-17T21:31:36+00:00",
+   "url": "https://mmafighting.com/ufc/505317/sean-brady-vs-gabriel-bonfim-booked-for-ufc-main-event-on-nov-7"
+  },
+  {
+   "key": "ae2bae289aacb236780f64a64de107bf7dbcc714",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Mackenzie Dern reveals unhappiness with her UFC 330 performance: ‘I should’ve knocked her out’",
+   "title_key": "ba9c347e895d42fecf91bdf73d0829c39a68ea6e",
+   "title_norm": "mackenzie dern reveals unhappiness ufc 330 performance should ve knocked out",
+   "ts": "2026-08-17T21:31:42+00:00",
+   "url": "https://bloodyelbow.com/2026/08/17/mackenzie-dern-reveals-unhappiness-with-her-ufc-330-performance-i-shouldve-knocked-her-out"
+  },
+  {
+   "key": "824f7678312fabb18958a00466fd4190a8b33405",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Khabib Nurmagomedov Credits Dana White’s ‘Mafia Movie Mentality’ and “Cold-Blooded” Nature Behind UFC’s Success",
+   "title_key": "2c824924892d84817d054d95dd9c409389cd75d1",
+   "title_norm": "khabib nurmagomedov credits dana white mafia movie mentality cold blooded nature behind ufc success",
+   "ts": "2026-08-17T21:31:46+00:00",
+   "url": "https://lowkickmma.com/khabib-nurmagomedov-credits-dana-whites-mafia-movie-mentality-and-cold-blooded-nature-behind-ufcs-success"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 0,
-  "llamadas_llm": 1,
-  "prefiltrados": 2,
-  "recogidos": 199,
-  "unicos": 3
+  "descartados": 2,
+  "enviados": 1,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
+  "recogidos": 179,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
