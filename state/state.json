@@ -15466,14 +15466,25 @@
    "title_norm": "charles johnson news rumors ufc",
    "ts": "2026-08-17T15:45:57+00:00",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVlV0WGtKNk5UYnZBcmpaY3JSUXhKU2lHdGNUemx1amM3Yk5jVElfS1QxcUxnSThMUDd2WVo0UFg0QktZZy04R1ZPNUpOYVRMOV92Q3VOVXlXV2dRaG0taEFERQ?oc=5"
+  },
+  {
+   "key": "574901db251592607b009ee0b17fbefa1fd8e1ad",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Conor McGregor offers two-word support message to Ian Machado Garry after UFC 330 loss",
+   "title_key": "2abb64e067b54885d1f00b04b8ec03dafd750571",
+   "title_norm": "conor mcgregor offers two word support message ian machado garry after ufc 330 loss",
+   "ts": "2026-08-17T16:21:56+00:00",
+   "url": "https://bloodyelbow.com/2026/08/17/conor-mcgregor-offers-two-word-support-message-to-ian-machado-garry-after-ufc-330-loss"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 1,
   "enviados": 0,
-  "llamadas_llm": 2,
+  "llamadas_llm": 1,
   "recogidos": 200,
-  "unicos": 2
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
