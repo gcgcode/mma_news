@@ -15059,15 +15059,59 @@
    "title_norm": "imagine posting this concept card people would downvote you laughing telling you far too unrealistic",
    "ts": "2026-08-17T11:22:48+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vqg95q/imagine_posting_this_as_a_concept_card_people"
+  },
+  {
+   "key": "4af598540e0dd2c3cd9f68aa30c4def3fe3d897e",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Calendario Copa de España 2026/2027 Fase de Grupo Grupo 5",
+   "title_key": "83c001ee17648e4c9d09032bc693ced152ea4eaa",
+   "title_norm": "calendario copa espana 2026 2027 fase grupo grupo",
+   "ts": "2026-08-17T11:56:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVNfcTZwb0YzandkLWd0M3RQWlpBNFFqVDQxeS1YaVdQQ29WbzhHZ0x0TW5pWFlqY0N3dzFTbEZveXJ0XzBvelNlejNOMHlPNFZmcWpRVUJlOVdnUmFCSXBLM1FpS1ZjdWd1VGkwYTNHSlJCQU5xTWtTS1RLX25xLVQ2dWxhUQ?oc=5"
+  },
+  {
+   "key": "14dd0a56c3348faed709533c28735ffa665c5d27",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Joel Álvarez se da algo de tiempo tras su nueva derrota: \"Necesito sanar la cabeza\"",
+   "title_key": "813cdcf25e66657e005fe138f66d2d5c124b6ffd",
+   "title_norm": "joel alvarez da algo tiempo tras nueva derrota necesito sanar cabeza",
+   "ts": "2026-08-17T11:56:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVdGQUVxYlFYejFhQU1CcW80X0hHaU9xdElTZmlsQ0Z6OTRXN2dmaEF3VGNOMTFNaEEzWHk3bFJRXzBxQ3FITVJTYUtlbW0wcUgwS3c1a0hMbU5vZE1GR0UyUFR5a0pCcDd5U0JQc1Fmd1Y5YnlOY0ZReDlxSVB0aVYyMXBsSUMxRnBQTkdNcGJYNTIxR2ZmRmxsSUVIeHBGcG5zZi0yeFphVWkzd3k5bNIBvgFBVV95cUxNMW1xVDg3bzduVTctQWRyb3lIb1hXelRGRUlMNDNNRUZRR2FKUW1wZE1TNFpUOGFXcmgxelBHY0FVVlJVUjBHdTQ1alYzUWM0b2VqV1FsVG9TUXlqbXpPbVlDTXJXV3gwaTdyYm9zY00xLTM0TnZxNkMtbk5Dd2NYZnFlRFNqNm9iVjJNVUhfWVRKVmt0Q3ZsTGV4T011bjkxcm43bGJ6WDh0QTBUWWxoeDZrWjIxanRXeVQ1TUhB?oc=5"
+  },
+  {
+   "key": "2ecfe38e2331fd29a9331d9105e81d09d2b545f9",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "UFC fighters showing restraint",
+   "title_key": "b20862173f28c22f82c144741b8f29a49aaf338c",
+   "title_norm": "ufc fighters showing restraint",
+   "ts": "2026-08-17T11:56:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqmfv5/ufc_fighters_showing_restraint"
+  },
+  {
+   "key": "33e37d9b0a8b3a03587e206a3a7b4a371028d81d",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "5 razones para no perderse UFC Fight Night: Hernández vs. Rodrigues",
+   "title_key": "96ed6483524f5707ba3850b57e6a0e45dc7a1d78",
+   "title_norm": "razones no perderse ufc fight night hernandez vs rodrigues",
+   "ts": "2026-08-17T11:56:47+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEd5S2xIQkdMcXpTMDBNOU50ZFg5M0hKMGNFMnlvdXZybDgyckRoY2NheEFLbmJWRmxCSTRjV1pQZDNXOEdlaGN5SGt1ME91R3ZRdDg4UTBPLUFKbi0zYzREb0VMVkRVTlFZbVhQZnVsM1llc0JDWHRHcXdoOHBldw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 2,
-  "llamadas_llm": 3,
+  "descartados": 2,
+  "enviados": 0,
+  "llamadas_llm": 2,
   "prefiltrados": 2,
   "recogidos": 200,
-  "unicos": 5
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
