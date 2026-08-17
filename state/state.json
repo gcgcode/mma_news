@@ -15873,15 +15873,59 @@
    "title_norm": "mma pound pound rankings august 2026 can anyone beat islam makhachev",
    "ts": "2026-08-17T19:57:11+00:00",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT296YlhVU0N1TU52ZUdlOUZKeXVWaWlMN3FBbzd3UTlSUFZGMFd1cHF6cW1PNGlES0RHNnpVNFlVWW5wTU5qbnhjc051bFM1OTZYaWc0VFRwTGpzODBZOEZPYXM5Qk9LbmNaa2dsNk40WjlxUDRiSDVrTnBkSkU5eERRVHdrZER4MGRsaDRRa0c5MUU4ZVN5SmFaV0dZT0xmNHFwVjlqWXVjaVRtWWRBaWVhSEhBd0JDRzJHSGl1aGpzc0lIR25Yckt6M2lFOTNXRm9FMVlwUmsyMDFDc3hoVQ?oc=5"
+  },
+  {
+   "key": "50675bafda1390d02b4df1b2b188d869127f4113",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "He is such a loser smh",
+   "title_key": "db08f73dadd30e1d28a6526ee9a9630245e542fe",
+   "title_norm": "such loser smh",
+   "ts": "2026-08-17T20:23:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqz0ix/he_is_such_a_loser_smh"
+  },
+  {
+   "key": "407bbd3d34e00d71e3df40b2d0ed73f1c81cd6bb",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Daniel Cormier: Islam Makhachev was tired, pushed like never before at UFC 330",
+   "title_key": "f4cf28dcaf912f3dba5390c31dd9c6404ef73b2b",
+   "title_norm": "daniel cormier islam makhachev tired pushed like never before ufc 330",
+   "ts": "2026-08-17T20:23:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV1dTSXh4aFdOcnh0ZzFqMkhoVDNrMWxZeVNUaXYzcHNpcEhqVXRRT1lwMm45d1o2empWOFhoVnpjckx0VlJfNTVjV01kYUpBQUJwWFU1WUZsQ1JXMk1ncU5DUVhjWnhrdEFENVdDcVVBajlDeEhLdTU5R1IyVXpVYjRBV3Nhcm8yOFF6WV9SV1BJdGh0R0ZYTDIzdHEtZS1XMjlKeExGVjAyM2h5S05ZSXRIV3Fsem9Fb3Y1YzRsLWZ6M3NjMzJnZWtnc2YzdnAxTnNCTmpFN0tDczdVcGR5N2U3WmtWMUp0aG9SemZNaFlJeFUzUC1j?oc=5"
+  },
+  {
+   "key": "286744ff595e1797f4a3187cd8d0e7f835a8ff91",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev sends shot at Max Holloway after ‘Blessed’ raised confusion about UFC 330 celebration",
+   "title_key": "10386208d43f48854cffe8afaa7a5a96b361059a",
+   "title_norm": "islam makhachev sends shot max holloway after blessed raised confusion about ufc 330 celebration",
+   "ts": "2026-08-17T20:23:47+00:00",
+   "url": "https://bloodyelbow.com/2026/08/17/islam-makhachev-sends-shot-at-max-holloway-after-blessed-raised-confusion-about-ufc-330-celebration"
+  },
+  {
+   "key": "606e4d89f874cad4d35ea9b9d8638584dcffa3fe",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Michael Morales y las rutas que tiene para pelear por el título wélter de UFC",
+   "title_key": "f35e2f5116a1214ab6bd425ff8e015b56e4695dc",
+   "title_norm": "michael morales rutas tiene pelear titulo welter ufc",
+   "ts": "2026-08-17T20:23:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjdOZDIyNXhSOEd4UlgtWHFyZG50UlZoNHFiZVlsdjBpbXFoTC1Oa0VROHA0RFFTMW9HMDl2SkRZV0NTcW5uQklKTHdUUFRRV0dfa3dZSlhEZmhnQXpqN3NnamduVHZVQWtTSDBoUjExbDhTREN2S1FTTmFmSDFvYmNQSElZUjVLWFFTSXZrYzBJSzlm?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 2,
+  "descartados": 3,
+  "enviados": 0,
   "llamadas_llm": 3,
-  "prefiltrados": 2,
+  "prefiltrados": 1,
   "recogidos": 199,
-  "unicos": 5
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
