@@ -14795,15 +14795,47 @@
    "title_norm": "claressa shields vs kaye scott how watch tonight full fight card streaming info more",
    "ts": "2026-08-17T07:49:42+00:00",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb0ZnQ0cxM2kzVjNtUXhzWDRnZEFiM3R0V2U1RGpVcU1pcXktZ1dIYVg4eXAtNHBpOHpFUVNFQklKVHZQUkwwNGJLVGFuRzZFN2QxdjdKMUlPQUxrbmZFaEZqT2dkcjZjUFVrWHZnQXBMQ3B1QVhPR3dYamQxY21ZRHZTV0ZwcWs2VXpfMVZsOFJTYlpHbGFCQ1h5X2lrb0FmWFhyZDlNSHFXZTBnV2dJY0RGdFVfUERQdlhvTDBZcmZiZ0lBOWpMcDRxV0Y1dW81SENXUXdFbzQtWDE2dWpJ?oc=5"
+  },
+  {
+   "key": "a498a5014240da5e8612b85b57347b9e3c43c8f1",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "MMA might have the most casual fans out of any sport.",
+   "title_key": "53651f4921972ecefceed0c7f0baaa07e22d7d2b",
+   "title_norm": "mma might have most casual fans out any sport",
+   "ts": "2026-08-17T08:37:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqkukm/mma_might_have_the_most_casual_fans_out_of_any"
+  },
+  {
+   "key": "4734cff6e17479edd30933aea896e5452af2bffa",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Hoy en la historia | Miocic vs. Cormier 2",
+   "title_key": "a07d763b3a83337205e38a2be79c7d7153474eff",
+   "title_norm": "hoy historia miocic vs cormier",
+   "ts": "2026-08-17T08:38:11+00:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81am5OcXVUQ1dTd0t4aU96RmdXaTVrdzcxZnVBVmUyNXdWX1Z5OVZIamV1TmZBN3FQTkN6V1hacl9KN3BXVTVXdTZGN29aaEtHTThXektla0htbms5SW0tN295LTBxRjlaaVJENnJ0RGpvcnpMak5VWg?oc=5"
+  },
+  {
+   "key": "0c41856336b3e15691f55b3a4e521cadad72c3b0",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "¡Cartel de infarto! Alexander Volkanovski regresa para enfrentar a Movsar Evloev en el UFC 333",
+   "title_key": "26aef8c4eff1f23e08b3ecc72370809f1c68fe98",
+   "title_norm": "cartel infarto alexander volkanovski regresa enfrentar movsar evloev ufc 333",
+   "ts": "2026-08-17T08:38:19+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUkU0MkVxeTNacXpKX3d0NlQ4NldLQjNvUkxhYTdUTUQ0QW8zNmt0Nm9ZRmdIRVNzcE10bjZmNzZfX0lXZUpkVXo0NkNiVmVXWGhEUTU3X1V5TEFGWFJUWjc1SkxyWWF4Uk9pMWR6aWMycllmOS1ycDRwVWF6TE14VmUzZVh3OXhSSzJZMnpHRFJXQ1ppWS1oaklKdFVBQnc4NlNwUTNsR01kM3gtY0laT3RHWkpMZG95aEtWbEs3WHljal9YbVBjVzM4bHprYlh0MTJ6TzItUm1EYlpFckxr0gHfAUFVX3lxTE9SRTQyRXF5M1pxekpfd3Q2VDg2V0tCM29STGFhN1RNRDRBbzM2a3Q2b1lGZ0hFU3NwTXRuNmY3Nl9fSVdlSmRVejQ2Q2JWZVdYaERRNTdfVXlMQUZYUlRaNzVKTHJZYXhST2kxZHppYzJyWWY5LXJwNHBVYXpMTXhWZTNlWHc5eFJLMlkyekdEUldDWmlZLWhqSUp0VUFCdzg2U3BRM2xHTWQzeC1jSVpPdEdaSkxkb3loS1ZsSzdYeWNqX1htUGNXMzhsemtiWHQxMnpPMi1SbURiWkVyTGs?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 2,
   "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 3,
+  "llamadas_llm": 3,
   "recogidos": 200,
-  "unicos": 8
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
