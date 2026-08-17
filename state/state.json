@@ -15917,15 +15917,48 @@
    "title_norm": "michael morales rutas tiene pelear titulo welter ufc",
    "ts": "2026-08-17T20:23:48+00:00",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjdOZDIyNXhSOEd4UlgtWHFyZG50UlZoNHFiZVlsdjBpbXFoTC1Oa0VROHA0RFFTMW9HMDl2SkRZV0NTcW5uQklKTHdUUFRRV0dfa3dZSlhEZmhnQXpqN3NnamduVHZVQWtTSDBoUjExbDhTREN2S1FTTmFmSDFvYmNQSElZUjVLWFFTSXZrYzBJSzlm?oc=5"
+  },
+  {
+   "key": "c34b97ddbb07afb5934bf3c25f9ae3ed6467404c",
+   "score": null,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Anthony Smith pleads not guilty following arrest on multiple felony charges; next court date set for September",
+   "title_key": "44371c09a2b4c0c8cf8304e6d28eb50a596c7fb4",
+   "title_norm": "anthony smith pleads not guilty following arrest multiple felony charges next court date set september",
+   "ts": "2026-08-17T20:59:52+00:00",
+   "url": "https://mmafighting.com/ufc/505616/anthony-smith-pleads-not-guilty-following-arrest-on-multiple-felony-charges-next-court-date-set-for-september"
+  },
+  {
+   "key": "88917fe55b442783ddae88d75c0be655a6c90605",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Video of Islam with his fan that has cancer ❤️",
+   "title_key": "3de87ac9648b5b265017515ccb9fba38dc57ec34",
+   "title_norm": "video islam fan that has cancer",
+   "ts": "2026-08-17T20:59:52+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vr39oo/video_of_islam_with_his_fan_that_has_cancer"
+  },
+  {
+   "key": "fcc62c286ae157a77c84d5ad3aa479c6c1bbed5f",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Jon Jones - News & Rumors - UFC",
+   "title_key": "c8238ef24d811f3782385efe6b371bdd42c28064",
+   "title_norm": "jon jones news rumors ufc",
+   "ts": "2026-08-17T20:59:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LRFlxcjRWb25IYkFXdFdJTldpOHU4RkJ1U2pfZEt2eXRlQjIxSDBNc0FsdlozZjhxcV9ZeDZMc1ZkWDNIY2VqdEVTVXhFYkJOaldsSG9nZ3dlYXc?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 1,
   "enviados": 0,
-  "llamadas_llm": 3,
-  "prefiltrados": 1,
+  "llamadas_llm": 1,
+  "prefiltrados": 2,
   "recogidos": 199,
-  "unicos": 4
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
