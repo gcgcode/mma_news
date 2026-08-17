@@ -16093,15 +16093,48 @@
    "title_norm": "daniel soncora marcos debuta pfl estoy listo pelear contra grandes",
    "ts": "2026-08-17T22:22:15+00:00",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY2xUb3VGaVp1S0ZVRTNUUDJqc3VVQ0RJRW5VSDJzTUo4VUhEbkRaVHZOVXRtTE9nNDNkRm1ObXlBT2xsWEFFS3U1aFc2MFVvdm45aEpmR253SVhKSjJMLWdSSVpsN0RERkNTQklaSUVFUk8xMzRSV2hPUmRqOEU1Y01JTE5naVhaUVJIZlgwTG1ZUGtDek1GVnA0STlPLWJGR1lQcnZZWERBQ2FiakEwY2NHYmowWjVjN1dYckFUU0RDWUR5MkFrQWVQZnFfaURPYnlCRURERVdCbmRkdEVrR3dmTXJrUDMtVFZHRlQ2cw?oc=5"
+  },
+  {
+   "key": "d754786b299557da05d86d0d40bd5232ebf08cf9",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Jim, Johnny, Joey and Jesse Buss had the chance to …",
+   "title_key": "8eea7d095c9d28f41cc0da0fce3bea772d636973",
+   "title_norm": "jim johnny joey jesse buss had chance",
+   "ts": "2026-08-17T22:46:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yQ0N5YVVyTlNKRnFyRkFTOV9KMWl5MHBGaE5XTHJ4ajFoeUpXSlk1akJyNXA5ZW9CM2Rkczlwenc2Y04yRGdsMklhdTRSWmRRNmJ3Yl80U2lKb1VOWGswQ3JmUHJ3RFY3R2J5ZXdUejU5SUFENlNOYg?oc=5"
+  },
+  {
+   "key": "52c405abefbdee895ec3125f40475d7e01034da8",
+   "score": 10,
+   "sent": true,
+   "source": "Fox Sports MMA",
+   "title": "Makhachev sets UFC record with 17th straight win with 170-pound title defense over Machado Garry",
+   "title_key": "386be6f5619b269a6b277fbb4c15be4e7ed8e0fd",
+   "title_norm": "makhachev sets ufc record 17th straight win 170 pound title defense over machado garry",
+   "ts": "2026-08-17T22:46:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFN1M0ttZU9DTEI5YzJ6cTZUUlBuNzMwX3YyalRwMW9VVlFhYXVaVGQ4NzliWTRwMXlLd0tXbjZ2Qm9NR1lIbnlZTW95SDFKRGlHWG1DQ1AwTFBQU3pNdWszLXRZZ25MRE9xRHd4YUNaOUxJc3VwVDk1S3R5eV8xWjg5d0FuTm5Gam5HZXhUeEs5RXZLcGk5YXZ3U3VGdVlXcEN4aG8xYU1XT2ZueExOVnVHbVU1LTlna0pOcFMtQVhteGRacDFtalJ2eExJZ3c?oc=5"
+  },
+  {
+   "key": "0d80872579ad46a5a174ad6c184e700f20ee4401",
+   "score": 2,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Makhachev vs. Machado Garry: How to watch UFC 330 tonight, start time, full fight card and more",
+   "title_key": "a9fd9480bb7eafbd20cfd8c390335c0155d0152e",
+   "title_norm": "makhachev vs machado garry how watch ufc 330 tonight start time full fight card more",
+   "ts": "2026-08-17T22:46:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWZOQW5rLW9kaFVVY3FKcjh3MzNwbGFFelNfUWNiNW5WNm5XSmR6OW9nQ3FpQXRPdnNuZkpkWVVDRF9UTjNsVlRpRUhEMU40RDhlZ0JseVc1NkIzbmFOd19zLXE4YXloZFpjSTRScF9LOVBhLTdCbDRqWnJBYnBHWVJWaHNtNXFWT0U3Q3h2dm12bUlkNHJNSkFxbVhzMWllTmpBT1J5dDluVjhYWUxtUG5rcTFWNEd6UjRhWDdwaGNqOTkyU0ptOWt5UjB3cEQ1V2Y4TmNvaVNQSkE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 1,
   "enviados": 1,
-  "llamadas_llm": 4,
-  "prefiltrados": 2,
-  "recogidos": 154,
-  "unicos": 6
+  "llamadas_llm": 2,
+  "prefiltrados": 1,
+  "recogidos": 179,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
