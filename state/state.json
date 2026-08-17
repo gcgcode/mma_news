@@ -14311,15 +14311,103 @@
    "title_norm": "hasn fought over year thinks getting title shot lol needs fight either shavkat or ian first",
    "ts": "2026-08-17T02:21:17+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vq7vuf/hasnt_fought_in_over_a_year_and_thinks_hes"
+  },
+  {
+   "key": "fe7dd68fa3445669cc4934d27e1ba8586e1f8b8c",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Spoiler] Fighters react to head kick knockdown",
+   "title_key": "92e008a23bc5121355c1b067a3515454885c4404",
+   "title_norm": "spoiler fighters react head kick knockdown",
+   "ts": "2026-08-17T03:17:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqgofi/spoiler_fighters_react_to_head_kick_knockdown"
+  },
+  {
+   "key": "dea2009e01ad804220d40a3093392dfb3678e7c1",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "every post fight interview.",
+   "title_key": "9c647f7c9978fdc3a7ab4693f9007a84577fc1f5",
+   "title_norm": "every post fight interview",
+   "ts": "2026-08-17T03:17:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqan2v/every_post_fight_interview"
+  },
+  {
+   "key": "5c79564fb677694d470eec20bde16abc9baf531d",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Jalin Turner explains how he handled the burden of hurting his opponents",
+   "title_key": "2972febf659fd6690d6d154fcca3eebed18f1f3c",
+   "title_norm": "jalin turner explains how handled burden hurting opponents",
+   "ts": "2026-08-17T03:17:43+00:00",
+   "url": "https://sherdog.com/news/news/Jalin-Turner-explains-how-he-handled-the-burden-of-hurting-his-opponents-202378"
+  },
+  {
+   "key": "761b9aca2d660c1fd36dd1badfe2eb17bbd0aa1c",
+   "score": 2,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dillon Danis begs Dana White to let him end Islam Makhachev’s historic streak after UFC 330",
+   "title_key": "bb622d5610a69bcfa2ac231cd9f1f43002a3ab05",
+   "title_norm": "dillon danis begs dana white let him end islam makhachev historic streak after ufc 330",
+   "ts": "2026-08-17T03:18:17+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/dillon-danis-begs-dana-white-to-let-him-end-islam-makhachevs-historic-streak-after-ufc-330"
+  },
+  {
+   "key": "ab0d89df8487cd2e5c77222aed07fd9c6a2f0a82",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Neil Magny closes in on Jim Miller’s all-time UFC wins record",
+   "title_key": "fee37e87d8ebfb23fe83f44da01093eafff9aae9",
+   "title_norm": "neil magny closes jim miller all time ufc wins record",
+   "ts": "2026-08-17T03:18:18+00:00",
+   "url": "https://sherdog.com/news/news/Neil-Magny-closes-in-on-Jim-Millers-alltime-UFC-wins-record-202384"
+  },
+  {
+   "key": "4c209bb9296ac4a9be5390c6cb73d578354a4147",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Lucas Fernando nearly quit MMA before breakthrough UFC 330 victory",
+   "title_key": "1e743abe8abc0903e1094662e79cca31a5d9d475",
+   "title_norm": "lucas fernando nearly quit mma before breakthrough ufc 330 victory",
+   "ts": "2026-08-17T03:18:19+00:00",
+   "url": "https://sherdog.com/news/news/Lucas-Fernando-nearly-quit-MMA-before-breakthrough-UFC-330-victory-202383"
+  },
+  {
+   "key": "0e67ceffc62d01bd65b56594841e8fb01ddfabb1",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Din Thomas is a pos",
+   "title_key": "8d76eb2a2567aa721bfc40f4667d58bdb94692df",
+   "title_norm": "din thomas pos",
+   "ts": "2026-08-17T03:18:20+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqfzyz/din_thomas_is_a_pos"
+  },
+  {
+   "key": "28d0622be7bea97a5917e696f3e9b71952c7f2f8",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Charles Johnson’s wild UFC 330 submission was no fluke: ‘Once or twice a week’",
+   "title_key": "946c89825ac3ead7eca30d101df047d5dabfda3a",
+   "title_norm": "charles johnson wild ufc 330 submission no fluke once or twice week",
+   "ts": "2026-08-17T03:18:21+00:00",
+   "url": "https://sherdog.com/news/news/Charles-Johnsons-wild-UFC-330-submission-was-no-fluke-Once-or-twice-a-week-202382"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 200,
-  "unicos": 8
+  "prefiltrados": 3,
+  "recogidos": 190,
+  "unicos": 12
  },
  "telegram_offset": 958387804,
  "version": 1
