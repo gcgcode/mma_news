@@ -14168,13 +14168,81 @@
    "title_norm": "referi ufc desata polemica tocar trasero peleadora durante combate",
    "ts": "2026-08-16T23:39:52+00:00",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0tiRmNiWlkwanNKVnpST0ozTm03UmJ0SGx3TjRLemV5dFV6TTZLRmVWQmwwR2w5emhDTFJCRTRrdk1SM3VLTVRuRUkyNVgtWGZNM3BDVnZUaTBkaEU4MllJYVVLTUl5dzBab0xUcklMQTRUS1Y0SFJTU01LTjFXRkN5UExwTVZwQ1g2WGM2ZEdiZklVb2EtLVdKN0lHdndQT3NrTjM5dzE4U043UGp0TExMcDlFbzBWWmdaWVZLWmY1bjjSAcMBQVVfeXFMTU9LYkZjYlpZMGpzSlZ6Uk9KM05tN1JidEhsd040S3pleXRVek02S0ZlVkJsMEdsOXpoQ0xSQkU0a3ZNUjN1S01UbkVJMjVYLVhmTTNwQ1Z2VGkwZGhFODJZSWFVS01JeXcwWm9MVHJJTEE0VEtWNEhSU1NNS04xV0ZDeVBMcE1WcENYNlhjNmRHYmZJVW9hLS1XSjdJR3Z3UE9za04zOXcxOFNON1BqdExMTHA5RW8wVlpnWllWS1pmNW44?oc=5"
+  },
+  {
+   "key": "07804e370ba57c5df8157d7e253988df9b9de1d7",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Spoiler] Islam and DC talk about the fight, Islam tells him how he hurt his nose.",
+   "title_key": "6c6137b3df55d0e062399b230b9c6fe021587448",
+   "title_norm": "spoiler islam dc talk about fight islam tells him how hurt nose",
+   "ts": "2026-08-17T00:58:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqcjeu/spoiler_islam_and_dc_talk_about_the_fight_islam"
+  },
+  {
+   "key": "44b14af8d849eb3fa584465164b95a44ce935999",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Future fight odds for Islam Makhachev",
+   "title_key": "1956e6a16bf3edd6f6acd05dbdb1059bc4f41867",
+   "title_norm": "spoiler future fight odds islam makhachev",
+   "ts": "2026-08-17T00:58:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqd2ik/spoiler_future_fight_odds_for_islam_makhachev"
+  },
+  {
+   "key": "5bcf829b50bf48c976f1d896644fa4436ecd3e1e",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Mackenzie Dern vs Gillian Robertson (somebody enjoyed this fight)",
+   "title_key": "ddf7d31b1c6e888e7ebc1207472e1ac28c25a83a",
+   "title_norm": "mackenzie dern vs gillian robertson somebody enjoyed this fight",
+   "ts": "2026-08-17T00:58:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqdsjh/mackenzie_dern_vs_gillian_robertson_somebody"
+  },
+  {
+   "key": "443cad8727a1ecf24fa5a4165f3116257031a078",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Bruce buffer’s script has been leaked",
+   "title_key": "91e7960cd2f06788b919b44b511209f3aa7faa16",
+   "title_norm": "bruce buffer script has been leaked",
+   "ts": "2026-08-17T00:58:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vq9tkq/bruce_buffers_script_has_been_leaked"
+  },
+  {
+   "key": "3d90a0f91bcb5610d7f8956364a032c35d252a88",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev identifies two things he must fix at welterweight in honest admission after UFC 330",
+   "title_key": "c72e5ba4a86375d6c9931a0c0529e7d4c61b5102",
+   "title_norm": "islam makhachev identifies two things must fix welterweight honest admission after ufc 330",
+   "ts": "2026-08-17T00:59:32+00:00",
+   "url": "https://bloodyelbow.com/2026/08/16/islam-makhachev-identifies-two-things-he-must-fix-at-welterweight-in-honest-admission-after-ufc-330"
+  },
+  {
+   "key": "982fdfa91b19d6223f011e7323723d88233e3461",
+   "score": 3,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "“It’s Time Now For Legacy” – Daniel Cormier Caught In Hilarious Attempt To Convince Top MMA Free Agent To Join UFC",
+   "title_key": "ff3f33ca0b697b8994d3345220ac048aed7b8ba1",
+   "title_norm": "time now legacy daniel cormier caught hilarious attempt convince top mma free agent join ufc",
+   "ts": "2026-08-17T00:59:33+00:00",
+   "url": "https://lowkickmma.com/daniel-cormier-convince-usman-nurmagomedov-ufc"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 0,
-  "recogidos": 180,
-  "unicos": 0
+  "descartados": 1,
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "prefiltrados": 4,
+  "recogidos": 200,
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
