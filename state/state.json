@@ -15444,15 +15444,36 @@
    "title_norm": "stanley dorsainvil bio information ufc",
    "ts": "2026-08-17T15:21:15+00:00",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XNHdCQjZ1ei1GU0Q3THpjVXEwWEFISHI1blNMZFVIR2Vfb3dBWndERGVDVDYwUG1YajNoTUJ6bHE4dURaaENBVDlFd2NKRE41enFOMDZ3eDhXQV9JUUtnSTF5RFktRVNCcjVYRg?oc=5"
+  },
+  {
+   "key": "8baaaee96a2e3eec04cdf031572a8d6d57551ee4",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Alexander Volkanovski - News & Rumors - UFC",
+   "title_key": "f0ee845bee1fbbef381f78bc8f26216b1e907737",
+   "title_norm": "alexander volkanovski news rumors ufc",
+   "ts": "2026-08-17T15:45:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00ZmxnS2FRTDJUNGFBdENvUXhBSG0wSkpreWRSVnVESWVQYS1BMjgtQ3VBdTdhM3BPUU8tUGxNUmVINFBTME02czhFRnFZM1JjX2J2QmZCNVBJZG5DZXBsd1MwTVQ?oc=5"
+  },
+  {
+   "key": "197684121d2e8a9a812d0cd3d10ec897e9b28d39",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Charles Johnson - News & Rumors - UFC",
+   "title_key": "0fe13633103a23aa835e3bea887af5cbdab96d20",
+   "title_norm": "charles johnson news rumors ufc",
+   "ts": "2026-08-17T15:45:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVlV0WGtKNk5UYnZBcmpaY3JSUXhKU2lHdGNUemx1amM3Yk5jVElfS1QxcUxnSThMUDd2WVo0UFg0QktZZy04R1ZPNUpOYVRMOV92Q3VOVXlXV2dRaG0taEFERQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 2,
+  "descartados": 2,
+  "enviados": 0,
+  "llamadas_llm": 2,
   "recogidos": 200,
-  "unicos": 9
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
