@@ -15686,15 +15686,59 @@
    "title_norm": "what next ufc 330 winners",
    "ts": "2026-08-17T18:00:47+00:00",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpMVQ3bVlZQndHdlV3ODBGMEZsNU1qUVJIOWJlRzBfMFU3enpaM2dTUUlGckJDRV9jcE5SVHJKNzJCVUc3RHBzWDc1R0FPR2xUWVVBWExZVGVKOUNOR2lYZUZMX2liM1M5UzZOUGpiZDA4dw?oc=5"
+  },
+  {
+   "key": "1ce886ca322024589ae409a04cbd06712e4ed3f8",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "😭 bro thinks he's buckley",
+   "title_key": "525af5680cfb4ab3444c6610cf4c6c1c1249a55f",
+   "title_norm": "bro thinks buckley",
+   "ts": "2026-08-17T18:49:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqy0ax/bro_thinks_hes_buckley"
+  },
+  {
+   "key": "b797797b6ec550ecc1b310d9611d34b455b375d4",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "A+ UFC Takedown Defense Moments",
+   "title_key": "4db6387dc3e09a497fceb506ca4d2baa46134277",
+   "title_norm": "ufc takedown defense moments",
+   "ts": "2026-08-17T18:49:47+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqzz5m/a_ufc_takedown_defense_moments"
+  },
+  {
+   "key": "82de2e6e4066fef6205558c2d95a6cf7dc9a970c",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Din Thomas apologizes to Gillian Robertson for his ‘despicable’ decision to retire at UFC 330",
+   "title_key": "5bd6af8cb35fbbb309b1b93e6729bb5d0754c043",
+   "title_norm": "din thomas apologizes gillian robertson despicable decision retire ufc 330",
+   "ts": "2026-08-17T18:49:52+00:00",
+   "url": "https://mmafighting.com/ufc/505572/din-thomas-apologizes-to-gillian-robertson-for-his-despicable-decision-to-retire-at-ufc-330"
+  },
+  {
+   "key": "b035190ece76031bb5de4837e0e3b509d9b4b09a",
+   "score": 9,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Edson Barboza anuncia su retiro tras derrota ante Esteban Ribovics en UFC 330",
+   "title_key": "be9ffd8f3f4694adc4198438fb5316d4b8ebb082",
+   "title_norm": "edson barboza anuncia retiro tras derrota ante esteban ribovics ufc 330",
+   "ts": "2026-08-17T18:50:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWmh6dnJkbkpaY3lSQkxLZWU2cXhDTk83c3kzN1dINEJHU3RhNlBWaExiZWFuUnRRNXRPUDZ0SVlneGlXQ0piSzFtUks3UkxWSVluWC1ndVhaaUwwcHRGX0E1Q2lwYm5qbXJFRmduQVpTdmFiSW54Zk9ORWlUUG9xdlFwUVFpejFJdWpHaC1xNUtPVWxrc2JuTjNQZVJ6UUl1blVXN2pXMl84SGlQZFl4bXNFbFpqd9IBrgFBVV95cUxQRXAwTGJLYkJ2S04tb0ZRUkxZM0k2S0tMNGFXTGlpU3ZseER0cHc3aW1WOHJKZDlkRUc5WmdwT3IxMFV1aUdMTUpSRnk1UlBlTlRtTE1rc2VsM0gzQkE4dzl0SzFZYzJKMGJ5eFM2R2VFNmJxemJmRGo5T280N3ZKTlBGUi15VDA2MlhubWloLThVcW9CUkR1Nkx4bE5QMmFxdzRyTjFUNERDY05XOVE?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 0,
-  "llamadas_llm": 2,
-  "prefiltrados": 4,
+  "enviados": 1,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 199,
-  "unicos": 6
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
