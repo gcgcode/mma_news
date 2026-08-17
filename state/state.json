@@ -16214,15 +16214,59 @@
    "title_norm": "ufc 331 main card set van vs pantoja main event",
    "ts": "2026-08-17T23:18:54+00:00",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11T09sWkZFZEQ4bzZRNE9VaG1DdVRTMjRSWmI0TDRSeGt4US1MMWp5VVdMcU9rQmZsVHdXeEd3ZjdRTURzVjFBNVZqRU5DTUd3VDVoUGZOTExoai1MR002NGs1WHBDd2dMdjNHV2JXODc3Y3RMbDJUNjJR?oc=5"
+  },
+  {
+   "key": "da908bd3959dc21cb604991646d57eb4c196be27",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Do you truly think Islam has surpassed GSPs GOAT status? These are their Championship win comparisons.",
+   "title_key": "b844a511a2bd447a685578085ea1a16a750718d5",
+   "title_norm": "do you truly think islam has surpassed gsps goat status these are their championship win comparisons",
+   "ts": "2026-08-17T23:42:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vr1ppt/do_you_truly_think_islam_has_surpassed_gsps_goat"
+  },
+  {
+   "key": "5442039b2d4de8523aba573dfa9044acc26e5fa5",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "The disrespect to Pantoja after beating him by fluke injury is wild. I hope Van gets humbled hard lol",
+   "title_key": "e3deb871278fbd905bcb3b77fbb7bc9ab6917add",
+   "title_norm": "disrespect pantoja after beating him fluke injury wild hope van gets humbled hard lol",
+   "ts": "2026-08-17T23:42:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vr8155/the_disrespect_to_pantoja_after_beating_him_by"
+  },
+  {
+   "key": "ee9394f01e193d8c368348e33c644dd5dda7efec",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "PFL Tampa: Make predictions for Cris Cyborg vs. Ketlen Vieira",
+   "title_key": "b9537b4ff0a871d7066f4b089e5d630c2dd4d5fb",
+   "title_norm": "pfl tampa make predictions cris cyborg vs ketlen vieira",
+   "ts": "2026-08-17T23:42:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWpHUWpuN1VvYU12N2Y0dGVRSUlZLXppTFVVeTdCZk5HUDZzNS1pUmxoU1pzcTA5ZWRWbkJaM0VJQTg5WTIwQi1xZEJZZDBoUThZU2pydjU0VjJIUmphR0NJSl9vbG1iYTk3OVFGT1RzNnF1WHVmNGI2b3pRc2F4X1VMRjVRU09rWUE?oc=5"
+  },
+  {
+   "key": "7fbd756131cfdacc42730744272c24f3e6d98f90",
+   "score": 7,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Khabib Nurmagomedov Pens Powerful Tribute To Islam Makhachev After Historic Win At UFC 330",
+   "title_key": "b4e504eea0dd32e0f365610fe39577d055a8b9b9",
+   "title_norm": "khabib nurmagomedov pens powerful tribute islam makhachev after historic win ufc 330",
+   "ts": "2026-08-17T23:42:48+00:00",
+   "url": "https://lowkickmma.com/khabib-nurmagomedov-hail-islam-makhachev"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 1,
   "enviados": 1,
-  "llamadas_llm": 4,
-  "prefiltrados": 4,
-  "recogidos": 199,
-  "unicos": 8
+  "llamadas_llm": 2,
+  "prefiltrados": 2,
+  "recogidos": 196,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
