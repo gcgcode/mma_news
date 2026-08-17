@@ -14399,15 +14399,92 @@
    "title_norm": "charles johnson wild ufc 330 submission no fluke once or twice week",
    "ts": "2026-08-17T03:18:21+00:00",
    "url": "https://sherdog.com/news/news/Charles-Johnsons-wild-UFC-330-submission-was-no-fluke-Once-or-twice-a-week-202382"
+  },
+  {
+   "key": "0b662bc272a53bd06a8e0a7e8f5b6176929af4c7",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Anik on Din Thomas announcing his coaching retirement: “Wow. Awful. Not about you, bro! Wow.”",
+   "title_key": "e826753b078c2a13c0e7d28583ae835b4d092f26",
+   "title_norm": "anik din thomas announcing coaching retirement wow awful not about you bro wow",
+   "ts": "2026-08-17T04:07:47+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vq6m3g/anik_on_din_thomas_announcing_his_coaching"
+  },
+  {
+   "key": "db2487805aca804dd0f1fd45715a597942271c60",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam comforting Ian’s son after the fight",
+   "title_key": "3552a238aea790c74fed7b41437e9f39f08cf112",
+   "title_norm": "islam comforting ian son after fight",
+   "ts": "2026-08-17T04:07:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqfc71/islam_comforting_ians_son_after_the_fight"
+  },
+  {
+   "key": "54073dc0261ddf423e5b578d79a937399eca1b77",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "2-3 years catistan and forget 🥀🐱🐈",
+   "title_key": "bad28ef04413bf651a1d7a01a86ff1fb937118e2",
+   "title_norm": "years catistan forget",
+   "ts": "2026-08-17T04:07:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqgx42/23_years_catistan_and_forget"
+  },
+  {
+   "key": "5cdf8d772ed979a89f45af40e4620e83196fba14",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "'We need a mercy rule': Fighters react to Mackenzie Dern's UFC 330 title defense",
+   "title_key": "05c6d6f89be0df0da3ee6c0068bd64ff5bfcc4f4",
+   "title_norm": "we need mercy rule fighters react mackenzie dern ufc 330 title defense",
+   "ts": "2026-08-17T04:09:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHZQclROZFBFUW1HT2RWVnU5c2FHYjN1R3JobXYycm5qU3ZGTDFtaGUyczYzSmVTZnFpRVFsdnRESV9TSmJldTJ2RGd1SEU4RzJIdElDTE14N0FYcEdqTHdobGRJVDlGNnNZejFZak45ZWxKajRoUHR5NkN0eWZiYkFNSHBKYm54Vld0WTFiUUZXNVNzUGJOTmtHNE1mbzdyaXlRVzFjckkwN09vUmxlZklZMENhbl9BeXpIT2N3SDdjOVZYaWhmMFhZU3lrZW5uNkYycVNKalpQcF9i?oc=5"
+  },
+  {
+   "key": "f4d8e6f24d2ce83acf8d72a6acd11b84c1a99c46",
+   "score": 7,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Next up? Islam Makhachev names most deserving title challenger",
+   "title_key": "5d14e208a8eb966f057225f018f7621f6ab81155",
+   "title_norm": "next up islam makhachev names most deserving title challenger",
+   "ts": "2026-08-17T04:09:05+00:00",
+   "url": "https://sherdog.com/news/news/Next-up-Islam-Makhachev-names-most-deserving-title-challenger-202385"
+  },
+  {
+   "key": "53e08462b7a576e054fc63f9eac044c021d11a10",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Chidi Njokuani explains bizarre UFC 330 weigh-in mix-up",
+   "title_key": "9e189b19b4abb4db821e0547a95636ddf0bbe192",
+   "title_norm": "chidi njokuani explains bizarre ufc 330 weigh mix up",
+   "ts": "2026-08-17T04:09:06+00:00",
+   "url": "https://sherdog.com/news/news/Chidi-Njokuani-explains-bizarre-UFC-330-weighin-mixup-202380"
+  },
+  {
+   "key": "339d0355a68060dfb56da6b278f8ed3622908677",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "VIDEO El salteño Ribovics y una noche histórica para el MMA",
+   "title_key": "8449c5310c649a7881d298587820704ab0eced32",
+   "title_norm": "video salteno ribovics noche historica mma",
+   "ts": "2026-08-17T04:09:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHdBcUxPaDdvVWVDRVJFTVJjRHFab1hDc1NQNU5ZeFpMUUt3LWR6QlNOU2R2OGc5RktQcWNmZGhEdUxUSVdtTWh0RjgxWGNzWVM2ekxFLUU3NlF0T0V3SGVoRnhSYWFaYmhBWTZoZ1BFVEl5U042aUpiVkIxb1dYSGpST0RlN2VUV3c2NlFCME1QX3JsOHfSAZsBQVVfeXFMT1N0N0h4WGd2b2VqOW9VYTFNamcxUkF4RnR3YXliRlFxY1BHVktPY1I0djc4N0pldUxMNVlDYjJsSnpISHEtVnBaYWR5RVpqbGJNbEhCTklMWVZlRmFhSU9kcjAtOTNQMThpN0t3SDJXSWRQRGU1UmxVaHZaU0h6SW1Vb3BKRmxlTVhJa01SQkZHRDZobTVPYXJDbzQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
-  "llamadas_llm": 5,
+  "descartados": 2,
+  "enviados": 2,
+  "llamadas_llm": 4,
   "prefiltrados": 3,
-  "recogidos": 190,
-  "unicos": 12
+  "recogidos": 200,
+  "unicos": 11
  },
  "telegram_offset": 958387804,
  "version": 1
