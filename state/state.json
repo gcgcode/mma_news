@@ -15620,15 +15620,81 @@
    "title_norm": "official weigh results dana white contender series season 10",
    "ts": "2026-08-17T17:33:59+00:00",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmoxVF9tM1pBdmVtb0R2a0hKczgwMG8wSVlYaUxkYTVnbnBHQ0VPdkFOYi1KS0tiQjJkNFlPbS05S3ZuNVR2cEJ2ekxvMVhWR0lqMFV3U0NSQnlaZy1kWmJ6b3V3eVZid2ctZ0d1TnZ2VlplTFBnMG0wc3FodzJzenpwTkJlZWxIRy0yWDlXY21PWTQ?oc=5"
+  },
+  {
+   "key": "131047f65881e5d29f151542cb26db98906d669b",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "MacKenzie Dern vs Gillian Robertson Media Scores",
+   "title_key": "9677001b5e6bdab4b8fab3709dae8f5ed1973b16",
+   "title_norm": "mackenzie dern vs gillian robertson media scores",
+   "ts": "2026-08-17T18:00:45+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqylbw/mackenzie_dern_vs_gillian_robertson_media_scores"
+  },
+  {
+   "key": "b9851c46b59ddce8039c7b12fb75e00766dae8f1",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What a stacked resume. He should get a lot more credit.",
+   "title_key": "77c012135f2093281cd0a9d1af346e3e58daee67",
+   "title_norm": "what stacked resume should get lot more credit",
+   "ts": "2026-08-17T18:00:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqxlsh/what_a_stacked_resume_he_should_get_a_lot_more"
+  },
+  {
+   "key": "2a691fec52effbbd4188a25b94176c59e7bee422",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam Makhachev fires back at Max Holloway's recent comments",
+   "title_key": "39972286a2f505613199ca2a57b8c6982b5231d3",
+   "title_norm": "islam makhachev fires back max holloway recent comments",
+   "ts": "2026-08-17T18:00:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqyhr8/islam_makhachev_fires_back_at_max_holloways"
+  },
+  {
+   "key": "1304178c9947d8f35ec9fda81da55957ea9aef5f",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "“Ilia Topuria lost but at least he takes more risks in his fights”",
+   "title_key": "9685b9c60d16616118a8c3b92a3c86f8e8c21dd7",
+   "title_norm": "ilia topuria lost but least takes more risks fights",
+   "ts": "2026-08-17T18:00:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vqz33r/ilia_topuria_lost_but_at_least_he_takes_more"
+  },
+  {
+   "key": "96918a64dd0249fdf054da9157890900524082c1",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Meet the fighters competing for a UFC contract on Week 2 of Dana White’s Contender Series",
+   "title_key": "8e83da12b9c444cb5544e4d8d8ce2a0dcb419cac",
+   "title_norm": "meet fighters competing ufc contract week dana white contender series",
+   "ts": "2026-08-17T18:00:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/17/meet-the-fighters-competing-for-a-ufc-contract-on-week-2-of-dana-whites-contender-series"
+  },
+  {
+   "key": "9c5c3aa7cee569e57c3785c3ed8bca87a434a61a",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "What’s Next: UFC 330 Winners",
+   "title_key": "6deeb4e730671c5c4068f2615969f7d0525fe2ed",
+   "title_norm": "what next ufc 330 winners",
+   "ts": "2026-08-17T18:00:47+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpMVQ3bVlZQndHdlV3ODBGMEZsNU1qUVJIOWJlRzBfMFU3enpaM2dTUUlGckJDRV9jcE5SVHJKNzJCVUc3RHBzWDc1R0FPR2xUWVVBWExZVGVKOUNOR2lYZUZMX2liM1M5UzZOUGpiZDA4dw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 2,
   "enviados": 0,
-  "llamadas_llm": 3,
-  "prefiltrados": 2,
+  "llamadas_llm": 2,
+  "prefiltrados": 4,
   "recogidos": 199,
-  "unicos": 5
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
