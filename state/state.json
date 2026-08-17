@@ -15235,15 +15235,59 @@
    "title_norm": "islam makhachev 17 fight ufc win streak surpassing anderson silva reign continues all 17 makhachev ufc consecutive record reign journey",
    "ts": "2026-08-17T13:25:45+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vqqofi/islam_makhachevs_17fight_ufc_win_streak"
+  },
+  {
+   "key": "015f9c478f0debe3f1945d40ae29d2de9fc087a0",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Ranking porcentaje de pases que se han producido en campo contrario jugadores LALIGA EA Sports 2026/2027",
+   "title_key": "b52532a075fc42fc1c61e0bf220e02e56a6f3d6e",
+   "title_norm": "ranking porcentaje pases han producido campo contrario jugadores laliga ea sports 2026 2027",
+   "ts": "2026-08-17T14:04:52+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbHZBT1JUYTNYd0VFQ0I4QVRYdGJnd2N1NWpVNVRHMUtEdHJSMU9SLXkwTEdUNjZ0MTBLYjJaNmxZMkYxdUN4ZFZiREFmVGtlVkNxUjVYYjk5MFVHWl91eFY1Ui0wcFpJcmdlTFpoOWpkYVhlbkxObThKaTRjQ0J3S3dLbExFclExMXVielR2ZzBBQzhzRUxHMFNZUVI5dzBKTUp3Y1R3WWs1UXBzdHR3dW5DNlRDcXhudWc1N1Jvczkxam1zZXVfYg?oc=5"
+  },
+  {
+   "key": "f876f9b300269d553f616f7ff00005a59db91ecb",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Longest Active Win Streaks",
+   "title_key": "42836d35b09dbe53dde430e000f5fef1d5a76a9c",
+   "title_norm": "longest active win streaks",
+   "ts": "2026-08-17T14:05:46+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vqs8ag/longest_active_win_streaks"
+  },
+  {
+   "key": "393f19c289db0180178b0326d57c634343d7395a",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Joe Rogan has one major concern about Islam Makhachev after watching his record-setting UFC 330 win",
+   "title_key": "8963d5f98e43fd08af89aea4aa0119f3d5165405",
+   "title_norm": "joe rogan has one major concern about islam makhachev after watching record setting ufc 330 win",
+   "ts": "2026-08-17T14:05:48+00:00",
+   "url": "https://bloodyelbow.com/2026/08/17/joe-rogan-has-one-major-concern-about-islam-makhachev-after-watching-his-record-setting-ufc-330-win"
+  },
+  {
+   "key": "3631a0c14f57e784020833c3f7092197bc892f30",
+   "score": 9,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Volkanovski vs Evloev encabezará UFC 333 en Abu Dhabi",
+   "title_key": "54b85ed10da6b9eab02d45173b9310a5107eb646",
+   "title_norm": "volkanovski vs evloev encabezara ufc 333 abu dhabi",
+   "ts": "2026-08-17T14:05:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMFN5Y2FBUmVCVXR1bXVMdGN6UTJZVGtFWVk3c250TnlvMGNuTzVTdjhfZVJDNU80QmotMVJlZHBiSWxTVHBjdDRLRVJxRVBNalh0LTZEZ19GWWZiTzBOV3d3dEJabmd6NEo5OFFlbHgxV1ZuTm5rT2lYTGZ1UFFNZVlnS3pQN19yTXZJLU9uWHU3eHln?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 1,
   "llamadas_llm": 3,
-  "prefiltrados": 3,
+  "prefiltrados": 1,
   "recogidos": 200,
-  "unicos": 6
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
