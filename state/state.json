@@ -16302,15 +16302,48 @@
    "title_norm": "gamrot vs salkilld weigh ins ufc vegas 120 onds stock doikltuisl",
    "ts": "2026-08-18T00:57:04+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Zi01SWFNUW1XZ3RHYkxkc3BzdzJ0Q3pPUVR3Nk5zWk9TMWMxcTk2RUctcnlscTJ5TmtCOHZRX2UxSnBKUFFCeUg2QjByT3VtaDEwZG83azh0Vnc?oc=5"
+  },
+  {
+   "key": "9275ce7e2c8b203d66e22e5d9de2c2366490a540",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam on how he broke his nose",
+   "title_key": "8c21f10c937636b02b2329e5954e8436fa60605e",
+   "title_norm": "islam how broke nose",
+   "ts": "2026-08-18T02:20:28+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vramc9/islam_on_how_he_broke_his_nose"
+  },
+  {
+   "key": "a26f32722e35792c252c67383c9f28d57e3db561",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Why do people keep moving the goalposts for islam?",
+   "title_key": "94dd6b10bdcc233d41efd08e09ad3984a8b0a96d",
+   "title_norm": "why do people keep moving goalposts islam",
+   "ts": "2026-08-18T02:20:36+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vr9l0d/why_do_people_keep_moving_the_goalposts_for_islam"
+  },
+  {
+   "key": "b2e797457c47d7d748685aebbb72e199281097de",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Islam Makhachev and Khabib Nurmagomedov Had the Same Issues From the UFC, per Unearthed Abdulmanap Interview",
+   "title_key": "9e15af59fa05f027c749f8ab594244c6825b2d3a",
+   "title_norm": "islam makhachev khabib nurmagomedov had same issues ufc per unearthed abdulmanap interview",
+   "ts": "2026-08-18T02:20:42+00:00",
+   "url": "https://lowkickmma.com/islam-makhachev-and-khabib-nurmagomedov-had-the-same-issues-from-the-ufc-per-unearthed-abdulmanap-interview"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 0,
   "llamadas_llm": 2,
-  "prefiltrados": 2,
-  "recogidos": 171,
-  "unicos": 4
+  "prefiltrados": 1,
+  "recogidos": 67,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
