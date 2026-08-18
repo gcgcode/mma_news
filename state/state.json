@@ -16467,15 +16467,81 @@
    "title_norm": "din thomas under fire awful retirement after gillian robertson ufc 330 loss",
    "ts": "2026-08-18T03:12:05+00:00",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRmRoRG9OUFJkUU13MzRpcjVjY0ZoNWg2OUU5bU1XRUpROHRHNkRpZ0V6SS1GclJ5UmdyM0ROMFNRaTM0Wm9GUXM2bTdEQk5pdURlM25uY01rQ3dZVEtZUkxuV3ZvWHVIbW12Wmdrakt2Y0ZNeXBPc2FWclJIZDlRMGRqVWhkZ0tZcEtZcURLSmdGSWprU1pLLVRGaHlJUHFiVDdUOWI1aE1vUkZ6Z3EyMjhrZlNxM21BVG1nVHRoNTRyazd3Ull6bVctbkxiTkNyMFVaSDVGZkw?oc=5"
+  },
+  {
+   "key": "ff9c8c390e4848fc3d5bc888599d26606ff4e80e",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Platense vs Boca Juniors: estadísticas y datos en directo | Liga Profesional Argentina 2026",
+   "title_key": "aee3ee47beba8a9e137b804db88c315f86cce0ca",
+   "title_norm": "platense vs boca juniors estadisticas datos directo liga profesional argentina 2026",
+   "ts": "2026-08-18T04:03:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3hnUndlN3M1R0xDUGk1RXlPbzRPc3djS3E1a1JMLTJFLXJ6VHcwb09ZRHp5Rkg1LWQ3QUE4Vmw0TnQwcTdydG5IbE8zYkZ2cTZxb2g1N2N1anJsa3V3eTdBMkdpNjlzRFJFQXdlLVB2enphUnlkVDkyNkp6SnBQeHNTenJFdi1zSXp0UXIydjF6eEV3SjdNcHllYTItUQ?oc=5"
+  },
+  {
+   "key": "6deb0f38bfe0a5d8120d8c53407b5a968598f2df",
+   "score": 3,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "DWCS Week 2 official after all 10 fighters make weight",
+   "title_key": "7a98f89b8cf44f14f7adeb320283c03da19fc3d9",
+   "title_norm": "dwcs week official after all 10 fighters make weight",
+   "ts": "2026-08-18T04:03:37+00:00",
+   "url": "https://sherdog.com/news/news/DWCS-Week-2-official-after-all-10-fighters-make-weight-202403"
+  },
+  {
+   "key": "da7ba67e3aed333cd597abf7c24cf00d92391e30",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Mackenzie Dern rips UFC 330 performance despite dominant title win",
+   "title_key": "42da7ebc55a1d3dc7a1867de83287ac6e8cfc610",
+   "title_norm": "mackenzie dern rips ufc 330 performance despite dominant title win",
+   "ts": "2026-08-18T04:03:38+00:00",
+   "url": "https://sherdog.com/news/news/Mackenzie-Dern-rips-UFC-330-performance-despite-dominant-title-win-202401"
+  },
+  {
+   "key": "5b977238643308f0d85de67121c715c48d922e22",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Arman Tsarukyan: Usman Nurmagomedov beats almost every UFC lightweight",
+   "title_key": "72a52fa05b1c47122cf38c5e92462d187ad2245f",
+   "title_norm": "arman tsarukyan usman nurmagomedov beats almost every ufc lightweight",
+   "ts": "2026-08-18T04:03:39+00:00",
+   "url": "https://sherdog.com/news/news/Arman-Tsarukyan-Usman-Nurmagomedov-beats-almost-every-UFC-lightweight-202400"
+  },
+  {
+   "key": "f0adbac94920d0716e68d500dcb4925ccb7b2d4d",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Jalin Turner reveals UFC contract status after 39-second knockout",
+   "title_key": "99a2d2f0010359e3eadd727f16a8128bed5e4663",
+   "title_norm": "jalin turner reveals ufc contract status after 39 second knockout",
+   "ts": "2026-08-18T04:03:40+00:00",
+   "url": "https://sherdog.com/news/news/Jalin-Turner-reveals-UFC-contract-status-after-39second-knockout-202399"
+  },
+  {
+   "key": "567c769ec47bf8985e4206ae6d86cc07a089e1eb",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Muhammad Mokaev names 4 fighters who allegedly backed out against him",
+   "title_key": "f98c69e5f7d90512a2ee916f67cb58dfa0e4914d",
+   "title_norm": "muhammad mokaev names fighters who allegedly backed out against him",
+   "ts": "2026-08-18T04:03:41+00:00",
+   "url": "https://sherdog.com/news/news/Muhammad-Mokaev-names-4-fighters-who-allegedly-backed-out-against-him-202397"
   }
  ],
  "stats": {
   "descartados": 5,
   "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 7,
-  "recogidos": 196,
-  "unicos": 24
+  "prefiltrados": 1,
+  "recogidos": 151,
+  "unicos": 13
  },
  "telegram_offset": 958387804,
  "version": 1
