@@ -18329,12 +18329,10 @@
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 175,
-  "unicos": 5
+  "recogidos": 176,
+  "unicos": 0
  },
  "telegram_offset": 958387804,
  "version": 1
