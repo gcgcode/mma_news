@@ -17413,15 +17413,36 @@
    "title_norm": "mmarc comunicador ufc entre momento perfecto ufc",
    "ts": "2026-08-18T10:50:55+00:00",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlM1dE9xc0pxUmZVUnRxODY2ZDhuTWlFbU4tdDdCX0Y5czdWUGRLSE5JWFEtdGdiMlkwSVlKUlpGSEZHd05uMVM4TENYRThKeTAwVXRBUlV2TFZYOXJGMzQzdVo5LWhhQjk1VG5Xc1BiSk4tYWxNTW1CYlk5VmIzQWZYMTNNLXR6RmIzQnNaQmJhVkxaR0l0SVZ6NlNCWWPSAZ8BQVVfeXFMTU5TNXRPcXNKcVJmVVJ0cTg2NmQ4bk1pRW1OLXQ3Ql9GOXM3VlBkS0hOSVhRLXRnYjJZMElZSlJaRkhGR3dObjFTOExDWEU4SnkwMFV0QVJVdkxWWDlyRjM0M3VaOS1oYUI5NVRuV3NQYkpOLWFsTU1tQmJZOVZiM0FmWDEzTS10ekZiM0JzWkJiYVZMWkdJdElWejZTQllj?oc=5"
+  },
+  {
+   "key": "35498df1c0ad1a1d1c8e625c6e094305e5a3c495",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev’s coach says Ian Machado Garry’s conduct was ‘genius’ in opposite take to Dana White",
+   "title_key": "5d597498a95b8012d744ed44f3a3f1b4b6d45174",
+   "title_norm": "islam makhachev coach says ian machado garry conduct genius opposite take dana white",
+   "ts": "2026-08-18T11:21:52+00:00",
+   "url": "https://bloodyelbow.com/2026/08/18/islam-makhachevs-coach-says-ian-machado-garrys-conduct-was-genius-in-opposite-take-to-dana-white"
+  },
+  {
+   "key": "a86459ae1f8d264fdf6ee413778a9523656f9cd8",
+   "score": 1,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Carteleras de UFC, Horarios",
+   "title_key": "03bcb536492c9ac206153a9b7a0fe79f77cb9771",
+   "title_norm": "carteleras ufc horarios",
+   "ts": "2026-08-18T11:21:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sdzhraHM2Z0tsVm9OUTJWcFEycVRNaTd4TWtXVjYzU0ZyN2VObDNNZDFsNUdwYVU2NjNKNDVHMFBiT3RpVGlQenFUOUN4WElJTWI5QXRmRnJnMW9kbXFBbUdOa0I3Y05scU9IcExFeGxZemJScXc?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 0,
   "llamadas_llm": 2,
-  "prefiltrados": 12,
   "recogidos": 172,
-  "unicos": 14
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
