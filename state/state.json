@@ -17941,15 +17941,69 @@
    "title_norm": "ufc sacramento make predictions anthony hernandez vs gregory rodrigues",
    "ts": "2026-08-18T16:01:53+00:00",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR25lZGpBZXBJdXUxZmFxTFpjSWlHdXNHc3NybktEdjVLZTVLcWwtT2NMOElKdThpV3UwLUVSOGFfeHpwNFdyV2JZLVQtQWFaOGxpV3JUcGZreUMwQkR1c2dBTkdKUURBUWRkVnBmNzQ0eWY2a0RGTVJwZUdOY1l4SjhIYzR5S3F1QXF3VWxqWS1lSzRkQkRJ?oc=5"
+  },
+  {
+   "key": "31daca656e0e524c9fc1b752413674eaf3f9efb9",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Dana White says he was in talks with Rome to host a UFC event in the Colosseum, but they asked for $150M. He backed out but says he'd still do it if a billionai",
+   "title_key": "54d9e6d0c9c4c129b6eecc55ae15f9c0e41657e1",
+   "title_norm": "dana white says talks rome host ufc event colosseum but they asked 150m backed out but says still do if billionaire willing fund teases plans next mega event my head production craig came up idea we re talking about now",
+   "ts": "2026-08-18T16:51:55+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vru5z8/dana_white_says_he_was_in_talks_with_rome_to_host"
+  },
+  {
+   "key": "2ac4765c4f1b48cba16e328ae99eb847e46867f0",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Between the Links: Reaction to Islam Makhachev’s win at UFC 330, Din Thomas; Plus, previewing busy weekend",
+   "title_key": "bb17ff7c91faf1dd14cde0a650935c1b25318755",
+   "title_norm": "between links reaction islam makhachev win ufc 330 din thomas plus previewing busy weekend",
+   "ts": "2026-08-18T16:51:56+00:00",
+   "url": "https://mmafighting.com/ufc/505635/between-the-links-reaction-to-islam-makhachevs-win-at-ufc-330-din-thomas-plus-previewing-busy-weekend"
+  },
+  {
+   "key": "0ec37e80ffa8967b667aa8d6590201e84e8755c6",
+   "score": 5,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam is now the first fighter to break the halfway point on Jon's P4P reign",
+   "title_key": "eecaa9f7b9b092dba32350387c1dfd3316af0bcf",
+   "title_norm": "islam now first fighter break halfway point jon p4p reign",
+   "ts": "2026-08-18T16:52:04+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vrtusz/islam_is_now_the_first_fighter_to_break_the"
+  },
+  {
+   "key": "ba22d833aa7c879e3edac87927cb2f995b76afb5",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Danna Reyes se impuso con «mataleón» en nacional de MMA",
+   "title_key": "7b705e24625bb785652a83cb3b160cb8e590e9d9",
+   "title_norm": "danna reyes impuso mataleon nacional mma",
+   "ts": "2026-08-18T16:52:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWNSemVyLUdWTE5hTE1GVVV1V0hjZFhrUzJ6d1hmTEJTcnpCSklhZUE0TldmaHRZS2xhRE44Q0tsRjRKWUFpX0E1OHk2SVN6RHo3WFBCTF9mTmhESEpKMnQ3NUZ3aGFKRGZxM0t0ZHZhUVhsNE9KbTZvanljZHZ1NG16cl9jVWJB?oc=5"
+  },
+  {
+   "key": "c9b5529a65a9537649de5a84227fe649ea702b0f",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Week 2 Results + Scorecards | Dana White's Contender Series Season 10",
+   "title_key": "629518ec5d6e79970f3d42cd9cbddda220644aaa",
+   "title_norm": "week results scorecards dana white contender series season 10",
+   "ts": "2026-08-18T16:52:06+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWNjMERDNklRTzVJNENuaTAwX09QSVFNcXdkQkE5VXZHc1RVeWRRRVBzbXpVS19qRGJXYzQ0MDNvQVpkaTliSmlSRnhSMlZTU21zb0VoazdFNFFxbW83SDgyMURpWjZONU93dGhGVHd3YndTZ2VzNFZsZ3E5ZkRWWDhNRmM?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
   "recogidos": 199,
-  "unicos": 8
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
