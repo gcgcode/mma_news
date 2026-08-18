@@ -16258,14 +16258,58 @@
    "title_norm": "khabib nurmagomedov pens powerful tribute islam makhachev after historic win ufc 330",
    "ts": "2026-08-17T23:42:48+00:00",
    "url": "https://lowkickmma.com/khabib-nurmagomedov-hail-islam-makhachev"
+  },
+  {
+   "key": "bbef9a6289dbd05df461b9b2617dad2eed8cb366",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam Makhachev’s face 2 days after fighting Ian Garry 👀",
+   "title_key": "61ee460e582f117573aad87d4bdbdb4128f00e55",
+   "title_norm": "islam makhachev face days after fighting ian garry",
+   "ts": "2026-08-18T00:56:36+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vr7c0x/islam_makhachevs_face_2_days_after_fighting_ian"
+  },
+  {
+   "key": "248a4cb0916a3f1181c05dce78f0bc1eb3c06f0f",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "El 'coach' de Makhachev quiere impulsar a Joel Álvarez: «Necesita lo que tenemos»",
+   "title_key": "31221b4845e5e359c74bd75cfd5891a3f1da3787",
+   "title_norm": "coach makhachev quiere impulsar joel alvarez necesita lo tenemos",
+   "ts": "2026-08-18T00:56:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzcxYmtaX29GazBJWVFpQkpRVnFmQlpMWDNoSUEtQWJfZGJ4c0ZKNW9lMTVuVFJ2UDRmNTc4czBaNDdKazRMS1RIb2JBeDdSRTR4WjdXajJSQkFWWWpkWnUxS09RRUR4bGMwaWdNQUhKRHU3blhTcngtNDV4cURMVnljNzV1cWcwSXdsT3REcFVUU0Y3bENPd2hxcXo0Y1FlUDdNNHg5c2tWdGpD0gGyAUFVX3lxTE1SSXc1a09rZ29LZS0xUU9RUU5KOFdpSHN5VC05bU15YmdBckNQTmpmQjBmN0d1eW5aTzZTUDlOUWpHYjA1VVM4Z09jdURSaXNQWHdvbzlOVGdheDNjS2FETzdyYzNDQXVjMUlybjI0M1l5R1gxVXNURGtRZWM5TGxLd0NDa0lJdElxQlN0TDVCV2ZmN0d3OGRRejNzcmRYT2h2YVBSV29lMnpPTWozSF94eHc?oc=5"
+  },
+  {
+   "key": "ec226fdaac891487eed02561a859025d9087090a",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Arman Tsarukyan reveals he will debut a new nickname for UFC 331 comeback fight",
+   "title_key": "feef6856214d8c0b7da50d78b82ce665935dc254",
+   "title_norm": "arman tsarukyan reveals will debut new nickname ufc 331 comeback fight",
+   "ts": "2026-08-18T00:57:03+00:00",
+   "url": "https://bloodyelbow.com/2026/08/17/arman-tsarukyan-reveals-he-will-debut-a-new-nickname-for-ufc-331-comeback-fight"
+  },
+  {
+   "key": "9a014c3eed93c76f67ae77e4bd73fa99d7c8019b",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Gamrot Vs Salkilld Weigh-Ins | UFC Vegas 120 Onds Stock (dOIKLTuiSL)",
+   "title_key": "e1731fd6860fbca76f0d537bde8bd57cd4a683ae",
+   "title_norm": "gamrot vs salkilld weigh ins ufc vegas 120 onds stock doikltuisl",
+   "ts": "2026-08-18T00:57:04+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Zi01SWFNUW1XZ3RHYkxkc3BzdzJ0Q3pPUVR3Nk5zWk9TMWMxcTk2RUctcnlscTJ5TmtCOHZRX2UxSnBKUFFCeUg2QjByT3VtaDEwZG83azh0Vnc?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 0,
   "llamadas_llm": 2,
   "prefiltrados": 2,
-  "recogidos": 196,
+  "recogidos": 171,
   "unicos": 4
  },
  "telegram_offset": 958387804,
