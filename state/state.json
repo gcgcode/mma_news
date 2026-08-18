@@ -18381,15 +18381,59 @@
    "title_norm": "michael bisping says ian machado garry ufc 330 approach showed sign weakness",
    "ts": "2026-08-18T21:19:53+00:00",
    "url": "https://bloodyelbow.com/2026/08/18/michael-bisping-says-ian-machado-garrys-ufc-330-approach-showed-a-sign-of-weakness"
+  },
+  {
+   "key": "11a1df99ea7d3355154452b85cc9be4b74177b78",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Gillian Robertson has refused to accept Din Thomas's apology",
+   "title_key": "e41ff11d09427e6c3dfff6b8fd25fd170a7be7e8",
+   "title_norm": "gillian robertson has refused accept din thomas apology",
+   "ts": "2026-08-18T21:43:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vs02ij/gillian_robertson_has_refused_to_accept_din"
+  },
+  {
+   "key": "52c4e7628f3e99ab4af5d96a0e0665ee198c81ef",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Paddy hanging out with Philadelphia crime family boss Joey Merlino",
+   "title_key": "a03e4fe595dc4bf397febe1b2c29faba2b9568ca",
+   "title_norm": "paddy hanging out philadelphia crime family boss joey merlino",
+   "ts": "2026-08-18T21:43:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vs13vh/paddy_hanging_out_with_philadelphia_crime_family"
+  },
+  {
+   "key": "b8de39394d2d3f2d66d1de1d5aa6be7c513d614c",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Boletos para UFC 331 en Los Ángeles, Van vs. Pantoja: Cómo comprar y precios",
+   "title_key": "a7fab1d555afbf46bc10518c45028773258f8e02",
+   "title_norm": "boletos ufc 331 angeles van vs pantoja como comprar precios",
+   "ts": "2026-08-18T21:43:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmZlb2tEbi1EeFlnRnBfUHMwbW0xY1BXUVJoZHI5UjVZZVBKVzQ1cW5mbTRlR2E3Zy1hQkZ6Tk1SclFkclpyWXJzWGdlSHlvUC1TRDZnMFZvTlJpVkphLU56TDlKZnZNaDZaSWh6bl8yM1R3MGR6b2VLZ0Myd0JpYjRvbUk1VURJYjBYS1pGeTFiZ3d6TldhV0J6UDhCV291Z284aG9PaFktOEM2ZmswVW9ad3k1bUl1dENERlpPNl80bXFCamZBX3dCRWo1dw?oc=5"
+  },
+  {
+   "key": "3c2fea8ad1fdeb4cb203fca7acfc8ad542ebef85",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Breaking Down Hernandez vs. Rodrigues at UFC Fight Night | HQ UFC Stream of UFC",
+   "title_key": "23658bb66c606010a46f219e76d313cf329c10be",
+   "title_norm": "breaking down hernandez vs rodrigues ufc fight night hq ufc stream ufc",
+   "ts": "2026-08-18T21:43:52+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHpGOEhUYjExejAtVlIxVUx3QlZGWkFZYy0wVkpCLWdhNnBSYnZPUkJKNkxuXzRYVVFudk52aGRRZlVrZlNnVzFwblN3MXZHYXNEVUZwX0NiVkZXZmRLYXAzSVNpZnl1OUtMTnZ6RDZjaTRIQzVXTDV4b2RsUC0wcFZXcUFQS1FLa0ZJWTdqYkdXclRDMnM4TzZnb3RCS3lZR29vR01nSQ?oc=5"
   }
  ],
  "stats": {
   "descartados": 1,
   "enviados": 0,
   "llamadas_llm": 1,
-  "prefiltrados": 4,
-  "recogidos": 176,
-  "unicos": 5
+  "prefiltrados": 3,
+  "recogidos": 200,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
