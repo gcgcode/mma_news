@@ -18249,15 +18249,36 @@
    "title_norm": "ian machado garry warned losing next fight could be end ufc predicted make run harder",
    "ts": "2026-08-18T19:25:15+00:00",
    "url": "https://bloodyelbow.com/2026/08/18/ian-machado-garry-warned-losing-next-fight-could-be-the-end-as-ufc-predicted-to-make-his-run-harder"
+  },
+  {
+   "key": "850b82cc1f045074df9c218320da80d8e2d91468",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Gillian Robertson releases 1st statement since UFC 330 loss, Din Thomas controversy",
+   "title_key": "7033091c766f9ec5a504957f000d69e6ef38164a",
+   "title_norm": "gillian robertson releases 1st statement since ufc 330 loss din thomas controversy",
+   "ts": "2026-08-18T19:54:45+00:00",
+   "url": "https://mmafighting.com/ufc/505760/gillian-robertson-releases-1st-statement-since-ufc-330-loss-din-thomas-controversy"
+  },
+  {
+   "key": "aace2163657ed2253526fb7710e2949e2f84c3f0",
+   "score": 7,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Khabib Nurmagomedov Reacts to Former Opponent Edson Barboza's Retirement.",
+   "title_key": "fef75accfa103cc15e74cc2e354a3172b8bc87c0",
+   "title_norm": "khabib nurmagomedov reacts former opponent edson barboza retirement",
+   "ts": "2026-08-18T19:54:55+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vrz0ub/khabib_nurmagomedov_reacts_to_former_opponent"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 0,
+  "descartados": 1,
+  "enviados": 1,
   "llamadas_llm": 2,
-  "prefiltrados": 2,
-  "recogidos": 174,
-  "unicos": 4
+  "recogidos": 176,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
