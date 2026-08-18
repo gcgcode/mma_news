@@ -17171,15 +17171,59 @@
    "title_norm": "ian machado garry next fight options after ufc 330 main event loss including carlos prates rematch",
    "ts": "2026-08-18T08:57:36+00:00",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15R28yVTVuQmdXUE9MMmZsMTNVOXNqU3VXbW9aakZiWVVkNDFOQWJnSWJtOGFFcmcwWExBaVRuVlY0bGcteWRDVlJqTmlDcmhtejc0cTFDMElzUmtwMHVOTmk4T3laZmxsYTZPZlpFeUNOX2syNURIX2JRc1lsZw?oc=5"
+  },
+  {
+   "key": "13cd10339ea904033c9052fa928ff2347f5f0ef6",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Pagina principal",
+   "title_key": "73d87b095183594e10bf2e9c88ea908456f30633",
+   "title_norm": "pagina principal",
+   "ts": "2026-08-18T09:29:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80bGZlbmdQczUyVHJaMkJRTnVqdFE2ekppUGdBNWNGV2lmSEJXeVdVZnplYU9OV2JsVE1rT3pISWdaZ0RTZ1c0bTRkbUw5VFU?oc=5"
+  },
+  {
+   "key": "f4404d27dfb5e23f5c0514a56c6e3796d9baa334",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Deportivo Recoleta vs Boca Juniors: estadísticas previas y datos en directo | Copa Sudamericana 2026",
+   "title_key": "4cd9c05b369457b7437da3b21decbe02019aec92",
+   "title_norm": "deportivo recoleta vs boca juniors estadisticas previas datos directo copa sudamericana 2026",
+   "ts": "2026-08-18T09:29:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGhQajB1NkpvMk1nUjFfYnRGLUR1dVAteVBMTDJia0lTOFhGdTRPQXZ0NDVXVjEybGR1OFMwUENMaDQxRWdsN0RpVlBWNWRjX3RjempoNXFXLWFjWlBsVGVUVnNDNGhzamltajF5cm5wQkt1aE8wNlNXaWM2UnVXMlVMTGE2NTVHcHAzUU1xeFZCVUlyVjBJ?oc=5"
+  },
+  {
+   "key": "2e877cff3b423c57ca35bcb13cf673752d5b4f34",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Sean don't give AF",
+   "title_key": "1218fe52400573832a9d5d24d9d46a2e4982cb52",
+   "title_norm": "sean don give af",
+   "ts": "2026-08-18T09:29:31+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vrj16p/sean_dont_give_af"
+  },
+  {
+   "key": "897d25e45d899b873665888b57085e06229babf8",
+   "score": 5,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Arman Tsarukyan, Mackenzie Dern, Jalin Turner, Charles Johnson, UFC 330 recap, more | The Ariel Helwani Show | August 17, 2026",
+   "title_key": "026bdc99155b180e705ec6f5e632e6c02a61cf39",
+   "title_norm": "arman tsarukyan mackenzie dern jalin turner charles johnson ufc 330 recap more ariel helwani show august 17 2026",
+   "ts": "2026-08-18T09:29:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNmpjWFZCU3FxNnRYQnhqX2VZMHNobHU1ZDBoX3YwWktrb2dEX0ltUjFnUm1XVk1adjNiVVRlNWFCUGVfbm1MY1FlOWJCX1ktSnZSU1pJS0RHQUpDeFV2dThWWUdWWFVVZlBPbk1IQmYxYTdfejA0Q1pCYzd2UXRkNEpHSDM0a3k2MTFuVDJpMFo5YmEycmFJZEJnX2duaGl2SDhNZDFOTlZqaG9kNVpDUUZPdlJidHdnaC1OXzdkQnNuaDZ0aWpOWkZianhrTV8tMDc0am1LSTRybTJYZk9kRlhMZ0ZoTEhpU2NDcTRNUWNXNkNmR2tJdg?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
+  "descartados": 1,
   "enviados": 0,
-  "llamadas_llm": 5,
-  "prefiltrados": 1,
+  "llamadas_llm": 1,
+  "prefiltrados": 3,
   "recogidos": 196,
-  "unicos": 6
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
