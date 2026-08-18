@@ -18326,13 +18326,70 @@
    "title_norm": "frankie edgar may not have pivoted right ufc if raf around then",
    "ts": "2026-08-18T20:20:13+00:00",
    "url": "https://lowkickmma.com/frankie-edgar-may-not-have-pivoted-right-to-ufc-if-raf-was-around-then"
+  },
+  {
+   "key": "55f1701257042f1dbe8215262e688f41c738fb13",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Herb Dean watching all of the hate get shifted towards Din Thomas.",
+   "title_key": "42a60e6feb2b85e40e3d9a6f0294a0c6d4b59e15",
+   "title_norm": "herb dean watching all hate get shifted towards din thomas",
+   "ts": "2026-08-18T21:19:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vs0xlk/herb_dean_watching_all_of_the_hate_get_shifted"
+  },
+  {
+   "key": "35b2718379cc2867d2e1a2fb017b2ca52cf57316",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Boletos para Noche UFC 4: Cómo comprar y precios de los tickets para el evento en Glendale",
+   "title_key": "19c68eb8ae988ec4eda2e4b655820c7a55a05744",
+   "title_norm": "boletos noche ufc como comprar precios tickets evento glendale",
+   "ts": "2026-08-18T21:19:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeUtHdXR2RG9GSENPdUw3bGYwRUZfTDBGdktpT2tGQWNDbUVyY2xKTHVXMDBmYUZ1TU1YTjRzZlR0a3lsTGUyaTRGa282SW92ak9vTFpoTlRJZFhma2dZZVVJN3VqNjBLQVB6aGtKMlpCX3kxZHA3VnE0b2tITVdEYUNDYjNVU1kzbkNVck5RQ1l1cUh4MEY4X0QtRmZwSW1BRXpOVWR6RGtvcUhfTElSa3RuOGtXMzNyaUs3SmZ0dw?oc=5"
+  },
+  {
+   "key": "a1f6b2347e6c63641a34ab3da8c1652f7372f67e",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Aztec Warrior Championship 13 ofreció una noche de adrenalina y combates",
+   "title_key": "9b8ef391e35d0e1552a52e4b0855d8584777a7ac",
+   "title_norm": "aztec warrior championship 13 ofrecio noche adrenalina combates",
+   "ts": "2026-08-18T21:19:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUF2LW1tRC02XzF4cDd2aEVmclZTMFhCLTYtS0I4Ry1pZ2xEUEF4RGlnSXBOWnRDMkZQb01Ra0lpV1R6RUo2dTIwNi0wajFCNUtMOVZFLWdfRmlKbzBZaWVaM3lNcFR5a3FVZ3FaZEt4STJzNmZhV0FFbWxHWDdLc2pSdGV4QmxhZGhrZTNaZ1V0c3FydW9KMU52a2ZNanVa?oc=5"
+  },
+  {
+   "key": "46f69e94c89fcee2bfd1037c29d1fa3c0c6de31f",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "México suma dos platas en el arranque del Campeonato Mundial Juvenil de Artes Marciales Mixtas Abu Dabi 2026",
+   "title_key": "6a622c5aa16d1b777b9e10c2dea4e4540535c12c",
+   "title_norm": "mexico suma dos platas arranque campeonato mundial juvenil artes marciales mixtas abu dabi 2026",
+   "ts": "2026-08-18T21:19:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnpqX24tMEY5R1FleXNpTlVLU0duQ2VuSEh0Sy16NDA0TzdjYVhLNnBBUVB0QmtBUC00bDlmdVNSM2NjNjd3Zmg1bzQ2V1JDSDdJeDNNb1lrbXd6VFJaTnFhZDhYU25HbmNBTzVJOV9oc0JrTF9zNkZzRTQzeWg2T1J5QVFhQzFNRWN0LU5nNHFfQnZGdnEtMmhjZTd4QlFlcWktN0V2bFpydG5EWnE2QlhQU00yODNBd0xhQm85ZFRZMGhGUDhnZmhNQmNNSVdZWEZrUUVINk0?oc=5"
+  },
+  {
+   "key": "eab656ce274030cf4c56b7ecb74618aad0df0345",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Michael Bisping says Ian Machado Garry’s UFC 330 approach showed a ‘sign of weakness’",
+   "title_key": "499a684ba2459e9b67cb420f7638837ebd5c242c",
+   "title_norm": "michael bisping says ian machado garry ufc 330 approach showed sign weakness",
+   "ts": "2026-08-18T21:19:53+00:00",
+   "url": "https://bloodyelbow.com/2026/08/18/michael-bisping-says-ian-machado-garrys-ufc-330-approach-showed-a-sign-of-weakness"
   }
  ],
  "stats": {
-  "descartados": 0,
+  "descartados": 1,
   "enviados": 0,
+  "llamadas_llm": 1,
+  "prefiltrados": 4,
   "recogidos": 176,
-  "unicos": 0
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
