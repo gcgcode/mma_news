@@ -18491,15 +18491,81 @@
    "title_norm": "khamzat chimaev takes frustrations dana white ufc public",
    "ts": "2026-08-18T22:19:04+00:00",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmxScG9YUExMRmo1cmZjZVEtYkxmV2h1dU5vZFJObGladzhFQ044MUJmbGNTTmY0d0hqeF9DNzlSTEt2MlFaR2Q3eHdxR1NDZWU3SUhDWm1kRUZicEhFZjEzWTNwTGp0S2FnQlBkQUtKMHZTbXkxZUt6eGItZ1NTdFFORHZYNGdGR2l6cGZIOE5xUQ?oc=5"
+  },
+  {
+   "key": "e0eb8770c0255d47de55cb66235d967ba1d673da",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Mackenzie Dern Reacts to Din Thomas Controversy, Being Bothered by Trash Talk, Zhang Weili Next? Post fight Interview with Ariel Helwani",
+   "title_key": "44044d474f38c7422b3a314f82e5944dc8cb2ded",
+   "title_norm": "mackenzie dern reacts din thomas controversy being bothered trash talk zhang weili next post fight interview ariel helwani",
+   "ts": "2026-08-18T22:45:46+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vs43fz/mackenzie_dern_reacts_to_din_thomas_controversy"
+  },
+  {
+   "key": "427a1546ff823dba84af3aacfe16e1d14a7f0e42",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Behind the scenes look at Islam's Win at UFC 330 | Anatomy of a Fighter Credit",
+   "title_key": "5dc99c57ee9f7ba7bb20d39292ce61b8ea9a388d",
+   "title_norm": "behind scenes look islam win ufc 330 anatomy fighter credit",
+   "ts": "2026-08-18T22:45:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vs4di1/behind_the_scenes_look_at_islams_win_at_ufc_330"
+  },
+  {
+   "key": "3ed0fd1acc6b0bd267bd6ddddaaaf3da2a19f384",
+   "score": 4,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Ariel Helwani says the “Team Khabib” fanbase are the most sensitive fanbase in MMA 🤔 “If you don’t OVERLY glaze them in every single way, and talk about them li",
+   "title_key": "e548519573fa65831a03b00fa9481c7f20373d5a",
+   "title_norm": "ariel helwani says team khabib fanbase are most sensitive fanbase mma if you don overly glaze them every single way talk about them like they re greatest thing history mma then you re being hater",
+   "ts": "2026-08-18T22:45:55+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vs37xj/ariel_helwani_says_the_team_khabib_fanbase_are"
+  },
+  {
+   "key": "3b503040abf9d3ffe63b710e8c4022fd6e269f25",
+   "score": 7,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Carlos Prates reveals he has signed a new eight-fight deal with the UFC, and was told he is next in line to face Islam Makhachev for the welterweight title",
+   "title_key": "05e6603fdbcc70851491702dc9bf8467f5cadc77",
+   "title_norm": "carlos prates reveals has signed new eight fight deal ufc told next line face islam makhachev welterweight title",
+   "ts": "2026-08-18T22:45:57+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vs24q1/carlos_prates_reveals_he_has_signed_a_new"
+  },
+  {
+   "key": "f2a3a6629a6dc90a2ea4d0d793eaa0dc92c63d98",
+   "score": 6,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "TKO De Jalin Turner En 39 Segundos",
+   "title_key": "34e1049e8f06cad4b0d7dcbacf97d84553fe6252",
+   "title_norm": "tko jalin turner 39 segundos",
+   "ts": "2026-08-18T22:45:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBweHdRQzlyWkVqQU1xWExqOUp3eEYyaVVPU2JZSGljZjVzV1JhN3c1ZXNzejJpejlxMnZPakhqS1pOVS1OcXJhSTJaaGxqYnJU?oc=5"
+  },
+  {
+   "key": "05052526b20d5f0b046de87b588a455df981e9db",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Main event remains a mystery as UFC 332 fights are finally announced",
+   "title_key": "63ffd8ff6bcf113523018448a95554d0a46e58c2",
+   "title_norm": "main event remains mystery ufc 332 fights are finally announced",
+   "ts": "2026-08-18T22:46:06+00:00",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFhEVjByNXNNUTQxZ2F1ZEd2LVAzbldPUFBCT3FPb25RMEVOb0lPYjlaT3k2WjVQQnRuN3J1WDZqVnBKRDg5M2FUcE5RTFpmenB6TDVfcEZHWWdPSVVSMUhvVW04NllJRHd3YmhkZ1kybExlUnFrdlZxdkpSdFpTaHpsNVBId3VINmNuU1E2cUlyalhacDRMVTRwd2E?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 3,
   "llamadas_llm": 5,
   "prefiltrados": 1,
-  "recogidos": 201,
-  "unicos": 7
+  "recogidos": 200,
+  "unicos": 8
  },
  "telegram_offset": 958387804,
  "version": 1
