@@ -17996,14 +17996,37 @@
    "title_norm": "week results scorecards dana white contender series season 10",
    "ts": "2026-08-18T16:52:06+00:00",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWNjMERDNklRTzVJNENuaTAwX09QSVFNcXdkQkE5VXZHc1RVeWRRRVBzbXpVS19qRGJXYzQ0MDNvQVpkaTliSmlSRnhSMlZTU21zb0VoazdFNFFxbW83SDgyMURpWjZONU93dGhGVHd3YndTZ2VzNFZsZ3E5ZkRWWDhNRmM?oc=5"
+  },
+  {
+   "key": "11def6ac518048a96d2b3af06851b4fe32186e41",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev’s coach credits Ian Machado Garry as toughest fight of his career despite champ’s claim",
+   "title_key": "bf3e8effc8529a95b5ed780e3d8653713a03830c",
+   "title_norm": "islam makhachev coach credits ian machado garry toughest fight career despite champ claim",
+   "ts": "2026-08-18T17:22:53+00:00",
+   "url": "https://bloodyelbow.com/2026/08/18/islam-makhachevs-coach-credits-ian-machado-garry-as-toughest-fight-of-his-career-despite-champs-claim"
+  },
+  {
+   "key": "218e65d22e94ec8713f79c4469f269443fd56492",
+   "score": 6,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Former ONE contender Akbar Abdullaev (13-0) will face Urijah Faber's A1 Combat standout Anthony Figueroa (9-1) on Dana White's Contender Series Week 6 (Sept. 15",
+   "title_key": "a22aed17e0147103f3a88ceecea7018cab8cbc23",
+   "title_norm": "former one contender akbar abdullaev 13 will face urijah faber a1 combat standout anthony figueroa dana white contender series week sept 15 per multiple sources",
+   "ts": "2026-08-18T17:22:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vruw3j/former_one_contender_akbar_abdullaev_130_will"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "prefiltrados": 1,
   "recogidos": 199,
-  "unicos": 5
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
