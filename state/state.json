@@ -18271,14 +18271,70 @@
    "title_norm": "khabib nurmagomedov reacts former opponent edson barboza retirement",
    "ts": "2026-08-18T19:54:55+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vrz0ub/khabib_nurmagomedov_reacts_to_former_opponent"
+  },
+  {
+   "key": "1ee1830316028bcc5b2ad2b54ef8f36284871663",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Refuerzo de lujo para los Cowboys: Von Miller refuerza la defensiva",
+   "title_key": "f423049982bc1fd0c53b2561d7914f48c841138b",
+   "title_norm": "refuerzo lujo cowboys von miller refuerza defensiva",
+   "ts": "2026-08-18T20:18:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjktWXhRR1NRVWpkV1Fzdjd1a1E5QVhwNUZTVXM3eVJOYkQ0aHlidFQ4c2NhMnA3akMtOFBnWTZQVnpCZGQzcV9pMlpJdEw3enZoMDluSzg1MkNQdDltRFRIWEszcFJWd2pWcTNKZGxYSG1DcEp5bWN6NlVleXdZNXp2OFVReFc4Z2REMHVObHTSAZABQVVfeXFMTnI5LVl4UUdTUVVqZFdRc3Y3dWtROUFYcDVGU1VzN3lSTmJENGh5YnRUOHNjYTJwN2pDLThQZ1k2UFZ6QmRkM3FfaTJaSXRMN3p2aDA5bks4NTJDUHQ5bURUSFhLM3BSVndqVnEzSmRsWEhtQ3BKeW1jejZVZXl3WTV6djhVUXhXOGdkRDB1Tmx0?oc=5"
+  },
+  {
+   "key": "57fd0b5d8fa1494409a16309575c39b3a02d2be9",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Kaik Brito explains relinquishing Oktagon belt — again — for DWCS shot: ‘I see my future’ in the UFC",
+   "title_key": "d151911199942c5cc412dfd18029aa9572d30dcd",
+   "title_norm": "kaik brito explains relinquishing oktagon belt again dwcs shot see my future ufc",
+   "ts": "2026-08-18T20:19:32+00:00",
+   "url": "https://mmafighting.com/ufc/505679/kaik-brito-explains-relinquishing-oktagon-belt-again-for-dwcs-shot-i-see-my-future-in-the-ufc"
+  },
+  {
+   "key": "8a6098b5dc42e73fdd62f06c6525a5e1cf7b3a39",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Think Neil Magny’s planning retirement after 25th UFC win at 170? Think again",
+   "title_key": "96543f40d651788e1f7b1dfbefe2831e000d376c",
+   "title_norm": "think neil magny planning retirement after 25th ufc win 170 think again",
+   "ts": "2026-08-18T20:19:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWXVDNlo5Ymotb005Skx0THRmaXRrTVNJbjFEbDNZM0lLOVBzdlBlZ01RVEY5bDVnTWVjNG1FS2ZhaHNzUFNLOVU5Sk9OWWRzSUhmdE9abS1IQy1obk1ESmZGM3FpbDVpVXFkTzdXSzU2S0FNdnRQTkxaVUc2c2xlUEd2eVlzck1MWEYwYzRyNHlnbEdzeEtIZDNFWmVOWlpSQkpfcl9TbXFTZjRlZF8wZXkyT0pwM2xCNGtuVWNrQ29WelRQcWFQRGhuekFTNDRCdWY0S2xrcnE1RVhqS2c?oc=5"
+  },
+  {
+   "key": "d6e702a52fc9ffa174bf56ecca683ca8dbf6f1a1",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev has surpassed Georges St-Pierre as the second best of all time says UFC commentator",
+   "title_key": "1c988ecd3d69b2eb43e2b0f5a1de2cc4b87f044f",
+   "title_norm": "islam makhachev has surpassed georges st pierre second best all time says ufc commentator",
+   "ts": "2026-08-18T20:20:06+00:00",
+   "url": "https://bloodyelbow.com/2026/08/18/islam-makhachev-has-surpassed-georges-st-pierre-as-the-second-best-of-all-time-says-ufc-commentator"
+  },
+  {
+   "key": "6e31fe03148dcb37be25db1c386afb0cd7067286",
+   "score": 2,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Frankie Edgar May Not Have Pivoted Right to UFC if RAF Was Around Then",
+   "title_key": "1d6851dc789784b30cecc66740e09c6a030e647c",
+   "title_norm": "frankie edgar may not have pivoted right ufc if raf around then",
+   "ts": "2026-08-18T20:20:13+00:00",
+   "url": "https://lowkickmma.com/frankie-edgar-may-not-have-pivoted-right-to-ufc-if-raf-was-around-then"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 1,
-  "llamadas_llm": 2,
-  "recogidos": 176,
-  "unicos": 2
+  "descartados": 4,
+  "enviados": 0,
+  "llamadas_llm": 4,
+  "prefiltrados": 1,
+  "recogidos": 175,
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
