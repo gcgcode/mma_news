@@ -18205,15 +18205,59 @@
    "title_norm": "thiago reyna subcampeon mundial mma abu dabi",
    "ts": "2026-08-18T18:42:08+00:00",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUG80MWwxdDZTWmRTN0thRFZoMU1wdmRId1p2alUtSFpNZDFsdUNqQ3JoS1hNcWZxNjZJT2ZyNUZoTVJEdk1IalVVcDE1SHVGQkVPLWVNZ0NSeGVQbXpsdFhXSmIyQVFiUVFBcWp0TWt0ZThRMThGdzYzZzFzSjBQd282WFh1aDk1WmFIUW4tWW5vUQ?oc=5"
+  },
+  {
+   "key": "5366a1bc45ee35e3ff58974cebe7dc88583a0aee",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Gillian Robertson told Ariel Helwani she hasn’t responded to Din Thomas and doesn’t believe there is much weight in his apology",
+   "title_key": "639ed8374479536c2709515400939c61b67a199a",
+   "title_norm": "gillian robertson told ariel helwani hasn responded din thomas doesn believe there much weight apology",
+   "ts": "2026-08-18T19:24:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vryqda/gillian_robertson_told_ariel_helwani_she_hasnt"
+  },
+  {
+   "key": "23843b881b860690fd7f70f9a9fd54965d116bd4",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Duro ataque de Tsarukyan a Oliveira: \"Murió su amigo y no podía entrenar, pero...\"",
+   "title_key": "9f3167263fd0760346e41477577f344a82c3a663",
+   "title_norm": "duro ataque tsarukyan oliveira murio amigo no podia entrenar pero",
+   "ts": "2026-08-18T19:24:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkYydGZ6SE02dldqZENxYVN3WkdqLURQNWVOOEN5bFhUR2h4czBPM0FwY3hxVkpZc0d2WU45MDNpU0ZFQjhjZzVvNXlrR0pPVlRLSGItMnhOU1h3UEpSdXRxMVdjVWhBRlBFZkhLMXVSMEN1Q1hRUG52V2xUajk0SjVuczM4TGtVZnFYSWRfcTRDRU9fZFZ1bE9MdFNDSi1vLU5yUkhCWnR3d1J20gGsAUFVX3lxTE1ZWmZ1QWlndDVDNThfVllRTG9TV1lEQ0JaNEVnNlhYdThTMXZha2VwYVdqZHVVbFFEZWc1aExhWmVpdDYzdng0THlfanhBcmYtVWdsZ05LV1VmaEFWa1A1eUcyMHRlWXlIWE5xbWdFaHlJSXd6QlpNS25vWGc4a3lNc0F0dHVVNDFtd1hkSjdNbl9yMWRWLS1BcEIwbWFNbWo5S3VDczFSTGlvR0U?oc=5"
+  },
+  {
+   "key": "597c77ea9b316a5f1b704979dca37cca3e27e10d",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Din Thomas is a clown",
+   "title_key": "0fc651141d428cb495191eeb3ca808495bea4dc2",
+   "title_norm": "din thomas clown",
+   "ts": "2026-08-18T19:25:14+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vrylwg/din_thomas_is_a_clown"
+  },
+  {
+   "key": "f9f0fe540eeff8536856bc727ac3f6cda62c54db",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ian Machado Garry warned losing next fight could be ‘the end’ as UFC predicted to make his run harder",
+   "title_key": "12720ba8b6d917243e33da84b53abc0b7f0a1336",
+   "title_norm": "ian machado garry warned losing next fight could be end ufc predicted make run harder",
+   "ts": "2026-08-18T19:25:15+00:00",
+   "url": "https://bloodyelbow.com/2026/08/18/ian-machado-garry-warned-losing-next-fight-could-be-the-end-as-ufc-predicted-to-make-his-run-harder"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "prefiltrados": 6,
-  "recogidos": 175,
-  "unicos": 9
+  "enviados": 0,
+  "llamadas_llm": 2,
+  "prefiltrados": 2,
+  "recogidos": 174,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
