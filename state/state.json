@@ -20251,14 +20251,114 @@
    "title_norm": "thompson warns rakhmonov ufc return",
    "ts": "2026-08-19T17:56:40+00:00",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZUphSmpSWHNvSGE2dXBlaS10VmxRa0d0NXF2TnZ4d0dvODhiZUpaN0hoNUxEVE10YW55R1c2ZjRPUkFGYWhaV3lobm5qaHRRemtZaTI4RE82WnlxNUhOUWtTalVOeVFaX0Q5S3NfS3Q?oc=5"
+  },
+  {
+   "key": "ea94742416725471d232f9a3d88ca8655f1d784d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Jon Jones: Hopped on social media and heard there was a new G.O.A.T.? I’m so confused make it make sense.",
+   "title_key": "a1db0e932366f3dd59ce303935308e7e6ad87f7e",
+   "title_norm": "jon jones hopped social media heard there new so confused make make sense",
+   "ts": "2026-08-19T18:27:45+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vsu62g/jon_jones_hopped_on_social_media_and_heard_there"
+  },
+  {
+   "key": "8b8350674170b846cf6042f28a7207d335927d1e",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Henry Cejudo vs. Deen the Great signed for Misfits Boxing",
+   "title_key": "5e31a31048b8e6ab592779bcbb7e9b33f23bc511",
+   "title_norm": "henry cejudo vs deen great signed misfits boxing",
+   "ts": "2026-08-19T18:27:45+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vsuaca/henry_cejudo_vs_deen_the_great_signed_for_misfits"
+  },
+  {
+   "key": "029621a09da86821bff1a5c5257441cb1559ca82",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Throwback to when camera man wouldn’t look at Islam",
+   "title_key": "fcc2406b7233dcb3aec81d45894a4a8f72a030e5",
+   "title_norm": "throwback when camera man wouldn look islam",
+   "ts": "2026-08-19T18:27:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsrk5q/throwback_to_when_camera_man_wouldnt_look_at_islam"
+  },
+  {
+   "key": "d25a70fafb2d5ddca3a71c953815aab131377883",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Who comes to mind when you think of a one-punch power hitter?",
+   "title_key": "105004b3177ed20d1d8a2248edc5e45958ebc5ab",
+   "title_norm": "who comes mind when you think one punch power hitter",
+   "ts": "2026-08-19T18:27:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vst1m2/who_comes_to_mind_when_you_think_of_a_onepunch"
+  },
+  {
+   "key": "836a77d85df8b0aca79b02d127a0e8e9137a3498",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Jon Jones takes shot at Daniel Cormier amid GOAT debate: ‘Your jealousy runs so deep through your blood’",
+   "title_key": "c2ab6d6c67bf913e07bc17bb2ae5edc45c606587",
+   "title_norm": "jon jones takes shot daniel cormier amid goat debate your jealousy runs so deep through your blood",
+   "ts": "2026-08-19T18:27:46+00:00",
+   "url": "https://mmafighting.com/ufc/505899/jon-jones-takes-shot-at-daniel-cormier-amid-goat-debate-your-jealousy-runs-so-deep-through-your-blood"
+  },
+  {
+   "key": "9a65b25aedc659e9afb98fbd01a56654ede4b8b9",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White sent 2 fighters to hospital before being convinced to sign them both after DWCS war",
+   "title_key": "0287b5acb9308853bbb380b428e43734dd00dd7c",
+   "title_norm": "dana white sent fighters hospital before being convinced sign them both after dwcs war",
+   "ts": "2026-08-19T18:27:52+00:00",
+   "url": "https://bloodyelbow.com/2026/08/19/dana-white-sent-2-fighters-to-hospital-before-being-convinced-to-sign-them-both-after-dwcs-war"
+  },
+  {
+   "key": "bdaf2a82e824dedab4effd3987b5432c6cbc27db",
+   "score": 5,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Paul Hughes on Usman's UFC future opponents. \"I've been in 10 rounds with him. I know his styles and capabilities and I know the style required to beat him. The",
+   "title_key": "3184dbad4adf7178bed07df3b44fd0c85656aaea",
+   "title_norm": "paul hughes usman ufc future opponents ve been 10 rounds him know styles capabilities know style required beat him only people world that can beat him myself topuria right now beats gaethje no problem all",
+   "ts": "2026-08-19T18:27:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsrg9a/paul_hughes_on_usmans_ufc_future_opponents_ive"
+  },
+  {
+   "key": "b8901d0378bbcc679528cbe069d03b3c418d2922",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Llega a Valencia la 1.ª Edición de la Copa Índigo MMA",
+   "title_key": "f5933e9ca35854670478b1863d18c001beace322",
+   "title_norm": "llega valencia edicion copa indigo mma",
+   "ts": "2026-08-19T18:27:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjMxekFvVkF4X2hkZXN1UXkwdnVVeEsxLS1lMWJ4NWZDNGFBRm9MYVI0Y0Q2dloyTHFmSUcxTGQwaDNpbXd4OHBBUmw2aUZZT2xmMzRsWmhwMWE2UUtPbjVoeTg2TDRHWXpzeEJpRmFWbHZneWx2OG1xam9XSlVIenV1a1R4RGhQTEQ4T2sydUh5dkE?oc=5"
+  },
+  {
+   "key": "5c05d953336fa7169f4f35212896abeffd1baf8e",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Carlos Prates Signs 8-Fight UFC Deal, Confirms He’s Next for Islam Makhachev",
+   "title_key": "bb4f77bf174e12091a2f848e38148205a07487a6",
+   "title_norm": "carlos prates signs fight ufc deal confirms next islam makhachev",
+   "ts": "2026-08-19T18:27:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnMW5QZk1IRFQ4NDdTVlVobkRYWU9yQ0g5Slg3THhnTmwzR2dDNVhyNEtZREtEMV9YYVFXLXp2Zm9KTnFmSTRabmZpcXJnbjQ3Nlp5Zk1SZ3dvTE1YN0lhakQ5RUFqbnM0SDAxbzhzNm9PS0phSlgyeA?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "recogidos": 180,
-  "unicos": 5
+  "prefiltrados": 4,
+  "recogidos": 199,
+  "unicos": 10
  },
  "telegram_offset": 958387804,
  "version": 1
