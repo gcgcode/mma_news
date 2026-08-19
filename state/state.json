@@ -20702,15 +20702,25 @@
    "title_norm": "makhachev tells cancer patient never give up after ufc 330",
    "ts": "2026-08-19T20:59:47+00:00",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdEZiM3liOGRiaG9HM2dJdGh1RFRpSXN6ZnZ2b1NqRHJrNkVGZGNlbnh1Skg3eUx6LVFrSEJ4amJ6S0g1SjVxbjFPdXlfVFhwRlNxcXNNSTJzQXJLRnc4Nzc3OTdidDhRZktYYw?oc=5"
+  },
+  {
+   "key": "f7c5829ebe473da3a204266a92c0e09a214d376a",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Who is your least favorite UFC fighter and why is it Yair Rodriguez?",
+   "title_key": "3a3ef606d5e731d36505d5cad52d9dee3045bcf3",
+   "title_norm": "who your least favorite ufc fighter why yair rodriguez",
+   "ts": "2026-08-19T21:29:37+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsyfc2/who_is_your_least_favorite_ufc_fighter_and_why_is"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "prefiltrados": 3,
-  "recogidos": 176,
-  "unicos": 6
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "recogidos": 175,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
