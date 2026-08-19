@@ -20053,15 +20053,70 @@
    "title_norm": "watch kaik brito deliver all time ko dana white contender series",
    "ts": "2026-08-19T16:02:04+00:00",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1M3V20teGthTTd6ODZYZkFqb3JxT2lPVTlKQjlCZXlzc19iQ3BXam5UQUkzcXBqNktMeW1SOWJSLVB4N0EydmNmUXlXVUZtV1EzQVJNLWdHVkp4aVlyaEVsdlhiUjhiSXFNclNtVFk4T3Q4dHlkaXcxajlzS3JxUjZKcWVDZEttRl96bVE3OXptajRGbFEyWG1Jdw?oc=5"
+  },
+  {
+   "key": "79aac5943c2844e3d69fc254b792238defcc6b6c",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Kelvin Gastelum throws shade at Din Thomas following his fallout with Gillian Robertson after #UFC330",
+   "title_key": "c6c9dbfcc9edd08066d874a05a0e11e385976db0",
+   "title_norm": "kelvin gastelum throws shade din thomas following fallout gillian robertson after ufc330",
+   "ts": "2026-08-19T16:50:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsqly8/kelvin_gastelum_throws_shade_at_din_thomas"
+  },
+  {
+   "key": "50f73c7b79f867da63cd7fee857a3364c8668417",
+   "score": 6,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "CARLOS PRATES says Amosov is the biggest threat in the division",
+   "title_key": "800ff7c6408e642f732752cd75a3dd179e03f93a",
+   "title_norm": "carlos prates says amosov biggest threat division",
+   "ts": "2026-08-19T16:51:53+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vsrko9/carlos_prates_says_amosov_is_the_biggest_threat"
+  },
+  {
+   "key": "0e19d2a685724c9173eaaa94ff28ac08d1c5f602",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC Sacramento: Hernandez vs Rodrigues bout order",
+   "title_key": "27027209bcece286fef8a1ba54bd1f549304ad8a",
+   "title_norm": "ufc sacramento hernandez vs rodrigues bout order",
+   "ts": "2026-08-19T16:51:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vsqs3r/ufc_sacramento_hernandez_vs_rodrigues_bout_order"
+  },
+  {
+   "key": "721b2b499f67396902ceb7af0d41966df39f957b",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "DWCS video: Kaik Brito lands nuclear knockout on Namo Fazil",
+   "title_key": "391efc79c32145b56827d1b7248fe427723214ec",
+   "title_norm": "dwcs video kaik brito lands nuclear knockout namo fazil",
+   "ts": "2026-08-19T16:52:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXQ3X1J4NU1NNjJjSklpOHFSNy1GYTNZUnJtYV9mWVFlRmpwNExkQkxQT3UwTXNQUVVTY1dXTWtIWWwyUHVIUktSWVAzMW1EOHBfMDJBNHJxS2xsdk02Uzd3bmpQSkswa0daNHpjUkp3T0ZvbXN3VWVDTjJ6NXQ2c0VYTko3NnlvSXE2azBMV3dXRG1SdUZGakxmaVFtZEZtY2pxTDEwRkVDemM3YnZscw?oc=5"
+  },
+  {
+   "key": "3784b6dbeb937f39c130e3db633482990276aaed",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Belal Muhammad on Ian Machado Garry at UFC 330: 'What's with this hugging?'",
+   "title_key": "850408810b548f3088d8f7bac2533cfa84d71677",
+   "title_norm": "belal muhammad ian machado garry ufc 330 what this hugging",
+   "ts": "2026-08-19T16:52:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSW5wMlhyQ1B5WlF3RzJVVDEtbl9xZ2hVUE5rUnJXX2k5Y25BQzg5VmJVNDQyU2czWmd2eFpyLU85cWgwOVFrMVVrbkFFaDFyMHpDVUxVQ2FUZElzVG8yTDE2N1Z2dkRBRTVmbXk5WXpvZk5xMTNMb2t1Vy15UEd6cVZrT1A4OHBYb1NiUTJQRDlndmNoWkN4a1lzNFJWTXIxaGNFUFluTFJMRGRpdi01NF9fX1FEQ2EyUHRmeFlqVUpxb0JrLXd3?oc=5"
   }
  ],
  "stats": {
   "descartados": 3,
-  "enviados": 2,
-  "llamadas_llm": 5,
+  "enviados": 1,
+  "llamadas_llm": 4,
   "prefiltrados": 1,
-  "recogidos": 199,
-  "unicos": 6
+  "recogidos": 200,
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
