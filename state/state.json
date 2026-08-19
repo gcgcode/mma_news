@@ -19569,6 +19569,39 @@
    "title_norm": "joe rogan shares unique possibility islam makhachev after record breaking ufc win",
    "ts": "2026-08-19T11:21:02+00:00",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2VXOWI5bUYzaXBjQ2JDbjhxVkpYYUhnbmkwWHFGZmFtaEplR3h5eGMyanJrWG1QalNKMFdyWGlKRlE0UDlxWWV1UnhQMlljM2JkdkJuRXR3ZDZCRmhxTXdIOFVGXzN4OE1KZHFTSmYxMFlobEtyR3Nob2JCRU1HWlhkdHhGZ3dnYjJrSmVQcXpPcXVhSWZ1b1VkUkZZNFRPdTNBMGtSeTJoelU4WXpma0FxejlDc1ppdF80RDk5Rmc?oc=5"
+  },
+  {
+   "key": "af8ba13a26403db64ebfea8a5a20b9071a9414b8",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Abdul Manap settles the GOAT debate",
+   "title_key": "2a7fc2d44e405d2606c3a325df5e1559f52d6d96",
+   "title_norm": "abdul manap settles goat debate",
+   "ts": "2026-08-19T11:46:33+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsino4/abdul_manap_settles_the_goat_debate"
+  },
+  {
+   "key": "918c693614b8619a3087220006fa98b436416d65",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "'Uncrowned champion' of ONE pivots toward UFC through Dana White's Contender Series",
+   "title_key": "1238d5377f34a673948e5f8e4299cf723faa20ae",
+   "title_norm": "uncrowned champion one pivots toward ufc through dana white contender series",
+   "ts": "2026-08-19T11:46:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHZNUVZGQkNkVlR0YUtmTnFSeHBPSGExYUxmcTM4dWpNZVFWLVd1MGQxZ010VVoySE8wYlQ3MTcxNDdaXzUtZ2N3eXFIYnNKSVM4WUJDWVdoTnBhVml0bl81N1RlRkk3dV9CdjVPR1VfbmFZcWh6ZU53UVIwby1qMElaU3BSeGo1MEZqS01fU0dpN3Y3SVNCekQ2dnFDa1YyNkRfNVN4NHk3MEZ1U0E5bXJTVWozd21yNGVRV2RaSWpweGdkd2w0RnZ3dnpVNWFGZGhHUXN3?oc=5"
+  },
+  {
+   "key": "03cf4f782415a63e9d29aaf7405c7a29832212b4",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Toqué fondo: el viaje de peleador cubano del infierno de las drogas al sueño de llegar a UFC",
+   "title_key": "6795380209901a2dd56d90586dc84422ac61c3ef",
+   "title_norm": "toque fondo viaje peleador cubano infierno drogas sueno llegar ufc",
+   "ts": "2026-08-19T11:46:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRkw1ckwyRWQ2aHVXSzg5OWpQam1XX1lLRTU5Ym1YUlNULUVaUkVHeEpUeVYyZHJLSmZaM0ZOZnBuT3Q5V3hKbFN6QXV6RC1OQlVZdTVxVllFNmluTGRnbURlTzhrVFhodl9EZ3lBRHFoZ9IBckFVX3lxTE9GNHZsWTZ6MXpWU2NsMDdVQ3RBWUphZklmSkszUXc3UFRHVk5jR2NoZzdiVGdrWHVIaGpkSEpXSGk5bndsQXc0Z2tUZlhWelY3bVp3c240Z0h2VW9maXRUMXlTMHBBWnZ3ajhKemN0Z1dJdw?oc=5"
   }
  ],
  "stats": {
@@ -19576,7 +19609,7 @@
   "enviados": 0,
   "llamadas_llm": 2,
   "prefiltrados": 1,
-  "recogidos": 200,
+  "recogidos": 199,
   "unicos": 3
  },
  "telegram_offset": 958387804,
