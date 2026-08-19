@@ -19866,15 +19866,48 @@
    "title_norm": "dana white presume salarios ufc pero matematicas le traicionan",
    "ts": "2026-08-19T14:16:08+00:00",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGluR2RqQXVodWhERFZScFNsQ3lNX3BjT1JVLVZrRWxjWUE2TF93UVZTR2Q2YlYwWUNLd3kxQTNVSkljY29tQk5TRElGUU1HNmw0ZGV5clZqd2hnMVBsT0stS2ZzZFREbzdrdTN1SGNxUEUyWVpLaTdfdHVyYlRLQVEzUUQ4ZkJoeHROT01uOV9peXE0SlEwamVnc21qSjdEeVhKOEo3TUFaaFdOSHZiVGxhWDVtS3d50gHGAUFVX3lxTFBjbDFpRTdaYkVzcUVWUDg5d2hFcFhJaXJtYU40c0otSmJpekNVSzdkcFI1WTIwcmlQQy1Ca2l1RlpidFJaX1lCZ0kyMWo0ejFKc2MzdGNvUm9sMFU4RU4wbllaQlF6MVpfWW43TndyRnFmdkNWYnRBdTY4RVltNEgxTm44Y0QxbkUtcGlLWkNCSTRrUW9GV0lGRVlNTHpBSmp4UmtiUFZfTnJPdUhSWm1mTFkzZEJkM1pBeHdNRVlNWW1DVFZsQQ?oc=5"
+  },
+  {
+   "key": "211848c0ba27517cad3f1310acb0666b1b1bc3b4",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Pepe Torres vuelve a WOW y peleará el próximo 26 de septiembre",
+   "title_key": "eaa31d5680f01933f81166e12109d57ac89e0a80",
+   "title_norm": "pepe torres vuelve wow peleara proximo 26 septiembre",
+   "ts": "2026-08-19T14:56:24+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2Z3bG9Vcm5zSmRTQ2FKZWVzRUFveExOb1kzTVVGYkN2SDVLM3hVUTBYYndsY1laTy1EQkpWMmoxMnJuZ082QUpKa05RMFdXelRHUDk2SHByYm13NERuWjhsaklMSXY0UzBtaDFObUx1NG1qVnV2MmJtTGRMOEN5blBZRThTVkdlRFBhUkdxanY4ZUFUUDdGY3BmYnQ0T1c5T2FOMDR30gGmAUFVX3lxTFAtTlRnQjV5T2pra2ZNdVlLbFh4TVhnY3VETHBzeFl2RXY2aVI4aUN1d28yd2xoOXgtZHpRZlNKbHVla3oyQWM4M2ViZFo5TlRVd05ZZzJFeE9pWnEzczhzcGtkNUlyLVdsU2pVSnBPbk0yN2dXeERtMmxWeEk2bVVBc2gwSVFhVE5yUW1QUTk2M0RIZmVjSDRzVmZCbm9nNTJPeUR6U2c?oc=5"
+  },
+  {
+   "key": "208c3031074dd4e30165dca7cd51069a05b94de6",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "David Hervías firma un contrato multianual con WOW",
+   "title_key": "53ee760f6e17644649098c48fbc8f5a8eff5d4d3",
+   "title_norm": "david hervias firma contrato multianual wow",
+   "ts": "2026-08-19T14:56:24+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmhnLWNfVUpjckZNeVFLY0xaRDM5TVpMZHY2dTR2dDM3Ymc2U2FxcTFGR1lQSnhxMGowOWVtZ21XWldCZ0tRZXMtbHFadEpQMElsb3JMdkpHQTV5T1NsX0hfdE5IMGV4bk1mMk5sV09UeV9rZW9wX0J2QTRVa0pZaXJsdFZZRThiQjR0djFBZmlEd3daZjlCSGZn0gGaAUFVX3lxTE5zYjNwLWEtd3lZU2VGUGxEQ0kwc3dETDM5ck94M3JOUkdTZ1N6RWtla2tfYzl3STM2cEM1RDNMVEJaMEdYYW5pMHBVcTA2d05xSEpFeThPcXQ5X0FMSG4teGZ6ZVNrU1hwaUEyZXpjbnhwTGJTQjJueFd2aUhQUV91YUNDNE95X3h4ME5DLTZSQjZpMkFwVHFGTkE?oc=5"
+  },
+  {
+   "key": "963e0a7a3a4e3294388163847e9eae34aade6905",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Alexander Volkanovski says there is only one way he retires after UFC 333 title fight",
+   "title_key": "ad91992082492e251a6f3b300840def551efa961",
+   "title_norm": "alexander volkanovski says there only one way retires after ufc 333 title fight",
+   "ts": "2026-08-19T14:56:37+00:00",
+   "url": "https://bloodyelbow.com/2026/08/19/alexander-volkanovski-says-there-is-only-one-way-he-retires-after-ufc-333-title-fight"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 174,
-  "unicos": 5
+  "descartados": 0,
+  "enviados": 1,
+  "llamadas_llm": 1,
+  "prefiltrados": 2,
+  "recogidos": 154,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
