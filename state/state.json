@@ -20350,15 +20350,81 @@
    "title_norm": "carlos prates signs fight ufc deal confirms next islam makhachev",
    "ts": "2026-08-19T18:27:54+00:00",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnMW5QZk1IRFQ4NDdTVlVobkRYWU9yQ0g5Slg3THhnTmwzR2dDNVhyNEtZREtEMV9YYVFXLXp2Zm9KTnFmSTRabmZpcXJnbjQ3Nlp5Zk1SZ3dvTE1YN0lhakQ5RUFqbnM0SDAxbzhzNm9PS0phSlgyeA?oc=5"
+  },
+  {
+   "key": "62c2739b929c74a8dbad2677c5f5ac64d567326d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Merab on his instagram",
+   "title_key": "17f832b7e0ed083befe28c5e8c3c1905e2e85f8c",
+   "title_norm": "merab instagram",
+   "ts": "2026-08-19T19:06:36+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsur0m/merab_on_his_instagram"
+  },
+  {
+   "key": "e3dc1ebd3956dc4e983dde071ca35f316b2efd74",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Henry Cejudo makes Misfits Boxing debut next month",
+   "title_key": "7c66820a165cc7af2bfe42e3f7f8dd3b6da4fd9f",
+   "title_norm": "henry cejudo makes misfits boxing debut next month",
+   "ts": "2026-08-19T19:06:42+00:00",
+   "url": "https://mmafighting.com/boxing/505939/henry-cejudo-makes-misfits-boxing-debut-next-month"
+  },
+  {
+   "key": "ed2a47ae187dde960136e0127a3e4a2aac163054",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Arman Tsarukyan says only one man could beat Islam Makhachev at welterweight ‘but he’s gone’",
+   "title_key": "10512cd8a1c95efd08e9fe91d20a78d121f084b4",
+   "title_norm": "arman tsarukyan says only one man could beat islam makhachev welterweight but gone",
+   "ts": "2026-08-19T19:06:43+00:00",
+   "url": "https://bloodyelbow.com/2026/08/19/arman-tsarukyan-says-only-one-man-could-beat-islam-makhachev-at-welterweight-but-hes-gone"
+  },
+  {
+   "key": "1af23d5266b5240950721c69eb13d067d6b5c61f",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "UFC legend Henry Cejudo books Misfits Boxing debut less than a year on from MMA retirement",
+   "title_key": "8727984052d2e6f93b28f37a9e74eb3e76ec313c",
+   "title_norm": "ufc legend henry cejudo books misfits boxing debut less than year mma retirement",
+   "ts": "2026-08-19T19:06:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/19/ufc-legend-henry-cejudo-books-misfits-boxing-debut-less-than-a-year-on-from-mma-retirement"
+  },
+  {
+   "key": "fb4b5b3eeb29b19dc0bfdf39cfba23c54cfa74dd",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Honestly, feeding CP to Islam is way too obvious there's no excitement in that matchup.",
+   "title_key": "b30edda1d9d039ba1735301b085328e2d3fdd847",
+   "title_norm": "honestly feeding cp islam way too obvious there no excitement that matchup",
+   "ts": "2026-08-19T19:06:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsru4w/honestly_feeding_cp_to_islam_is_way_too_obvious"
+  },
+  {
+   "key": "9245ccdef31d4d6225f42375dfe7638feb114df7",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Alex Pereira Octagon Interview | UFC Freedom 250 Thunderstorm (l9lP8TaQ9V)",
+   "title_key": "7c1c9a1a8aab22d02a4e73e7df03ff3c5bbe8cc4",
+   "title_norm": "alex pereira octagon interview ufc freedom 250 thunderstorm l9lp8taq9v",
+   "ts": "2026-08-19T19:06:47+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IeGszSjlfNVlTdDJld05qbnRITGxKQWpZYUt6YVM3QXFlNzZfbk1WOHZ0NEMtM1A1OHRNYmI0akJzU1lzLWxtMjhDWVk0VkhqZDl3VHk5RzJhMjhJNjlwTQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
+  "prefiltrados": 1,
   "recogidos": 199,
-  "unicos": 10
+  "unicos": 7
  },
  "telegram_offset": 958387804,
  "version": 1
