@@ -19441,10 +19441,9 @@
  ],
  "stats": {
   "descartados": 0,
-  "enviados": 1,
-  "llamadas_llm": 1,
-  "recogidos": 154,
-  "unicos": 1
+  "enviados": 0,
+  "recogidos": 174,
+  "unicos": 0
  },
  "telegram_offset": 958387804,
  "version": 1
