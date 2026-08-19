@@ -19448,11 +19448,22 @@
    "title_norm": "henry cejudo little premature call islam makhachev goat",
    "ts": "2026-08-19T09:34:30+00:00",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXE0anJDcFBvWUd5aWU0WGpzOTN0LWkwN2xvTm1SXzhjblJNdHk1UnVkTEhBWUtoMWMyX0M1c1l4bUVnMGllYkt5VmtfdGhmT2hBWm1nc2NEMUNXNmE3UUdNRlhnQzB0M1YxSU11dldwZnM4bkRpOXBOaHROUnV2NEJOUHFoWXBWV0Voc1Fzc2RxUmdlX291WnN0MjJjREFSbTE2QWNsMkJaVjhGMl9HajdFQUk?oc=5"
+  },
+  {
+   "key": "022eb29e34f88a8624a6b9c1480908ccccc9c5ba",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "El ensenadense Cristian “Púas” Pérez firmado por UFC",
+   "title_key": "7bb6565d596d469e4ba5fa603e07dabbf0fa7443",
+   "title_norm": "ensenadense cristian puas perez firmado ufc",
+   "ts": "2026-08-19T10:03:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yT2xkcmlQNnpXcmVyd3E2NkVPdEViVV9zcWx0bTlESDVZLXFPd0xmQ3gyMmxlVVRJaUpUTDIzdXZEZE85RmRNLWZxM1dVelpo?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 0,
+  "descartados": 0,
+  "enviados": 1,
   "llamadas_llm": 1,
   "recogidos": 154,
   "unicos": 1
