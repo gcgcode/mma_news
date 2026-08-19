@@ -19283,14 +19283,81 @@
    "title_norm": "gillian robertson losing ufc title fight hard enough but being abandoned your mentor",
    "ts": "2026-08-19T06:00:54+00:00",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGc1aFZ1Vk5XbUE0QjlXekhIamdDWHJMdHJkX051OWZEM0IxN3htd1ZsOGhOZ0xHOEdjUEZUTk5TQThBV1VCLVdLVF9BZXFQQ0Y3NVV2Mnpvel9KY3pydzFzYnBtSDdrbVk3NlVvWjBpaDY1VlZBSDBLeS1EazJQY0ZHQnVNY0hiZE5hakdVckNnVEpIdDdPekZWemNiTlFFbE9peWtISmpleV9LUEpWR3FBcG51TlMtdHNjZi1PQWZDQ2xEa21XRjd6SE03QXRzbmRFNlJINVRCazExU1ltLVpFUQ?oc=5"
+  },
+  {
+   "key": "ebd3161efedf4c05d64847147129eb682ca227ca",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "You bleed like any other man.",
+   "title_key": "4e0d099c9098ccf49bc3933ff17df2acf1cfbc2e",
+   "title_norm": "you bleed like any other man",
+   "ts": "2026-08-19T06:57:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsc8f7/you_bleed_like_any_other_man"
+  },
+  {
+   "key": "8ac1067b9965f301da614dacc3f4f7b1cafa6908",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Gillian Robertson breaks silence on Din Thomas controversy",
+   "title_key": "a919ad9111682c05b7e39da37d8ff38c976e47fb",
+   "title_norm": "gillian robertson breaks silence din thomas controversy",
+   "ts": "2026-08-19T06:57:43+00:00",
+   "url": "https://sherdog.com/news/news/Gillian-Robertson-breaks-silence-on-Din-Thomas-controversy-202428"
+  },
+  {
+   "key": "2e08d4fef3396deb17b654ec6f01635e6b690b5f",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Arman Tsarukyan says controversy is ‘important’ for ‘boring’ fighters",
+   "title_key": "0f00e97194888254fe5cd64b4245b6c0b6ca9fae",
+   "title_norm": "arman tsarukyan says controversy important boring fighters",
+   "ts": "2026-08-19T06:57:43+00:00",
+   "url": "https://sherdog.com/news/news/Arman-Tsarukyan-says-controversy-is-important-for-boring-fighters-202429"
+  },
+  {
+   "key": "8f31cca30ebea085d74b0f096e02f4e2a2cb38d1",
+   "score": 3,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Joshua Van reflects on knockout loss that changed his life",
+   "title_key": "8b40de2f2f633fc8776faedc7858effc5a3f4b6b",
+   "title_norm": "joshua van reflects knockout loss that changed life",
+   "ts": "2026-08-19T06:58:32+00:00",
+   "url": "https://sherdog.com/news/news/Joshua-Van-reflects-on-knockout-loss-that-changed-his-life-202427"
+  },
+  {
+   "key": "578c0082124c60a4f838b680f9b3e9229c923782",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "UFC 332 adds four bouts as Salt Lake City card takes shape",
+   "title_key": "f425e26787ea11fae14afc6618d01ee7c5984c59",
+   "title_norm": "ufc 332 adds four bouts salt lake city card takes shape",
+   "ts": "2026-08-19T06:58:36+00:00",
+   "url": "https://sherdog.com/news/news/UFC-332-adds-four-bouts-as-Salt-Lake-City-card-takes-shape-202426"
+  },
+  {
+   "key": "29f6654903ba01ac68c54258b49e84be5c487e64",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC 330: Post Show",
+   "title_key": "3e185ed0efa1633f96404851130a212334e62109",
+   "title_norm": "ufc 330 post show",
+   "ts": "2026-08-19T06:58:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80dTA0cE1SRXpjalB4Rm41SlFBLThfSmFoT0JhcEthQU9uUTdQVlp5dmZuMjZmMlNPUmlaZlZxdFpQR3Y0WE4xaFdLNkRLa1g4?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "recogidos": 176,
-  "unicos": 4
+  "descartados": 3,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "prefiltrados": 3,
+  "recogidos": 175,
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
