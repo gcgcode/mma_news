@@ -20713,13 +20713,24 @@
    "title_norm": "who your least favorite ufc fighter why yair rodriguez",
    "ts": "2026-08-19T21:29:37+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vsyfc2/who_is_your_least_favorite_ufc_fighter_and_why_is"
+  },
+  {
+   "key": "2c3797c60ea624693b6538016d245ffd732dc05f",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Joe Rogan Breaks Down Gaethje Vs Topuria Dunfermline Fc (2BI8fRxrtq)",
+   "title_key": "dae4d8bdfdd2a1109c4aa0e7bf86a87b9c560952",
+   "title_norm": "joe rogan breaks down gaethje vs topuria dunfermline fc 2bi8frxrtq",
+   "ts": "2026-08-19T21:57:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTWo5NFNPRHc4TWNJU3lIb194Y1AyRnpOc2hYaDZabWFsMlJ2ZkVMay1FNmQ4M2s3YVVYUV94cnloMTdoU3A4SDJ3cU1QdWllQlR6YkQxdThYWlk?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 1,
-  "recogidos": 175,
+  "prefiltrados": 1,
+  "recogidos": 155,
   "unicos": 1
  },
  "telegram_offset": 958387804,
