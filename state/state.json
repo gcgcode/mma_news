@@ -19426,15 +19426,25 @@
    "title_norm": "cristian puas perez celebra tko sobre logan paxton contrato ufc dwcs 10",
    "ts": "2026-08-19T07:39:17+00:00",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1NHejk4VVFXOVpwa2xnaXdTMzEwTy1uMmE1TWNKX2pMZF9RNWFIQVZNV0REa0ZpZmlrWmVBc1ZsR3RadW1ibG5rVXVCZ2RQVkxvYnBlWFpzdWRBbk1SaWpNcTRDZnFMclViSlBtMmJfOTRMV29IYXZLNzdqU1JPcHdpWDQtSmliQmJ5TGx5dUdQX3FCV181ekxfdGx3LVI4a01vN1FB?oc=5"
+  },
+  {
+   "key": "a04f479dc2785f303f9f3879877163b894dceca5",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Carlos Prates fires message to Islam Makhachev as pair push for December title showdown",
+   "title_key": "d48dca0d51449faa3fba5f5508357c70177d7307",
+   "title_norm": "carlos prates fires message islam makhachev pair push december title showdown",
+   "ts": "2026-08-19T08:08:39+00:00",
+   "url": "https://bloodyelbow.com/2026/08/19/carlos-prates-fires-message-to-islam-makhachev-as-pair-push-for-december-title-showdown"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
-  "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 174,
-  "unicos": 7
+  "descartados": 0,
+  "enviados": 1,
+  "llamadas_llm": 1,
+  "recogidos": 154,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
