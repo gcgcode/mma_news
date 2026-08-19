@@ -20801,15 +20801,47 @@
    "title_norm": "hurt dakota ditcheva misses out first pfl flyweight title fight announced featuring ex ufc star",
    "ts": "2026-08-19T22:22:07+00:00",
    "url": "https://bloodyelbow.com/2026/08/19/hurt-dakota-ditcheva-misses-out-as-first-pfl-flyweight-title-fight-announced-featuring-ex-ufc-star"
+  },
+  {
+   "key": "65cfaff85531bccdd436e4d54b7b908c0beebfe8",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Jamahal Hill working on his new moves for when Bruce Buffer announces him at heavyweight 😅😂 (via @JamahalH)",
+   "title_key": "de06c498e21015acd49fe4ac92a8c99cb94608b2",
+   "title_norm": "jamahal hill working new moves when bruce buffer announces him heavyweight via jamahalh",
+   "ts": "2026-08-19T22:57:48+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vt0vbq/jamahal_hill_working_on_his_new_moves_for_when"
+  },
+  {
+   "key": "8c26a90338b0e63aeb78c4b3b157a46b6e8e387a",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Gregory Rodrigues linked with top UFC middleweight to prep for Anthony Hernandez",
+   "title_key": "2a6e4b5498440c124f4ceecf8d396d7d86a7ec24",
+   "title_norm": "gregory rodrigues linked top ufc middleweight prep anthony hernandez",
+   "ts": "2026-08-19T22:57:52+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa18yRVdnQVFnSXpXVHloTk85UkVVbkFIZ2U5MWRvOWxFbFdjWnoxVUZjc2hTSk9TRW90amRKZGlHMm1yQ0RSUzZPZDVsMDkwTWZBb0tWam90YW1LcE5HQTctWW9NUTctRFBqTXk5b3ZiUUthZDFrNjVaX0JiUm5rdlk2d0dQdGZLanpxUzJEVENUZFIwMzlpUXNCcmltdzR2MkczaXVCQ3N3WDlDZmR1bDFreWxMOTNaa25FZVhqX1RUelBMMXNmUUNZWXBUa25lQThqbnRoX0xBS3lrSHVBZ2t3NA?oc=5"
+  },
+  {
+   "key": "60b3b95aada94d8a7a019a2bda4e8b8daf08be8d",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Kaik Brito firma un KO brutal en 12 segundos y consigue contrato de UFC",
+   "title_key": "781fb014bf20426c3a20ac433b7392632914c971",
+   "title_norm": "kaik brito firma ko brutal 12 segundos consigue contrato ufc",
+   "ts": "2026-08-19T22:57:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzFfa2pvQW82QnkzOG5sVlNtaFd1V3VxTnhSSGdBZm9SaWV4YVFWOTM5R3RRblVPQ0lrbWRDblhub3NWSGtRcjZVYjB3NXg0S29TSWtWOEV2bDNmVS02a1hnWm13TWU2S0w1dTRfNkZ5alJCblhTT2ktSjRDbDJtb1BQMy1VSE5RSW5yb193b0w0WUtCQ2Jad1NhY3liQWx6d21aSzMzeXU3cTJaWlHSAaYBQVVfeXFMTnBESGhHQTlFc1dOVVRWd3Q2V0NsSEczZXdNVVcxYS1PeEdaWkhzTHREdk5UdEtPbzd1Yk84QWxRdDhENVNISkE0V1BmdXN1UDJlUUNPUWhHaGVXUTZKOUNjekhiRlhHaWpLTFRibTdTYjlJUGl5MmxJQWhIZ1NCc2g2VnBOR2xvVTJrNkdtczF4NmNQZ1lhVjVNNzVRWnB2WFdZZ0FRZw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 2,
   "enviados": 1,
-  "llamadas_llm": 4,
-  "prefiltrados": 3,
-  "recogidos": 176,
-  "unicos": 7
+  "llamadas_llm": 3,
+  "recogidos": 175,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
