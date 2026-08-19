@@ -20834,14 +20834,69 @@
    "title_norm": "kaik brito firma ko brutal 12 segundos consigue contrato ufc",
    "ts": "2026-08-19T22:57:55+00:00",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMzFfa2pvQW82QnkzOG5sVlNtaFd1V3VxTnhSSGdBZm9SaWV4YVFWOTM5R3RRblVPQ0lrbWRDblhub3NWSGtRcjZVYjB3NXg0S29TSWtWOEV2bDNmVS02a1hnWm13TWU2S0w1dTRfNkZ5alJCblhTT2ktSjRDbDJtb1BQMy1VSE5RSW5yb193b0w0WUtCQ2Jad1NhY3liQWx6d21aSzMzeXU3cTJaWlHSAaYBQVVfeXFMTnBESGhHQTlFc1dOVVRWd3Q2V0NsSEczZXdNVVcxYS1PeEdaWkhzTHREdk5UdEtPbzd1Yk84QWxRdDhENVNISkE0V1BmdXN1UDJlUUNPUWhHaGVXUTZKOUNjekhiRlhHaWpLTFRibTdTYjlJUGl5MmxJQWhIZ1NCc2g2VnBOR2xvVTJrNkdtczF4NmNQZ1lhVjVNNzVRWnB2WFdZZ0FRZw?oc=5"
+  },
+  {
+   "key": "403e0c9c96355a9c2e989751a005f917680158ce",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Arman Tsarukyan picks surprising name for Ilia Topuria’s next opponent",
+   "title_key": "b70edffa98e3658fced8eb74fde84f23b1f09e27",
+   "title_norm": "arman tsarukyan picks surprising name ilia topuria next opponent",
+   "ts": "2026-08-19T23:22:17+00:00",
+   "url": "https://mmafighting.com/ufc/505974/arman-tsarukyan-picks-surprising-name-for-ilia-topurias-next-opponent"
+  },
+  {
+   "key": "774744f719d2dee4011c6adeceff4640832758ff",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Liz Carmouche, Jena Bishop to rematch for inaugural PFL women's flyweight title in Chicago on October 16",
+   "title_key": "3cf3220a3f0c803a68d2783e59862841f12ac562",
+   "title_norm": "liz carmouche jena bishop rematch inaugural pfl women flyweight title chicago october 16",
+   "ts": "2026-08-19T23:22:21+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vt13wb/liz_carmouche_jena_bishop_to_rematch_for"
+  },
+  {
+   "key": "3a029f9414a513a47d7b8a4d992478c735385062",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Delphine Benouach (TUF2026) vs Sofia Montenegro at UFC Paris (9/5)",
+   "title_key": "c41047f0c18554673e147b8a0d9395f45115ce51",
+   "title_norm": "delphine benouach tuf2026 vs sofia montenegro ufc paris",
+   "ts": "2026-08-19T23:22:51+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vt0kj5/delphine_benouach_tuf2026_vs_sofia_montenegro_at"
+  },
+  {
+   "key": "1aee4648319d27e727a963e9aecc3fb1d325dfc5",
+   "score": 1,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "How are UFC events? Is UFC Sacramento worth it?",
+   "title_key": "041ef35b7baea4fc30c22fcde259431a30acffb3",
+   "title_norm": "how are ufc events ufc sacramento worth",
+   "ts": "2026-08-19T23:22:52+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vsx0tb/how_are_ufc_events_is_ufc_sacramento_worth_it"
+  },
+  {
+   "key": "3f48e2b84406f6d3c6d476f22567c6770da45067",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Arman Tsarukyan brings in kickboxing legend to help prepare for Mauricio Ruffy UFC 331 clash",
+   "title_key": "b58029c0ffdc4f617c0fb57a8864a55861924244",
+   "title_norm": "arman tsarukyan brings kickboxing legend help prepare mauricio ruffy ufc 331 clash",
+   "ts": "2026-08-19T23:22:55+00:00",
+   "url": "https://bloodyelbow.com/2026/08/19/arman-tsarukyan-brings-in-kickboxing-legend-to-help-prepare-for-mauricio-ruffy-ufc-331-clash"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "recogidos": 175,
-  "unicos": 3
+  "descartados": 3,
+  "enviados": 2,
+  "llamadas_llm": 5,
+  "recogidos": 199,
+  "unicos": 7
  },
  "telegram_offset": 958387804,
  "version": 1
