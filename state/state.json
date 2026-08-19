@@ -19536,15 +19536,48 @@
    "title_norm": "dwcs week reaction fighters earn ufc contracts record breaking night",
    "ts": "2026-08-19T10:49:35+00:00",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ3dsQTZqOVVkdmhmbE13b0Q1anU1ZVRXT3VGVEhHQnQwcUJDYjZGVjZIazF4RDFHbUFOZXE2VHJUSjJ1MFZqM2hFZWRSX20zeGhUMVlRMXE4ZEtqZER1TXA5a19Wc1ZGZWhOd1N4emNVZmUzTF81SmdxcnZqekJwM3FmbEFibXRPQ2ZfTTM1Y2FqZklrLXNsWW9GRjhKY2dEcElLVk5ucmgwNXVSWThsTlFzazNpZkY2YWhjczlBU2tsQ0tLMHZDZFNjVC0xZlVV?oc=5"
+  },
+  {
+   "key": "e8a1b7baa9829c7bef52a72b1f8e4fd55c01716b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam should just retire after his next fight because unless he retires , People are always gonna say one more fight to be the GOAT .",
+   "title_key": "738df831d813bf2a3b0d6eb9680002e4daa46af1",
+   "title_norm": "islam should just retire after next fight because unless retires people are always gonna say one more fight be goat",
+   "ts": "2026-08-19T11:20:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsh892/islam_should_just_retire_after_his_next_fight"
+  },
+  {
+   "key": "92f99d443a4689090f53e36793719fa21003621d",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White reveals Contender Series graduates have earned $252.3M in UFC fighter pay since 2017",
+   "title_key": "8793c9d82228dcd8856988902fbc43c977eee06e",
+   "title_norm": "dana white reveals contender series graduates have earned 252 3m ufc fighter pay since 2017",
+   "ts": "2026-08-19T11:20:49+00:00",
+   "url": "https://bloodyelbow.com/2026/08/19/dana-white-reveals-contender-series-graduates-have-earned-252-3m-in-ufc-fighter-pay-since-2017"
+  },
+  {
+   "key": "7e63df0658fd16cbfd680f43ce307eb3902e3518",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Joe Rogan Shares Unique Possibility for Islam Makhachev After Record-Breaking UFC Win",
+   "title_key": "5c556d9daa5e3d2405360217efef27a0fd50a140",
+   "title_norm": "joe rogan shares unique possibility islam makhachev after record breaking ufc win",
+   "ts": "2026-08-19T11:21:02+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2VXOWI5bUYzaXBjQ2JDbjhxVkpYYUhnbmkwWHFGZmFtaEplR3h5eGMyanJrWG1QalNKMFdyWGlKRlE0UDlxWWV1UnhQMlljM2JkdkJuRXR3ZDZCRmhxTXdIOFVGXzN4OE1KZHFTSmYxMFlobEtyR3Nob2JCRU1HWlhkdHhGZ3dnYjJrSmVQcXpPcXVhSWZ1b1VkUkZZNFRPdTNBMGtSeTJoelU4WXpma0FxejlDc1ppdF80RDk5Rmc?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 0,
   "llamadas_llm": 2,
-  "prefiltrados": 5,
-  "recogidos": 179,
-  "unicos": 7
+  "prefiltrados": 1,
+  "recogidos": 200,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
