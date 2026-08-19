@@ -19118,15 +19118,81 @@
    "title_norm": "dana white gushes over wild contender series ko awards six ufc contracts just five fights",
    "ts": "2026-08-19T04:03:43+00:00",
    "url": "https://bloodyelbow.com/2026/08/18/dana-white-gushes-over-wild-contender-series-ko-as-he-awards-six-ufc-contracts-from-just-five-fights"
+  },
+  {
+   "key": "bd9b00bdf8c5b568228bc938c660e9d9a0d18e64",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "All the oblique kicks Ian threw in the Islam fight. Islam prepared well.",
+   "title_key": "3b16babca30ee888c3db04fafce4a63c1f448eed",
+   "title_norm": "all oblique kicks ian threw islam fight islam prepared well",
+   "ts": "2026-08-19T04:55:34+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vsarty/all_the_oblique_kicks_ian_threw_in_the_islam"
+  },
+  {
+   "key": "8a6811948c3fd6892fb7fe9afbceef25089ee4d8",
+   "score": 3,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Dana White has stopped listening to Eddie Hearn amid Fury-Joshua talks",
+   "title_key": "3471f73aca633a770e0689d0e64e82bd2f1e2905",
+   "title_norm": "dana white has stopped listening eddie hearn amid fury joshua talks",
+   "ts": "2026-08-19T04:55:42+00:00",
+   "url": "https://sherdog.com/news/news/Dana-White-has-stopped-listening-to-Eddie-Hearn-amid-FuryJoshua-talks-202424"
+  },
+  {
+   "key": "1d9b3996de93caa18026098660e02e5ce7162c44",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White fires back at Eddie Hearn over lawsuit threat as Anthony Joshua vs Tyson Fury announcement closes in",
+   "title_key": "37f541519b5bf08103bf91c992cb5761caf6b3be",
+   "title_norm": "dana white fires back eddie hearn over lawsuit threat anthony joshua vs tyson fury announcement closes",
+   "ts": "2026-08-19T04:55:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/18/dana-white-fires-back-at-eddie-hearn-over-lawsuit-threat-as-anthony-joshua-vs-tyson-fury-announcement-closes-in"
+  },
+  {
+   "key": "1b93d5a3966ffbc87b87e40c90f1f8b61a06270b",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Alik Lorenz erases DWCS heartbreak with brutal first-round KO",
+   "title_key": "4a70c3b1467003a5f0165dce8762a1fbb60fd7c0",
+   "title_norm": "alik lorenz erases dwcs heartbreak brutal first round ko",
+   "ts": "2026-08-19T04:55:55+00:00",
+   "url": "https://sherdog.com/news/news/Alik-Lorenz-erases-DWCS-heartbreak-with-brutal-firstround-KO-202417"
+  },
+  {
+   "key": "c0203b3c4617a951d1d90875990fbdaf8db7873c",
+   "score": 6,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Dana White rewards Roman Puga, Taner Trembley following DWCS war",
+   "title_key": "ec1dbb7554380924374b67caac90a66cfe783d1c",
+   "title_norm": "dana white rewards roman puga taner trembley following dwcs war",
+   "ts": "2026-08-19T04:55:57+00:00",
+   "url": "https://sherdog.com/news/news/Dana-White-rewards-Roman-Puga-Taner-Trembley-following-DWCS-war-202416"
+  },
+  {
+   "key": "42609799ea20464974798cf39e633da5880768d8",
+   "score": 4,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Noche UFC Cortés: Peleará En Su Segundo Hogar",
+   "title_key": "d3d3027593129215d56933e458b2c7293fb43129",
+   "title_norm": "noche ufc cortes peleara segundo hogar",
+   "ts": "2026-08-19T04:56:15+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UOUN0UTh4R1lTek9vZVBqSFQ1ZmxjODZzY25raVMtckx5eU5DSnF6MmRkempzQXVyQm92LWJhdGJreGhDWDhZTEZndFQ4ZDV5?oc=5"
   }
  ],
  "stats": {
   "descartados": 5,
   "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
+  "prefiltrados": 1,
   "recogidos": 200,
-  "unicos": 18
+  "unicos": 11
  },
  "telegram_offset": 958387804,
  "version": 1
