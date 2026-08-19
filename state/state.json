@@ -19437,13 +19437,25 @@
    "title_norm": "carlos prates fires message islam makhachev pair push december title showdown",
    "ts": "2026-08-19T08:08:39+00:00",
    "url": "https://bloodyelbow.com/2026/08/19/carlos-prates-fires-message-to-islam-makhachev-as-pair-push-for-december-title-showdown"
+  },
+  {
+   "key": "0ea5b883f4354cd1674933c68292aa785a62852a",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Henry Cejudo: It's 'a little premature' to call Islam Makhachev the GOAT",
+   "title_key": "59d2b1467e781729084cc42acffd083b0b45fd1a",
+   "title_norm": "henry cejudo little premature call islam makhachev goat",
+   "ts": "2026-08-19T09:34:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXE0anJDcFBvWUd5aWU0WGpzOTN0LWkwN2xvTm1SXzhjblJNdHk1UnVkTEhBWUtoMWMyX0M1c1l4bUVnMGllYkt5VmtfdGhmT2hBWm1nc2NEMUNXNmE3UUdNRlhnQzB0M1YxSU11dldwZnM4bkRpOXBOaHROUnV2NEJOUHFoWXBWV0Voc1Fzc2RxUmdlX291WnN0MjJjREFSbTE2QWNsMkJaVjhGMl9HajdFQUk?oc=5"
   }
  ],
  "stats": {
-  "descartados": 0,
+  "descartados": 1,
   "enviados": 0,
-  "recogidos": 174,
-  "unicos": 0
+  "llamadas_llm": 1,
+  "recogidos": 154,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
