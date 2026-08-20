@@ -23045,13 +23045,58 @@
    "title_norm": "ufc bjj 10 danielle kelly turned jiu jitsu combat bullying",
    "ts": "2026-08-20T21:47:37+00:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1l3YnY2WDJGbHJWX1RKS0RQRjhTVEx3SjZ0Z2hwUVYxTTc3cHRJbVNzMG5BNVIzZjZiTE02SkRwZE1DMU1FQWNhbTFZRnFGdnFxZnJHQXhIbWFlN2VZOU55clBCQzh2X1pGWll6V2UtOEhoZUMzRXBCc1pEekRnWg?oc=5"
+  },
+  {
+   "key": "cb7dbce7fc2c746ba89bec05a72fc094c728f52d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Old Match | Islam Makhachev vs Dustin Poirier",
+   "title_key": "38cd22f6f01789cf872968812ce5f6d6042f3cf9",
+   "title_norm": "old match islam makhachev vs dustin poirier",
+   "ts": "2026-08-20T22:22:48+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vtwo51/old_match_islam_makhachev_vs_dustin_poirier"
+  },
+  {
+   "key": "b34c4b6b168f1d01b61f77b298f86322ffd0896d",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "No Bets Barred: Can Anthony Hernandez rebound at UFC Sacramento, or does Robocop march on?",
+   "title_key": "54cc2ad59b20b9fe80e3bab08a1732f288a367e2",
+   "title_norm": "no bets barred can anthony hernandez rebound ufc sacramento or does robocop march",
+   "ts": "2026-08-20T22:22:49+00:00",
+   "url": "https://mmafighting.com/ufc/506028/no-bets-barred-can-anthony-hernandez-rebound-at-ufc-sacramento-or-does-robocop-march-on"
+  },
+  {
+   "key": "e3fea410e242326b9372e495e1b4ae972d6bf40e",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "DWCS video: Cristian Perez redeems himself with big TKO of Logan Paxton",
+   "title_key": "13f384030f89eb3288494c42ee63a6322fc4073f",
+   "title_norm": "dwcs video cristian perez redeems himself big tko logan paxton",
+   "ts": "2026-08-20T22:22:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGtBcHhkaFVBVkRWeW5NM0xmbjRSdVhMMVQwUGlJQzZlUXozX3dKTEdzY1A1N2xPNU15MkRVdTcwejQ4MWtpUHB4U295U3VoZkRfb1dSSVRqTDJXM0kxcGJqbzdDM1l1Q3JQUktiS1pYaWptTFo5SXVFTlE1SE9WWW1tVi13WUMwLVFiU2tINXJtOEJMd1NCZkQ0ckVscG5TS1RLMVdFU1A5X0pOZVg2MEhTekVubXZD?oc=5"
+  },
+  {
+   "key": "db95201527414926043d69cc7827413cfd56828f",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Former UFC title challenger reportedly returns to face #3-ranked contender after over a year out",
+   "title_key": "37f9ed5340f703c6a6e1c2d80542b1f1f58cc3da",
+   "title_norm": "former ufc title challenger reportedly returns face ranked contender after over year out",
+   "ts": "2026-08-20T22:22:55+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/former-ufc-title-challenger-reportedly-returns-to-face-3-ranked-contender-after-over-a-year-out"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 3,
   "enviados": 0,
-  "llamadas_llm": 4,
-  "recogidos": 180,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
+  "recogidos": 205,
   "unicos": 4
  },
  "telegram_offset": 958387804,
