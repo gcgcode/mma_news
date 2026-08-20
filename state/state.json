@@ -22693,15 +22693,70 @@
    "title_norm": "bkb adds james brown re signs julian fernandez before miami mexico events",
    "ts": "2026-08-20T17:49:27+00:00",
    "url": "https://lowkickmma.com/bkb-adds-james-brown-re-signs-julian-fernandez-before-miami-and-mexico-events"
+  },
+  {
+   "key": "f4eb907b54232e4fd26f958944476f5771f7d416",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "he folded🤑",
+   "title_key": "682b052d4e07201009a165fe6af8b1dade14e6d9",
+   "title_norm": "folded",
+   "ts": "2026-08-20T18:32:38+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vtqhmj/he_folded"
+  },
+  {
+   "key": "06d3f3bed3b2862254b9ddac3b05031f1eb1716e",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Shavkat Rakhmonov will ‘never fight again’ according to fellow UFC contender who believes ‘he’s done’",
+   "title_key": "fc427428aaab904ce32c5dd631fa34975cb5172d",
+   "title_norm": "shavkat rakhmonov will never fight again according fellow ufc contender who believes done",
+   "ts": "2026-08-20T18:32:39+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/shavkat-rakhmonov-will-never-fight-again-according-to-fellow-ufc-contender-who-believes-hes-done"
+  },
+  {
+   "key": "35e3e4f088ae33a29ad7cf0903d2fb4b2e3e6e2d",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Wendy Lara conquista el tricampeonato mundial juvenil de MMA",
+   "title_key": "8ebf83e8940b593cc1fbe53efe512c4c63f41578",
+   "title_norm": "wendy lara conquista tricampeonato mundial juvenil mma",
+   "ts": "2026-08-20T18:32:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2dsZk1OSmRTdmN0eXJ3TmxUV0VDNkNybW9mbEh0TVA3WldlN0VLZlQ1Z2lBMEwtenVlSDlfVWZqNG1IQS1pXy04OG9GOHZ6ZnF0WXhZeWQ3eE0zRU5RVU1tUmZicUdLaUxlSHNYdmgzZmU2QVBrQzFUNU9FU2Jtb1ZhU2hvWnpiMUxzazJEOGZBVnhKb09QY1hzT0xYUGUxZUNmcnlFb3hITzBSVnNEQklqZ2pTRkZkNFE?oc=5"
+  },
+  {
+   "key": "c418a137d47595dbf0fd1ec201aca471ba5a6441",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Georges St-Pierre - News & Rumors - UFC",
+   "title_key": "11355e73d7dca10564d74a6924708717df76c1b1",
+   "title_norm": "georges st pierre news rumors ufc",
+   "ts": "2026-08-20T18:32:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84d2ZxRmpKREtaMnRqWnBJNzdCN1hpbWd4ZnVBUTlfQUFMMGY4M3gxRVZsSkpFMlFBRkpjczViSEtVaHJkcFJjNkxnN0xYZnRoRzh5a2VTRE5FaXA5TE9LUC1MajdMZw?oc=5"
+  },
+  {
+   "key": "b4834507aa0b5ddf64d4620a50ba5b5c6266af3d",
+   "score": 5,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Carlos Prates breaks down why he found Islam Makhachev’s UFC 330 win ‘boring’",
+   "title_key": "204110e558637e7c6ad118901cefdf1940a05183",
+   "title_norm": "carlos prates breaks down why found islam makhachev ufc 330 win boring",
+   "ts": "2026-08-20T18:32:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFFGQnBDblAybDRMM2ZJZTF0NHNDWXA1dHBjbGFST1FXU3A0Q3luakVjUC1SWlFQcWFleEtMNmJSV3JWSjI1SGM1LUdqYlpESmJnbmN1VjFkaHMzRlpwY3F0Sk1acjNnaUZTSm54Z0RVRm42MFV6RU9yOGFXWEd4czdn?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 4,
+  "enviados": 0,
+  "llamadas_llm": 4,
+  "prefiltrados": 1,
   "recogidos": 205,
-  "unicos": 9
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
