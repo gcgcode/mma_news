@@ -22957,15 +22957,59 @@
    "title_norm": "predictions odds analysis ufc sacramento factor",
    "ts": "2026-08-20T20:23:00+00:00",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1MwbkZIMFNUODBrYW5BYkRVczNmb1Fzc2F3Z19Cc0FRMmlNbTlIUUx1U2lzRmpPOV9TQW0wdWM5N0VGYXBaQjZpZndzV2pGWWdrLXRLUWZUQy1uZVloQTFwdkdJTXdwU2dEV0FVaURlRDhoZDk4TWx3M0UwYTFGVVMwVkxBTGRxVTJtbHhteEt5cTg?oc=5"
+  },
+  {
+   "key": "6c4e6b711d2742d12822fec406968dee60c29b0b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "The islam vs Jones debate is so forced, islam would never get outboxed by Reyes and then run from a immediate rematch, islam clears",
+   "title_key": "ed26c032a98e016ebd07a87521bcdb0774b636e2",
+   "title_norm": "islam vs jones debate so forced islam would never get outboxed reyes then run immediate rematch islam clears",
+   "ts": "2026-08-20T21:01:50+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vtu0dq/the_islam_vs_jones_debate_is_so_forced_islam"
+  },
+  {
+   "key": "ed5980a7d0b61eb3879a90d9f635ebd89a01039e",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Paddy Pimblett: ‘I’m gonna absolutely terrorize’ Ilia Topuria, Arman Tsarukyan if we fight in the UFC",
+   "title_key": "a1b3f1eefe8f0ac66527bdcb24503210b2905b56",
+   "title_norm": "paddy pimblett gonna absolutely terrorize ilia topuria arman tsarukyan if we fight ufc",
+   "ts": "2026-08-20T21:01:58+00:00",
+   "url": "https://mmafighting.com/ufc/506080/paddy-pimblett-im-gonna-absolutely-terrorize-ilia-topuria-arman-tsarukyan-if-we-fight-in-the-ufc"
+  },
+  {
+   "key": "d7a98f9d20a8ada5c1cb66d93abeaaf41f001810",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev could’ve beaten Ian Machado Garry with zero takedowns at UFC 330, claims coach",
+   "title_key": "2abc027f030158e5bdec905bc00dc6094b3f19bf",
+   "title_norm": "islam makhachev could ve beaten ian machado garry zero takedowns ufc 330 claims coach",
+   "ts": "2026-08-20T21:01:59+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/islam-makhachev-couldve-beaten-ian-machado-garry-with-zero-takedowns-at-ufc-330-claims-coach"
+  },
+  {
+   "key": "03c46cc3f1d447744473d4367bd6b43c3c80bf95",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Jon Jones praises Aljamain Sterling for rejecting UFC fight vs low-ranked opponent: ‘Proud of you’",
+   "title_key": "1b9c166d5eaacd48a373ee1a9c8397cb31bf021b",
+   "title_norm": "jon jones praises aljamain sterling rejecting ufc fight vs low ranked opponent proud you",
+   "ts": "2026-08-20T21:02:00+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/jon-jones-praises-aljamain-sterling-for-rejecting-ufc-fight-vs-low-ranked-opponent-proud-of-you"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 2,
   "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 2,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 180,
-  "unicos": 7
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
