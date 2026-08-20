@@ -22132,13 +22132,90 @@
    "title_norm": "michael chandler reportedly training wwe performance center",
    "ts": "2026-08-20T12:53:55+00:00",
    "url": "https://lowkickmma.com/michael-chandler-wwe-performance-center"
+  },
+  {
+   "key": "179047b4fd3da27a44a4a6fa1edc927342de014f",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Mick Terrill Headlines BKB 60 as Bare Knuckle Boxing Makes Newcastle Debut",
+   "title_key": "c18e3cdaa7115a5c3f88f4f8518a9ae45c7c3f48",
+   "title_norm": "mick terrill headlines bkb 60 bare knuckle boxing makes newcastle debut",
+   "ts": "2026-08-20T13:42:52+00:00",
+   "url": "https://lowkickmma.com/mick-terrill-bkb-60-newcastle-debut"
+  },
+  {
+   "key": "7c7bb45328815347d60a28c86aebe3c7ea8158e6",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Who Is Jully Poca? The Brazilian Boxer Fighting on Jake Paul’s Big TikTok Night",
+   "title_key": "e74969c1e4cec772fd608e32fe90ff144a1804d2",
+   "title_norm": "who jully poca brazilian boxer fighting jake paul big tiktok night",
+   "ts": "2026-08-20T13:42:52+00:00",
+   "url": "https://lowkickmma.com/who-is-jully-poca-brazilian-boxer"
+  },
+  {
+   "key": "08e93726286e143afbf344112bed3ca1c20edce3",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "What’s your dream fight?",
+   "title_key": "5247b13e2162a8d26d587c009b39d43a2cbf4f22",
+   "title_norm": "what your dream fight",
+   "ts": "2026-08-20T13:42:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vtjjki/whats_your_dream_fight"
+  },
+  {
+   "key": "cf909a010722c088cd21f8c0cbfc99534ab09b9f",
+   "score": 6,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Valentina Shevchenko vs. Natalia Silva is in the works for UFC 332, serving as the co-main event, according to Prosportskyrgyzstan on Instagram",
+   "title_key": "7c4942ef185e5101f57417b9beb32a71e2e2ed1f",
+   "title_norm": "valentina shevchenko vs natalia silva works ufc 332 serving co main event according prosportskyrgyzstan instagram",
+   "ts": "2026-08-20T13:43:02+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vtj6ab/valentina_shevchenko_vs_natalia_silva_is_in_the"
+  },
+  {
+   "key": "fafdbd2374c9266a783fb36da60d06f80605775d",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Anthony Hernandez: Sean Strickland helped re-spark love for martial arts ahead of UFC Sacramento main event",
+   "title_key": "34f8e4590be51bf47e697426567f0ab477eca8fe",
+   "title_norm": "anthony hernandez sean strickland helped re spark love martial arts ahead ufc sacramento main event",
+   "ts": "2026-08-20T13:43:03+00:00",
+   "url": "https://mmafighting.com/ufc/505802/anthony-hernandez-sean-strickland-helped-re-spark-love-for-martial-arts-ahead-of-ufc-sacramento-main-event"
+  },
+  {
+   "key": "f0509e7174e980de5b84486b74025ef9bc789c6b",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Din Thomas teases retirement U-turn days after disrespecting Gillian Robertson with UFC 330 announcement",
+   "title_key": "158bb887b0461035415a98eb821a5c1645ff0f34",
+   "title_norm": "din thomas teases retirement turn days after disrespecting gillian robertson ufc 330 announcement",
+   "ts": "2026-08-20T13:43:07+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/din-thomas-teases-retirement-u-turn-days-after-disrespecting-gillian-robertson-with-ufc-330-announcement"
+  },
+  {
+   "key": "be74cdff74404649b7d014b250184656a8f72807",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "4 years ago, Kamaru Usman was on a 15 fight win streak. 5 defenses deep. Goat conversations were already happening. Was crusing towards another title defense an",
+   "title_key": "fea2984d46762a4cdb7842b2a56c592bc911c7a2",
+   "title_norm": "years ago kamaru usman 15 fight win streak defenses deep goat conversations were already happening crusing towards another title defense tying silva win streak record then leon edwards happened",
+   "ts": "2026-08-20T13:43:08+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vtir9e/4_years_ago_kamaru_usman_was_on_a_15_fight_win"
   }
  ],
  "stats": {
   "descartados": 5,
   "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
+  "prefiltrados": 2,
   "recogidos": 205,
   "unicos": 13
  },
