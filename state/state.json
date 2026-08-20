@@ -21879,15 +21879,47 @@
    "title_norm": "alexander volkanovski no descarta retiro pero pone condicion dejar ufc",
    "ts": "2026-08-20T09:30:13+00:00",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWEN4MDhMMkE1VktzRGdobVdNNzJGNkVHVE1SOGVib3ZIYUhqWlVDY3JnVUh3YTlyaHN5SmdFdHhHN0Z2dTZONU1SbWFDR1BUREVmcFdOZ3dUX1luaW5YY19US0RmNFhZWnAxMFlmWE9XemZHVEViM3NZS3JfYkZ6blBNMEZXc2tueV9WaTVQWXgzMVQwTkR4a1YzN1FxRHdjODZlMUdMLXVfTlYwNU1CZ19Ia2NJQQ?oc=5"
+  },
+  {
+   "key": "4fe73ac58c3a166151387200e49d0e75f408f62c",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Darren Till breaks his silence on pub brawl KO he claims was pre-agreed to promote future fight",
+   "title_key": "58176645ca15fa6da4a878052947c2176eaaf2f1",
+   "title_norm": "darren till breaks silence pub brawl ko claims pre agreed promote future fight",
+   "ts": "2026-08-20T10:05:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/darren-till-breaks-his-silence-on-pub-brawl-ko-he-claims-was-pre-agreed-to-promote-future-fight"
+  },
+  {
+   "key": "01037fbdd85f9a1530e267818722d5474412e170",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Fight Night: Hernandez vs Rodrigues | UFC Sacramento",
+   "title_key": "184b199f4e36d061d383b025c57d3e806781cd8f",
+   "title_norm": "ufc fight night hernandez vs rodrigues ufc sacramento",
+   "ts": "2026-08-20T10:05:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIZlVreGFCSWlYaWI2SGhRUUtuMlM2UjVNam9VdDBCS3FOZ3htTTh6TjZETzE0bmJxVWptTlhPVTR3NjFzejZ0MXc4WG9Cc05Tc3RHZlBpMnE0Vk9XTHhBQlYya2pKZWc?oc=5"
+  },
+  {
+   "key": "978d94bb835527cb183f56cce3e65543f6e912af",
+   "score": 1,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Ketlen Vieira: Beating Cris Cyborg at PFL Tampa would be 'happiest day of my life'",
+   "title_key": "f90890061156947b5d27a7a3eaeb5f164ce354a2",
+   "title_norm": "ketlen vieira beating cris cyborg pfl tampa would be happiest day my life",
+   "ts": "2026-08-20T10:06:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3dPWlJqNjA3UXVYR0hyMEN6NFZjMEhyZENVTzZqM2laVFhQT1NRNUFCQTJaUmFkc2JjN0ZfVUhHQ3NKY0w1amVBX1p3UG9DYUp4bmhuWlBjVW4xUG9EZ00xV04wSUs2cnpZdjBUOHdud2hKamU5SXNXYzUzbU5WZWpkQkFJZmpfa1E?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 181,
-  "unicos": 5
+  "enviados": 1,
+  "llamadas_llm": 3,
+  "recogidos": 161,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
