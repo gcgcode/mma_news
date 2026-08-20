@@ -21989,12 +21989,57 @@
    "title_norm": "gillian robertson challenges din thomas comments after ufc 330 loss",
    "ts": "2026-08-20T11:22:45+00:00",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWDNVQ3hBUFIxanp2Y2g2ZUphZXJ3Y2JyTkd4SS11Qy1PNFZ2N1dQRXk4dnl3ZWNvTFJSb1pXYkVDOUVyZE1HYzI5QXVBWFowbG5IcUJncnpDZktrSHhvcmJGV210alBKNV9NOG05elU2dTdrQjNnUWdDXzdZQWN3RGhXS2llNDlYRnR0THRBWGxIRFlzeTd0UzVZdzg2aFE2cGtTc2xtcU8?oc=5"
+  },
+  {
+   "key": "ba629ac1e52338e59d4f3096ad36d301ee8feb0a",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Hernandez",
+   "title_key": "8bd96812d1b6b4284b12520c58142699d31b96d6",
+   "title_norm": "hernandez",
+   "ts": "2026-08-20T11:58:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81bVZPbjdhcm5iYUlRS1pNMTk4cHI0b3dxQnZIUU5iSUlpLWZabzBiaHFPMUtyaDE3SFJYYk5Ibk1yOTM4T0dVNGM5UGxCM3drUFZ0ckZ0bmVYMzRodFJlVUVmR1ZuZWhSZDNPbFJuZ1U?oc=5"
+  },
+  {
+   "key": "e696bd313134e5306ed86347e0660c5d33dfcdfe",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam was never a weight bully",
+   "title_key": "822a3045a9dbf1e2483a2ab2fdb643bb52f2f5c4",
+   "title_norm": "islam never weight bully",
+   "ts": "2026-08-20T11:58:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vtg7cw/islam_was_never_a_weight_bully"
+  },
+  {
+   "key": "3a6caa43adb992acd514b9c15721c1ea9617fbfc",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "UFC literally booked 3 of the biggest pull out merchants in the same month and thought \"this is fine\" 💀",
+   "title_key": "8bf9d3f88e52467449528c5184b44ca21c93bc2e",
+   "title_norm": "ufc literally booked biggest pull out merchants same month thought this fine",
+   "ts": "2026-08-20T11:58:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vtfctt/ufc_literally_booked_3_of_the_biggest_pull_out"
+  },
+  {
+   "key": "9dadcea9a279a6cfb573d8f1b1dac3f41022e991",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC analyst reveals curious MMA Mt. Rushmore: 'I'll take heat for it'",
+   "title_key": "ca98b95f0056ecb95abe4de21182f9f36cb36967",
+   "title_norm": "ufc analyst reveals curious mma mt rushmore ll take heat",
+   "ts": "2026-08-20T11:58:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmlRRnFMeF9vYW1Sank2ZjdtU0FHYUhRZnFBbEpKS0JVdXZQamRib0RCbk5Dd180VUVoVGxra0pNMFUzUkR2MS05X0RITFBKR0FIcUJIRThVMkFheGtJWW5SbHk4ajZaSU9uSEVHUlIxU0xVU3BxZGw1UFgtYzM4Z3VMaGU2NVhSdGctSlVtWExKbWRZSmVXSzNwQ0FLTHdGZ2gxU3A0TzhRWVJGZTVBS1dtTnZsemthQTZpRXh2U3dkNUdtUHd5Sm1FSFhYdFJqSGlqeHZn?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 3,
   "enviados": 0,
-  "llamadas_llm": 4,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 180,
   "unicos": 4
  },
