@@ -21945,14 +21945,58 @@
    "title_norm": "one time jets lb anthony wint make ufc debut saturday 11 days after 34 second win",
    "ts": "2026-08-20T10:50:56+00:00",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkFubUNNcV9VWmZLOVZ6MUtoc3BpcWFGaGg3c0wyYmdJWFAzMEZfVGxUZnhXU0hsVzRXWlBhWFBtM0JCOFU0LXJyeFpwZkRnZEk5TWpVZjlnbndxWFZTU244Zm4wNmxNU2kxdUpEVWo4T2gzWGlNclJRRmlELVlDS05qdjZzRExZenhNUUR2YXdhZVF0cjlKVzZxZzJ6Q3ktNGF3bDQtVFg5VmdtQ0E?oc=5"
+  },
+  {
+   "key": "1527623ee44efb0ca20f338126c4f5047100a732",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Former UFC star Jimi Manuwa gets new opponent for his first fight in 7 years on Perry vs Danis card",
+   "title_key": "e0af521d99e7f818949a57ef83dd8233b1f17c5b",
+   "title_norm": "former ufc star jimi manuwa gets new opponent first fight years perry vs danis card",
+   "ts": "2026-08-20T11:22:40+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/former-ufc-star-jimi-manuwa-gets-new-opponent-for-his-first-fight-in-7-years-on-perry-vs-danis-card"
+  },
+  {
+   "key": "70c15fb40ceeea00c1c9a8953d9cf05f048729d2",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Vida y carrera de Gregory Rodrigues",
+   "title_key": "6c4021c19461e04c0633645ebee167839436a7f2",
+   "title_norm": "vida carrera gregory rodrigues",
+   "ts": "2026-08-20T11:22:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LYzhZNGlONWhIQmFTc0l2M2E3SzhCZjFiNU9mUTNUY1BQWG9LWndKYzd6R1VudkZfQ3drUENCNHdGRkoyZlV5QlR0Mm1ET0c2ekdKd0JLY2dHVnlnTkI5UnNCQ0hjdTVnbUdBYzVxTHE3UWVL?oc=5"
+  },
+  {
+   "key": "54ef8c6873cfde16c7531a93e76bca6f6b7ec4e6",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Yana Santos issues a statement on her UFC return, reported date and opponent revealed",
+   "title_key": "a4a00c9b19c13b81bbf9dbb5d86f094f23e9af30",
+   "title_norm": "yana santos issues statement ufc return reported date opponent revealed",
+   "ts": "2026-08-20T11:22:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHRGWWZnSTlRRmJZRkJELV9RSmF5UEt0UFJkc1JHZ05NNkZ5R0tnN05yVmtnVTVKbXdQX2FRdVI2REpSZzEyS3NxV005aWJoYXRPY08tenc5VEZWTEQwY1JiNXhwYlJwMUZrSmVSdF81TmVyYmFNYlFXQzR4Mmh2eGxLWGJtWmlBSE5oQlZZUFg4cG81NmZnSzNadWpTRDQ2blVjeVNBZlJVVEpy?oc=5"
+  },
+  {
+   "key": "7bdf488138b138efab46c30a7276ba400ba9312b",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Gillian Robertson Challenges Din Thomas' Comments After UFC 330 Loss",
+   "title_key": "acdbdc79d023552d18afe85d439cca1b9988c525",
+   "title_norm": "gillian robertson challenges din thomas comments after ufc 330 loss",
+   "ts": "2026-08-20T11:22:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWDNVQ3hBUFIxanp2Y2g2ZUphZXJ3Y2JyTkd4SS11Qy1PNFZ2N1dQRXk4dnl3ZWNvTFJSb1pXYkVDOUVyZE1HYzI5QXVBWFowbG5IcUJncnpDZktrSHhvcmJGV210alBKNV9NOG05elU2dTdrQjNnUWdDXzdZQWN3RGhXS2llNDlYRnR0THRBWGxIRFlzeTd0UzVZdzg2aFE2cGtTc2xtcU8?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "recogidos": 170,
-  "unicos": 3
+  "descartados": 4,
+  "enviados": 0,
+  "llamadas_llm": 4,
+  "recogidos": 180,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
