@@ -21505,15 +21505,81 @@
    "title_norm": "kevin vallejos sees ufc title shot opening up noche ufc shakeup",
    "ts": "2026-08-20T04:57:09+00:00",
    "url": "https://sherdog.com/news/news/Kevin-Vallejos-sees-UFC-title-shot-opening-up-with-Noche-UFC-shakeup-202441"
+  },
+  {
+   "key": "1b849fa1500ec949e5e604ae8037e6d70f9099e4",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Otros Deportes Tickets for Johnstone'S Paint Masters Snooker",
+   "title_key": "952893fdd66728094f283dc5588396177cafe67b",
+   "title_norm": "otros deportes tickets johnstone paint masters snooker",
+   "ts": "2026-08-20T05:27:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3BSYnVULVRnUFdDWGR5dXRaa3FJVDZVOUZzNmFOTDBzSDZhS2FEd2xRdEh0M3pPc0ZZV0RmWk9BbnJKUUxrWURKbzJuV0poMlFNVm9KRlZhVC1RWVVTNjU2Mm45azk5ZV8yUDhWWkNNRU5FdGs5bW9hN1I0NHl0ZXpoRVlydm42dllkZk51bW1wVWl2TG1uTHpn?oc=5"
+  },
+  {
+   "key": "29d3aeb31cb4d584bce6490a2f56e6b29852164a",
+   "score": 1,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] General Discussion Thread - August 20, 2026",
+   "title_key": "410244edb236badba5d37f2b77c957f008f9a342",
+   "title_norm": "official general discussion thread august 20 2026",
+   "ts": "2026-08-20T05:27:52+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vt8soj/official_general_discussion_thread_august_20_2026"
+  },
+  {
+   "key": "6adaa19b4ed63d8a5b58777d05eca8157aab28a6",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Alex Pereira’s second heavyweight fight picked by Glover Teixeira after title loss to Ciryl Gane",
+   "title_key": "36f5076102e6e07433e709bf7d85de7eae078f5b",
+   "title_norm": "alex pereira second heavyweight fight picked glover teixeira after title loss ciryl gane",
+   "ts": "2026-08-20T05:28:02+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/alex-pereiras-second-heavyweight-fight-picked-by-glover-teixeira-after-title-loss-to-ciryl-gane"
+  },
+  {
+   "key": "e71b97fb6ff9686c0c8d1c19fe1447ed6cab465e",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Throwback to UFC 280 when one man refused the drip",
+   "title_key": "ac891f56f97685b4f2a54479c148556378b7e47d",
+   "title_norm": "throwback ufc 280 when one man refused drip",
+   "ts": "2026-08-20T05:28:06+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vt8emt/throwback_to_ufc_280_when_one_man_refused_the_drip"
+  },
+  {
+   "key": "77df5fdea5ab0fcd9adfd02dee787820fe6ec7dd",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Hoy en la historia | McGregor vs. Díaz 2 y Usman vs. Edwards 2",
+   "title_key": "8de47e151fb63d89621ea3aa4d1df330c0d18125",
+   "title_norm": "hoy historia mcgregor vs diaz usman vs edwards",
+   "ts": "2026-08-20T05:28:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KeW1tdFFYeDB6NGVWRzVwVGhiTVhiMXVkaVdWM3FtVnR6clJmVXRJS0Q2WUM1UHlXNlJZdjhSUlFteExuWU1IX0lJYk1NVlBYN0EtZUNUUjAydzVXVzVBbk81QmNRTl92NVlGLWFwWlo5dnZDcnVR?oc=5"
+  },
+  {
+   "key": "9b9004e4d29f1ffa50f9f993f89cefb4fea7f560",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Hidalgo busca medallas en Mundial Juvenil de MMA",
+   "title_key": "2114b245e2accd9df735e5c108286e1144e6801e",
+   "title_norm": "hidalgo busca medallas mundial juvenil mma",
+   "ts": "2026-08-20T05:28:08+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3QtbWdqOUxyWHJfNTl0cy1QaW5oSkxkS3k3TE5NQW9DdHpWRFdhWllXUlNVSlJmYjJSNE83am1xZVdkM3QtblAyazAzQWpjNURVLTh3TWZ4TmpOZ0xNSUhfZ3RtUE84VGJoS1BUN0ZyTlBkRVl2b29sOHZ5UHJxTldmOVlHemFTX3JFbjZB?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 5,
+  "prefiltrados": 1,
   "recogidos": 207,
-  "unicos": 20
+  "unicos": 14
  },
  "telegram_offset": 958387804,
  "version": 1
