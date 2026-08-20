@@ -23001,13 +23001,56 @@
    "title_norm": "jon jones praises aljamain sterling rejecting ufc fight vs low ranked opponent proud you",
    "ts": "2026-08-20T21:02:00+00:00",
    "url": "https://bloodyelbow.com/2026/08/20/jon-jones-praises-aljamain-sterling-for-rejecting-ufc-fight-vs-low-ranked-opponent-proud-of-you"
+  },
+  {
+   "key": "4f0fd723d46ae5cac89e485a9dc7e2a660ebc0b7",
+   "score": 1,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Arman Tsarukyan suggests 'easy fight' for Ilia Topuria after UFC title loss",
+   "title_key": "b05be14b6d8dffc923f4d01a99b5e9e6af000b76",
+   "title_norm": "arman tsarukyan suggests easy fight ilia topuria after ufc title loss",
+   "ts": "2026-08-20T21:47:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRjBYMWNtMmw0MFpZV2UwRUptRE1VSFZnVlFkRks5a0pyb3gxUTlQOUFLUzB3WXJHU2ZralRuVTJOVlhSMEhVREZRY1pzX1Y4Z3FIMDBlaHB5SEQ0M3ZDOENQOUNha09iZnNjV1FBdnh1WFRNZFZUemhqUjZpSnVVY1ZDVkVrTEpxMGZQS2k5UDF6RnBYUTZnUXozWlRYbHdzMEdyRUx0Vm5icDlydmktY0hrN1RxSk02eHNSN3FuSUIwTHRIUzdfUmcxYXJZQ1FTejFEaFNQTURoNjNFN1hnaHBmRTVJa1JJUWZZamc4UEc?oc=5"
+  },
+  {
+   "key": "0e3ba5af6d741c7531e30b50aca2cc5eb959bb90",
+   "score": 3,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "UFC BJJ 10: Tacket vs. Gracie",
+   "title_key": "22f2098e90a56cc721a384e72b3fab55fe5c7f81",
+   "title_norm": "ufc bjj 10 tacket vs gracie",
+   "ts": "2026-08-20T21:47:04+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ETDU5NHJKdVN4TFJsd25fTTViczhxQ2YwUlRTX2JiVWFJQm9pRjQtalE1MldvQ244d2lpWUJRZmItbXpxZUVFeldKS2p1MXNv?oc=5"
+  },
+  {
+   "key": "f99bcefd31a06c4a781ccbd58b06e6b21412286e",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Un Jugador iraquí se retira del Campeonato Mundial de MMA tras negarse a enfrentarse a un rival israelí",
+   "title_key": "3b8ac4272743f821d8b24ff90dcf59ead933c7e9",
+   "title_norm": "jugador iraqui retira campeonato mundial mma tras negarse enfrentarse rival israeli",
+   "ts": "2026-08-20T21:47:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pWE9lYTJyZm9IblkwRWZxWTRzRkRIdjhmMS1ObnlxN2o3bTkwdGJ2LUlQbmU4N1d1TlRySWZ2eTF4ay1CaEJHY0VXOUxPbnM?oc=5"
+  },
+  {
+   "key": "f696b1f815542ec7515d8c1bc391268182a1c8fa",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "UFC BJJ 10's Danielle Kelly turned to jiu-jitsu to combat bullying",
+   "title_key": "28aa10300ef447a1b7471cb02eff10bd74bbb8aa",
+   "title_norm": "ufc bjj 10 danielle kelly turned jiu jitsu combat bullying",
+   "ts": "2026-08-20T21:47:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1l3YnY2WDJGbHJWX1RKS0RQRjhTVEx3SjZ0Z2hwUVYxTTc3cHRJbVNzMG5BNVIzZjZiTE02SkRwZE1DMU1FQWNhbTFZRnFGdnFxZnJHQXhIbWFlN2VZOU55clBCQzh2X1pGWll6V2UtOEhoZUMzRXBCc1pEekRnWg?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "prefiltrados": 1,
+  "descartados": 4,
+  "enviados": 0,
+  "llamadas_llm": 4,
   "recogidos": 180,
   "unicos": 4
  },
