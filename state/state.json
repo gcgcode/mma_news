@@ -22539,15 +22539,69 @@
    "title_norm": "prates only ko loss",
    "ts": "2026-08-20T16:30:47+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vtjy90/prates_only_ko_loss"
+  },
+  {
+   "key": "3774e6bcc41a13ef7d77f63cac73a4ab81b4d9c2",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "BKFC president David Feldman reacts to Mike Perry taking Dillon Danis fight rather than return to BKFC",
+   "title_key": "d9a0801fff88aac246f96ca2024da175408a3774",
+   "title_norm": "bkfc president david feldman reacts mike perry taking dillon danis fight rather than return bkfc",
+   "ts": "2026-08-20T17:05:29+00:00",
+   "url": "https://mmafighting.com/bkfc/505754/bkfc-president-david-feldman-reacts-to-mike-perry-taking-dillon-danis-fight-rather-than-return-to-bkfc"
+  },
+  {
+   "key": "659fc0cc4a72a6f14cd3460e69e265fa53cc1c87",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "All Corner Stoppage TKOs in UFC History",
+   "title_key": "463c0d90985fd671e1a78fb33775b0a447a24847",
+   "title_norm": "all corner stoppage tkos ufc history",
+   "ts": "2026-08-20T17:05:33+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vtow1t/all_corner_stoppage_tkos_in_ufc_history"
+  },
+  {
+   "key": "c47c0c7e0e397a09eca5e68d612ad7a81c4dcd2d",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC ‘cannot legally’ make Usman Nurmagomedov an offer as PFL boss clarifies his free agent status",
+   "title_key": "7a1305b0e7c67704729f73628d27d672fe872718",
+   "title_norm": "ufc cannot legally make usman nurmagomedov offer pfl boss clarifies free agent status",
+   "ts": "2026-08-20T17:05:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/ufc-cannot-legally-make-usman-nurmagomedov-an-offer-as-pfl-boss-clarifies-his-free-agent-status"
+  },
+  {
+   "key": "ef4d2b2649314168f68355d4a2c5c4530ffb3a52",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Jon Jones takes advice from Joe Rogan regarding treatment as he hopes for UFC return",
+   "title_key": "2e8d04bf510e06a0f465c0e3a7f573246dccedd4",
+   "title_norm": "jon jones takes advice joe rogan regarding treatment hopes ufc return",
+   "ts": "2026-08-20T17:05:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/jon-jones-takes-advice-from-joe-rogan-regarding-treatment-as-he-hopes-for-ufc-return"
+  },
+  {
+   "key": "da19909bf64b9d7fe4b6b86099bbcba6e272c0d5",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Islam Makhachev new GOAT? 'Make it make sense,' says Jon Jones",
+   "title_key": "c6339c8c7286d984794452b514218fae7a1f6e0c",
+   "title_norm": "islam makhachev new goat make make sense says jon jones",
+   "ts": "2026-08-20T17:05:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdWs4eEFLc0ZUTVRDdm40ay1MUVB3NlNia05EUnNfSUdQQ2pFaEFrZVlOSUE3aGRKcjl3TE5LV0Q2WlJCMDZyQXdzYlJ1YXY4MmZOM0x3LWx6VEhOcmFKTWU5TG9BYl84MVJlT2toTWFCdk1GeTRjSWVIVF8xN1NkX2t4MTdwVGVnTnhyeS1DYjBhdWlFSmwzV0RsNUEydTlWN2pMNTNWeHlZUTNDelBHTVNyZFM0UncxOTgwUEJteTBzNTY1R1NvSkQzeEFTMUxpWjNMZnFEV1NGSlN1SkpDU2NrbnJmNHNEOTAzLWpxZ1lGZy14dW5ITVp1blM0TUZC?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
-  "recogidos": 205,
-  "unicos": 12
+  "recogidos": 185,
+  "unicos": 10
  },
  "telegram_offset": 958387804,
  "version": 1
