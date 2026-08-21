@@ -25190,15 +25190,70 @@
    "title_norm": "yair rodriguez injury causes ufc noche main event shake up",
    "ts": "2026-08-21T23:20:18+00:00",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXp3TWNIajZlNTAtVG1LbTNBLTByXzR2SzhibVdoUVd0dlNYRHhVd0dsT1ZSTmw3UC1qREdvSUJFR0hzb1dCTjJHdl94aDY1aGp3d0ZNeFRhdDNwUWpKdlY0TjN1aWhfUE5fRHo5UlVSR2VUQlFnUzNOaEFfU3BWMGpocVZ4Y0ZJcENKd3JxZjZBZw?oc=5"
+  },
+  {
+   "key": "e28486016ac1687b000af714f2ef5de25daa1a45",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "The definition of \"underhated\"",
+   "title_key": "9e378a12ef44a90097cf0d886b6865871d0f09e5",
+   "title_norm": "definition underhated",
+   "ts": "2026-08-21T23:44:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vuurtf/the_definition_of_underhated"
+  },
+  {
+   "key": "d2ff083bcecd6b2bf9b9c569f3fb58d48e3c218d",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Heavyweight prospect Anthony Wint competing tomorrow, 11 days after his RD 1 KO on DWCS",
+   "title_key": "5c2003f21f801e20fe524eb764929a196465e614",
+   "title_norm": "heavyweight prospect anthony wint competing tomorrow 11 days after rd ko dwcs",
+   "ts": "2026-08-21T23:44:41+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vuvwc8/heavyweight_prospect_anthony_wint_competing"
+  },
+  {
+   "key": "bb2a2f8a1c6536dca984dafbcb5df1cbc1066257",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] LFA 239: Mecate vs Exposito - Live Discussion Thread",
+   "title_key": "1d7fe26b02b7ad0077f13e35b29750d45b808c7b",
+   "title_norm": "official lfa 239 mecate vs exposito live discussion thread",
+   "ts": "2026-08-21T23:44:42+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vuvimm/official_lfa_239_mecate_vs_exposito_live"
+  },
+  {
+   "key": "a94bbb6b93c300229c7918c332aec53e4f7a70da",
+   "score": 4,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "Dana White's Contender Series: Temporada 10, Semana 9 Cobertura de la pelea en vivo - ESPN (AR)",
+   "title_key": "91dfdd8668c255c0dac08ff492afc6a8251929a2",
+   "title_norm": "dana white contender series temporada 10 semana cobertura pelea vivo espn ar",
+   "ts": "2026-08-21T23:45:06+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lM2JiNThSNlJ4MkZZRnlUbkdBNklheWRYaVBBWm95U3VubzRIWWhBa2NHSThSd3ByT013WTJSdUUyME1qUlZuak0zd3dSY3FscllMblgtN1FMVS00RkcwdUNR?oc=5"
+  },
+  {
+   "key": "3ff4aaec7a1f8d02caa00bbf98360a63aa353530",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Brandon Moreno vuelve a la acción de la UFC, se medirá a Joseph Morales en Arizona",
+   "title_key": "b6609697f393ed436636a1558b7ca0807107e89e",
+   "title_norm": "brandon moreno vuelve accion ufc medira joseph morales arizona",
+   "ts": "2026-08-21T23:45:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDVJTFE5NXdVMlByUG94dWcxZ3pKLWx2UDlNZGpQcThOajBXSHJmSTQyb3gyNHF1Tkgxa2NFWFpPbGhFZDZ3MVVGbERiSUhWUTA0R2Fpa3FYSVNjTHc5RFowTTZNQzEzaXV0V3FxeENwRFgzdUJDZDdhV2ExODVpcWFmeF9ESHhTMG9icWhyckRGMlV0cUJMX2pLZHZUR0c3WUFGR21uVm9IWlp2RGdKaHZYNGp3b2xoRzNIWlRlQ0hpai1YQjQ1eQ?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 3,
-  "recogidos": 146,
-  "unicos": 8
+  "enviados": 0,
+  "llamadas_llm": 4,
+  "prefiltrados": 1,
+  "recogidos": 203,
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
