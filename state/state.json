@@ -23947,14 +23947,81 @@
    "title_norm": "pg dance performance video ufc heavyweight champion lohgsefrtq",
    "ts": "2026-08-21T11:02:58+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSzA4Z2NqOWVuT3EyN2FqUFUzSWhXZXE4Q3dEUHBuWV9LUkRvVml5UnRRSVJfVmxkS0R6ek9NVWhMVlFjU21UVlExdzF1eXd6M2g1bWpvV19tVTY5eVRFYQ?oc=5"
+  },
+  {
+   "key": "155df639926fab2545eab5436a56b6b634d2700e",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Pereira vs Anaklaev was the most satisfying rematch ever.",
+   "title_key": "570fd11c49b70e72eac40073f1dc2105ee1edb60",
+   "title_norm": "pereira vs anaklaev most satisfying rematch ever",
+   "ts": "2026-08-21T11:46:38+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vuco16/pereira_vs_anaklaev_was_the_most_satisfying"
+  },
+  {
+   "key": "be42ec9f2412c96796cd33006cad335748c87898",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "this mf thinks we forgot 💀",
+   "title_key": "acec34763b8250a0e571605a7fecd421740e145b",
+   "title_norm": "this mf thinks we forgot",
+   "ts": "2026-08-21T11:46:38+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vudqjb/this_mf_thinks_we_forgot"
+  },
+  {
+   "key": "1dc0b5f8e098ac2aba76dc191b5dc889ec1bce1b",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] ONE Friday Fights 167 | Muay Thai, Kickboxing, & MMA Event - Live Discussion Thread",
+   "title_key": "754e4c25a5524c3bbf2c927efba5a89827cd200e",
+   "title_norm": "official one friday fights 167 muay thai kickboxing mma event live discussion thread",
+   "ts": "2026-08-21T11:46:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vud7em/official_one_friday_fights_167_muay_thai"
+  },
+  {
+   "key": "8d5cd8abb1502e4c9e8be256836ddcd37a5a0550",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I had the Biggest Smile on My Face while Watching this Islam and Volkanovski Interview",
+   "title_key": "32577eb9f850e2bbe3b664fd2d379cfdaaec88cd",
+   "title_norm": "had biggest smile my face while watching this islam volkanovski interview",
+   "ts": "2026-08-21T11:46:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vubu0c/i_had_the_biggest_smile_on_my_face_while_watching"
+  },
+  {
+   "key": "c2ddf2914dbf4853a8ba5430405a5d4aab9a78a4",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Lucía Yépez: “Después de Los Ángeles 2028 iré a UFC”",
+   "title_key": "fe36937a776a8b0987057415e2bdcb492662c5cd",
+   "title_norm": "lucia yepez despues angeles 2028 ire ufc",
+   "ts": "2026-08-21T11:46:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGdGTTNoSmpES0VtYzBlUm85bmRKelZHQm9oT2psRzlJY2MtNjgtXzRpcUhEQmVvUng3SkdjX2c5U05uVEV5VXBVamtYdUY1cFpSMUNEczhoM0xFemhWWlIwR0w2blAyVVJqVUFUejVVM0E2cjVnN3ZseFBBMlAxcnVJbFh5WUlW?oc=5"
+  },
+  {
+   "key": "3ad6c980d8415ae3493a5e6a105dd86c064033fc",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Makhachev Vs Machado Garry Weigh-Ins | UFC 330 Braves Vs Dodgers (0AAfzguosS)",
+   "title_key": "6f7a2cabaf07e818dddb0e485a1b225c2b793c07",
+   "title_norm": "makhachev vs machado garry weigh ins ufc 330 braves vs dodgers 0aafzguoss",
+   "ts": "2026-08-21T11:46:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85LS0zQTdOSGZNSjdsWDMzS3pjajVCeDZxV2lWTEdVRlE3YTB0ckxPWGhvZGdTMmNRZWoxNmhkczJmeEFLRk5kV3gyWDgwVmdhX3BTblJwaHdnaTA?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
-  "llamadas_llm": 5,
-  "recogidos": 142,
-  "unicos": 5
+  "descartados": 4,
+  "enviados": 0,
+  "llamadas_llm": 4,
+  "prefiltrados": 2,
+  "recogidos": 188,
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
