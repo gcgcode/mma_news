@@ -24112,15 +24112,81 @@
    "title_norm": "arman tsarukyan has personal reason wanting finish mauricio ruffy quickly ufc 331",
    "ts": "2026-08-21T13:30:52+00:00",
    "url": "https://bloodyelbow.com/2026/08/21/arman-tsarukyan-has-a-personal-reason-for-wanting-to-finish-mauricio-ruffy-quickly-at-ufc-331"
+  },
+  {
+   "key": "ea01a703b46e2edc5d59481c3ca2d8d4cd3039f5",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Hope we will get a rematch in future.",
+   "title_key": "9aee35d5949d31558b1aaefeaf0143f7878f4321",
+   "title_norm": "hope we will get rematch future",
+   "ts": "2026-08-21T14:17:34+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vudnfu/hope_we_will_get_a_rematch_in_future"
+  },
+  {
+   "key": "9d8ec43cfc9af1e343167ce4e2dd316afb873811",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Missed Fists &#124; ‘What the hell was this ref thinking?’: Pros react to referee freezing during brutal knockout beatdown",
+   "title_key": "b6c454906ca9ffb467850b1c0aa61046443a50f3",
+   "title_norm": "missed fists 124 what hell this ref thinking pros react referee freezing during brutal knockout beatdown",
+   "ts": "2026-08-21T14:17:38+00:00",
+   "url": "https://mmafighting.com/videos/505915/missed-fists-what-the-hell-was-this-ref-thinking-pros-react-to-referee-freezing-during-brutal-knockout-beatdown"
+  },
+  {
+   "key": "c0ca8ad0a8a5e361282153ee5b5e9ca7f8f92911",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC vets Andre Fili, Kai Kamaka III set to throw down",
+   "title_key": "ccf0bd6398cbfce7433314016ea48256c4d04623",
+   "title_norm": "ufc vets andre fili kai kamaka iii set throw down",
+   "ts": "2026-08-21T14:17:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTB6ZXBqcU5yTDdPMEFkX2JSSFNfanBXREhfd19Fak9DQWt6amtoWVRPSDZXdXl0VG1fMEJ0SHZxYVBHbXZORlZKLW02WC11SFYxaWtISWJaeHN2QXBfUEF3ZHZtSktkTzJOTUEwMmpXWXhmLWo1UHBIcnJiekx5S3ZyWklEeXZrNFBiSjZYdjRjZkNrTUVuWWpQNnVMS2pfZ0hkYUZJODRPSnRBVmhLSl9YbGdKNEdPdWwxS1FR?oc=5"
+  },
+  {
+   "key": "13f5e5206b13442508811dea75fbe3587c18527a",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Tai Tuivasa trains with heavyweight Francis Ngannou KO’d in 1 round after changing teams for UFC 331",
+   "title_key": "6ca6a4b26d5bc8e14e2f1b3f67d1e94e026a8fca",
+   "title_norm": "tai tuivasa trains heavyweight francis ngannou ko round after changing teams ufc 331",
+   "ts": "2026-08-21T14:17:47+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/tai-tuivasa-trains-with-heavyweight-francis-ngannou-kod-in-1-round-after-changing-teams-for-ufc-331"
+  },
+  {
+   "key": "35cb446838676bb53e4b27ec20501332355f04cd",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Just telling you right now, if Volk beats Movsar, he’s the second greatest fighter of all time.",
+   "title_key": "50381e6beba833fd178598512a1ff4daf5dd7120",
+   "title_norm": "just telling you right now if volk beats movsar second greatest fighter all time",
+   "ts": "2026-08-21T14:17:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vug6k7/just_telling_you_right_now_if_volk_beats_movsar"
+  },
+  {
+   "key": "52ac87e004053d24f96eb968e4dd2db3e8098198",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC Fight Night: Hernandez vs. Rodrigues Cobertura de la pelea en vivo",
+   "title_key": "7b0b1089412c0fb1f367e960633269bb78332e52",
+   "title_norm": "ufc fight night hernandez vs rodrigues cobertura pelea vivo",
+   "ts": "2026-08-21T14:17:52+00:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhV2JkTk90Zkl0ekpCLW1ZVDBicjkyQ0FrQmpwbFVsSFR3c0RIdzZOUGdxM1NtSy1VMVJzTDdxSGYwU0FhclYzaUM2UFIya3pLdE5hbE13V0M5STV2UThhLXZfZE5LNzJjanFhX0dWcHE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 4,
   "enviados": 1,
-  "llamadas_llm": 2,
-  "prefiltrados": 2,
-  "recogidos": 162,
-  "unicos": 4
+  "llamadas_llm": 5,
+  "prefiltrados": 1,
+  "recogidos": 163,
+  "unicos": 7
  },
  "telegram_offset": 958387804,
  "version": 1
