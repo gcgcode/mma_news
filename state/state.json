@@ -23716,14 +23716,69 @@
    "title_norm": "usman nurmagomedov potential pfl exit could create void no other fighter can easily fill",
    "ts": "2026-08-21T07:28:58+00:00",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUDNDTmRMTkdBNldZTFlCcXRRNHQ5akphbUZPUS1UNngycENiYlNuLVE3ZWFfVnhtTFVKaE9EQmRxY2lYWlM0S3hKQlF1X0VBUXpTbGNMQmRoZkprRVBZOVFQN2QzUU1mTHpfOVBVQVZuVGZuMDRnaFJvbVJqZjFUT1ZtTnVJMlpFaDVGSVBacnB0enlvMzdSR1ZpMGY5dEpqWDJ0Sm9vanJiTzA2NWlES1p5eVRsTlMtTG82NG43ZGdodGQ4c0ZuTXhvdWhLVlkwNzBuQ3R5ZFl1dFQ1?oc=5"
+  },
+  {
+   "key": "2c5b34e311fd06c887904bcacdbfbca7b739338d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Fighters with the worst finish rate ( with at least 5 wins)",
+   "title_key": "d02b12bd8220cc908a3258a8c10698a7b04ce0e3",
+   "title_norm": "fighters worst finish rate least wins",
+   "ts": "2026-08-21T08:18:53+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vu6a8f/fighters_with_the_worst_finish_rate_with_at_least"
+  },
+  {
+   "key": "7bb164875326f00b09cd5c05862d1e31b2cd4b5b",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "How do you think Liu Ce will do in the UFC?",
+   "title_key": "4d6806bbd27257186b3b1e7b853d0e14aa736fd0",
+   "title_norm": "how do you think liu ce will do ufc",
+   "ts": "2026-08-21T08:18:56+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vu8ym7/how_do_you_think_liu_ce_will_do_in_the_ufc"
+  },
+  {
+   "key": "9150705c0403e33e83fb9913ffe7babfcd119c16",
+   "score": 7,
+   "sent": true,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC Fight Night: Nurmagomedov vs. Song Cobertura de la pelea en vivo",
+   "title_key": "b39c38f1652623d159fcc3bf30416e9828b8dc98",
+   "title_norm": "ufc fight night nurmagomedov vs song cobertura pelea vivo",
+   "ts": "2026-08-21T08:19:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtaEo3eDM0NS1HVThaQ1pCX1BhYmJiRXVjRXg4cVprZUNWM0JCQTBzVFdGeTdIUlVuWDZkZHdOUlVEX3hlTWFOYzU4U3plV0FCUUI4Sk1hdThvRzB2SU9UZk1ITTQ?oc=5"
+  },
+  {
+   "key": "c8358a4d8449117aaa4284752e7d7690783e6936",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Ceremonial Weigh-Ins | UFC Sacramento",
+   "title_key": "01e909f49bc585bd3636e70fc10cbd2dae96df57",
+   "title_norm": "ceremonial weigh ins ufc sacramento",
+   "ts": "2026-08-21T08:19:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oMWliTnc5VkQ0eHptTFVFZHdzSTdOVHAyaDMySG5YX21neUVfMzhSclllXy0teXozRlc1dWVxc1haMDY0dnc?oc=5"
+  },
+  {
+   "key": "86b5e60c8743c480cdf0ae3160551e7e8c9d3a9e",
+   "score": 8,
+   "sent": true,
+   "source": "El Rocktagono",
+   "title": "VIDEO I Revive todo lo que dejó el UFC Vegas 120, con la gran victoria de Quillan Salkilld ante Mateusz Gamrot",
+   "title_key": "85a503d65be0c7ec6a3cfb58059caf42817a3eae",
+   "title_norm": "video revive todo lo dejo ufc vegas 120 gran victoria quillan salkilld ante mateusz gamrot",
+   "ts": "2026-08-21T08:19:13+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR05fTU9uZ3lhZV9oRlFvUzRsazMyV3BWWE4zelc5eXVtc2gwWklrOEY2bUNBWWR3M1BIVGg3Rk5pRGJHeFUyWkoyNUxHQ2NwbjVhZ2tFcnczZUZ2T0J6a0pXSk9jNVc4RkxaTS05b2l2aWQ4RmVBWnBjUmxsUWozbGtTaVNoeGYwVnJYQzh4dGhZSmYzUEF3dTFJX2dkSTdCOGV6SDdLLWoxX1pIR1diT2VYWE1WN1ZoOHd4Q2hFU1p1U2xWNHlqSHRZOWIxVmFxcm5vU09n?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 2,
   "llamadas_llm": 4,
   "prefiltrados": 1,
-  "recogidos": 161,
+  "recogidos": 188,
   "unicos": 5
  },
  "telegram_offset": 958387804,
