@@ -24255,14 +24255,35 @@
    "title_norm": "paddy pimblett wants ufc create new division that freak athlete nfl stars would dominate",
    "ts": "2026-08-21T15:32:35+00:00",
    "url": "https://bloodyelbow.com/2026/08/21/paddy-pimblett-wants-ufc-to-create-a-new-division-that-freak-athlete-nfl-stars-would-dominate"
+  },
+  {
+   "key": "206a7d9c1d8d53164458f64e7e82cb1b2b3bf5b1",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Carlos Prates issues warning to Michael Morales: ‘I will knock you out really fast’ after winning UFC title",
+   "title_key": "1ba488ca6ef80918f7319f953aed9f97b6e27cca",
+   "title_norm": "carlos prates issues warning michael morales will knock you out really fast after winning ufc title",
+   "ts": "2026-08-21T16:03:45+00:00",
+   "url": "https://mmafighting.com/ufc/505770/carlos-prates-issues-warning-to-michael-morales-i-will-knock-you-out-really-fast-after-winning-ufc-title"
+  },
+  {
+   "key": "072bce21a17bc70f7b8d78eb47eef0778880e5b9",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Cris Cyborg’s opponent still in disbelief about UFC decision to cut her: ‘It’s kind of unbelievable’",
+   "title_key": "b41f04091d9d1a4b089a7e7a6ed255562cb0e373",
+   "title_norm": "cris cyborg opponent still disbelief about ufc decision cut kind unbelievable",
+   "ts": "2026-08-21T16:03:46+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/cris-cyborgs-opponent-still-in-disbelief-about-ufc-decision-to-cut-her-its-kind-of-unbelievable"
   }
  ],
  "stats": {
   "descartados": 1,
-  "enviados": 0,
-  "llamadas_llm": 1,
-  "prefiltrados": 1,
-  "recogidos": 143,
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "recogidos": 163,
   "unicos": 2
  },
  "telegram_offset": 958387804,
