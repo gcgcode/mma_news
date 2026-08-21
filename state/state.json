@@ -24013,15 +24013,69 @@
    "title_norm": "makhachev vs machado garry weigh ins ufc 330 braves vs dodgers 0aafzguoss",
    "ts": "2026-08-21T11:46:44+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85LS0zQTdOSGZNSjdsWDMzS3pjajVCeDZxV2lWTEdVRlE3YTB0ckxPWGhvZGdTMmNRZWoxNmhkczJmeEFLRk5kV3gyWDgwVmdhX3BTblJwaHdnaTA?oc=5"
+  },
+  {
+   "key": "59628110f9eafc5de81599de1d02a1f47abaca6c",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "UFC 322 reportedly adds title fight following main event speculation for Salt Lake City",
+   "title_key": "5638f04927684f941d07fe9f8f1b85be7fc88b91",
+   "title_norm": "ufc 322 reportedly adds title fight following main event speculation salt lake city",
+   "ts": "2026-08-21T12:37:51+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/ufc-322-reportedly-adds-title-fight-following-main-event-speculation-for-salt-lake-city"
+  },
+  {
+   "key": "63f2d4e0aefdf2fa2f7f9332518dabd560e2493a",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "🚨Breaking🚨 Jack della madellena VS Leon Edwards set to headline UFC Mogadishu september 23",
+   "title_key": "ba283be1b5ec864d86a6a16fa17be101bae17798",
+   "title_norm": "breaking jack della madellena vs leon edwards set headline ufc mogadishu september 23",
+   "ts": "2026-08-21T12:38:06+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vue7al/breaking_jack_della_madellena_vs_leon_edwards_set"
+  },
+  {
+   "key": "5a2ae623ae7a2ec0f28fab40e833006b9b82a699",
+   "score": 5,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Paddy Pimblett Reveals the One Reason He Has Zero Respect for Arman Tsarukyan",
+   "title_key": "be20eccd71482c1635a2374b75eae4ad90add7b4",
+   "title_norm": "paddy pimblett reveals one reason has zero respect arman tsarukyan",
+   "ts": "2026-08-21T12:38:15+00:00",
+   "url": "https://lowkickmma.com/paddy-pimblett-has-0-respect-for-arman-tsarukyan"
+  },
+  {
+   "key": "959791edab8f80d58d0f34c4f835c564bb689c53",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Sacramento: Hernandez vs. Rodrigues Weigh-In Results",
+   "title_key": "d5be866d6eb971debb846033ca6a59591f9df588",
+   "title_norm": "ufc sacramento hernandez vs rodrigues weigh results",
+   "ts": "2026-08-21T12:38:16+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcm5Yc0hfdUR5V0VwdDJKQmN0TmZUVDB6TkdwRmlwSGtNT1U1V1YzSGpURm8zdHJ4Q1JmUTZPZWhXTTRNZGxRZWFOUDFINmxLZUg3ZlR5QXRxcU15Uk56cS1kSElFeU1sMHNtelNkZUJ3R1VwZlc3Vk13NTVWdTRla2RPZng4d01ycWdiU0lwdnhmSFhRUFl3?oc=5"
+  },
+  {
+   "key": "dd42e1cd975ca8863b2d73bb77ae11d76ba31301",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "‘Pantera’, baja en Noche UFC",
+   "title_key": "83ec2d9c4e1d0426947d95d5ec7d551362ddc236",
+   "title_norm": "pantera baja noche ufc",
+   "ts": "2026-08-21T12:38:18+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczd2U1pxUEpCeFlodlF4WGp2THh0WU41VGxNOHNvb0p2MXlNazVRdmxYZnVZWXdlZkRkdDM4M2xldUk5eWRRMFJScjdNME5IeENsbGhvM21JNGVNdTlpNDI2Z3QzVVV6THZJYVoxeVF5ek5IYWwyYVo4alVldkJyaFZhONIBiAFBVV95cUxPSVBBazZ6VUJxY09HWFRGdXh5VG00d0dSN0ttNE1kdklIX0Q5NmplZHZoR2ZqWVJtMnRLVENFaEZsUUp6MDdKYzFUdDF5b191WGljVFNfZFgtZG5peDl5dDI1ZllybGhnSDItbEdRaV9DOTdwMU5TdS1iOUg1aG45XzVlRG5zSG12?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 2,
+  "descartados": 3,
+  "enviados": 2,
+  "llamadas_llm": 5,
   "recogidos": 188,
-  "unicos": 6
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
