@@ -24618,15 +24618,81 @@
    "title_norm": "ufc 330 medical suspensions missing teeth among root causes indefinite suspensions",
    "ts": "2026-08-21T18:02:01+00:00",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS2JocjEyd0EtenYyMGNSS25pQWZIaXJUQm9MTjhhTXdaRjZiTVpvUDRLMUR4dXVQNmZjWDJKcEYxbmFZX091djZ5czZVZlFCRm9xNkRHM28xOXBlaHNMSlVubzlkdUdnenFVZUt0VlBmU2JESnZmczNEd2JsVVVaTVRINkFSaW8zenlXQ3hPWHpLVlA5WTRwcU9wa0ZFVW1heG5meXZuZjl3a01CNnQ2XzRGYV8xbGlwN0trclpOY1g4Q052VlhHY1Z3OXNWTmxkN3c?oc=5"
+  },
+  {
+   "key": "495acf3c49d773f53512b70e317f4f8db08f60b5",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Actores",
+   "title_key": "adae1ad9340c27c2cfb33bf806173fff62fc7588",
+   "title_norm": "actores",
+   "ts": "2026-08-21T19:00:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MM0hWcVEwYzR4NkNvakEtQktMUTRaMERRdnJQVllad1k1TjdtUmtfVWJ1MTNfTENPVmFtLTBRcGx3a1J3QmZNSWtDVWg4dmRMV0dhUHNPSlBpUQ?oc=5"
+  },
+  {
+   "key": "6e96906dd513811e42f4bde9105aaade820fd0f4",
+   "score": 8,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Ketlen Vieira weighed in at 152.2 lbs for her fight vs Cris Cyborg at PFL Tampa. That is a weight miss of 7.2 lbs in her first fight since having been released ",
+   "title_key": "5abdf836c8572455098856252cbf2e32831257a3",
+   "title_norm": "ketlen vieira weighed 152 lbs fight vs cris cyborg pfl tampa that weight miss lbs first fight since having been released ufc",
+   "ts": "2026-08-21T19:00:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vuo5t6/ketlen_vieira_weighed_in_at_1522_lbs_for_her"
+  },
+  {
+   "key": "376a1254a99e1757803c7a9a0c7171db4aef61fe",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Ketlen Vieira misses weight by 7 pounds for Cris Cyborg title fight at PFL Tampa",
+   "title_key": "798a46f1e3fddd933e9bcaeff3a4a66de9a22a60",
+   "title_norm": "ketlen vieira misses weight pounds cris cyborg title fight pfl tampa",
+   "ts": "2026-08-21T19:00:42+00:00",
+   "url": "https://mmafighting.com/pfl/506228/ketlen-vieira-misses-weight-by-7-pounds-for-cris-cyborg-title-fight-at-pfl-tampa"
+  },
+  {
+   "key": "207f6ecc5e8f089387e8df3670395cc8ac39a056",
+   "score": 8,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Cris Cyborg’s final PFL fight no longer for a belt as ex-UFC opponent weighs in way over 145lb limit",
+   "title_key": "0ca06f9e3ab2c71d12be100e8e599e027500b378",
+   "title_norm": "cris cyborg final pfl fight no longer belt ex ufc opponent weighs way over 145lb limit",
+   "ts": "2026-08-21T19:00:44+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/cris-cyborgs-final-pfl-fight-no-longer-for-a-belt-as-ex-ufc-opponent-weighs-in-way-over-145lb-limit"
+  },
+  {
+   "key": "0c88f2b5feb2f60de238851e69d0145394c4de2c",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ex-NFL player Anthony Wint will have to overcome 35-pound weight difference in short notice UFC debut",
+   "title_key": "83f2cb7b06faebd18728f2da51a80c7a3df2aa5f",
+   "title_norm": "ex nfl player anthony wint will have overcome 35 pound weight difference short notice ufc debut",
+   "ts": "2026-08-21T19:00:45+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/ex-nfl-player-anthony-wint-will-have-to-overcome-35-pound-weight-difference-in-short-notice-ufc-debut"
+  },
+  {
+   "key": "479f9a4369205127b8e3f13b37b481f527a01dec",
+   "score": 8,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "PFL Tampa weigh-in results: Cris Cyborg's opponent misses weight by 7 pounds",
+   "title_key": "1d6ae97fc937f25b4ee49f595e70e349b9a0a220",
+   "title_norm": "pfl tampa weigh results cris cyborg opponent misses weight pounds",
+   "ts": "2026-08-21T19:01:04+00:00",
+   "url": "https://sherdog.com/news/news/PFL-Tampa-weighin-results-Cris-Cyborgs-opponent-misses-weight-by-7-pounds-202473"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 1,
+  "enviados": 4,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 202,
-  "unicos": 17
+  "prefiltrados": 1,
+  "recogidos": 183,
+  "unicos": 15
  },
  "telegram_offset": 958387804,
  "version": 1
