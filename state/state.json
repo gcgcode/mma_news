@@ -23529,14 +23529,25 @@
    "title_norm": "ufc legend chuck liddell accuses ex wife abducting daughter amid custody battle",
    "ts": "2026-08-21T03:35:18+00:00",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1N0M3Y0Z3Q1SjVOUDVfNlk2bWN2VHRwZ0xtdTdkRTktYl9DeGlqTGhPb0gxSjZtN2VzckFsRTZPblBIWVpjUXVZRzJ4QUxXYnlieXAyQ2tfczZ0eVJYTVpvZzJvVEhXcnQ2MUFBV1pxRENCcEYwSVdvSmdFanlqZV9SdWxKc3dyY1VFS2Rqdw?oc=5"
+  },
+  {
+   "key": "0ec2365a010d0ceaa6b55414a5276b71a878f495",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Paddy Pimblett calls one potential Islam Makhachev challenger a ‘future champion’",
+   "title_key": "c91de4d6627cf19fb3c195350a4f52fd692be43c",
+   "title_norm": "paddy pimblett calls one potential islam makhachev challenger future champion",
+   "ts": "2026-08-21T04:27:42+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/paddy-pimblett-calls-one-potential-islam-makhachev-challenger-a-future-champion"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "recogidos": 186,
-  "unicos": 7
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "recogidos": 77,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
