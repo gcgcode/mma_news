@@ -25058,12 +25058,45 @@
    "title_norm": "indycar drivers amazed downtown dc course stuff that you dream",
    "ts": "2026-08-21T21:44:46+00:00",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVVkUFE5VDZzZVdlcFZmcXNzQnZ0S2FYQjBUVTlqUEFMU3BsMkRlRm1BMDk0MVhJeS10cG1zRk5MTDdUbDVDcFRESUVyMG5ack5LM09FN09KZlUtOXdRX1p3LUMwQnpqalJLNDE3MUt5dFY2MThTZjdzRjZOVWhSOUptb0JXN0JkY3NmRU01MWhaS1FuWXRaSEhUNjJyQ0dhUmpkYk8xZExjTGl5NUlIWTQ1aw?oc=5"
+  },
+  {
+   "key": "dbc282cee277eca2a3606ac61c22a79fdff18a59",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Din Thomas did Gillian Robertson a favor by turning her into a ‘legit star’ argues former UFC fighter",
+   "title_key": "aafe40ac34bd0653e454be104205840b183462a7",
+   "title_norm": "din thomas did gillian robertson favor turning into legit star argues former ufc fighter",
+   "ts": "2026-08-21T22:19:47+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/din-thomas-did-gillian-robertson-a-favor-by-turning-her-into-a-legit-star-argues-former-ufc-fighter"
+  },
+  {
+   "key": "8b0c5bde703e9f69fe514f36578fcb931043fac8",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Genuinely one of the biggest downfalls of the last few years.",
+   "title_key": "b78f7528cce232b8f15860a259f4f58e45471af3",
+   "title_norm": "genuinely one biggest downfalls last few years",
+   "ts": "2026-08-21T22:19:50+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vutpwa/genuinely_one_of_the_biggest_downfalls_of_the"
+  },
+  {
+   "key": "d91950a57e71c477ad162d341ee6641e3b58b208",
+   "score": 5,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Din Thomas To Reverse ‘Corner Retirement’ Just Days After Gillian Robertson Controversy At UFC 330",
+   "title_key": "16d786868dd55a1cbe483852fd0413bb67e94a5d",
+   "title_norm": "din thomas reverse corner retirement just days after gillian robertson controversy ufc 330",
+   "ts": "2026-08-21T22:19:51+00:00",
+   "url": "https://lowkickmma.com/din-thomas-retirement-u-turn-sean-brady"
   }
  ],
  "stats": {
-  "descartados": 0,
+  "descartados": 3,
   "enviados": 0,
-  "prefiltrados": 3,
+  "llamadas_llm": 3,
   "recogidos": 203,
   "unicos": 3
  },
