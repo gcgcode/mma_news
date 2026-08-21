@@ -25091,14 +25091,25 @@
    "title_norm": "din thomas reverse corner retirement just days after gillian robertson controversy ufc 330",
    "ts": "2026-08-21T22:19:51+00:00",
    "url": "https://lowkickmma.com/din-thomas-retirement-u-turn-sean-brady"
+  },
+  {
+   "key": "bc45832dfe16d5cf093712173322da045d5d1979",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Morales and his Wrestling",
+   "title_key": "1876e38cc3e86bb66cc2a53a96b7a0867570c7e2",
+   "title_norm": "morales wrestling",
+   "ts": "2026-08-21T22:46:52+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vuu3x0/morales_and_his_wrestling"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 203,
-  "unicos": 3
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
