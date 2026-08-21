@@ -23474,15 +23474,69 @@
    "title_norm": "ex nfl player who scared dana white into ufc debut isn chasing gable steveson or josh hokit bouts",
    "ts": "2026-08-21T02:39:07+00:00",
    "url": "https://bloodyelbow.com/2026/08/20/ex-nfl-player-who-scared-dana-white-into-ufc-debut-isnt-chasing-gable-steveson-or-josh-hokit-bouts"
+  },
+  {
+   "key": "a35766832d5f16128f1519e94d70563bbd00f8b9",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Watch UFC Sacramento headliner Anthony Hernandez’s 100 mg edibles dose kick in mid-interview",
+   "title_key": "201b7bd2018be3718b245492d074a6770e25a910",
+   "title_norm": "watch ufc sacramento headliner anthony hernandez 100 mg edibles dose kick mid interview",
+   "ts": "2026-08-21T03:35:07+00:00",
+   "url": "https://bloodyelbow.com/2026/08/20/watch-ufc-sacramento-headliner-anthony-hernandezs-100-mg-edibles-dose-kick-in-mid-interview"
+  },
+  {
+   "key": "61ce7118f3b0984c62f9843bb2ae176063dbbd1c",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What is the greatest humble in UFC history",
+   "title_key": "2ab64df8c7bddb33f19508cc0ccf2ca9cfe26982",
+   "title_norm": "what greatest humble ufc history",
+   "ts": "2026-08-21T03:35:08+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vu0kgp/what_is_the_greatest_humble_in_ufc_history"
+  },
+  {
+   "key": "fc7116a42a4ff4ed7035a0cc52412b5ef8f26532",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC BJJ 10: Tackett vs Gracie Results",
+   "title_key": "f02c97df83655bda39f30b5b5a539d9c99a4478f",
+   "title_norm": "ufc bjj 10 tackett vs gracie results",
+   "ts": "2026-08-21T03:35:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucnRzQUpRMm1MaXZoQnZQZXZQRW5vTHhmbEZGeGYzSjVRQ3V5TnlJXzhxVzIwZXRpaEpVdlRaYTFvajJxRl85R3pNX0lPWW5UNkt4QjZwN1F3NGw3clFReWd4b0ZWSVVJd21ZbjJB?oc=5"
+  },
+  {
+   "key": "96833852675d6a06dd32e955bdf68bf3aa5769a0",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Henry Cejudo llevará su experiencia olímpica y de UFC al boxeo de influencers",
+   "title_key": "d96755c09deec4629dc0a2e5e57f75e894633379",
+   "title_norm": "henry cejudo llevara experiencia olimpica ufc boxeo influencers",
+   "ts": "2026-08-21T03:35:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX09fWk5pN2NiUmF2dGFkWW9iekhzTlBSdkpsTnltZ3RmS041Rm80RlMwcUtHdXdVZmczTDBadnY0aGs0cVBFeTVrZzJTOGg5SjdQbnF3QWN5ZVAwa0RfT196cEcxYzdoRGZKdjJ6RWxaTzhhTmE1elJVZVlpYkNwQmVjUWJGelhoNVVhNzhmMGZVVG5XNmNidXBielpsMTM4?oc=5"
+  },
+  {
+   "key": "22aaf9ce373c7de78a011a6386ee9e8bc3d70c4a",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC legend Chuck Liddell accuses ex-wife of abducting daughter amid custody battle",
+   "title_key": "1c0444a435c7646e61a93bf9b4866759b26535e2",
+   "title_norm": "ufc legend chuck liddell accuses ex wife abducting daughter amid custody battle",
+   "ts": "2026-08-21T03:35:18+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1N0M3Y0Z3Q1SjVOUDVfNlk2bWN2VHRwZ0xtdTdkRTktYl9DeGlqTGhPb0gxSjZtN2VzckFsRTZPblBIWVpjUXVZRzJ4QUxXYnlieXAyQ2tfczZ0eVJYTVpvZzJvVEhXcnQ2MUFBV1pxRENCcEYwSVdvSmdFanlqZV9SdWxKc3dyY1VFS2Rqdw?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 6,
   "recogidos": 186,
-  "unicos": 15
+  "unicos": 7
  },
  "telegram_offset": 958387804,
  "version": 1
