@@ -24233,15 +24233,37 @@
    "title_norm": "tj dillashaw vs cody garbrandt full fight ufc classics robbie williams ssuq8yw4un",
    "ts": "2026-08-21T14:57:59+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VVjR5VVNXZ2RwWU8tbzVhQ3g1aXNjeXhyRHpFRTV5eDgwcVVpWEpyc3RGWnNnX0gxdV8tdllLejRuWlAzdTZZcW9oSDEzSGd3YnM5WTA3Ukd6Ulk?oc=5"
+  },
+  {
+   "key": "ea3c79eaeed34aa2b130b47a976c7ca84a5c4e75",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Los enfrentamientos más destacados de la Semana 2 de la pretemporada de la NFL",
+   "title_key": "6d524258ac68b68d0061cf0246557cf0705b8ea5",
+   "title_norm": "enfrentamientos mas destacados semana pretemporada nfl",
+   "ts": "2026-08-21T15:32:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmpJd3V4WlMtZ1NDbW9rbS1xN01rNFZHRnVib3JIMDBsaFN5NV91SVZMOE9sSVNkM1k3SkhfNWRTNkhvR3YzQndaOUkwelhTaVg1Zk9pbFlqMEM5SUxveTFFMUZiQUNwaDJ0LWxGT3BKODR2YWZMRmUyMjgzbzBDVXlDNGVFSkNNNC1UelZacmtra2x1aVdvWWl4eldvNUpRSUFzZ1hkdy1aVExucWZFU0pWUHpua0RZVGZqMEk5TTZ6VnVz0gHEAUFVX3lxTE9makl3dXhaUy1nU0Ntb2ttLXE3TWs0VkdGdWJvckgwMGxoU3k1X3VJVkw4T2xJU2QzWTdKSF81ZFM2SG9HdjNCd1o5STB6WFNpWDVmT2lsWWowQzlJTG95MUUxRmJBQ3BoMnQtbEZPcEo4NHZhZkxGZTIyODNvMENVeUM0ZUVKQ000LVR6Vlpya2trbHVpV29ZaXh6V281SlFJQXNnWGR3LVpUTG5xZkVTSlZQem5rRFlUZmowSTlNNnpWdXM?oc=5"
+  },
+  {
+   "key": "3050cd46a855933814a0342cd2bbedff4c8e28db",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Paddy Pimblett wants UFC to create a new division that ‘freak athlete’ NFL stars would dominate",
+   "title_key": "384ee83bf41c84ea7ab8fcadaa735574e93d97a1",
+   "title_norm": "paddy pimblett wants ufc create new division that freak athlete nfl stars would dominate",
+   "ts": "2026-08-21T15:32:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/paddy-pimblett-wants-ufc-to-create-a-new-division-that-freak-athlete-nfl-stars-would-dominate"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 1,
-  "llamadas_llm": 4,
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
   "prefiltrados": 1,
-  "recogidos": 163,
-  "unicos": 5
+  "recogidos": 143,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
