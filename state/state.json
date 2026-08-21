@@ -23664,11 +23664,10 @@
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 1,
-  "llamadas_llm": 4,
+  "descartados": 0,
+  "enviados": 0,
   "recogidos": 141,
-  "unicos": 4
+  "unicos": 0
  },
  "telegram_offset": 958387804,
  "version": 1
