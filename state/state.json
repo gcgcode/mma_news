@@ -23826,15 +23826,36 @@
    "title_norm": "there any other pair fighters who were higher ranked rivals cordial like these two",
    "ts": "2026-08-21T09:03:00+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vua075/is_there_any_other_pair_of_fighters_who_were"
+  },
+  {
+   "key": "480e6ff5ef4b6cab4c3facde88dfdade971e4070",
+   "score": 4,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC Fight Night resultados - ESPN",
+   "title_key": "b4b02aa72714e7de61ac3caf29d413152c86b7dd",
+   "title_norm": "ufc fight night resultados espn",
+   "ts": "2026-08-21T09:54:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEZ1S2ZiUExiNGVGX2haNWZmZWQzblptOHoxbUxYU3BkbkVkeFFGQTJvRGczbU1ISzV2ODgyeHdHUEItSk11YTM0RjMwdmFXRUlvcFdqZm9zc1NYazJ2UEVIVXBYb1B2eXRTa3JEQXlJUHcyalQwTXdVOE5BdWFBRWtQdk9DcERYN05nQ1d5R1JUQVBfeks4TFF1NHFjWFNBWEtCNWQybndoOS1TTUt2SmRMWUVDV0NmQ3Z2SXI0WnhVeGFXV0ZESHR4cXE?oc=5"
+  },
+  {
+   "key": "8a6eefb7ada956f87eeffc1333fc8c4f982ce83a",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Randa Markos Vs. Angela Hill OFFICIAL For UFC On ESPN+ 6! Rai Play (Pyd9iaMmSv)",
+   "title_key": "497d753830ba35d5e75bdfdaf4fb7eef8398e2ee",
+   "title_norm": "randa markos vs angela hill official ufc espn rai play pyd9iammsv",
+   "ts": "2026-08-21T09:54:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNNXNUZGpTNnFDMENQUHNjbHR3YWNvaDZVNEQyNEpCVTRZLXFsMWlxajhQNG5ja2huWVM2dHdtdVRVT2xEaEFiaGZLb1JVRUVCQVNmaHJidHRNRlE?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 0,
   "llamadas_llm": 2,
-  "prefiltrados": 3,
-  "recogidos": 187,
-  "unicos": 5
+  "recogidos": 188,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
