@@ -24904,6 +24904,72 @@
    "title_norm": "khabib nurmagomedov reveals ufc fight that pushed him closest limit",
    "ts": "2026-08-21T20:21:11+00:00",
    "url": "https://sherdog.com/news/news/Khabib-Nurmagomedov-reveals-the-UFC-fight-that-pushed-him-closest-to-his-limit-202454"
+  },
+  {
+   "key": "5896352f8c8e41a987e1c33b58f0680d64b6e2a8",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam has killers next .",
+   "title_key": "c98c2b50ff06f6961ce04d0944fb707504a3f344",
+   "title_norm": "islam has killers next",
+   "ts": "2026-08-21T20:45:55+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vuo3uc/islam_has_killers_next"
+  },
+  {
+   "key": "fe88701db617eaca9996fe29d351b7577530c070",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Three UFC 329 stars facing purse withholdings for cage-scaling; manager calls for rule change",
+   "title_key": "096d1e2b5a05022624e80f324f280774cac753c4",
+   "title_norm": "three ufc 329 stars facing purse withholdings cage scaling manager calls rule change",
+   "ts": "2026-08-21T20:46:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOC11WnVSM3JvZm95S3VuYVhSUlkyYmlGVG53SHRpbDF3WVA1U2doVzRTYzVVbjRqYXI1eE1OVzF5LWtIT29sYlROVlpyd0FKRndPMlBTUTE5NTl4ZFBhMWJYSS00VDR4UXBpQ2RaR3F6akFacVUteTdrOEZHTWFsbEhXVTRLcW1mbDUtemJPVHlSaFo1enRFYTJyLThUSTlvYkJ5cmJVbnRjbmVDNHd2VmEwVk5ac0xBRl9rMzBYeERieWs3Q2g3LWpCZ1lBZzhY?oc=5"
+  },
+  {
+   "key": "7148c57dad60f1c76720571ac9b6829ecd7402f2",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Gregory Rodrigues carries his father’s dream into UFC main event",
+   "title_key": "16142d2829bb451284d713384db5e6c4319672fd",
+   "title_norm": "gregory rodrigues carries father dream into ufc main event",
+   "ts": "2026-08-21T20:46:06+00:00",
+   "url": "https://sherdog.com/news/news/Gregory-Rodrigues-carries-his-fathers-dream-into-UFC-main-event-202469"
+  },
+  {
+   "key": "3a407198dae61e6217ca351163e4f58bebdc9d77",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Former UFC fighter Markus Perez reportedly in ICE custody for more than a month",
+   "title_key": "68183810ad5ecf043b64eab0aa00108d8d09ff2e",
+   "title_norm": "former ufc fighter markus perez reportedly ice custody more than month",
+   "ts": "2026-08-21T20:46:07+00:00",
+   "url": "https://sherdog.com/news/news/Former-UFC-fighter-Markus-Perez-reportedly-in-ICE-custody-for-more-than-a-month-202468"
+  },
+  {
+   "key": "8c527ccb43cc85a915d43eabbf79ba1cbe5af762",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Qué está en juego en UFC Sacramento",
+   "title_key": "970650f19b14b56d42cf03e00a1901b6b6576856",
+   "title_norm": "esta juego ufc sacramento",
+   "ts": "2026-08-21T20:46:08+00:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzUTRyZWFfN2pSeFV3eUNGbTctQ1IwRFBBd01TZjE4V25ocXVqN1ktZXJkOXFGRGdjSDRnbVk2ZE5GTmhTXzduOXlkelV2cXF0a0hRZE41SF9fdGtFYTl1bjJjenJSTEI3eERwaXl0Z1pYRFZN?oc=5"
+  },
+  {
+   "key": "d9219fabf5805c0e34ecbeac979a44d8b5fc3e9b",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "5 peleadores a seguir en UFC Sacramento",
+   "title_key": "81db9210228ed7a37808d0c6ca6d81e8c8451542",
+   "title_norm": "peleadores seguir ufc sacramento",
+   "ts": "2026-08-21T20:46:08+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44blVKOC1DanR3QlhMSlZoeEo4ZmZRRmt5UTBzT05oMllhTlpid0xyUVRJVnFMWElSTzl0YXBJMm4wd0tQRHdtQW56T1FXRUd5Rno0MGxNekFkc0VXUVNWUnZ0OHlLclMxM2ZlUDZ6YThjWl9TMU1VTGFn?oc=5"
   }
  ],
  "stats": {
@@ -24911,8 +24977,8 @@
   "enviados": 1,
   "llamadas_llm": 5,
   "prefiltrados": 1,
-  "recogidos": 177,
-  "unicos": 14
+  "recogidos": 178,
+  "unicos": 9
  },
  "telegram_offset": 958387804,
  "version": 1
