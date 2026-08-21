@@ -24970,15 +24970,69 @@
    "title_norm": "peleadores seguir ufc sacramento",
    "ts": "2026-08-21T20:46:08+00:00",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44blVKOC1DanR3QlhMSlZoeEo4ZmZRRmt5UTBzT05oMllhTlpid0xyUVRJVnFMWElSTzl0YXBJMm4wd0tQRHdtQW56T1FXRUd5Rno0MGxNekFkc0VXUVNWUnZ0OHlLclMxM2ZlUDZ6YThjWl9TMU1VTGFn?oc=5"
+  },
+  {
+   "key": "8be3015d6f462825007bd40fce28b72dca1eb90c",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Gilbert Burns open to wrestling Colby Covington in RAF: ‘That would be a good one’",
+   "title_key": "89eb9ff12dbfc823e98147ff53a60112fed40ca7",
+   "title_norm": "gilbert burns open wrestling colby covington raf that would be good one",
+   "ts": "2026-08-21T21:19:46+00:00",
+   "url": "https://mmafighting.com/raf-wrestling/495252/gilbert-burns-open-to-wrestling-colby-covington-in-raf-that-would-be-a-good-one"
+  },
+  {
+   "key": "1fc4cd29608436e77d4be9fabf10f661359b9e6f",
+   "score": 6,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Max Holloway Mocks Conor McGregor’s Excuses After UFC 329",
+   "title_key": "6be0ac0e4cad1a690a33d5b20f89c151f47b42dc",
+   "title_norm": "max holloway mocks conor mcgregor excuses after ufc 329",
+   "ts": "2026-08-21T21:19:47+00:00",
+   "url": "https://lowkickmma.com/max-holloway-mocks-conor-mcgregors-excuses"
+  },
+  {
+   "key": "3b2987c752387d279a17a597053b508b14dbc20b",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Fight Night 285 weigh-in results: Smooth sailing in 'Sactown'",
+   "title_key": "9725aa8891e249c7e7031c6c40d9d6b124a8cf2a",
+   "title_norm": "ufc fight night 285 weigh results smooth sailing sactown",
+   "ts": "2026-08-21T21:19:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZWY2ODFpcy1ueWRtU2Ffc2lva3doTHhmQ1lCQVZ3bk04MEdNWDFXejQ0OV9Bc3pCbGRIRUZ1QzBqbUE1S1FxLXc5bmR3dHNQTWF4czVLdDk0R1JmanpCeXhNd3NZUFlNVXVTVFZIVEluOXN5eVBzSmx3alJFTWdGMG9xeU11cno1aHNZa0p0V1JSSlA4MzY0RDNFdDR1S1FNU3pIY0RoQUxmN3pTdi1lZXpmLUdfajFSOTJxOWd6NEpTSmZHZFd6dlFHOG54YnFTNEQ0Y19EZVd2dw?oc=5"
+  },
+  {
+   "key": "7ac28ff24f720c420de8b27e2c434eb927b96c0b",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC Sacramento: Resultados Pesaje Oficial",
+   "title_key": "a1178e7e915bfc8ba2c0cdc5cc44f6db10d883dc",
+   "title_norm": "ufc sacramento resultados pesaje oficial",
+   "ts": "2026-08-21T21:19:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BWjQwUUNZbDJ5YllhZDlzLUZ1WE1IcE9IZzZpTFk5SkgzSlFwTktsTHNCbW9PeGExV0NHamNWQTQ5dW5YZnUwNlNGd0NhMW9RWndTRTR2aGhhVndzSk1TYnhBV1VzU25PQkZOT1h1ZmlrZW1CNlpSRThrUEhyOUE?oc=5"
+  },
+  {
+   "key": "8d7522487b7e5a568e3985d5a314bfd7faaab970",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Mailbag: On UFC Apex renovations, Islam Makhachev's GOAT credentials, and more",
+   "title_key": "e42e66327a31d5813a9f23fcaa5a7f3eb3582203",
+   "title_norm": "mailbag ufc apex renovations islam makhachev goat credentials more",
+   "ts": "2026-08-21T21:19:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXFvZUdpemdlaVB3ZF9Qa0xKaDZ0ZXhNS25hUkk0OWJhQnpEcHJ1Y3hDeXhRQWVHTFRjaWxCZE5EOHN1elJTQkVpd1ljc0xTMTBKOHdYVmZ0QU5HeEc5X0xSQ2wyOTlhWFJoVGYzWTRpNGc2dUNiX1h2NEJ6MVV1RE5IZTRrcDlEZE1sYzdXRmczeDdrcGhWZEI1VFA5WmEtb2JqS01nLUlCaldCWDc0U1J5UFl6aXBFWDFFZGtZaEZUckZj?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
   "recogidos": 178,
-  "unicos": 9
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
