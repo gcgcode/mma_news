@@ -24068,14 +24068,59 @@
    "title_norm": "pantera baja noche ufc",
    "ts": "2026-08-21T12:38:18+00:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczd2U1pxUEpCeFlodlF4WGp2THh0WU41VGxNOHNvb0p2MXlNazVRdmxYZnVZWXdlZkRkdDM4M2xldUk5eWRRMFJScjdNME5IeENsbGhvM21JNGVNdTlpNDI2Z3QzVVV6THZJYVoxeVF5ek5IYWwyYVo4alVldkJyaFZhONIBiAFBVV95cUxPSVBBazZ6VUJxY09HWFRGdXh5VG00d0dSN0ttNE1kdklIX0Q5NmplZHZoR2ZqWVJtMnRLVENFaEZsUUp6MDdKYzFUdDF5b191WGljVFNfZFgtZG5peDl5dDI1ZllybGhnSDItbEdRaV9DOTdwMU5TdS1iOUg1aG45XzVlRG5zSG12?oc=5"
+  },
+  {
+   "key": "a99789d36352ccf523fa0afebafca03ebc223273",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "2 years ago in 2024: Alex Pereira Submits Jamahal Hill with a left hook to defend his belt and earn his Black Belt in BJJ.",
+   "title_key": "fe88c107db47d07056a9756d09aa42310f78bcb3",
+   "title_norm": "years ago 2024 alex pereira submits jamahal hill left hook defend belt earn black belt bjj",
+   "ts": "2026-08-21T13:30:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vufmnr/2_years_ago_in_2024_alex_pereira_submits_jamahal"
+  },
+  {
+   "key": "13247cf6d7326af4eabf064ba81a7d8f4e9aefdb",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Khabib took the L here",
+   "title_key": "bd64bf43ecd4dd8bd10bbadef76236956732ebe9",
+   "title_norm": "khabib took here",
+   "ts": "2026-08-21T13:30:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vuftib/khabib_took_the_l_here"
+  },
+  {
+   "key": "e76a4ff3e16101c16b8c7e59d6a5a947ef9ad557",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "‘What the f*ck are we doing?’: Reinier de Ridder says something has to be done about extreme weight cutting in MMA",
+   "title_key": "5263c1576531232815e720ad50e0fe521d41b4f6",
+   "title_norm": "what ck are we doing reinier ridder says something has be done about extreme weight cutting mma",
+   "ts": "2026-08-21T13:30:50+00:00",
+   "url": "https://mmafighting.com/ufc/506111/what-the-fck-are-we-doing-reinier-de-ridder-says-something-has-to-be-done-about-extreme-weight-cutting-in-mma"
+  },
+  {
+   "key": "64e61bef7ae2aa7749679a7e9e67a92e1d053d32",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Arman Tsarukyan has a personal reason for wanting to finish Mauricio Ruffy quickly at UFC 331",
+   "title_key": "b4be0b57d61e0e74f3d738988b448764872f9971",
+   "title_norm": "arman tsarukyan has personal reason wanting finish mauricio ruffy quickly ufc 331",
+   "ts": "2026-08-21T13:30:52+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/arman-tsarukyan-has-a-personal-reason-for-wanting-to-finish-mauricio-ruffy-quickly-at-ufc-331"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
-  "llamadas_llm": 5,
-  "recogidos": 188,
-  "unicos": 5
+  "descartados": 1,
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "prefiltrados": 2,
+  "recogidos": 162,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
