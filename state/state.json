@@ -23771,14 +23771,69 @@
    "title_norm": "video revive todo lo dejo ufc vegas 120 gran victoria quillan salkilld ante mateusz gamrot",
    "ts": "2026-08-21T08:19:13+00:00",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR05fTU9uZ3lhZV9oRlFvUzRsazMyV3BWWE4zelc5eXVtc2gwWklrOEY2bUNBWWR3M1BIVGg3Rk5pRGJHeFUyWkoyNUxHQ2NwbjVhZ2tFcnczZUZ2T0J6a0pXSk9jNVc4RkxaTS05b2l2aWQ4RmVBWnBjUmxsUWozbGtTaVNoeGYwVnJYQzh4dGhZSmYzUEF3dTFJX2dkSTdCOGV6SDdLLWoxX1pIR1diT2VYWE1WN1ZoOHd4Q2hFU1p1U2xWNHlqSHRZOWIxVmFxcm5vU09n?oc=5"
+  },
+  {
+   "key": "7b33f2368e5061ab3da7cc58e31bf0f76ba22290",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Pimblett detalla su última transformación: “Reboté 15 kilos antes de la pelea”",
+   "title_key": "efd3c2844df6560edc96e8be1527c77fe9d13de8",
+   "title_norm": "pimblett detalla ultima transformacion rebote 15 kilos antes pelea",
+   "ts": "2026-08-21T09:02:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFVocWlhWEh3VmhTaWc0Y3NydXVrRGNKVzFMdElsdU14U3FINnB3ckRHYWR0aVFaSEV6ZU41TVRweXBXb0FWUkZTZWFickk1dXNkQlA4NEFaejgzMEc1V1hFcTVGVmdTSzFuOVRpZTBSMUFvQkU4dlF6Zy13dExYaEZIdS1WLWZnNXpmS1RmVHFxcW9lajIxMlpYbmNWLUFvV0k2bzR6NnFBZ1owbUZKZ0JMUjl4Smk5NjBVdWF6ZXF1bEs00gHYAUFVX3lxTE4tejQtZWs4YzltWkh4akhrNW1qQThyVmFlWTNxNi11UV9OajEwdks5T1JHcEp3aHRhUmZEWjhud2J4ZzhNV2RlbkxEY3FIVkFvb29CZGhQWlNvZHd0TjlZYlFqanhuUFZ4blJlZkJPNi1oUmd6cDZzV3oxd1daRUZ3SmJ5dVRlMW9yWWd5UGt2R3pNSmNBbVJ5VGs3Y2UtUjJFa1lvSDI4dFo2R01OWjdOQm9xVnRWYTNSSC1oTndwdi1oZzhnN1prZ0tYUklBdFhoTG5uSUxaSA?oc=5"
+  },
+  {
+   "key": "cbb362bdb21300849be3a1abefa0b451429e596d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "This shit sound like a shutgun",
+   "title_key": "eac16a2fc37764758b984b846720cbc9d066ad1b",
+   "title_norm": "this shit sound like shutgun",
+   "ts": "2026-08-21T09:02:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vuadk9/this_shit_sound_like_a_shutgun"
+  },
+  {
+   "key": "d3b57454d63001bb0a327bb58d8f3c69c6f13e4b",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Rainbet Gives Sean Strickland a Flamethrower and Welcomes Him As New Partner",
+   "title_key": "667bcaa8f2ba1963e743ccd0b6063ecb634a15dc",
+   "title_norm": "rainbet gives sean strickland flamethrower welcomes him new partner",
+   "ts": "2026-08-21T09:02:53+00:00",
+   "url": "https://lowkickmma.com/rainbet-gives-sean-strickland-a-flamethrower-and-welcomes-him-as-new-partner"
+  },
+  {
+   "key": "79407cd77ffa5dd3fd9a731030ad38b2162cec46",
+   "score": 6,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Rafael dos Anjos set to return versus Alexander Hernandez at welterweight at UFC 332",
+   "title_key": "d53b8d8eabc08fe0ebf3ffdc410a443281e2ed4d",
+   "title_norm": "rafael dos anjos set return versus alexander hernandez welterweight ufc 332",
+   "ts": "2026-08-21T09:02:57+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vuajhu/rafael_dos_anjos_set_to_return_versus_alexander"
+  },
+  {
+   "key": "8ecc05f2686e17e9048f316d130611357285fe37",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Is there any other Pair of Fighters who were Higher Ranked + Rivals + Cordial like these two?",
+   "title_key": "8cffa8b6046e50aeeec7e48395670768201bc936",
+   "title_norm": "there any other pair fighters who were higher ranked rivals cordial like these two",
+   "ts": "2026-08-21T09:03:00+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vua075/is_there_any_other_pair_of_fighters_who_were"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 188,
+  "enviados": 0,
+  "llamadas_llm": 2,
+  "prefiltrados": 3,
+  "recogidos": 187,
   "unicos": 5
  },
  "telegram_offset": 958387804,
