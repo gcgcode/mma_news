@@ -25025,14 +25025,47 @@
    "title_norm": "mailbag ufc apex renovations islam makhachev goat credentials more",
    "ts": "2026-08-21T21:19:50+00:00",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXFvZUdpemdlaVB3ZF9Qa0xKaDZ0ZXhNS25hUkk0OWJhQnpEcHJ1Y3hDeXhRQWVHTFRjaWxCZE5EOHN1elJTQkVpd1ljc0xTMTBKOHdYVmZ0QU5HeEc5X0xSQ2wyOTlhWFJoVGYzWTRpNGc2dUNiX1h2NEJ6MVV1RE5IZTRrcDlEZE1sYzdXRmczeDdrcGhWZEI1VFA5WmEtb2JqS01nLUlCaldCWDc0U1J5UFl6aXBFWDFFZGtZaEZUckZj?oc=5"
+  },
+  {
+   "key": "cc0d6e96d1ad61bcca4d27ebf03b3988e6182332",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Michael Morales on Instagram: “Waiting for the call”",
+   "title_key": "c2a802e73f00e527d11da53c208ba12c356b05b9",
+   "title_norm": "michael morales instagram waiting call",
+   "ts": "2026-08-21T21:44:46+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vuqsj3/michael_morales_on_instagram_waiting_for_the_call"
+  },
+  {
+   "key": "c446d3557d9537d0f73fe77d2f30fdc91091ae0c",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Morales looks 2 weight class above Brady and Brady is atleast as big a Islam",
+   "title_key": "b6dfe3e888d15228a3b3460e7c643d7201a925b3",
+   "title_norm": "morales looks weight class above brady brady atleast big islam",
+   "ts": "2026-08-21T21:44:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vus4li/morales_looks_2_weight_class_above_brady_and"
+  },
+  {
+   "key": "e26f0963e7972c248ed545667dc7d6b23ac38517",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "IndyCar drivers amazed at downtown DC course: 'It's stuff that you dream of'",
+   "title_key": "0341c2007c2d88ec082738c39f67996d66c98995",
+   "title_norm": "indycar drivers amazed downtown dc course stuff that you dream",
+   "ts": "2026-08-21T21:44:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVVkUFE5VDZzZVdlcFZmcXNzQnZ0S2FYQjBUVTlqUEFMU3BsMkRlRm1BMDk0MVhJeS10cG1zRk5MTDdUbDVDcFRESUVyMG5ack5LM09FN09KZlUtOXdRX1p3LUMwQnpqalJLNDE3MUt5dFY2MThTZjdzRjZOVWhSOUptb0JXN0JkY3NmRU01MWhaS1FuWXRaSEhUNjJyQ0dhUmpkYk8xZExjTGl5NUlIWTQ1aw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 5,
-  "recogidos": 178,
-  "unicos": 5
+  "prefiltrados": 3,
+  "recogidos": 203,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
