@@ -24783,15 +24783,69 @@
    "title_norm": "colby talking shit din thomas near ufc 270",
    "ts": "2026-08-21T19:31:21+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vuodph/colby_talking_shit_to_din_thomas_near_ufc_270"
+  },
+  {
+   "key": "7744ebfb1e2ca1eaf7bd201f19d6dbb7f258899b",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Since Max wants a title shot at 170, let's give him the number 1 contender match 😂",
+   "title_key": "92151ef820617408e7709abc72d699d5d15590f4",
+   "title_norm": "since max wants title shot 170 let give him number contender match",
+   "ts": "2026-08-21T19:53:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vun9x7/since_max_wants_a_title_shot_at_170_lets_give_him"
+  },
+  {
+   "key": "561e7e8a57733d29b553c6a281aaf1f384816d49",
+   "score": 5,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "RDR wants the UFC to do something about extreme weight cutting: “Everybody makes 185. Everybody’s at least 210 when they fight, maybe 215. Like what the f*ck ar",
+   "title_key": "80726211cd1e1807e2dddc4670c89180035b0a4c",
+   "title_norm": "rdr wants ufc do something about extreme weight cutting everybody makes 185 everybody least 210 when they fight maybe 215 like what ck are we doing",
+   "ts": "2026-08-21T19:53:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vumqmx/rdr_wants_the_ufc_to_do_something_about_extreme"
+  },
+  {
+   "key": "fb012f16250e231571515fad3f6125015af16720",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "UFC Sacramento weigh-in results: Anthony Hernandez's Octagon return set",
+   "title_key": "482030a59106839e6ba0b02f5ce40fa47f8854d5",
+   "title_norm": "ufc sacramento weigh results anthony hernandez octagon return set",
+   "ts": "2026-08-21T19:53:44+00:00",
+   "url": "https://sherdog.com/news/news/UFC-Sacramento-weighin-results-Anthony-Hernandezs-Octagon-return-set-202472"
+  },
+  {
+   "key": "afe7f745fd1907dfe7787bdb7a86024c6fd75408",
+   "score": 2,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Romero vs. Lopez: How to watch, start time, PPV & full fight card",
+   "title_key": "d568d715a5cda51c46ebde2bd29d760e019d0f16",
+   "title_norm": "romero vs lopez how watch start time ppv full fight card",
+   "ts": "2026-08-21T19:53:45+00:00",
+   "url": "https://sherdog.com/news/news/Romero-vs-Lopez-How-to-watch-start-time-PPV-full-fight-card-202459"
+  },
+  {
+   "key": "bd792ff4aa67af1bd000b339b7b6dfdd9128175b",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "UFC Sacramento: How to watch ‘Hernandez vs. Rodrigues,’ start time",
+   "title_key": "b24c7ee0289e152536dd7be7a048a9da5be6a0f4",
+   "title_norm": "ufc sacramento how watch hernandez vs rodrigues start time",
+   "ts": "2026-08-21T19:53:46+00:00",
+   "url": "https://sherdog.com/news/news/UFC-Sacramento-How-to-watch-Hernandez-vs-Rodrigues-start-time-202456"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
   "recogidos": 203,
-  "unicos": 20
+  "unicos": 11
  },
  "telegram_offset": 958387804,
  "version": 1
