@@ -24838,14 +24838,81 @@
    "title_norm": "ufc sacramento how watch hernandez vs rodrigues start time",
    "ts": "2026-08-21T19:53:46+00:00",
    "url": "https://sherdog.com/news/news/UFC-Sacramento-How-to-watch-Hernandez-vs-Rodrigues-start-time-202456"
+  },
+  {
+   "key": "a62ad0806ed4b5589894ad12ca3cf5623e2af326",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "El entrenador de Makhachev descarta un combate contra Topuria: \"Su derrota cambió la trayectoria...\"",
+   "title_key": "dcaf8cdb9024f548439050fbc67fa64edcfbe19a",
+   "title_norm": "entrenador makhachev descarta combate contra topuria derrota cambio trayectoria",
+   "ts": "2026-08-21T20:20:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUF6N0pISTBFdno2WGJKczRVVzdZNk5xeDNDSXFFZ0lxbDRKNGM0SDlkemJXWEZqbi1pcUtxWkMtbjRyTl9EMWxVMk55bDJIM3QzdklGc0NLajlnRVRtT1NXdmVVRFJvZWYxaU45VUV1UGVzV0l4MEozUk9NdEh3Q1ltNjNqamhJVzBFZUxqRU5abl9vRDdxOHlnOE45OGtkRUxLakZtTzc0bWUzZVJnOWw1RkZYdzM3WFhOanhzYTk?oc=5"
+  },
+  {
+   "key": "8475e5955d200c6628e993030d43f5c086537fac",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "So payday in ufc is more of a popularity contest",
+   "title_key": "ed731210dc3742ea1c6a80425d7bf94ce6204fac",
+   "title_norm": "so payday ufc more popularity contest",
+   "ts": "2026-08-21T20:20:56+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vur06b/so_payday_in_ufc_is_more_of_a_popularity_contest"
+  },
+  {
+   "key": "4b6d6f5148480e38686afd338b1bbf338e2c14cd",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Tom Aspinall predicts an upset in former opponent’s UFC Sacramento heavyweight clash",
+   "title_key": "5a98a60382002e2e3806b35afefa76694414f564",
+   "title_norm": "tom aspinall predicts upset former opponent ufc sacramento heavyweight clash",
+   "ts": "2026-08-21T20:21:02+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/tom-aspinall-predicts-an-upset-in-former-opponents-ufc-sacramento-heavyweight-clash"
+  },
+  {
+   "key": "3d9705816c1e2687bca5733d12930a9ea5bae74e",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Mackenzie Dern gets pound-for-pound rankings boost following overshadowed UFC 330 title defense",
+   "title_key": "c596ee5645c28127df6c4712d2cecded25cfbf94",
+   "title_norm": "mackenzie dern gets pound pound rankings boost following overshadowed ufc 330 title defense",
+   "ts": "2026-08-21T20:21:09+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/mackenzie-dern-gets-pound-for-pound-rankings-boost-following-overshadowed-ufc-330-title-defense"
+  },
+  {
+   "key": "7e175b99adaf18ed488b9e6a9445d5ee05d97446",
+   "score": 1,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "MMA channel’s this days Are just getting Worse i swear…",
+   "title_key": "3378bd8980f85fb99766150ec82e111fe5617dba",
+   "title_norm": "mma channel this days are just getting worse swear",
+   "ts": "2026-08-21T20:21:10+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vuq8bb/mma_channels_this_days_are_just_getting_worse_i"
+  },
+  {
+   "key": "b0a0d9ebb44200279360a939104e7aad3eb9aa2c",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Khabib Nurmagomedov reveals the UFC fight that pushed him closest to his limit",
+   "title_key": "b5a069c0196e5d49d1f92d492656acbce1e28b5e",
+   "title_norm": "khabib nurmagomedov reveals ufc fight that pushed him closest limit",
+   "ts": "2026-08-21T20:21:11+00:00",
+   "url": "https://sherdog.com/news/news/Khabib-Nurmagomedov-reveals-the-UFC-fight-that-pushed-him-closest-to-his-limit-202454"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "recogidos": 203,
-  "unicos": 11
+  "prefiltrados": 1,
+  "recogidos": 177,
+  "unicos": 14
  },
  "telegram_offset": 958387804,
  "version": 1
