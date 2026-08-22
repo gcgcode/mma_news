@@ -25806,15 +25806,37 @@
    "title_norm": "nsac trying withhold max holloway fight purse following ufc 329 win over conor mcgregor",
    "ts": "2026-08-22T08:23:43+00:00",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHo3UG8ySGZHSVNoWGI3Yy00N2hxRmRHaXphZVg1eld0VWwwSXkzekM5RXJzNDFtLURxS2drOGwtd1o3N0RMaV92YXlrQXVOOUJMXzZvS0JGV1M2QmpDeG1LazdUTHJHNTBZbGJOcGR2cW0xMGFBMDJhb283T2c2aFVxVDNuR3hKWUE?oc=5"
+  },
+  {
+   "key": "d772c18df96dd137e8c3aa0ad30d5ae1a21dda7b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islams next fight to make is so obvious. It's time to finally see who the true GOAT is",
+   "title_key": "59f75196350f6ba4ef7a2d0219c8fd8239318aa3",
+   "title_norm": "islams next fight make so obvious time finally see who true goat",
+   "ts": "2026-08-22T09:01:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv6dtt/islams_next_fight_to_make_is_so_obvious_its_time"
+  },
+  {
+   "key": "ddfc47d2cbbb127a95111c4e51039de5ab2ca271",
+   "score": 5,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Daniel Cormier Talks to Usman Nurmagomedov & Asks him to Come to the UFC",
+   "title_key": "e22fecb5fde79c8e6c9cfe30b61c4d0ecd090457",
+   "title_norm": "daniel cormier talks usman nurmagomedov asks him come ufc",
+   "ts": "2026-08-22T09:01:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv6m79/daniel_cormier_talks_to_usman_nurmagomedov_asks"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "prefiltrados": 2,
-  "recogidos": 159,
-  "unicos": 5
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "prefiltrados": 1,
+  "recogidos": 179,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
