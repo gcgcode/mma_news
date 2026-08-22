@@ -26235,14 +26235,58 @@
    "title_norm": "19 time octagon veteran steps short notice ufc fight night 266",
    "ts": "2026-08-22T15:57:34+00:00",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzRyNVZBbEJtS3BkWUx2d2NqTWRDNnk1ZUhPOWc3Q0VlYmpxeU5hUU9QZlhTUnNwcTJkdmxSSFhJVG5lZ2tMZ3FVelRDOHRQd21LSGZ4LTQ5cWNESHd4Yld4VHkxd0FoZ3NDQVVRVkRWQ3RKOTdhaHZGQ1JFTzJpeFFlR3hPQVVLVlZycWZhYVI2SkE?oc=5"
+  },
+  {
+   "key": "def6e9c71ee2c4e03a884dbf5a39f965f222b5a0",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Gable Steveson wants UFC title ‘as fast as possible,’ but doesn’t want to rush",
+   "title_key": "d3f722f11ff0328b88e969cd06d28f402801fc25",
+   "title_norm": "gable steveson wants ufc title fast possible but doesn want rush",
+   "ts": "2026-08-22T16:18:39+00:00",
+   "url": "https://mmafighting.com/ufc/506322/gable-steveson-wants-ufc-title-as-fast-as-possible-but-doesnt-want-to-rush"
+  },
+  {
+   "key": "1334bf8dd43a1ffcdc677c5f0ff029ff4915231e",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Kelvin Gastelum among critics of comical UFC Sacramento face-off as he insists MMA is not a joke",
+   "title_key": "da9d986269d5f5b3dbf00c002bb10d5946fc4b12",
+   "title_norm": "kelvin gastelum among critics comical ufc sacramento face off insists mma not joke",
+   "ts": "2026-08-22T16:18:44+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/kelvin-gastelum-among-critics-of-comical-ufc-sacramento-face-off-as-he-insists-mma-is-not-a-joke"
+  },
+  {
+   "key": "f81fca516c9618797d93febdd689363c0eb431ce",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "¿A qué hora es UFC Sacramento? Cómo ver la pelea Anthony Hernández vs Gregory Rodrigues y la cartelera completa en Argentina, Uruguay, Paraguay, Bolivia, Chile,",
+   "title_key": "3144bcdd3b4875780ebe60213b5ef769cc33777c",
+   "title_norm": "hora ufc sacramento como ver pelea anthony hernandez vs gregory rodrigues cartelera completa argentina uruguay paraguay bolivia chile venezuela colombia ecuador peru",
+   "ts": "2026-08-22T16:18:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNUmhaVWxpbjduazd1MUpkQV9adFhIUFd5ZHgwSzJURUh2M0xKU3F0Umtfei1mbFhRczJ1dWRxUVZZYVBnUlhtOEJYZFc0eExtUUF5SlFfbVRLWUVYZUhRLXUzU01ldHhXZmZwdi10T1lzRnd1QXNBTlVpN0VWdEF1R3J5TGQ5MXBJVlJ3WnJCcmxUUG9IamNFSzRsUHVoVHBYN2JpMVU5WG9taE5sWS1RM2hfY1Z3S1A1Y2U2Nk44YV81S3d4OVNsWFlpMnhJRXFtTzVHcTFVRkJhSzRkUkx0V2dQQ0E4Q3ZUR1RKWDVUd3d4MWxmWkwzQV95YXdLZWg1SFBReEZFZXh5TW81bUx6alRrdzZFT0JPRl9TTUlSMnlKRzhQTFJpeTZ1Nk1tUG1YWlVOX1FITV9kZWZTZmt5LVVJSVgwZ2w3WWZXdzRFMmprUVVGb3NlNXVrY2hVS1p6UHBWbENJOGY?oc=5"
+  },
+  {
+   "key": "13b1f44f4ef7436846761df74c556c88b1ac26f7",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Max Holloway - News & Rumors - UFC",
+   "title_key": "58153604680dad5346e80906f135c680e255faf6",
+   "title_norm": "max holloway news rumors ufc",
+   "ts": "2026-08-22T16:18:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14RXhlMlpST2pQM0ZIUG1ha1VkdS1TUHpfOVloS3luQTFLSXBIS3RUQ1NMR3ZpU1NPQTcyMGk5bEJBNW9iRVRtcE5ON3E4NHpjM0dUOXRkTzdaRmNmWlVJ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 4,
   "enviados": 0,
-  "llamadas_llm": 1,
+  "llamadas_llm": 4,
   "recogidos": 180,
-  "unicos": 1
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
