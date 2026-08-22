@@ -26532,14 +26532,69 @@
    "title_norm": "ufc 332 khamzat chimaev gets revenge shot against strickland dana confirms hamburg vs freiburg enc1fugsww",
    "ts": "2026-08-22T19:03:03+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qOHBKUXJwd0p3dHRIb2lqZ1RvcWVOcWVLdU9VMV9NY2pXR21WUGJjUHcyamRwQ3lmVGJOQjY5bjlsenAxLUgwdmpuUXM1T1JIQ01UdW1Pamsya0E?oc=5"
+  },
+  {
+   "key": "3c576581110e864557c64c852f46ddf2c9765513",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "If this man loses, it will be so sad to see his stock drop rapidly amid all the fake fans and haters discrediting him as one of the GOATS, just like how people ",
+   "title_key": "56d562748d3625c75ee08e74bfb48d6bf3737fdd",
+   "title_norm": "if this man loses will be so sad see stock drop rapidly amid all fake fans haters discrediting him one goats just like how people switched up when pereira lost ankalaev",
+   "ts": "2026-08-22T19:39:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvj47x/if_this_man_loses_it_will_be_so_sad_to_see_his"
+  },
+  {
+   "key": "a71d5508ab8027b566c91559ce2e19f9403afac3",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "14 minutes of arrogant fighters getting humbled",
+   "title_key": "d1bc07fc5e2572bee28a1c017d016ec9528aae39",
+   "title_norm": "14 minutes arrogant fighters getting humbled",
+   "ts": "2026-08-22T19:39:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvl4b4/14_minutes_of_arrogant_fighters_getting_humbled"
+  },
+  {
+   "key": "5d681d7fe186720dcc39ba7afc5f3cb1df184439",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Vitor Petrino calls for main event slot after UFC Sacramento, open to Valter Walker fight",
+   "title_key": "cc0e6a9f065a42e565b2658f8ce27b9f06bfa28a",
+   "title_norm": "vitor petrino calls main event slot after ufc sacramento open valter walker fight",
+   "ts": "2026-08-22T19:39:40+00:00",
+   "url": "https://mmafighting.com/ufc/505878/vitor-petrino-calls-for-main-event-slot-after-ufc-sacramento-open-to-valter-walker-fight"
+  },
+  {
+   "key": "b1096431159110184c09bce71af08305ac1af991",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "The most gruesome looking injuries in the UFC?",
+   "title_key": "b9388fb0a38e340b531d46f5e3b93a3af67a62c2",
+   "title_norm": "most gruesome looking injuries ufc",
+   "ts": "2026-08-22T19:39:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvldmk/the_most_gruesome_looking_injuries_in_the_ufc"
+  },
+  {
+   "key": "a4fc3b55c0be546cd4edf36e48efb9b7ecf32564",
+   "score": 5,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Merab Dvalishvili Shares Encouraging Update on Ilia Topuria",
+   "title_key": "42b9b4fb9b8909162ba915fc131970b9f366ed6a",
+   "title_norm": "merab dvalishvili shares encouraging update ilia topuria",
+   "ts": "2026-08-22T19:39:42+00:00",
+   "url": "https://lowkickmma.com/merab-dvalishvili-update-about-ilia-topuria"
   }
  ],
  "stats": {
   "descartados": 3,
-  "enviados": 1,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 161,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "prefiltrados": 2,
+  "recogidos": 181,
   "unicos": 5
  },
  "telegram_offset": 958387804,
