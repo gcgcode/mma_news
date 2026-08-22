@@ -25982,14 +25982,81 @@
    "title_norm": "should islam makhachev be mma mount rushmore michael chiesa says yes",
    "ts": "2026-08-22T12:35:00+00:00",
    "url": "https://lowkickmma.com/islam-makhachev-mma-mount-rushmore-chiesa-ufc"
+  },
+  {
+   "key": "193eeb2685f2a1c4fa4a2513eea4bb69e6c56c55",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Fights my mental health NEEDS before the year ends",
+   "title_key": "a42e80743b043e5d414358427a146d526e2b3b93",
+   "title_norm": "fights my mental health needs before year ends",
+   "ts": "2026-08-22T13:17:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvahwx/fights_my_mental_health_needs_before_the_year_ends"
+  },
+  {
+   "key": "8daefb038baa6c370fb2c03a6749ad4cda7a3951",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC Sacramento predictions",
+   "title_key": "9739985a3b859fc77549dc04c082c48fb112f54a",
+   "title_norm": "ufc sacramento predictions",
+   "ts": "2026-08-22T13:17:50+00:00",
+   "url": "https://mmafighting.com/ufc/505891/ufc-sacramento-predictions"
+  },
+  {
+   "key": "c77f6d37efb35389161b707eac927991b3efc730",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I don’t understand why Morales deserves a title shot, or even a title eliminator?",
+   "title_key": "60781ceb8f533397a163c38c3e16e92a5d8f1df0",
+   "title_norm": "don understand why morales deserves title shot or even title eliminator",
+   "ts": "2026-08-22T13:17:55+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvbut8/i_dont_understand_why_morales_deserves_a_title"
+  },
+  {
+   "key": "ff9f58e4839b083ac69c432695bf00da28ede7da",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Fans left puzzled that LFA main event went ahead due to ‘the biggest staph infection known to man’",
+   "title_key": "4874efcca39392d3f0649608a2dc9764a648c71d",
+   "title_norm": "fans left puzzled that lfa main event went ahead due biggest staph infection known man",
+   "ts": "2026-08-22T13:17:56+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/fans-left-puzzled-that-lfa-main-event-went-ahead-due-to-the-biggest-staph-infection-known-to-man"
+  },
+  {
+   "key": "8e03e4c10cbf56e5ed1b7f66239e72e216d08ae6",
+   "score": 1,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Open Thread, August 22, 2026: Summer check in - how’s everyone doing?",
+   "title_key": "bd1519960c1a3f5dcc3bcda26a1936dbb90b5521",
+   "title_norm": "open thread august 22 2026 summer check how everyone doing",
+   "ts": "2026-08-22T13:18:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTVNUWx3bXMtS3BNQ1Z3cEthaTJBZ1FoalU3WTZ6XzRyTV9vMG1YQ1JSTWdURHRBYm9UVlltVUJReDF2MUlMWlFrVFo2R0ZHOUdSRWluZTk2OFpUbkRObnJIZHNYVWczYUdQRzYyNmdBRUdiSXpFRXlKZFgyMDhwbDlraTlFYm1Yd0dUcWhDOXA1RU5zVmM4cDRPMnBIYzlJOVMxQk1YQWlSV2lHM3hDTmFvSUU?oc=5"
+  },
+  {
+   "key": "79ce7f22b30d4481eb5267b7389d817cdf81a6a4",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Sacramento: Exciting Aug. 22 Show Locked in Friday!",
+   "title_key": "1c44d3f1f7c9f0c461bd6d2783f9b917a5c49ed7",
+   "title_norm": "ufc sacramento exciting aug 22 show locked friday",
+   "ts": "2026-08-22T13:18:02+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWkwU3NRQnU4WUpBOXdCcmsxaVZiOVRaTS1jNW12MEMzZmV5QzkwSFRnZkx4MVg1WE15X0pVRVlvMzlOMHdUNG14Z28yTENYcG9ZNzFENGxEdlQ4cGRjUVd1d3pVUDRzTE11MjVpc2JJblJyQnctMVZ1OS1YR2lIN1dqNk1BMm5Pb2Jyb2dSYXRvZl9qQTNTZW1rNnNiNWZWYjZpVnN3WW8xcEE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "recogidos": 179,
-  "unicos": 5
+  "prefiltrados": 1,
+  "recogidos": 180,
+  "unicos": 7
  },
  "telegram_offset": 958387804,
  "version": 1
