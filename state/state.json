@@ -26609,14 +26609,81 @@
    "title_norm": "holloway mcgregor ufc 329 comments",
    "ts": "2026-08-22T19:55:39+00:00",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54VU8zZFBYRVpBaWlmNVB5d2k2ZHBvdWg4Q0hNeVQ5Si1HYnZZQ2R3Nnl3c2FQNW1UQTktV1djQ1hTdzFfMk0zRlpkSHlSeUhvSEZDRkJhNVlCY1lWYkZGQlNYbjFjcFFVdXpWNHVTRQ?oc=5"
+  },
+  {
+   "key": "5211503312e5717a3955b2be90233471b0972df7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What do you think of my P4P Most Autistic Fighters List?",
+   "title_key": "387cdac146fbf2c5794ed92f1b1c153a1d4c16dc",
+   "title_norm": "what do you think my p4p most autistic fighters list",
+   "ts": "2026-08-22T20:18:33+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvlmh4/what_do_you_think_of_my_p4p_most_autistic"
+  },
+  {
+   "key": "863ea460636491c6cec9968dc5d3ac378fb63333",
+   "score": 1,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Rolly Romero vs. Teofimo Lopez live round-by-round updates",
+   "title_key": "c60780211b92e9f213ebe86739088b7a962eb4b6",
+   "title_norm": "rolly romero vs teofimo lopez live round round updates",
+   "ts": "2026-08-22T20:18:34+00:00",
+   "url": "https://mmafighting.com/boxing/506334/rolly-romero-vs-teofimo-lopez-live-round-by-round-updates-boxing"
+  },
+  {
+   "key": "33726abf7c05abdd8dc8cac8d619aa4f9757c634",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "MMA legend will be fighting for his career at UFC 331 after not having contract renewed yet",
+   "title_key": "4fe85258e32982ac21b2d21a1ecf1865d8c63b1d",
+   "title_norm": "mma legend will be fighting career ufc 331 after not having contract renewed yet",
+   "ts": "2026-08-22T20:18:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/mma-legend-will-be-fighting-for-his-career-at-ufc-331-after-not-having-contract-renewed-yet"
+  },
+  {
+   "key": "0b642320a96fe3fc75d4e975ae50b9b50c7c03b2",
+   "score": 4,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "UFC Sacramento: Previa EN VIVO",
+   "title_key": "30003aa92798218bc35671ff949b2981c88af801",
+   "title_norm": "ufc sacramento previa vivo",
+   "ts": "2026-08-22T20:18:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TYUlaYXMyUFYwcy1lZzhUQ1BCU3hDZTdfQ1pCVVNicUFJLXJHWktkbTI0S2xoaEkyNmV3SHlIMjR2NkVGVS1pOC1aT2pfZFJs?oc=5"
+  },
+  {
+   "key": "70b9bd3f439b80f8049e9d930b881ab232dec005",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Héctor Alanís conquista bronce en el Mundial Juvenil de MMA",
+   "title_key": "4aaa83c409331d87aa8db2caf154f250624e8829",
+   "title_norm": "hector alanis conquista bronce mundial juvenil mma",
+   "ts": "2026-08-22T20:18:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVml0amlwUXdBbkd2T1ZWVUVzV2NXeVRscDYtTVRHbmx2bDQ4a2NTUUthaTVyMmRwbEpkcmFrbFlFMThyRVhzRFZuNDk2SEg2dWlmbHUweEdaQVBrR3BmOExxcDU5N29qQjlrUGpLQ2xMY2ZfVm53bUpPMS10UGx4cFZFc1JhTjRpWXpDQmFRcVFFenVkNEtaR28tdS1SYkFuYWNidGxDV1NUbHB5WU5qUWNHVFo0Wmdu?oc=5"
+  },
+  {
+   "key": "08435647221c7df2627af49a62f18bc4ef7a30ba",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Francesco Nuzzi - News & Rumors - UFC",
+   "title_key": "89311bb524d10dcd590e4900bfd2ade374a72a55",
+   "title_norm": "francesco nuzzi news rumors ufc",
+   "ts": "2026-08-22T20:18:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kZ2pUV2g2TjNRcEc5Q3E4enl6WjZPd0I5Qi1oVXVxdXFIb19QWTQ5VEUtQWNlU0d1ZjgtdlJSSDJraWVxNkJ6QmZ1d1FpaWxZMlNSa0VHZ2w1Vl9valpnZW9n?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 5,
   "enviados": 0,
-  "llamadas_llm": 2,
+  "llamadas_llm": 5,
+  "prefiltrados": 1,
   "recogidos": 180,
-  "unicos": 2
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
