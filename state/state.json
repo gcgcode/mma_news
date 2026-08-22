@@ -25872,14 +25872,36 @@
    "title_norm": "csepel ufc ii",
    "ts": "2026-08-22T09:46:41+00:00",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3c3YmM1TlNMMUVZYmw0ZXhPeFg0a0hBdXNYZVpkU0ViLXdxOHR4alIwcTFaYUJPenJWaTlkTnhQM2ZMNFBJZDdUOUZXMkZtQ3NzTkpnV1E5RGJDV2psT2NKRUtFOHkzeXpGZThPLWJ3VVNfdjlHTVRmaHc2cE9ka2hTaUg?oc=5"
+  },
+  {
+   "key": "b6ec9d90c20ece16587f44658d5772943de4de22",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "People thought this guy would run through Strickland and be Khamzat toughest test because he beat Roman Dolidze, and now he’s just a very slightly the favorite ",
+   "title_key": "e28f51be136f58ee059b4d116b06d5cea30d6103",
+   "title_norm": "people thought this guy would run through strickland be khamzat toughest test because beat roman dolidze now just very slightly favorite against robocop crazy how fast sport moves",
+   "ts": "2026-08-22T10:18:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv7w7l/people_thought_this_guy_would_run_through"
+  },
+  {
+   "key": "0dfc288c64c4b59ee7ab06ffa43214d32e8dedd2",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Whatever happened to him man... he seems like an entirely different being here. He was so poetic and acute with words. Even though he now has become someone I d",
+   "title_key": "1051467aecd7c64f8530ae06fe353325b1de8202",
+   "title_norm": "whatever happened him man seems like entirely different being here so poetic acute words even though now has become someone don like but kinda miss who used be",
+   "ts": "2026-08-22T10:18:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv88bi/whatever_happened_to_him_man_he_seems_like_an"
   }
  ],
  "stats": {
   "descartados": 0,
   "enviados": 0,
-  "prefiltrados": 4,
+  "prefiltrados": 2,
   "recogidos": 179,
-  "unicos": 4
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
