@@ -27027,15 +27027,103 @@
    "title_norm": "featherweight has carlos prates",
    "ts": "2026-08-22T23:17:00+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vvpw1t/featherweight_has_a_carlos_prates"
+  },
+  {
+   "key": "fd825fa966e7dd02faa53d3155792393ff7bba52",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Need I say more?",
+   "title_key": "dd1b8da323372b8b9b0aead49963bcd4086c6ed6",
+   "title_norm": "need say more",
+   "ts": "2026-08-22T23:56:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvqxfm/need_i_say_more"
+  },
+  {
+   "key": "d930625971a4c7c16295df631a72b24a5e9a1964",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "We’re good Tom Aspinall, we have Shamil Gaziev",
+   "title_key": "baa303fc222e5ca6887c38b61e08140b37e47a14",
+   "title_norm": "we re good tom aspinall we have shamil gaziev",
+   "ts": "2026-08-22T23:56:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvqy9b/were_good_tom_aspinall_we_have_shamil_gaziev"
+  },
+  {
+   "key": "ea1e4f6ac8ecb53de2fa1cd41a210c4f54b49147",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Absolute chad",
+   "title_key": "1bfa48586234b06d2bbd6a8b0f923ca4a35f8d88",
+   "title_norm": "absolute chad",
+   "ts": "2026-08-22T23:56:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvr2cy/absolute_chad"
+  },
+  {
+   "key": "e58853e3a025d8b5e6620437f80c6f5734aa268e",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC Sacramento video: Shamil Gaziev makes Kennedy Nzechukwu pay for hands-down defense with 1-punch knockout",
+   "title_key": "cf5566f4f8abe14f60837b657f0b13fba012e5e0",
+   "title_norm": "ufc sacramento video shamil gaziev makes kennedy nzechukwu pay hands down defense punch knockout",
+   "ts": "2026-08-22T23:56:44+00:00",
+   "url": "https://mmafighting.com/ufc/506430/ufc-sacramento-video-shamil-gaziev-makes-kennedy-nzechukwu-pay-for-hands-down-defense-with-1-punch-knockout"
+  },
+  {
+   "key": "86c997714b16248772f3bb21a407eebb32769f9b",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC Sacramento video: Chris Padilla puts Nasrat Haqparast to sleep with shocking last-second choke-out",
+   "title_key": "798137b1fd7bc81fed17d44c177771409deb4d51",
+   "title_norm": "ufc sacramento video chris padilla puts nasrat haqparast sleep shocking last second choke out",
+   "ts": "2026-08-22T23:56:46+00:00",
+   "url": "https://mmafighting.com/ufc/506412/ufc-sacramento-video-chris-padilla-puts-nasrat-haqparast-to-sleep-with-shocking-last-second-choke-out"
+  },
+  {
+   "key": "632319f2942eb6acd9808a852036dfdc5dd65b31",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Shamil Gaziev returns to win column with terrifying one-punch KO at UFC Sacramento",
+   "title_key": "0eefa48f76593cf87cea74eb44850e707d8fd9b9",
+   "title_norm": "shamil gaziev returns win column terrifying one punch ko ufc sacramento",
+   "ts": "2026-08-22T23:56:50+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/shamil-gaziev-returns-to-win-column-with-terrifying-one-punch-ko-at-ufc-sacramento"
+  },
+  {
+   "key": "d60bb057573cacee17413b92283685b0d1bdf8db",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Conor McGregor teammate Eoin Sheridan scores KO of the Year contender in PFL Tampa opener",
+   "title_key": "18e9aea410e051738ea81bc3927e3ed9ef213202",
+   "title_norm": "conor mcgregor teammate eoin sheridan scores ko year contender pfl tampa opener",
+   "ts": "2026-08-22T23:56:51+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/conor-mcgregor-teammate-eoin-sheridan-scores-ko-of-the-year-contender-in-pfl-tampa-opener"
+  },
+  {
+   "key": "4b70d6a9fbd8a8123a242bd328e364f3fe30901a",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "ASPINALL AINT READY FOR HIM BABY. NASTY KO",
+   "title_key": "3c424a9705e7ed3946c7abc2801714fd84c664fd",
+   "title_norm": "aspinall aint ready him baby nasty ko",
+   "ts": "2026-08-22T23:56:52+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvqw8n/aspinall_aint_ready_for_him_baby_nasty_ko"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 0,
-  "llamadas_llm": 2,
-  "prefiltrados": 2,
+  "descartados": 3,
+  "enviados": 2,
+  "llamadas_llm": 5,
+  "prefiltrados": 3,
   "recogidos": 181,
-  "unicos": 4
+  "unicos": 10
  },
  "telegram_offset": 958387804,
  "version": 1
