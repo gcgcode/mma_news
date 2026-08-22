@@ -26356,15 +26356,48 @@
    "title_norm": "colby covington signs hype fighting championship submission grappling",
    "ts": "2026-08-22T17:16:51+00:00",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnV4aWQtMjRFVFV1RHFDQjJEd2VSeTk5dnpxQnNGLWhadHpDQUgyY3dlSEJiNHZmdzVkZVpVek1wMGFyMHlpQ19reERsTVpuSmNpREpuQWJwQXVQS205aHgtV2FPOFFhTEd0cC1oOGwxX0s5T1NhYmlNYWlpX1B6NEsyeW1pMkVkbUxfVkJXREcxVlM1Y1hIX2dvOUJ6SjM0Z1l1aGRZQ3A?oc=5"
+  },
+  {
+   "key": "50d5074faf44f262f4e1305e406edfe6a72cbabc",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Delphine Benouaich",
+   "title_key": "da52e0c8435242cff4a74d5f06a1541872b7a7d5",
+   "title_norm": "delphine benouaich",
+   "ts": "2026-08-22T17:40:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Mnk5Z2hIaTlFaHk2RFdwdTlNazRBdS1SdVVXTnlJYmxKa2R2UjBmSDVSVVQ2QzUxWERWenJYU29CNUVwczVaOEM2VFNTQllYeXhXVWRlZTN2MzhkN1ItT0VB?oc=5"
+  },
+  {
+   "key": "6c0fcc696e545811b9415acc310bb2357baae7a9",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Jones and Aspinall had a 6 years age difference and Jones ducked. Islam and Garry had a 6 year age difference and Islam still fought him. Embarrassing.",
+   "title_key": "50d064e4b04b7014d2ac2bce4a3cba99c0ec4302",
+   "title_norm": "jones aspinall had years age difference jones ducked islam garry had year age difference islam still fought him embarrassing",
+   "ts": "2026-08-22T17:40:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvhykt/jones_and_aspinall_had_a_6_years_age_difference"
+  },
+  {
+   "key": "05a10aab1445106e3ebd62a774b415f3918eec28",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Sacramento predictions: Full card picks, best bets Saturday",
+   "title_key": "30a31521cffbdde2cfbd1ca8cf3c1caf2705d3d6",
+   "title_norm": "ufc sacramento predictions full card picks best bets saturday",
+   "ts": "2026-08-22T17:41:15+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcjVkdm0yM2duaW42NTc4WmY1WTVDa0NwWlJUZ1kyNDJyaFl5TnByejdaeXd3aE5hQTAwb2JKOGI5Zk80WFlvTTFBdmJscUtvM0hYMzNfQTgtNWJkbmdqZ0RLVVZSNmpyYVRLbVlTbFFrQnhhLTM5dFBwWHBRdDhBNGxPNmpYejV5VGxnTmF3eldWMzg2WVdNSENaYlhTUkJLMDN2cVk3ZzVwd0tiMDZodHNDUXltRW10T0x6dzFZR1JQbEJYSVpIRUNHdk5HdFJVYzkycEtJQQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
+  "descartados": 1,
   "enviados": 0,
-  "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 180,
-  "unicos": 7
+  "llamadas_llm": 1,
+  "prefiltrados": 2,
+  "recogidos": 179,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
