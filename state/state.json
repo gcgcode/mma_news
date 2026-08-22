@@ -25927,13 +25927,69 @@
    "title_norm": "why javid basharat swapped ufc pfl after leaving promotion win",
    "ts": "2026-08-22T11:16:57+00:00",
    "url": "https://bloodyelbow.com/2026/08/21/why-javid-basharat-swapped-ufc-for-pfl-after-leaving-promotion-on-a-win"
+  },
+  {
+   "key": "8fc2065933a7a66d22ca6e29577726c3bc6d2d96",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Married man behaviour",
+   "title_key": "82994464728749637189b670f5655384a3c4b0c2",
+   "title_norm": "married man behaviour",
+   "ts": "2026-08-22T12:34:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvara2/married_man_behaviour"
+  },
+  {
+   "key": "e2160e1f0fd7012db364ee0ae66bd97d0b3de629",
+   "score": 9,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Colby Covington signs with a new promotion after retiring from the UFC",
+   "title_key": "5af68c46acc83d2925b1ee4f6f5691cbd8631f95",
+   "title_norm": "colby covington signs new promotion after retiring ufc",
+   "ts": "2026-08-22T12:34:48+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/colby-covington-signs-with-a-new-promotion-after-retiring-from-the-ufc"
+  },
+  {
+   "key": "2533fe0f2666f9bb75fb0b63eec03af987b2a3ce",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Watch: Amanda Serrano Hits 50 Wins After Close Manzur Title Fight",
+   "title_key": "a1d5c8ea65f846f9b43e7239dec3e572208e9138",
+   "title_norm": "amanda serrano hits 50 wins after close manzur title fight",
+   "ts": "2026-08-22T12:34:53+00:00",
+   "url": "https://lowkickmma.com/watch-amanda-serrano-hits-50-wins-after-close-manzur-title-fight"
+  },
+  {
+   "key": "4eaad68974df97fb7866794fd7f5a27ba222a7fd",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Watch: Aspen Ladd Brings Devastating Bare Knuckle KO Record Into BKB 58",
+   "title_key": "3a0de3edf2ff1239d4a5ce2b5bb87cc801b2ba21",
+   "title_norm": "aspen ladd brings devastating bare knuckle ko record into bkb 58",
+   "ts": "2026-08-22T12:34:57+00:00",
+   "url": "https://lowkickmma.com/watch-aspen-ladd-brings-devastating-bare-knuckle-ko-record-into-bkb-58"
+  },
+  {
+   "key": "ae4878e838c7daded3e851f49d5005041fd05287",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Should Islam Makhachev be on MMA’s Mount Rushmore? Michael Chiesa says yes",
+   "title_key": "ac42f4a4449c6984f0d2cf7f7a348fd496990396",
+   "title_norm": "should islam makhachev be mma mount rushmore michael chiesa says yes",
+   "ts": "2026-08-22T12:35:00+00:00",
+   "url": "https://lowkickmma.com/islam-makhachev-mma-mount-rushmore-chiesa-ufc"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 0,
+  "descartados": 4,
+  "enviados": 1,
+  "llamadas_llm": 5,
   "recogidos": 179,
-  "unicos": 0
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
