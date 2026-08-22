@@ -25894,14 +25894,25 @@
    "title_norm": "whatever happened him man seems like entirely different being here so poetic acute words even though now has become someone don like but kinda miss who used be",
    "ts": "2026-08-22T10:18:47+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vv88bi/whatever_happened_to_him_man_he_seems_like_an"
+  },
+  {
+   "key": "bb0858882f80b51598d2034e88f160c3b9d6ecf4",
+   "score": 7,
+   "sent": true,
+   "source": "Marca — UFC/MMA",
+   "title": "Hecher Sosa: “Estoy en UFC para pelear contra los mejores y demostrar que soy uno de ellos”",
+   "title_key": "487259bbcd75405d89baea04ea0999d3dd4d3803",
+   "title_norm": "hecher sosa estoy ufc pelear contra mejores demostrar soy uno ellos",
+   "ts": "2026-08-22T10:44:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3dGak52Yk44UDhqTXhNS0hWM1Z1Q2RYdUJpN1pEYkw2SEdOVWlSdmp6LXpsT1l0eEZiQ3llQmdDU1Iwc1hYQmRvYUtBMkVpaDhHcGNkWE5Ra1dPd1k4bURmWW5NcnRwZkFnOGJLOUI5X2t0M25DQkM0LW11VlpSRS05c2tDc0thUFRGSjZVT0g2RnlDbkHSAZYBQVVfeXFMTndzd1dDN2hHOTRFME1vNnFfREZqRncxZEtGYXMxZ2VtTy1fLW8zd0lDQzVmbWl1UXRZal8tR1NOMDdvTXY1YWtkb2lKaEVPYU4tQ01HRnkwbW55S0c2X21HNUszN3ByTU9PVGtFc3ozZk5Ednl6eElHdk0zUmFsN2hxbEJmemJ2MV9pbl9OZmdEQXpHTWJB?oc=5"
   }
  ],
  "stats": {
   "descartados": 0,
-  "enviados": 0,
-  "prefiltrados": 2,
+  "enviados": 1,
+  "llamadas_llm": 1,
   "recogidos": 179,
-  "unicos": 2
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
