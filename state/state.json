@@ -26389,15 +26389,37 @@
    "title_norm": "ufc sacramento predictions full card picks best bets saturday",
    "ts": "2026-08-22T17:41:15+00:00",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcjVkdm0yM2duaW42NTc4WmY1WTVDa0NwWlJUZ1kyNDJyaFl5TnByejdaeXd3aE5hQTAwb2JKOGI5Zk80WFlvTTFBdmJscUtvM0hYMzNfQTgtNWJkbmdqZ0RLVVZSNmpyYVRLbVlTbFFrQnhhLTM5dFBwWHBRdDhBNGxPNmpYejV5VGxnTmF3eldWMzg2WVdNSENaYlhTUkJLMDN2cVk3ZzVwd0tiMDZodHNDUXltRW10T0x6dzFZR1JQbEJYSVpIRUNHdk5HdFJVYzkycEtJQQ?oc=5"
+  },
+  {
+   "key": "2c22d666698e8d2f2cad4248a0833d8a5742efef",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Back to the future: Annika Sorenstam, Karrie Webb tied for U.S. Senior Women's Open lead",
+   "title_key": "9f27a8cab11db71598050fe74dad039c1884da01",
+   "title_norm": "back future annika sorenstam karrie webb tied senior women open lead",
+   "ts": "2026-08-22T17:58:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3RkT2RValUwbGY1ZVI0Rm1GWHFJRmI3XzIxNVFMMHBLYVhNdmlNWmJpX3lNWW5IVjF6MjlpT1BzRDQ5d0k0dG8ySWloakJhOTFLbHlTWmdnYUdiVHBxd0Z1RnYxUEhuMnBJeTBFMkM2cTNRdS1JX0l3YThTb1QyOGoyU0M?oc=5"
+  },
+  {
+   "key": "04835430d7e0043c3d054b4c09055b5cef2bad33",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Court McGee: UFC Record, Bio and UFC 332 Retirement Fight",
+   "title_key": "513f00e2dd871c7bba2b6dec162043db99790503",
+   "title_norm": "court mcgee ufc record bio ufc 332 retirement fight",
+   "ts": "2026-08-22T17:58:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZEJTMjlLT3hrNW43eUZqdnQ4VmUtT3U3eHMydWVQcEtyQWk4aU9HMGE3eEtqYnZHcTFkTHZmd1lPNnVsYkhOOVpXOHZqSnF5TVp3Sg?oc=5"
   }
  ],
  "stats": {
   "descartados": 1,
   "enviados": 0,
   "llamadas_llm": 1,
-  "prefiltrados": 2,
+  "prefiltrados": 1,
   "recogidos": 179,
-  "unicos": 3
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
