@@ -26114,15 +26114,59 @@
    "title_norm": "mas grande casa blanca dana white anticipa nuevo megaevento ufc",
    "ts": "2026-08-22T14:17:50+00:00",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUlJeDZHZDA0TjJSSDd0N25RcWtCYTlQb3EwOUdWNHhWZmE0bjhiSHM4THUxMmNlclJnTFlhTzZNcjRxWUZGZHdUMUFhSFY4ZkYxUWZDVVpvbnVvY2wtY1dEeEJiQkh1R2pqN0JwSU9JUHAtSV9Bci12TkZmNWFBbnd6WjQ5Tk00Z1hrQU9NUEMyVkVRN0tlc1E5ZENtWFBWcUJGY1pNUGNmQQ?oc=5"
+  },
+  {
+   "key": "f030d79067ebbb387035b82461c346c85bc60ebb",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Kris Moutinho wins in BKFC last night",
+   "title_key": "fb3bd69372a4575abc71905d60a4845665b8f7a8",
+   "title_norm": "kris moutinho wins bkfc last night",
+   "ts": "2026-08-22T14:42:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvcmwa/kris_moutinho_wins_in_bkfc_last_night"
+  },
+  {
+   "key": "c055a64cb6c87c9cad9a1e160dd6dfb0019699e6",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "How are we picking Anthony Hernandez vs. Gregory Rodrigues at UFC Sacramento?",
+   "title_key": "9c85dc0279e7e4f12cf16331e65abaf4f113a03f",
+   "title_norm": "how are we picking anthony hernandez vs gregory rodrigues ufc sacramento",
+   "ts": "2026-08-22T14:42:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSklEOHJJMk5CSVpvWXJWaXNKb3J4SGVoQS1NTEhyYXlTd3lhYV9NcEFMT2tHcXJYSGVYTTRzVnNQcUtNU1lOdUVpYzRBbWVKYjZIQll5RVNuVFFCQlI4Nzd2dW83R1BRaGlhbFJfWXc3T2lhRlQ2cHRzZ3FVSjhTWmFzMlhkVmw0V19QTnNVcm5nMW53eFRqRFBmVG1sZzRDeUFMNm1Eb0dUVFNlcHA5ZXpzSXhSblFaSWhtUXZQWC1JTVpvSW1fTFl4QmRScUo4Qmo5YjdYNXRkQkZwd0tUQ3J1UjQwdGc4d1hJTXJyTnVqWENS?oc=5"
+  },
+  {
+   "key": "211cf3d35ac9330e98522dbeb6c324c73f938583",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Bo Nickal and Sean Brady weigh in nearly a whole UFC weight class higher for RAF anniversary card",
+   "title_key": "59f73bc180eec4d64fc1eed624286ff2d97ed75e",
+   "title_norm": "bo nickal sean brady weigh nearly whole ufc weight class higher raf anniversary card",
+   "ts": "2026-08-22T14:42:54+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/bo-nickal-and-sean-brady-weigh-in-nearly-a-whole-ufc-weight-class-higher-for-raf-anniversary-card"
+  },
+  {
+   "key": "0d69042f1c6ed2ab5a3e2448a70775c454780289",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Iraqi MMA fighter Namo Fazil announced a fight with Chechens",
+   "title_key": "147ba5e599159cd33a5c7ce9ac6e0c78f5a04c84",
+   "title_norm": "iraqi mma fighter namo fazil announced fight chechens",
+   "ts": "2026-08-22T14:42:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalBBc1VpWGhnejdYUi1EQUxoaV9xVWJ3d1RHWTRZSEs1SElmRHNJRm1vdFdOWGlNaExhZDBFYlJNYkNiaXBYcDAteVE5QlE2QV9UcGxmTGRpSmpYTE54QlVXYzlaSmlpc09tY2lfVmlKMVZ4UER6bnNJeDZDRXdVU1JuSWJ6VmZQTjh6MFhOb292Z0ZRYk9JSG44bWg5WERUaFY4RTFGWQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 3,
   "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 2,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 180,
-  "unicos": 6
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
