@@ -26180,14 +26180,59 @@
    "title_norm": "crowd throws objects ex ufc fighter landing several punches after referee waved bout off",
    "ts": "2026-08-22T15:16:27+00:00",
    "url": "https://bloodyelbow.com/2026/08/22/crowd-throws-objects-at-ex-ufc-fighter-for-landing-several-punches-after-referee-waved-bout-off"
+  },
+  {
+   "key": "8e4e2149cca9a6ce048385df33d4326c12bffc0b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Top 5 Killer Instinct Moments",
+   "title_key": "03d36eab909643327966698c0975ba2fc059f7df",
+   "title_norm": "top killer instinct moments",
+   "ts": "2026-08-22T15:39:33+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvevda/top_5_killer_instinct_moments"
+  },
+  {
+   "key": "052032cb9fb686d17455884f8e3fb51d329b9b96",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "A whole bunch of unanimous picks for Cyborg’s PFL Tampa retirement",
+   "title_key": "4ee27bfe30e8762febe96a1ac3522016bf01d5a0",
+   "title_norm": "whole bunch unanimous picks cyborg pfl tampa retirement",
+   "ts": "2026-08-22T15:39:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONzFmQXNWMVpxNnk0WmxTdF82RTMxbFNMTkQyQ0hzc053aGlCQnpOSXpXVG1YRW9pT0k2UUFtRmVjY2JKbkFKQjhMSUJ6bElhOFppMmdKYjdzNjdha2ZreTB6MXUwd1hxbmZVaGVoYVFyT19hWHpnU0F0dlB1ZVhDQWVYaWpKeU9OSVJQZjYzemVobGVZNktuR29MaHM3LURiWlh5ZkhsaXA3VTdGblE2NjZlbV83LTd5anpiVFR1NzhqUHpwVFk0bU9FaDQ5MlkySTh5eXVuNExvMTZ2QVFWLTdsQ0o0clJvZ19nVUFFcXlOSDA?oc=5"
+  },
+  {
+   "key": "5d99c727ff7a0fa993457fc93ade468b37e0e893",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Sacramento Start Time, Full Fight Card Details",
+   "title_key": "75f5d63fdfa711c8511b39b3ae5efd82a4c66a03",
+   "title_norm": "ufc sacramento start time full fight card details",
+   "ts": "2026-08-22T15:39:35+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFN0VFAtYVpDVlpiZzV1eV9DNWQ1cDZJQ2dGb2pWQWZzV1VFM0dKTmQ0TDhrOWQyZEt5VndNeWp3T1VoN290X29aUkhxUHZnOXJ1a3g4WUNuaC1GUl9KX2poOEFsdGJPQjhLcXBwTHctVHhMSHYyLThDVVVTQ0dvVF9RQjdESXlPUlBBaEI4dGQzTGVEOGxvcEh0UDBITll3RXYxUzJvR2RobU9lbjFkc0JVZ19JMWZNbEFaUg?oc=5"
+  },
+  {
+   "key": "08c8e33ecb3adc3a7500cb088b9ee1d716d74543",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Fight Night Shanghai: Nurmagomedov vs Song, a pivotal bantamweight clash and tickets for Oriental Sports Center",
+   "title_key": "f5bfdf057b679ab43a3b85222cad52219ddf6d97",
+   "title_norm": "ufc fight night shanghai nurmagomedov vs song pivotal bantamweight clash tickets oriental sports center",
+   "ts": "2026-08-22T15:39:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDBGYWZnT0NnSGhqTDNpVHFRYWVZV1RMZm95Rl9YRXN6RGJrQW91RFBoT2tDNE5mSlAzZWI1WXAwOWhrd3pzZGJCUUdSRkMyRllCODBYYVM4WnpQaHhBNWRzazF5dFpucDl2emE3SEU0Y3VmNTc0UkhobDYwN08wTnN4NUwyQ0I2TW1iYko2WTFWYW9JWXI4eURZUQ?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 0,
-  "llamadas_llm": 2,
-  "recogidos": 160,
-  "unicos": 2
+  "enviados": 1,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
+  "recogidos": 180,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
