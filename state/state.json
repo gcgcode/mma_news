@@ -25399,15 +25399,69 @@
    "title_norm": "kamaru usman propone nuevo camino khamzat chimaev tras perder titulo ufc",
    "ts": "2026-08-22T02:15:53+00:00",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSk1IQ1NWSmhuY0tuZjBRVEJaZWM3c3BuUGFndDJhTWx5RmtBUDJjM0tLTTQzem04NUJPdzZPbHZmci0wX3diUVVqdkk1MXd6cm5sQjV5TWJpdmsxSzA2Q0ZmTXNSeUdGR1hqbkxXN0U0UTN1QU1YU1RTR3hZUndtWHQtV1NJRHhDZ0JWUi1sNl84ZFV0bngxV1RZX0U4a3dJTEhMWjFKOHdTQ3ZISWRYTEl5MnFxOG8?oc=5"
+  },
+  {
+   "key": "f5d3211e2b8699d38faede460d594af74e8d36c6",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "PFL Tampa ‘Cyborg vs. Vieira’ play-by-play, results & round scoring",
+   "title_key": "2b8ab768382a1ddf5c7368b1e462dc539af3e5d1",
+   "title_norm": "pfl tampa cyborg vs vieira play play results round scoring",
+   "ts": "2026-08-22T03:16:37+00:00",
+   "url": "https://sherdog.com/news/news/PFL-Tampa-Cyborg-vs-Vieira-playbyplay-results-round-scoring-202478"
+  },
+  {
+   "key": "36d4077149656e87806b6c481d8e52475240392d",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Bo Nickal wants to beat Khamzat Chimaev in two sports as both prepare for returns outside the UFC",
+   "title_key": "32b36bd178635bae96e586e6d38cb5a962526c87",
+   "title_norm": "bo nickal wants beat khamzat chimaev two sports both prepare returns outside ufc",
+   "ts": "2026-08-22T03:16:43+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/bo-nickal-wants-to-beat-khamzat-chimaev-in-two-sports-as-both-prepare-for-returns-outside-the-ufc"
+  },
+  {
+   "key": "6c116c88d9411d1abacdcbed30c31aab504de2f1",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Little reminder only one fighter In UFC history never ducked a fade in the two most skill stacked division's in the sports history regardless of his weight and ",
+   "title_key": "ac001a35477e693a84cba5a25c8d6f1c90434711",
+   "title_norm": "little reminder only one fighter ufc history never ducked fade two most skill stacked division sports history regardless weight height opponent",
+   "ts": "2026-08-22T03:16:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv0jos/little_reminder_only_one_fighter_in_ufc_history"
+  },
+  {
+   "key": "bd742e6ffc97149589d33cb0e077120c70163444",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Meet the 6'5\" PFL welterweight they call a 'sniper'",
+   "title_key": "e3addf47e2e1deb980a1714baac0856d4cfbe832",
+   "title_norm": "meet pfl welterweight they call sniper",
+   "ts": "2026-08-22T03:16:45+00:00",
+   "url": "https://sherdog.com/news/news/Meet-the-65-PFL-welterweight-they-call-a-sniper-202465"
+  },
+  {
+   "key": "482a1daca4a90e15e8f02fe61ad1977552c3b87f",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Dakota Bush has a warning for PFL lightweights after 34-second KO",
+   "title_key": "bfe43a40e1890f0915b497bf5af9b8f72d2766c4",
+   "title_norm": "dakota bush has warning pfl lightweights after 34 second ko",
+   "ts": "2026-08-22T03:16:46+00:00",
+   "url": "https://sherdog.com/news/news/Dakota-Bush-has-a-warning-for-PFL-lightweights-after-34second-KO-202463"
   }
  ],
  "stats": {
   "descartados": 5,
   "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 179,
-  "unicos": 13
+  "recogidos": 92,
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
