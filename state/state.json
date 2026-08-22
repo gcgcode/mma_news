@@ -26279,14 +26279,25 @@
    "title_norm": "max holloway news rumors ufc",
    "ts": "2026-08-22T16:18:46+00:00",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14RXhlMlpST2pQM0ZIUG1ha1VkdS1TUHpfOVloS3luQTFLSXBIS3RUQ1NMR3ZpU1NPQTcyMGk5bEJBNW9iRVRtcE5ON3E4NHpjM0dUOXRkTzdaRmNmWlVJ?oc=5"
+  },
+  {
+   "key": "3e8ecda3e7b717ecb23c7a60997b24957a701b7f",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "If islam looked like this,was american,and his name was christian mchashey how high would he be in the goat list.",
+   "title_key": "c8620362dc4e209d6dd6740b4ab119cfba60a26a",
+   "title_norm": "if islam looked like this american name christian mchashey how high would be goat list",
+   "ts": "2026-08-22T16:44:52+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvgozw/if_islam_looked_like_thiswas_americanand_his_name"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 4,
+  "prefiltrados": 1,
   "recogidos": 180,
-  "unicos": 4
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
