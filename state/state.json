@@ -25707,15 +25707,48 @@
    "title_norm": "anthony hernandez enfrenta gregory rodrigues nuevo aterrizaje ufc sacramento",
    "ts": "2026-08-22T05:47:00+00:00",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDRLamk0R0tpSXkzRmRoTWxwWjFfek5HR3lzYWpaLU1rdDV2b3p5MjRYb3BYeVVqV1R4cEx5Yk1veVNsLWtLaFByMWVHTzR3OW9HZ0ZSU3hJUFBnYjR4eFZCZVN0aFVfclo5OUdNSm9MdWlkZ1BJU2ZFN2NFdG9idlZ6NGVJWkU2NF9vY0pjOW43d0x1UHJqS1ZyWDFfWXV5SEZWZG51ZWNYN0k0bHdiWjNXbnJJMFFaVFZFNllZMDMxMWwyNDJLa2N3QzhQQm9lLUHSAd8BQVVfeXFMUDB3RE84SXd6Tnp6a0N2UDlFTnJhdEdWYWF2aldzdVdWWDlZOVJYOHhtUUNSbm5lR2hRZGIwVkZaUFI1ZFZ5RThyekt5ZEwyeTJHSEZ0dlZUZUFTc1A4UFpqcHZZU0hKQ2RBOHlqVXVIemRna0FSVTdXN1J5Rlh4RTY5SkU4UWZ5aElRakItelE3bm1oQU15OC03XzgxZEpPWDVNVUgzRlh5OGV1ZGVhUXR2UDVPanhTUG5qSURBVUJ3SnNuVEliRDNJZnROazgySEh6dFN4c1lNMTZtMzVqdw?oc=5"
+  },
+  {
+   "key": "3513078317e5a6b581235ec4db96a1d9201a4b9c",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Amanda Serrano sigue reinando: ahora su ‘víctima’ fue Lucrecia Manzur",
+   "title_key": "293107f77b381798532145e2731a2db89dac653e",
+   "title_norm": "amanda serrano sigue reinando ahora victima fue lucrecia manzur",
+   "ts": "2026-08-22T06:31:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUzlFU0Z4T1RJcE5rNmhBZEZBdkRvUVNvelBoTUdtb0dhakw5ZVpMUENDODhoOE02WFY4elZVZFVveEkzRDJXVWhZZk5HX0M4eThBcU5ieHhtYkRVTERscUI4WV9FbTdhNGN4TE9IWTQ4QTgzU3FicWZqbVlrbGJjemh6OTZEbUhWZFpTekY1Qklrc3dGNDNtejRTaHNKM0J6aGN4X3pfT0JlOVZaTUp6Q0kyMW9ucmRGOVJuSWlB0gG-AUFVX3lxTE1TOUVTRnhPVElwTms2aEFkRkF2RG9RU296UGhNR21vR2FqTDllWkxQQ0M4OGg4TTZYVjh6VlVkVW94STNEMldVaFlmTkdfQzh5OEFxTmJ4eG1iRFVMRGxxQjhZX0VtN2E0Y3hMT0hZNDhBODNTcWJxZmptWWtsYmN6aHo5NkRtSFZkWlN6RjVCSWtzd0Y0M216NFNoc0ozQnpoY3hfel9PQmU5VlpNSnpDSTIxb25yZEY5Um5JaUE?oc=5"
+  },
+  {
+   "key": "b4d8574cffc22c4cee237e5cd1bc16e605f91366",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Robocop wants to be clapped",
+   "title_key": "97061885d5f837f01051f55a0eb226a04774c813",
+   "title_norm": "robocop wants be clapped",
+   "ts": "2026-08-22T06:31:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv4ebl/robocop_wants_to_be_clapped"
+  },
+  {
+   "key": "406272a0760919bcc1d45f859e78e6f74a94f599",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Amanda Serrano’s controversial win over Lucrecia Manzur draws over 3.4 million viewers on TikTok",
+   "title_key": "e3291e172e7878d31d5ca4fd56ccb1a37d794c81",
+   "title_norm": "amanda serrano controversial win over lucrecia manzur draws over million viewers tiktok",
+   "ts": "2026-08-22T06:31:45+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/amanda-serranos-controversial-win-over-lucrecia-manzur-draws-over-3-4-million-viewers-on-tiktok"
   }
  ],
  "stats": {
   "descartados": 1,
-  "enviados": 2,
-  "llamadas_llm": 3,
-  "prefiltrados": 3,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "prefiltrados": 2,
   "recogidos": 179,
-  "unicos": 6
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
