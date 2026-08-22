@@ -26983,15 +26983,59 @@
    "title_norm": "ufc tonight fight fight preview ufc sacramento",
    "ts": "2026-08-22T22:42:34+00:00",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1BaSURsX3FYUUVuLXFIamRnWGsyZWhpNl80cmNWT2xlNGNnX3BaaElPQy1RRlEwSGNGMFpVTlpuekpXQ1hxVzhtbnBHQ2MzTmZTdVgzOEZpT1h1bFNMNWJCa1pPZDdydDVzbE9WX3c1blFnLU5hMlphYzJaUWtjUXZsWVlJQUhzSEE?oc=5"
+  },
+  {
+   "key": "7c47a0b045169409016c296ba860d5837bd6d168",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Teófimo López vs ‘Rolly’ Romero: a qué hora inicia la pelea y dónde ver en USA la función de box 2026",
+   "title_key": "91560140bedb30df0cbeccb433630cf791cd2e48",
+   "title_norm": "teofimo lopez vs rolly romero hora inicia pelea donde ver usa funcion box 2026",
+   "ts": "2026-08-22T23:16:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2x0MV80c1ZBa0JzNGRrRmh3bVdXald4ZDl3TzhEQ1pIVjRVOG52VVU0NlQyaFN6SDN5d2xGVzNkcmRGUDc2MkhqZkRWTDI0U29XbWYwR1Q4cGVCREgyLTJhN1VySE1xYjJqRGpJbU5qNnNNRS01Y0xuUEdmaWVWMWN0WUp4Q0lfd012c01ka3FFWmpCbGl1MnE5NDF0UjM4X1RHUlh5bmpjaDFUTHQ5ZUwtNVEtbUZ3T3ZxbjYxZTZrN0dLbHFXV0NFamF4YkNPQ29lcFRBUjNYNnVYd1k1NWFZaS1VcV930gHoAUFVX3lxTE83bHQxXzRzVkFrQnM0ZGtGaHdtV1dqV3hkOXdPOERDWkhWNFU4bnZVVTQ2VDJoU3pIM3l3bEZXM2RyZEZQNzYySGpmRFZMMjRTb1dtZjBHVDhwZUJESDItMmE3VXJITXFiMmpEakltTmo2c01FLTVjTG5QR2ZpZVYxY3RZSnhDSV93TXZzTWRrcUVaakJsaXUycTk0MXRSMzhfVEdSWHluamNoMVRMdDllTC01US1tRndPdnFuNjFlNms3R0tscVdXQ0VqYXhiQ09Db2VwVEFSM1g2dVh3WTU1YVlpLVVxX3c?oc=5"
+  },
+  {
+   "key": "1d6ea69e123413b5de1fbffde32f1d8d1f84c2d4",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "HOLYYY SHITTTT",
+   "title_key": "def7452527853c9a4e161ac506589e64f45b9015",
+   "title_norm": "holyyy shitttt",
+   "ts": "2026-08-22T23:16:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvqmtb/holyyy_shitttt"
+  },
+  {
+   "key": "eda8a3e09ddfee4d8affbecf7cafce7309580dfa",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Tyron Woodley claims he has a UFC GOAT claim as strong as Topuria and Volkanovski’s",
+   "title_key": "b7a23aa22af115c765c49d250772a535528824eb",
+   "title_norm": "tyron woodley claims has ufc goat claim strong topuria volkanovski",
+   "ts": "2026-08-22T23:16:59+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/tyron-woodley-claims-he-has-a-ufc-goat-claim-as-strong-as-topuria-and-volkanovskis"
+  },
+  {
+   "key": "1e6626d1b144921562a293f39b0ba985a1737a0e",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Featherweight has a carlos prates",
+   "title_key": "3a7c5eb276a518fb372fc85bfa5ac20e85443119",
+   "title_norm": "featherweight has carlos prates",
+   "ts": "2026-08-22T23:17:00+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvpw1t/featherweight_has_a_carlos_prates"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 0,
   "llamadas_llm": 2,
-  "prefiltrados": 7,
+  "prefiltrados": 2,
   "recogidos": 181,
-  "unicos": 9
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
