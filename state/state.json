@@ -25930,11 +25930,10 @@
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 2,
   "recogidos": 179,
-  "unicos": 2
+  "unicos": 0
  },
  "telegram_offset": 958387804,
  "version": 1
