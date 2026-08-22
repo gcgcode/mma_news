@@ -25828,15 +25828,58 @@
    "title_norm": "daniel cormier talks usman nurmagomedov asks him come ufc",
    "ts": "2026-08-22T09:01:46+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vv6m79/daniel_cormier_talks_to_usman_nurmagomedov_asks"
+  },
+  {
+   "key": "c88123891192b3df3ada3b0ac41e6fb4673c073d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "🙂😃",
+   "title_key": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+   "title_norm": "",
+   "ts": "2026-08-22T09:46:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv791s/_"
+  },
+  {
+   "key": "473e6beebc9203992033dbcda5f49e504b7e04a3",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "El dilema de Holloway: McGregor, Makhachev o Gaethje",
+   "title_key": "68d2dc98ae376a9db08e22ea398328609ba25556",
+   "title_norm": "dilema holloway mcgregor makhachev gaethje",
+   "ts": "2026-08-22T09:46:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWc4Ul9tajFBX3JRUjJRUExma2ZsMGwzSDJCeUR6YU1XeU1MXzAzQVJNNzV4VUhDb1JCcDBaOWlSRWRSVlU4M2tyT3BKYmhDVWR5MW03ZkVfUlRVRndpbUxMR0dWNktXZHQ4RzNSQ203WU9tS0p6bjRHM1V4dHZVOHVQTGNWQTZIREw3T3J0b3lSTEJpdnB3SjZIMzhDeW5OTWw00gG3AUFVX3lxTE9oQlViSGphRGt0MThBUnFnekhYc0YyZExpQ3JZaGFwRWNfS0JFM2ljQUx5NlNfVVlYeFI1SHFUSHZYVmpEaVVRcU5yVFg3SGRaY3ZKbGtFbGt2Z055SDRwOGRXQTVzUVFEUEhXN0RnLWtLb1BjYlN3Z01ZTWp5bTZBVWctRlZnYlVBNDJpeXp1QTdIOXAwbkhXX1B2dDFHdDNjOHJoOVphblBTSGItb0lCSDFYV2Q5Zw?oc=5"
+  },
+  {
+   "key": "25deb5712bee1fecc8c8de10e7cb4d890006ca3e",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Anthony Hernandez vs Gregory Rodrigues Predictions, Picks & Odds",
+   "title_key": "bcab86ce1525f527c08f7902bff8840c71931d06",
+   "title_norm": "anthony hernandez vs gregory rodrigues predictions picks odds",
+   "ts": "2026-08-22T09:46:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbExqZ1Z2RFZKSlAxQWU4VmlhdmFWc2g0Qk9Wd0lOWTAtemY0c2UyaGh6YXFqVVE4WXVmRTI2QVg4cmpwWnc2dl8tWi1EUmlMaHZzM2dCTXBhWE14WC1zaWxaa1lKTEtlS25BaHMwOVBpYmIzTWxuczc1U0l6NVVtSFlVZEpKamlSX0NXanRWMkw?oc=5"
+  },
+  {
+   "key": "c4a1b8e5efc4bc1f3ec95f8a7f37e66c1a07e348",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Csepel UFC II.",
+   "title_key": "c364f7cf679e9db28749e8d66c490d0162758fb8",
+   "title_norm": "csepel ufc ii",
+   "ts": "2026-08-22T09:46:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3c3YmM1TlNMMUVZYmw0ZXhPeFg0a0hBdXNYZVpkU0ViLXdxOHR4alIwcTFaYUJPenJWaTlkTnhQM2ZMNFBJZDdUOUZXMkZtQ3NzTkpnV1E5RGJDV2psT2NKRUtFOHkzeXpGZThPLWJ3VVNfdjlHTVRmaHc2cE9ka2hTaUg?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 1,
-  "prefiltrados": 1,
+  "prefiltrados": 4,
   "recogidos": 179,
-  "unicos": 2
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
