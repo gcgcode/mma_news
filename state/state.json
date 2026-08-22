@@ -26587,15 +26587,36 @@
    "title_norm": "merab dvalishvili shares encouraging update ilia topuria",
    "ts": "2026-08-22T19:39:42+00:00",
    "url": "https://lowkickmma.com/merab-dvalishvili-update-about-ilia-topuria"
+  },
+  {
+   "key": "353be2f8e216f16e4d12d1540ff92c53de45c907",
+   "score": 1,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Ian Machado Garry Vs Belal Muhammad | FULL FIGHT | UFC 330 Prashant Veer (eWaK5zxERv)",
+   "title_key": "08816d575a7351aabea594db9bbf1d527eb4baf1",
+   "title_norm": "ian machado garry vs belal muhammad full fight ufc 330 prashant veer ewak5zxerv",
+   "ts": "2026-08-22T19:55:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QbzFBdVpSX0lMa2RxWnR4M3YySFVQWXhYQ0xBNmlWSWN4Q1Uzcy1USE5fS3NEV3J4aVFQZDFFZGRBQ2VxQVB4OENBQWFGSE1mM0xPd1VpY0Y4U28?oc=5"
+  },
+  {
+   "key": "e7a277085b89155b34e454ed7706385126b40583",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Holloway On McGregor's UFC 329 Comments",
+   "title_key": "34994d4ed55c893cd4cf7f26ba4d2277414d4b86",
+   "title_norm": "holloway mcgregor ufc 329 comments",
+   "ts": "2026-08-22T19:55:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54VU8zZFBYRVpBaWlmNVB5d2k2ZHBvdWg4Q0hNeVQ5Si1HYnZZQ2R3Nnl3c2FQNW1UQTktV1djQ1hTdzFfMk0zRlpkSHlSeUhvSEZDRkJhNVlCY1lWYkZGQlNYbjFjcFFVdXpWNHVTRQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 2,
   "enviados": 0,
-  "llamadas_llm": 3,
-  "prefiltrados": 2,
-  "recogidos": 181,
-  "unicos": 5
+  "llamadas_llm": 2,
+  "recogidos": 180,
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
