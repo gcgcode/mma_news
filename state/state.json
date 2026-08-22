@@ -25597,15 +25597,59 @@
    "title_norm": "josh hokit wants tom aspinall stripped vows reset heavyweight",
    "ts": "2026-08-22T04:39:50+00:00",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hUTBUTTJEbDRTTEpYcGg0VUs3eFlKRlFacGxrdVliM2FvTkkwbmtJWm1lUGd3bU1ZOXQxMjdSeWZxY3RyeUs4Ul84Q3VsNUVqQksxY19PWFNTQVRuQXRhM0FrVnppT3ctNW1ROGxhLTRhdTM2Y2w0ZWxKWkU?oc=5"
+  },
+  {
+   "key": "eb2a02e6439d6147213cfe7b6800f7750ef289e7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Start",
+   "title_key": "2b020927d3c6eb407223a1baa3d6ce3597a3f88d",
+   "title_norm": "start",
+   "ts": "2026-08-22T05:04:43+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vv0dv6/start"
+  },
+  {
+   "key": "002b5cfe4b15d9f3481f5c8eb034f981c3288c5d",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Streamer Vitaly ‘handcuffed and detained’ by police days before boxing return against Larry Wheels",
+   "title_key": "c39fa275b2f6290c4f6fd32d2639048c62c98087",
+   "title_norm": "streamer vitaly handcuffed detained police days before boxing return against larry wheels",
+   "ts": "2026-08-22T05:04:43+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/streamer-vitaly-handcuffed-and-detained-by-police-days-before-boxing-return-against-larry-wheels"
+  },
+  {
+   "key": "e392d000b5c2cd98f1cd4e90b6545c0d5d8419ba",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Analyst confident in Ian Machado Garry's title future after UFC 330 loss",
+   "title_key": "7762a022580c50f2f15554fe7462d4b663dc1809",
+   "title_norm": "analyst confident ian machado garry title future after ufc 330 loss",
+   "ts": "2026-08-22T05:04:47+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmNJVXl0VGNTSmJ3eGowamNjeTQ3UlNTbFFDR1NMU0NxbUJvUzJ0SkRETlhmZHhMYWtDck9HaW4tck5zRk9CSk93VUhkTV9MMTFUOFBOSlVsRGM5R1dnSEY5b3pWT1JpUUR6Q1R1TDhOM3BGbURVdTBNazczUDNXNjdHRks5SHZEX2pWR0YzTVI2cGVQM0RLTTRIZkpNTWdDS0xEdTNlb2Z6SjJXbTFtR2xFS2NDMU5Ed2VKSGx6bDEtRUdPMFh6cTJjQ0lMeW4yc0NJ?oc=5"
+  },
+  {
+   "key": "589fd3480e609c17ff10e50274bc351817fe4a8b",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC champion Alexander Volkanovski sets retirement terms after next fight aged 38",
+   "title_key": "941f853bf1010c1d7628793193c596a141d9d7e8",
+   "title_norm": "ufc champion alexander volkanovski sets retirement terms after next fight aged 38",
+   "ts": "2026-08-22T05:04:52+00:00",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlpvV3lpb3RNZllVbWZpLUo1ZlBJWk9Pbkx4ZUFPZWhpLV9pMm9qMGltYVpNTWRYZDJuN3hDbkpNdTM1RzdRVmdabzRnQ051QmtsN0RiSGNyYjN0clNWZ3JyYWhkTUlnN3o3cTI0NUJSRHpMbFMzbDFPYmFHbGFGTlJYRVhkTmp2c0ZNdTY0VExMTFJkeUNVWWpMQVo?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 159,
-  "unicos": 5
+  "descartados": 1,
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "prefiltrados": 2,
+  "recogidos": 179,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
