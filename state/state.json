@@ -26224,15 +26224,25 @@
    "title_norm": "ufc fight night shanghai nurmagomedov vs song pivotal bantamweight clash tickets oriental sports center",
    "ts": "2026-08-22T15:39:41+00:00",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDBGYWZnT0NnSGhqTDNpVHFRYWVZV1RMZm95Rl9YRXN6RGJrQW91RFBoT2tDNE5mSlAzZWI1WXAwOWhrd3pzZGJCUUdSRkMyRllCODBYYVM4WnpQaHhBNWRzazF5dFpucDl2emE3SEU0Y3VmNTc0UkhobDYwN08wTnN4NUwyQ0I2TW1iYko2WTFWYW9JWXI4eURZUQ?oc=5"
+  },
+  {
+   "key": "4f7a4caf0e073e2ecb3bc02d40c77965b1164be8",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "19-Time Octagon Veteran Steps in on Short Notice at UFC Fight Night 266",
+   "title_key": "15c9645f1e7b6822880ae19e591ec9bf34048e78",
+   "title_norm": "19 time octagon veteran steps short notice ufc fight night 266",
+   "ts": "2026-08-22T15:57:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzRyNVZBbEJtS3BkWUx2d2NqTWRDNnk1ZUhPOWc3Q0VlYmpxeU5hUU9QZlhTUnNwcTJkdmxSSFhJVG5lZ2tMZ3FVelRDOHRQd21LSGZ4LTQ5cWNESHd4Yld4VHkxd0FoZ3NDQVVRVkRWQ3RKOTdhaHZGQ1JFTzJpeFFlR3hPQVVLVlZycWZhYVI2SkE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "prefiltrados": 1,
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
   "recogidos": 180,
-  "unicos": 4
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
