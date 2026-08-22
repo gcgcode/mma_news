@@ -26675,15 +26675,25 @@
    "title_norm": "francesco nuzzi news rumors ufc",
    "ts": "2026-08-22T20:18:41+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kZ2pUV2g2TjNRcEc5Q3E4enl6WjZPd0I5Qi1oVXVxdXFIb19QWTQ5VEUtQWNlU0d1ZjgtdlJSSDJraWVxNkJ6QmZ1d1FpaWxZMlNSa0VHZ2w1Vl9valpnZW9n?oc=5"
+  },
+  {
+   "key": "285fadcf69c8690b6585aee45d0e505dd0dbd95f",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Yair Rodriguez out, Jose Delgado steps in against Jean Silva at Noche UFC 4",
+   "title_key": "5f5ddcfb42e578122cc3066d62e3a555e0fe5393",
+   "title_norm": "yair rodriguez out jose delgado steps against jean silva noche ufc",
+   "ts": "2026-08-22T20:44:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmM3RkFMTGxJUm1hNm9yVVJEUTljQzU5NkRqSDhxU2N3ZkowUmE0WVE4UmRtSXllc3JQZnpxM0NzTDBWUXNnejJmZVFmdm9wamxCa0x0U2VTNHZYOUpWdFVqZEx3YmZILTdySDVkV1pVUHRQSmxCUVlTcVN4ZUxtS21rLVVTRzA?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
-  "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 180,
-  "unicos": 6
+  "descartados": 0,
+  "enviados": 1,
+  "llamadas_llm": 1,
+  "recogidos": 160,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
