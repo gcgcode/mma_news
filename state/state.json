@@ -25740,15 +25740,25 @@
    "title_norm": "amanda serrano controversial win over lucrecia manzur draws over million viewers tiktok",
    "ts": "2026-08-22T06:31:45+00:00",
    "url": "https://bloodyelbow.com/2026/08/22/amanda-serranos-controversial-win-over-lucrecia-manzur-draws-over-3-4-million-viewers-on-tiktok"
+  },
+  {
+   "key": "7c75eed7b82f1f2b420ee5592eac5eef4fd8ef45",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "RAF 12 Results: Dvalishvili vs. Cejudo 2",
+   "title_key": "2fb99e98d74f95cd21399995af8e022e300bc938",
+   "title_norm": "raf 12 results dvalishvili vs cejudo",
+   "ts": "2026-08-22T07:55:55+00:00",
+   "url": "https://mmafighting.com/raf-wrestling/506099/raf-12-results-dvalishvili-vs-cejudo-2"
   }
  ],
  "stats": {
   "descartados": 1,
   "enviados": 0,
   "llamadas_llm": 1,
-  "prefiltrados": 2,
-  "recogidos": 179,
-  "unicos": 3
+  "recogidos": 67,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
