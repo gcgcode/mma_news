@@ -25905,14 +25905,36 @@
    "title_norm": "hecher sosa estoy ufc pelear contra mejores demostrar soy uno ellos",
    "ts": "2026-08-22T10:44:50+00:00",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3dGak52Yk44UDhqTXhNS0hWM1Z1Q2RYdUJpN1pEYkw2SEdOVWlSdmp6LXpsT1l0eEZiQ3llQmdDU1Iwc1hYQmRvYUtBMkVpaDhHcGNkWE5Ra1dPd1k4bURmWW5NcnRwZkFnOGJLOUI5X2t0M25DQkM0LW11VlpSRS05c2tDc0thUFRGSjZVT0g2RnlDbkHSAZYBQVVfeXFMTndzd1dDN2hHOTRFME1vNnFfREZqRncxZEtGYXMxZ2VtTy1fLW8zd0lDQzVmbWl1UXRZal8tR1NOMDdvTXY1YWtkb2lKaEVPYU4tQ01HRnkwbW55S0c2X21HNUszN3ByTU9PVGtFc3ozZk5Ednl6eElHdk0zUmFsN2hxbEJmemJ2MV9pbl9OZmdEQXpHTWJB?oc=5"
+  },
+  {
+   "key": "b0dc3058fd8b0c26568d8d71abd849c935c21abc",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC signs undefeated two-weight world champion with debut reportedly set for October",
+   "title_key": "17718fdcb4dd2bd7ad70ef8df4256c675039536e",
+   "title_norm": "ufc signs undefeated two weight world champion debut reportedly set october",
+   "ts": "2026-08-22T11:16:53+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/ufc-signs-undefeated-two-weight-world-champion-with-debut-reportedly-set-for-october"
+  },
+  {
+   "key": "dd881c53630608f0dc1405868ee536e061db7e1e",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Why Javid Basharat swapped UFC for PFL after leaving promotion on a win",
+   "title_key": "b792256b9fb6ae59c0b6465ba56e57d29d9cf179",
+   "title_norm": "why javid basharat swapped ufc pfl after leaving promotion win",
+   "ts": "2026-08-22T11:16:57+00:00",
+   "url": "https://bloodyelbow.com/2026/08/21/why-javid-basharat-swapped-ufc-for-pfl-after-leaving-promotion-on-a-win"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 1,
-  "llamadas_llm": 1,
+  "descartados": 2,
+  "enviados": 0,
+  "llamadas_llm": 2,
   "recogidos": 179,
-  "unicos": 1
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
