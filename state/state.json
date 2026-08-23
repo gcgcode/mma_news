@@ -28457,15 +28457,25 @@
    "title_norm": "trump administration lambastes lawsuit seeking stop white house ufc event abc news",
    "ts": "2026-08-23T13:19:11+00:00",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHF5UnNyb2xqdFBZNDNDTHpPMF90NVdGMERZb241dlVhWF94QVNValhueldib0NXa1BhRVZBYk5NZnc1bWlFcFBnSnpZQVMtbEZvWFZZd0xyYmdid0tRT0N1cDVZSE8tTnpHcVI4aUpTel80R0pqNnBzNWpnZmpJZzFaRDREUDBTMGgwdl9MQmxPYkU4SVVDTGpQMmZCNDBoUHJ0UVoxR1VMOFB5eTV0TNIBtgFBVV95cUxPbFFOT3hqMUVUVWRJY0Nhc09NTnRXcFY3NnpfSmV4T081MXdNNWdCQVNheU1mTFpkaTdqTFVKVXRMN05QX1cydVB2ZktiYWZ2NjVhNm5xb2JlaHBabllvZmZrVGlMYm54NFVoakdCMUp5blFsc3JRaFRnZ0NuX3RXYWpValAyU0dKNUhxcjVjTzlGME82NXZsWUdKOHVSeTF1dzcxUk13d3Nad1VOMzJuemRXTS1HQQ?oc=5"
+  },
+  {
+   "key": "ff962d9de042e42e5338c6643a4b57f40de7823b",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Why some fighters have to win more to get their first title shot?",
+   "title_key": "49adc37ce7726107ca3f6881f228a60d990306ad",
+   "title_norm": "why some fighters have win more get their first title shot",
+   "ts": "2026-08-23T13:49:35+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vw33gx/why_some_fighters_have_to_win_more_to_get_their"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
   "recogidos": 177,
-  "unicos": 5
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
