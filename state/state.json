@@ -28897,15 +28897,25 @@
    "title_norm": "ufc sacramento petrino impone decision ridder arrolla dolidze",
    "ts": "2026-08-23T19:39:56+00:00",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUpkMWxyZmQ0ejhXNWZZVGFhY0ZOVEZ0R2dSbmpvdFg2Y21EOTByNEwxMUdIcWNlR091WEU1eXR5Y19vRTRIVWdQOXllOWZjTDk2VVpNa2JYcWRGYXB4SzhiWFJCT3N0b2FBVmZuQmd1X1JXSzY3Z0lMQlBEV0hnRjRoRE9MUjFyTm1Oa2VTX3E4NXRQcUd3QmdTNE5YSDdjVjJnSEN0LWg?oc=5"
+  },
+  {
+   "key": "8ffaa677839a23ac3cb11956c90707a49b7b4139",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Movsar Evloev Reveals What Could Force Him to Retire After UFC 333 Alexander Volkanovski Title Fight",
+   "title_key": "abe8b1bcecc5816ca74d40ed99e70717363f1367",
+   "title_norm": "movsar evloev reveals what could force him retire after ufc 333 alexander volkanovski title fight",
+   "ts": "2026-08-23T19:55:27+00:00",
+   "url": "https://lowkickmma.com/movsar-evloev-reveals-what-could-force-him-to-retire-after-ufc-333-alexander-volkanovski-title-fight"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 1,
   "enviados": 0,
-  "llamadas_llm": 2,
-  "prefiltrados": 1,
-  "recogidos": 178,
-  "unicos": 3
+  "llamadas_llm": 1,
+  "recogidos": 158,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
