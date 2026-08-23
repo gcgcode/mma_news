@@ -27632,15 +27632,69 @@
    "title_norm": "ufc sacramento robocop rodrigues sorprende fluffy hernandez",
    "ts": "2026-08-23T06:50:17+00:00",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFp5WVRNQ1d0QjVWVjdTVThEN08yc2hFZU1vYzg5V0F3YXFlOWRGR1VJWlZ5d2tubUNhREFZdVZ5dU1tanhhZF91bGJsVTJhOEk2YVRXVDl2cGZXS0hZU1k5NGE1SVVOUmwtZVd5NkkzLVVIOC02QWR6a1o5alp6YlZTWGJxXzRmT0hEamdsRHE4RW5WUzFpbVlacXZfQ0J0Zmxud2pBRy1sdw?oc=5"
+  },
+  {
+   "key": "c7a26b40e5717a5c70e03304dc05f14a68e7ac53",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "PFL Tampa results: Cris Cyborg retains title, uncertain of fighting future",
+   "title_key": "b255f9c43d57bc1008528de7ce3e7ab2f382ded8",
+   "title_norm": "pfl tampa results cris cyborg retains title uncertain fighting future",
+   "ts": "2026-08-23T07:29:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2NoVUN5WEJINE9jbDVMdHVJVS0tMHZqekt4MFNqSXFfVG9ESm1SSWNwTVphQ0RIUnRfc2w4dmdQY2Ftd0N2THE5azZ3VlRndDhDMmRPZzlhV09nZ3V2NDVZXzUxTVc4Q19XQTJvbE1vMnVxVnVnWFRLczBMQkFjS2xtWTg1LXFNdU53QktjZUlXbUhXTmNlcDdJb2ZaUXZPTVVqdVdNY19reHJJTzNjbDBpSDZodUUyZk5oMlZzQkxnRHp0TmJqTWFnRm5XeTkyNWtfeU5IZlE?oc=5"
+  },
+  {
+   "key": "20d1f6130b71169e3cf13e8c625ebe372dc0e8a1",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Gregory Rodrigues leaves UFC Sacramento in a wheelchair despite beating Anthony Hernandez",
+   "title_key": "ea047e50c409e3f65c54f54768bd2e817a86da1e",
+   "title_norm": "gregory rodrigues leaves ufc sacramento wheelchair despite beating anthony hernandez",
+   "ts": "2026-08-23T07:30:30+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/gregory-rodrigues-leaves-ufc-sacramento-in-a-wheelchair-despite-beating-anthony-hernandez"
+  },
+  {
+   "key": "fdf702181895fcf67ffba548c4eed4fa5c2c983e",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Tyron Woodley WINS: UFC legend scores first victory since 2018 in RAF Wrestling debut ahead of Khamzat Chimaev test",
+   "title_key": "232b1827733fac34230c7de9af75217d10c32c76",
+   "title_norm": "tyron woodley wins ufc legend scores first victory since 2018 raf wrestling debut ahead khamzat chimaev test",
+   "ts": "2026-08-23T07:30:35+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/tyron-woodley-wins-ufc-legend-scores-first-victory-since-2018-in-raf-wrestling-debut-ahead-of-khamzat-chimaev-test"
+  },
+  {
+   "key": "b60b5af4609234d1c69bb6ff8f57548d42813737",
+   "score": 5,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Anthony Wint Secures R1 Submission In UFC Debut | UFC Sacramento",
+   "title_key": "7af1deb71edc9af9b943ce89eecc3733b248592a",
+   "title_norm": "anthony wint secures r1 submission ufc debut ufc sacramento",
+   "ts": "2026-08-23T07:30:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rc2wyaHh4X3JuZEdRd09ibHlQdUR2Mk43RTNjaXpHc3ZJdFJHa1dxbERVVEJjel9xNG41WjZWWmZhUEZINEhMWjh1VFRBOVhX?oc=5"
+  },
+  {
+   "key": "6fb4c5056edd95a823b1e19be4559a42161c9b20",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Is Cris Cyborg retiring? MMA legend clarifies after PFL Tampa fight was announced as her last",
+   "title_key": "6addf4dac08eea48557cc179facd67772348be1c",
+   "title_norm": "cris cyborg retiring mma legend clarifies after pfl tampa fight announced last",
+   "ts": "2026-08-23T07:30:43+00:00",
+   "url": "https://bloodyelbow.com/2026/08/22/is-cris-cyborg-retiring-mma-legend-clarifies-after-pfl-tampa-fight-was-announced-as-her-last"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 3,
   "recogidos": 177,
-  "unicos": 31
+  "unicos": 24
  },
  "telegram_offset": 958387804,
  "version": 1
