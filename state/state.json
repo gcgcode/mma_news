@@ -29183,12 +29183,35 @@
    "title_norm": "devastador nocaut pelea mma fue descripto como uno mas brutales ano",
    "ts": "2026-08-23T23:39:47+00:00",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM2trNHRNdm1VTDItUDBhNWlpajNKUzBTT095aFNCNUljVDgybTlHdTE4dWs0SF9UbEJxbElPQnRvUEVkdzdzUDBNZndmR2psVm5FR0p1TnpCRkVnNGRqenRMTzNUcG9BVy13V0xQTVdUSFcxeDV1aDBGby1xdzJWTWQ2QndjOU5lNXU5TGNaTVpKbUJrbEJ4bm5Vc1FMREt1NnQweWZrazhZQTZrWnB6MWR0UWNjRU1lMDZJdk14TUFSTmIxWDhuVUUwcDRJM3dhNU1DQmVnUdIB8gFBVV95cUxQdEF6UW1RQ0JsbWFCMHkyenE0eW9NQUktZ2c3c3gwMTloQ2JfcHp5UHhZanRfcjZNeGRFXy1PT0NfNmw2bGtId2VteTVJT1NJcXFsUHRYOGMydUhMbFhIX3NxaS1QRkxxcWdHcFptYjd0c1VaUFpuTDdTUHRlV1lFbjNXTlBKRk0yaG5BM01tTS1scFl5d3gwRjJVdEJTaEo2Z0Y5VE9QUGNqSUg1OUNXV1pDdEMwS0V5MWs0Y0IzSHJJSFZnLXJfRTd0SUNCSFFhb1NDNTFiNm43Qk1CNUZWVDhoZVFhbGQyTGxmaVZ4dXJQdw?oc=5"
+  },
+  {
+   "key": "9fbca444e1ebbb18f3a35c8228d37f161f46fd5f",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "what are the chances that this fight ever happens again?",
+   "title_key": "fde7b9734fe076172d1d9ffa8500c855da38545d",
+   "title_norm": "what are chances that this fight ever happens again",
+   "ts": "2026-08-23T23:56:37+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwlywo/what_are_the_chances_that_this_fight_ever_happens"
+  },
+  {
+   "key": "dfc9a42cba1f2cf47cc2ae1f7bfff95fa12d7623",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Kimbo Slice's Son Brutally KO'd By Anderson Silva's Son At Adin Ross' Boxing Event [VIDEO]",
+   "title_key": "b655ccd33478b6f176b451fa6fdf02711ef42400",
+   "title_norm": "kimbo slice son brutally ko anderson silva son adin ross boxing event video",
+   "ts": "2026-08-23T23:56:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczEzVE5QSXNCZkU5M2ZMSDlxQUZPY1hFTUF0alBORVdfYUQxS09PaWR2WWZWRHNyUXgwSEsyWjhsSWo4dXVYVm5wcnhULWlRUC1rR2ZnMzB0ZVhIazkzUXkzU3A2Y2Q5dzdyQjVZb1ROX213cXI2d01tbW5aR0JIeGZpZko?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 1,
   "enviados": 0,
-  "llamadas_llm": 2,
+  "llamadas_llm": 1,
+  "prefiltrados": 1,
   "recogidos": 178,
   "unicos": 2
  },
