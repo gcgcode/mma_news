@@ -27764,15 +27764,81 @@
    "title_norm": "gregory rodrigues survives wild anthony hernandez rally ufc sacramento",
    "ts": "2026-08-23T08:00:57+00:00",
    "url": "https://sherdog.com/news/news/Gregory-Rodrigues-survives-wild-Anthony-Hernandez-rally-at-UFC-Sacramento-202481"
+  },
+  {
+   "key": "901e25133200e55def5a60000dbbe07e9e6b1574",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Rare moment of Khabib looking nervous as he watches Islam go out to fight Dustin.",
+   "title_key": "921f3740ef712b88fe929e479c2fbf6490d4d81f",
+   "title_norm": "rare moment khabib looking nervous watches islam go out fight dustin",
+   "ts": "2026-08-23T08:37:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvz7rx/rare_moment_of_khabib_looking_nervous_as_he"
+  },
+  {
+   "key": "76f115f34146f1cc0856289dd4083edb96cce9e8",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "UFC Please Get This Guy Off My Screen",
+   "title_key": "2c38e5ebe0c6e7f125a848156c0a8450d6abeebe",
+   "title_norm": "ufc please get this guy off my screen",
+   "ts": "2026-08-23T08:37:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvruth/ufc_please_get_this_guy_off_my_screen"
+  },
+  {
+   "key": "ae423dba979df29f0a56ca33c5546cffdc323ac6",
+   "score": 5,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "UFC Sacramento Vibra Al Ritmo De Nocauts Y Sumisiones En Sus Primeras Peleas",
+   "title_key": "e65e0bf98e9235970236cc1fce93607759cf6d80",
+   "title_norm": "ufc sacramento vibra ritmo nocauts sumisiones primeras peleas",
+   "ts": "2026-08-23T08:37:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjJnX0R5QldGUjZEZFo5WUpndXdqUmRmekhPQ0hucTFncVdtZTI0Tk5GejZPZ0RWVld6VFBxZ1BzUkQ2SVRzZXFRSTdkS0FuNTR5YVlLN2dva0xIYzkxOUVONlpqRzRZc3p1VEI4WnVvWXkxbWxlaGdQSnJkaEVIaFZabktqUlF1ZXdjOFYxUExUWkFDU1h0R3VtV2Jsbklid19kdjRkbVhkdnRJ?oc=5"
+  },
+  {
+   "key": "fb2f72e8830fe217af808c6ce79a196a1965874a",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "PFL Tampa: Cyborg, ensangrentada, supera a Vieira por decisión",
+   "title_key": "ee78aff14b273f802cac2a88a43463c1723c4daf",
+   "title_norm": "pfl tampa cyborg ensangrentada supera vieira decision",
+   "ts": "2026-08-23T08:38:04+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVJS25KOXY1NTlESF9sUGdVS1diVE4yN3NkeW8wMjZWb25mV1o3RVFqcHhZa1FFRHkwTWR4Q0dva0YtdkF1cXB0enQ5UFhiTmVTbHBnVFJvLTFJbVVoaGdtVnlERnptcm9ZZ0RqSlczb2JmUUd4MXVkM2NjbHRqSzNFdWdfa0l5ZmFyTG9jM3pZRW44TW5Z?oc=5"
+  },
+  {
+   "key": "6e5e65027f3c4564456cb73ae773a3032683a97b",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Anthony Hernandez vs. Gregory Rodrigues, lo que necesitas saber de UFC Fight Night",
+   "title_key": "cd39f9c52b712b330e9dbfbf7806ce6a58a98bb7",
+   "title_norm": "anthony hernandez vs gregory rodrigues lo necesitas saber ufc fight night",
+   "ts": "2026-08-23T08:38:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXRsMzhxMFhpT250M0p5NW9rUHV2Q0tOYTFHRmJXbHVFQmlMQWxVdUsyVmlXY3hSakhSNDFnNFg2ZjhLQTc0MmtZUHd0bmh0d3NEOENUWFdkSjBxNldVSXVxN3hJYVFOb2h0MWxLV2NWWGZjN2JScUtfNHFmblRhOVAyVERZUkxtb3E3ZWdlV2JkWUdaOFdhQmo4dHhRNUFVUUtocnYyZHJmVEE2WXdQaXVfYUdlZGN1ZGc?oc=5"
+  },
+  {
+   "key": "1686c954a75a3eb9a7080fd63d8fb122bd6e9678",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Matches to make after UFC Sacramento",
+   "title_key": "e412827b5844024f43648825d2e30030f1f18beb",
+   "title_norm": "matches make after ufc sacramento",
+   "ts": "2026-08-23T08:38:11+00:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01ejVVdFZXR2RhcW56V1pVWDJxQ1JXTzJnTWZISWRJejVJejBuU2VqNTRIWkhKVS1hREpfOHV3dGhwcjRPWDBVRHNpTnY2OHpITlltQmhKcmp1dHJ1eWtfYlBQODR4Z2R4ajVaYkRwWDd6Vk5rM2NEUXJTSQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 157,
-  "unicos": 24
+  "prefiltrados": 1,
+  "recogidos": 177,
+  "unicos": 16
  },
  "telegram_offset": 958387804,
  "version": 1
