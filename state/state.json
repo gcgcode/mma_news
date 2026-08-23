@@ -28589,14 +28589,37 @@
    "title_norm": "former ufc fighter anthony smith breaks silence after recent domestic violence arrest",
    "ts": "2026-08-23T15:18:03+00:00",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDN0VklWQ211Z3ZTZ2o0anhfazRpck9kOTN3SFBoMDE5OVZRdG5RUTMxTGxLUE41cC0tVzFFcU5rMHFGZllEZVNHcDF0eFFjZFNLOHlwVjdiZTRoZGd5aVhFUEc2czJZNWJzMkRmRHpoSUpMV1VacFNnSklIbktBNWxmUUlpRXJO?oc=5"
+  },
+  {
+   "key": "4105302650fea5a591fc9e18e965a907be95c31a",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Round 2 last night was giving flashbacks to JDM v Prates",
+   "title_key": "c69e5b4636e54a3c939161c35a52a718821f65cc",
+   "title_norm": "round last night giving flashbacks jdm prates",
+   "ts": "2026-08-23T15:42:34+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vw87jf/round_2_last_night_was_giving_flashbacks_to_jdm_v"
+  },
+  {
+   "key": "cfd405d96c8945f3d33b8889b22f14b27291c33a",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What's the most bittersweet UFC title win of all times?",
+   "title_key": "69622945d26d94e04fc5ccfc71c5899636592830",
+   "title_norm": "what most bittersweet ufc title win all times",
+   "ts": "2026-08-23T15:42:35+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vw912j/whats_the_most_bittersweet_ufc_title_win_of_all"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
+  "prefiltrados": 1,
   "recogidos": 177,
-  "unicos": 3
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
