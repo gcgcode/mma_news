@@ -29128,15 +29128,47 @@
    "title_norm": "newly booked ufc fights week ending 23 august 2026",
    "ts": "2026-08-23T22:55:46+00:00",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EbXQ5Z09iT09RRFRGWDdLdWhYMktmdlkwS3VvUjJTSWxiMG1PNjM4OGYydGJXbm1fWlUzdWc5V0VTVF8tQlJGTWV1LURQR1ZuRVJ0WnF3ckc3eU5zalBfWU1Wam9NdVhqUVEwN3lldC03VUtEUHRDSmVUeDN1UQ?oc=5"
+  },
+  {
+   "key": "8613f8cdb13ab04aabd819e6dbe22a0dde7630a5",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC announces dates for UFC 334, UFC 335 to close out 2026 slate",
+   "title_key": "41604ac740ecfffa3686ce1b697297b4a30b05bf",
+   "title_norm": "ufc announces dates ufc 334 ufc 335 close out 2026 slate",
+   "ts": "2026-08-23T23:16:52+00:00",
+   "url": "https://mmafighting.com/ufc/506793/ufc-announces-dates-for-ufc-334-ufc-335-to-close-out-2026-slate"
+  },
+  {
+   "key": "9ef4b7ab4eb01e1c77a7a4c6eac74a74b8758fb0",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC Sacramento winner reveals he will return to job at Home Depot after missing out on $100k bonus",
+   "title_key": "8213846b0370e05f979716541652cfe32e4c44fa",
+   "title_norm": "ufc sacramento winner reveals will return job home depot after missing out 100k bonus",
+   "ts": "2026-08-23T23:16:56+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/ufc-sacramento-winner-reveals-he-will-return-to-job-at-home-depot-after-missing-out-on-100k-bonus"
+  },
+  {
+   "key": "4ff3e2666c8d8783e40d2990fcd0b440f3691eb8",
+   "score": 4,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Mick Maynard's Shoes: What's next for Gregory Rodrigues after UFC Sacramento win?",
+   "title_key": "1eae2739075427e3bb90fc9fe11a419d2b31d06a",
+   "title_norm": "mick maynard shoes what next gregory rodrigues after ufc sacramento win",
+   "ts": "2026-08-23T23:16:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2RIZ0NjNFFTZlVPQnA1dWdQX1RvZHJjd1BaMEY1VEV2eDRibDgyTDlXNUJUb3FNMEVGT2dZSkx1QVR6SGV1eG9tNWRUamwxbWVPc3ZleUxBcHlUV1UxWUhsTXlpcDlsbE10QmVZcGhaRXV5NUxXZDFOR1dzalBmblFpdlQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 3,
   "enviados": 0,
-  "llamadas_llm": 2,
-  "prefiltrados": 4,
+  "llamadas_llm": 3,
   "recogidos": 178,
-  "unicos": 6
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
