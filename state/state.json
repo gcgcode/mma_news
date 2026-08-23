@@ -27830,15 +27830,69 @@
    "title_norm": "matches make after ufc sacramento",
    "ts": "2026-08-23T08:38:11+00:00",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01ejVVdFZXR2RhcW56V1pVWDJxQ1JXTzJnTWZISWRJejVJejBuU2VqNTRIWkhKVS1hREpfOHV3dGhwcjRPWDBVRHNpTnY2OHpITlltQmhKcmp1dHJ1eWtfYlBQODR4Z2R4ajVaYkRwWDd6Vk5rM2NEUXJTSQ?oc=5"
+  },
+  {
+   "key": "418d1e46123e7a177fa8ad797c7df718e2892268",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC Sacramento purses: Rodrigues and De Ridder earn big as all 26 fighter payouts are revealed",
+   "title_key": "79240b660c50f36eb2c79246f160de28e58f3d1c",
+   "title_norm": "ufc sacramento purses rodrigues ridder earn big all 26 fighter payouts are revealed",
+   "ts": "2026-08-23T09:02:53+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/ufc-sacramento-purses-rodrigues-and-de-ridder-earn-big-as-all-26-fighter-payouts-are-revealed"
+  },
+  {
+   "key": "377694de840da3200a8b23efafd429c529c21809",
+   "score": 7,
+   "sent": true,
+   "source": "El Rocktagono",
+   "title": "VIDEO I Revive todo lo que dejó el UFC Sacramento, con la victoria de Gregory Rodríguez ante Anthony Hernández",
+   "title_key": "d8f08f8e450cf1a4436dd8cc7f9f33fd9fd9fde8",
+   "title_norm": "video revive todo lo dejo ufc sacramento victoria gregory rodriguez ante anthony hernandez",
+   "ts": "2026-08-23T09:02:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ01vRHV4WXJQWmhfU1gyeXYwMjVQZXdmNG5sZWlnVHF0dXpXNXh3TE9nT3JhT3V3anVkcVdzT0phSE04ZzNMSGFGQUM4RVlUcnJpdWJHc1F2RWR5QVhwT20xWmxPX1V0VlVWUHkyMldKM3VTMTI1SFF0dlV1ZmJfbkUyNUhHSHgzc3ZuLUtRRGpGSWM1RkdBZEIxZHhKS2VKUTQ1dWE5SXo1cjBzX1pXZURCbTZ5dWc5WEJnRkF0b0NGSHNpVmYtV1FmbFIzdUMyczgtZ1VR?oc=5"
+  },
+  {
+   "key": "984b414a1c3fe0e83687bb752e0cf933c7461069",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Anthony Smith Octagon Interview | UFC 310 Pliskova (VXOHO7mdiG)",
+   "title_key": "421a2fbffce56486cb9af9552e5f7e6bb8fe184b",
+   "title_norm": "anthony smith octagon interview ufc 310 pliskova vxoho7mdig",
+   "ts": "2026-08-23T09:03:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPejVia2p0aEtnel91R3RDeTItQS16cXRFY1ZCWFZFWHAzNUMwZnNPSDlVX1BNN2JqYVVlWUJPVjBISWRoRGtOa0dZWS12bXFvbGxkRkhLUzEyUQ?oc=5"
+  },
+  {
+   "key": "e7bbc23fc29b7a80fd69cec324111c771d8f2276",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Gregory Rodrigues destroza el plan de Anthony Hernández y cambia su futuro en el UFC Sacramento",
+   "title_key": "d8f2c616038b2fef071e14fc4411a2f61d709911",
+   "title_norm": "gregory rodrigues destroza plan anthony hernandez cambia futuro ufc sacramento",
+   "ts": "2026-08-23T09:03:10+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTGlGczR2RHdCNkFKUjd5d0FLV2xvcUJvaWh6bzNpNEpqNjJaakUzUXFNWXVpRHhKODBJNDJBdVZNSkhKRmxVbWl5dmduOWgtSDAwa0VUd2g2eUttUThxM2MwdnFmVENRWllSYXRSZXlzekZRdkMxQy1ORTVOMVVJZlJUUlJMcGhpMnRhNkltV0FlbGVha2RNMnI0ZmxuVmhHVUM5UmtNb2p4NFV0MEwwbGZkNWVVTXdVQjdzZGpDaThKTTJEZjBLekRQekgxUUQtYU44TWVZbk1uS1AxSTg1MDJQQWdFcUJxMDZiX0V3?oc=5"
+  },
+  {
+   "key": "ef64268dda3c6c49f209ac87562be622ace29604",
+   "score": 7,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Gregory Rodrigues and Anthony Hernandez Go to War in a Brutal UFC Sacramento Classic",
+   "title_key": "d2b7f62ef57682c748c860a3ef9a493c10101b51",
+   "title_norm": "gregory rodrigues anthony hernandez go war brutal ufc sacramento classic",
+   "ts": "2026-08-23T09:03:17+00:00",
+   "url": "https://lowkickmma.com/gregory-rodrigues-and-anthony-hernandez-go-to-war-in-a-brutal-ufc-sacramento-classic"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 177,
-  "unicos": 16
+  "recogidos": 178,
+  "unicos": 15
  },
  "telegram_offset": 958387804,
  "version": 1
