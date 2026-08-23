@@ -28930,14 +28930,59 @@
    "title_norm": "daniel cormier says rule paddy pimblett gable steveson broke most ridiculous mma",
    "ts": "2026-08-23T20:17:38+00:00",
    "url": "https://bloodyelbow.com/2026/08/23/daniel-cormier-says-rule-paddy-pimblett-and-gable-steveson-broke-is-the-most-ridiculous-in-mma"
+  },
+  {
+   "key": "2befc33885e3da65d52d4a1f7b88f6d958f0ee44",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "This guy is obviously on roids",
+   "title_key": "604123a5a69eb6d312a0b36a5c9a34256f7b6cc2",
+   "title_norm": "this guy obviously roids",
+   "ts": "2026-08-23T20:43:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwh0mn/this_guy_is_obviously_on_roids"
+  },
+  {
+   "key": "800feb5ebb5bbd241a391ae266ff8ed023620a5b",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Lobos BUAP domina el podio en Artes Marciales Mixtas",
+   "title_key": "2fb149cbeb79ae52cfe73ce76dfaf03d147e7a88",
+   "title_norm": "lobos buap domina podio artes marciales mixtas",
+   "ts": "2026-08-23T20:43:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjlYTnpOU19vTEtDbmRHUnEyRGdVWU9Na3pUdW1QRm85cV9NTUtBLTRCakpET01GZ0ZDMlNhQWZCRjJmRHVVcS0yUE02LW5ELXZvaEgzMW9QYzg5VnBYdGM3d3VCaXdjZjF6Y2k5X3R6ZnNhMWcwLXB5ZFVyOUd4YVJhVE5SYldTaGthTTA3VWRnU1VXZnQxd2RB?oc=5"
+  },
+  {
+   "key": "7744015ded74e45ff5606fe5a75c8e90117bbebc",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Obtiene selectivo de Kickboxing BUAP medallas durante competencia nacional",
+   "title_key": "e1d27e64ffcdb2f7f0fed93bd78daba987a0fbf2",
+   "title_norm": "obtiene selectivo kickboxing buap medallas durante competencia nacional",
+   "ts": "2026-08-23T20:43:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdUR1ZEJfYldPMTVlSHVQY2gwRDduVVhTYlhmUndnaUpVR3pVbk0xa2V1dzBtdElUTThOeEpqaEpmV1hKQVpyOWJWRU5rRWpMNERjekVtWURFNUthcjJTbGktUjBnLVJwblN5UFpkOUtXbTd1LTdkVThFeG1GckJaQ0ZhbFZuZmxSQzFUZXlGelFVM0NIbGRWVEo5RWFIaFZBNFZQX2Y5c19VSDdJdUE?oc=5"
+  },
+  {
+   "key": "354386d9ac613117607fd06bbb3d82225aa0c6a5",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Jeisla Chaves vs. Carli Judice prediction, pick for UFC Fight Night 285",
+   "title_key": "c929872ec413d7eaae0b38dc8103313303fd7da4",
+   "title_norm": "jeisla chaves vs carli judice prediction pick ufc fight night 285",
+   "ts": "2026-08-23T20:43:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDJCdGRrQjhoTHE1ZkhvUFFqdGxuazNtcTg5V21JeHBhVDRibnVxd0JhVmZLVmV5a3JDNHptbjBObUM1SHdzamRhM0J6bkhodXVKWUU2RmJ1VkV4OHJtOHNoSGRrTkdzZGlhMVhrLTBqcGRzTzFCNzZuUDR6NW12QnFLcDJSaWgtaHZ1c2NoUDltRENpVVJIRnV4N2JHTXBDdjdaMVBCckZZMC1uLWltc25qdXVPd0ZRV3pSZ1NmS3o3STBDck8tV2h0Y2YtWklXR05ENkh3?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 1,
   "enviados": 0,
-  "llamadas_llm": 2,
-  "recogidos": 158,
-  "unicos": 2
+  "llamadas_llm": 1,
+  "prefiltrados": 3,
+  "recogidos": 178,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
