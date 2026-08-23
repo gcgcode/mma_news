@@ -28611,15 +28611,48 @@
    "title_norm": "what most bittersweet ufc title win all times",
    "ts": "2026-08-23T15:42:35+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vw912j/whats_the_most_bittersweet_ufc_title_win_of_all"
+  },
+  {
+   "key": "619c584f340ad9d89069f1fe788680593c91a7c5",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev slammed by doctor for unsuccessful attempt at popping teammate’s shoulder back",
+   "title_key": "e60b3af65e9376b0b7d44473cd28893a491a2192",
+   "title_norm": "islam makhachev slammed doctor unsuccessful attempt popping teammate shoulder back",
+   "ts": "2026-08-23T16:19:32+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/islam-makhachev-slammed-by-doctor-for-unsuccessful-attempt-at-popping-teammates-shoulder-back"
+  },
+  {
+   "key": "44c1d75be272376f0a55ccd901c3115d34d0dfbc",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Dana White addresses Namo Fazil allegedly being attacked before DWCS: ‘We handled it behind the scenes’",
+   "title_key": "516952d8a264a49a0ba666aff1a94de861cccb05",
+   "title_norm": "dana white addresses namo fazil allegedly being attacked before dwcs we handled behind scenes",
+   "ts": "2026-08-23T16:19:35+00:00",
+   "url": "https://mmafighting.com/ufc/506696/dana-white-addresses-namo-fazil-allegedly-being-attacked-before-dwcs-we-handled-it-behind-the-scenes"
+  },
+  {
+   "key": "c7b52575130eea6e782ccb51651b3be61fceab37",
+   "score": 6,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC makes final two numbered events of '26 official in New York, Las Vegas",
+   "title_key": "ca8c0b0240f541be7efafcd9b0ca6f2b4a868790",
+   "title_norm": "ufc makes final two numbered events 26 official new york vegas",
+   "ts": "2026-08-23T16:19:36+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnhkd3hENUd3Yy1fZzhBM3hCWFJwQVMzVFhhUmxqa0R6N2x4RFJpV1lWQnJHc0t0YTNHVFN2dU5INDI4T1NlZlowMTBIaVJVMGVKQldsUnJYb2hPSVdlVVMwM3hUOWZYTHRUZjFad0xaNEtYb2tqeVB1aUlyeWJ2MEFvZw?oc=5"
   }
  ],
  "stats": {
   "descartados": 1,
-  "enviados": 0,
-  "llamadas_llm": 1,
+  "enviados": 1,
+  "llamadas_llm": 2,
   "prefiltrados": 1,
-  "recogidos": 177,
-  "unicos": 2
+  "recogidos": 157,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
