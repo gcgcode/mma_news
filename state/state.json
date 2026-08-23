@@ -28556,15 +28556,47 @@
    "title_norm": "hoy historia colby covington debuta ufc",
    "ts": "2026-08-23T14:46:03+00:00",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1REdpUGlaRFhBYTZacmRDUktPbVZ2S3RwYml1UmQ3QnpNYUNsZl9ocTBwWXhsVS1iZ3VOWmcybFhVX3F3NXduRkpjMkNXVXYyczJDSE5xSm92LVhUalZwN3FkUzVLcVpMYnluSQ?oc=5"
+  },
+  {
+   "key": "9bdc91bd598e73a65ea38a131e5e9d29d1e87c39",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Rodrigues, Hernandez have banged-up backstage meeting after UFC Sacramento",
+   "title_key": "732d608b32baee376a155f53a1c76c2b8e9881a2",
+   "title_norm": "rodrigues hernandez have banged up backstage meeting after ufc sacramento",
+   "ts": "2026-08-23T15:18:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMlFPRHh5dTZ3YlJrNGhlYlFBUjhUdkp6VkFMWDROWXRnMkhzX2FfZU9qOVh0Y3EzYkNrOVZJZW93dmo1RDhlUlFDTzBEN1B3TU5Sc2FsUDJycWxUbjA1bndHNzFqeGNfYWNVSXBwX0lTX0tvRDZESGRENm5Mb0JIcnRuVGQzdDZDaENDQUF4Q0FZZzlLNFZaM3ZoUmZHbXY3TDZFd2lyS1BuNUtrQkF0YXRCOVUyR1RhMXU4M3NyVzlRSnNzS0FpWEE3SHY4SmdSbGdzU1RwMjZWU3BOQjNFZFBEdjJ3aHdRZkpHb3VNQWlWYzBHcmFMLWdSN2taY2pYQVE?oc=5"
+  },
+  {
+   "key": "89c1a0792a5f72a14798e6ba07c0e175113cc1fc",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC Sacramento loser set to see specialist after ‘instantly’ losing vision due to a broken orbital",
+   "title_key": "e8addc773e259fef4e9e3a4cc0ad9f25509b1ec9",
+   "title_norm": "ufc sacramento loser set see specialist after instantly losing vision due broken orbital",
+   "ts": "2026-08-23T15:18:02+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/ufc-sacramento-loser-set-to-see-specialist-after-instantly-losing-vision-due-to-a-broken-orbital"
+  },
+  {
+   "key": "471c552199d701a641d51f2c8ad76aeffb76bc61",
+   "score": 6,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Former UFC fighter Anthony Smith breaks silence after his recent domestic violence arrest",
+   "title_key": "9af23e822af98efa74c06add112206497499cc00",
+   "title_norm": "former ufc fighter anthony smith breaks silence after recent domestic violence arrest",
+   "ts": "2026-08-23T15:18:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDN0VklWQ211Z3ZTZ2o0anhfazRpck9kOTN3SFBoMDE5OVZRdG5RUTMxTGxLUE41cC0tVzFFcU5rMHFGZllEZVNHcDF0eFFjZFNLOHlwVjdiZTRoZGd5aVhFUEc2czJZNWJzMkRmRHpoSUpMV1VacFNnSklIbktBNWxmUUlpRXJO?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 2,
+  "descartados": 2,
+  "enviados": 1,
   "llamadas_llm": 3,
-  "prefiltrados": 1,
   "recogidos": 177,
-  "unicos": 4
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
