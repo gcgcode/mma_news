@@ -28512,11 +28512,55 @@
    "title_norm": "posibles peleas gregory rodrigues tras ufc sacramento",
    "ts": "2026-08-23T14:18:57+00:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0gzVTJCY09NR2FCZWdDSXE4bjRHZkRJOG1peXJtUGNXZE14N3hOb0NaZTJHeUhVc0Z2bDZjTkFmLWZpTS1Yb09HYUZkZTdXOFB3UmtVbXZSRzA2SWVUWGlaMDJRemZtWU1rcXUtbDZNNHlTNVVVX2E4UUhTdWJweGVYTQ?oc=5"
+  },
+  {
+   "key": "5276133bb8b8b035f9388249e0d7ee82e0fb5302",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "TBD",
+   "title_key": "1d9c8ac0b20576c0f57f0b78929d8a9dde6e79aa",
+   "title_norm": "tbd",
+   "ts": "2026-08-23T14:45:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oRXZveWtXYmJ0Q0l4Qi11RW9ZSFF4SWxneVVOU2NoTl9DWEo5NmRtTmt0NHFQRXZiT2xUTEtUeEhtYVFzeEhhM1pHTy1sVGZkS0E?oc=5"
+  },
+  {
+   "key": "4cbbc42c7039bc7445e3a999e3615cf5bc56ab25",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Anthony Hernandez told ref Gregory Rodrigues was cheating in UFC Sacramento main event",
+   "title_key": "df3fa40418e412e07326a8eadda06f2cf7d1a107",
+   "title_norm": "anthony hernandez told ref gregory rodrigues cheating ufc sacramento main event",
+   "ts": "2026-08-23T14:45:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTFlBWDRrbG9wWVpscDFsaU5CcS1FU2NNdkI2bVJmQzRzU2VTQjZRdzFaVHN4Z2g4Zld2OUhPWE8wSjBZZW1WRTQyNzhuWUpVZUJpaXM2M1ZZQ0VoeWdJOEtKbXItQ2Q3b2tNY3dMQ1NUMDhGRFByQXphc29UYURLYkxhU1hJb2czU3IzX0QxWGtuTk1GNzJDSDBZVDB3Wm9hQjQteUhtZEJHQmFteWs5NzVXNHB3cEtEeWU0U09rV3hlRG1RYy1lc1pScXVjaHhaRWdaSw?oc=5"
+  },
+  {
+   "key": "dd3076d7baafcb718cbd0437186ff4b94a594bfd",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Former UFC contender posts statement after losing to Cris Cyborg with a 7-pound weight advantage",
+   "title_key": "547e0e6952a0b87d863a6dcb674f31175758d53c",
+   "title_norm": "former ufc contender posts statement after losing cris cyborg pound weight advantage",
+   "ts": "2026-08-23T14:45:59+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/former-ufc-contender-posts-statement-after-losing-to-cris-cyborg-with-a-7-pound-weight-advantage"
+  },
+  {
+   "key": "9122ce4e27987bc5a0cdf26889f36063b4f3c7d1",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Hoy en la historia | Colby Covington debuta en UFC",
+   "title_key": "52703a50c6509a70ab46284e581c35e4f6bbdeef",
+   "title_norm": "hoy historia colby covington debuta ufc",
+   "ts": "2026-08-23T14:46:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1REdpUGlaRFhBYTZacmRDUktPbVZ2S3RwYml1UmQ3QnpNYUNsZl9ocTBwWXhsVS1iZ3VOWmcybFhVX3F3NXduRkpjMkNXVXYyczJDSE5xSm92LVhUalZwN3FkUzVLcVpMYnluSQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
+  "descartados": 1,
+  "enviados": 2,
   "llamadas_llm": 3,
   "prefiltrados": 1,
   "recogidos": 177,
