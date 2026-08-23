@@ -28644,15 +28644,25 @@
    "title_norm": "ufc makes final two numbered events 26 official new york vegas",
    "ts": "2026-08-23T16:19:36+00:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnhkd3hENUd3Yy1fZzhBM3hCWFJwQVMzVFhhUmxqa0R6N2x4RFJpV1lWQnJHc0t0YTNHVFN2dU5INDI4T1NlZlowMTBIaVJVMGVKQldsUnJYb2hPSVdlVVMwM3hUOWZYTHRUZjFad0xaNEtYb2tqeVB1aUlyeWJ2MEFvZw?oc=5"
+  },
+  {
+   "key": "6d9f82e46d1e0e6aff936136f15044551295e015",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Yair ‘Pantera’ Rodríguez fuera del Main Event de Noche UFC 2026",
+   "title_key": "1ffe592deda18166dc1d33ab6b81bed5e25718f2",
+   "title_norm": "yair pantera rodriguez fuera main event noche ufc 2026",
+   "ts": "2026-08-23T16:47:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0U1NmZFU0hXNUZkMkFMOFNiMlU5dGtwSjVjQktzMHBLcEJ4UWpXNmt3eElxUHVoa04zaGkzdTZvRXFRZGxSblRDZ2dYYzRnN3J1Q0o2TWRyTm10V1gwUjVsRXR4RTd2YXl1VFVDdVpVZXZqYzdrSTVVMEZ2MnBiYUtobUpxWmJpUlhJa3JyeENHa25ZOXBLdkdZS3BoVEk?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 0,
   "enviados": 1,
-  "llamadas_llm": 2,
-  "prefiltrados": 1,
+  "llamadas_llm": 1,
   "recogidos": 157,
-  "unicos": 3
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
