@@ -28743,15 +28743,25 @@
    "title_norm": "dana white anthony hernandez lost but gained lot respect ufc sacramento",
    "ts": "2026-08-23T17:17:50+00:00",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa1Frc1lUeDUxa3pZcEgweUNOZ1RGN0tjYW40LTI1dDFmaEJfMVozYk5XeERuT2ZLenphQklRS2kxQXZqNDhhMVhTSDlsMDNTMVE5VHdJUURoaVFmTnJVOWxMbnlJWUlYZlVRb3lfS0VoWHUtMVRmRHhxOWJWM1hZM291dXNGNlJkbXc?oc=5"
+  },
+  {
+   "key": "9c26e23cb063c498c03a50357332d1d9471cf677",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam Makhachev and Dustin Poirier taking a picture together at the PFL event",
+   "title_key": "212125416522c430ba1edb817ef89331908852c0",
+   "title_norm": "islam makhachev dustin poirier taking picture together pfl event",
+   "ts": "2026-08-23T17:39:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwchuu/islam_makhachev_and_dustin_poirier_taking_a"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 3,
+  "descartados": 1,
+  "enviados": 0,
+  "llamadas_llm": 1,
   "recogidos": 178,
-  "unicos": 9
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
