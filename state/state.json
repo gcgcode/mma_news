@@ -28820,15 +28820,59 @@
    "title_norm": "you re next henry cejudo targets another former ufc champ after tapping merab 36 seconds",
    "ts": "2026-08-23T18:23:01+00:00",
    "url": "https://bloodyelbow.com/2026/08/23/youre-next-henry-cejudo-targets-another-former-ufc-champ-after-tapping-merab-in-36-seconds"
+  },
+  {
+   "key": "ea93d38b2f4059c5dc516aa77fe66f3c782f6707",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Otros Deportes Tickets for World Snooker Championship: Round One Or Two Table One",
+   "title_key": "32fb71027e87f9b854d23d17cedf4ef87e366314",
+   "title_norm": "otros deportes tickets world snooker championship round one or two table one",
+   "ts": "2026-08-23T19:01:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXA5SnZ6bXo1MC10YVl6d3FoRjNSN3ZYb0p6bExFcjZLRWh0UDFCcGJOVmktOGNNdGltNUpqYnFHS1FWaWhYcE4tV2FWQVNxWmN0MEFkRGtaUzRMRFh0SWdUbEJUU0QtdDhjdlVwWjBWQ29CakZHekFBMjRfM0VjSXVLR1M1X1hrekZ5eEx0SQ?oc=5"
+  },
+  {
+   "key": "32a0855fc95004c6bdc9f8c3b3c0a77dd9003759",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "'Look, mate, I'm not turning away': What's it like when Yoel Romero gazes into your soul? Darren Till knows",
+   "title_key": "3ace2ad8067423e028f990bd928d46d5f49bc024",
+   "title_norm": "look mate not turning away what like when yoel romero gazes into your soul darren till knows",
+   "ts": "2026-08-23T19:01:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRk03eGFaazJfVnlDVnp4bTd3MGQwV1BJdXBfb243a3NNYTFNZ0JfbDI3eGhRNDhvdHlBcVpiTmdOdDdaR01obElNR1NJTVQ4UlNRYnFka19Kel80Nk1kWk53VnhXNVh4SEtxVkZOcFRxUEtVX0txRXRXRHNyMTR5T3pkU0w4bUlMNklad1lmTzJ5VFZiN2l0bnFEbnFpNmZfRkcwYThnQ3hUdmUyazhkUUgtajFwVndzVEUwTFlZdDFveWhJYk9iV09FYTd1WDcwOXc?oc=5"
+  },
+  {
+   "key": "f1453933153e1165d9c3c2748a3b389ea20ce953",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "‘I’m still alive’… KO of the Year victim reacts to Conor McGregor’s teammate putting him to sleep",
+   "title_key": "c9d74c4903a03fe32aff42836617249e7c45e8d9",
+   "title_norm": "still alive ko year victim reacts conor mcgregor teammate putting him sleep",
+   "ts": "2026-08-23T19:01:52+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/im-still-alive-ko-of-the-year-victim-reacts-to-conor-mcgregors-teammate-putting-him-to-sleep"
+  },
+  {
+   "key": "50086a593bf2f7ba4b7b1f59732e5baed2bad178",
+   "score": 4,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Nasrat Haqparast Reacts to Submission Loss at UFC Sacramento",
+   "title_key": "182f195509370b6485ab50fc501999c04a3f9b2b",
+   "title_norm": "nasrat haqparast reacts submission loss ufc sacramento",
+   "ts": "2026-08-23T19:01:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUVoxb1BVVG1BUEVNSWtXYlBpUkE5RE1Hc0hYWnI4anlRMkVfLUdMLWpfb3Y5ZDdDZ1hfRC03aHlacEtmaW01NlFHRmJ2eEdrWVdNalVLcV9zNkEzVHgyTXd4RzJWTExhU2FPUVFoMXlMdUd1NDdrU0hva1EydFVtdktsa3NmQWNOQml4RmtBWnlsZw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 0,
   "llamadas_llm": 2,
-  "prefiltrados": 1,
-  "recogidos": 158,
-  "unicos": 3
+  "prefiltrados": 2,
+  "recogidos": 178,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
