@@ -28072,14 +28072,59 @@
    "title_norm": "pfl tampa 2026 live stream how watch cris cyborg vs ketlen vieira start time channel",
    "ts": "2026-08-23T10:46:11+00:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmNxaGFDR2g2MGxBUWJ5ZUVFUmJyUkRzS28wUVFZV1lROGJZNlVVN1pNQnpKT21KT3ZDQ0MtampIdkN5RV9ldjlPUUtad2Nucm01UGFDNlUzal9ZWGQxNl9sTThMQ0x3TWxjeUlETDgtLW9nVzNpbVdlZXVoWlJEWQ?oc=5"
+  },
+  {
+   "key": "24bccd6de29126c93addb7a685a8b4e2edfc67d1",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Tsarukyan predice el próximo rival de Topuria: “Será Michael Chandler”",
+   "title_key": "4086d891f524e9e698ef0ef2aafbb55d6bd50710",
+   "title_norm": "tsarukyan predice proximo rival topuria sera michael chandler",
+   "ts": "2026-08-23T11:17:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDN0ZUp5SXNyMXBVbzBxQ0p5N0RPSDNYbVc1N3M1WFNqVVJOZlhqTWVuWUhOTnJwY0pYV19jNGQwUmhiQTkzVnR2Y1pkNzRjdFRUOGN3RURsWDVaMklzV2t0VlVXQ2xUbFBBMWwtUWlzSDZCWTJiMHUzTHNsWHhuSjZkeVlEaWZOYVRTZExXX253TlR4SDJNRGRyRHVZbWU1WjJGRGhLYW9halV4SEF0Sm9MS0g2N2FLTHfSAc4BQVVfeXFMTTgxMGFxX05aNEZVbUZUWmFmVHRwRGpOZk5tT1NGNS0tOE92TTBxZVV3eFE0dXVTRE5KOXQzQk9MUmluSERnaVpEWllwYWF4a0R6S1hEbFFWRzlJb3RYZGZqS19yVGFPWk9nSWNyVkFYTktwaEJfWFllTUVPZ2hsbnpHR1JzMEJXM1ZkdWRyN1RORkpONndqYU51a2VUbjJseThuTlhiMXhmWGJreGxqSjBJeWxGM0x0LTdLTlk0WERxWkZsQmhDX2lPQjgwbFE?oc=5"
+  },
+  {
+   "key": "8ff1035bc89c930dfa1bc74d8a72186d43562f88",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC Sacramento main event loser calls Gregory Rodrigues out for ‘cheating’ in Fight of the Night",
+   "title_key": "a3ce19e3b7829481c9d1e08474fa708549e1b69e",
+   "title_norm": "ufc sacramento main event loser calls gregory rodrigues out cheating fight night",
+   "ts": "2026-08-23T11:17:33+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/ufc-sacramento-main-event-loser-calls-gregory-rodrigues-out-for-cheating-in-fight-of-the-night"
+  },
+  {
+   "key": "6c07d09824970772125f20a1552747b4cbf10d70",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Sacramento Bonuses: Main event takes Fight of the Night",
+   "title_key": "1a2a3071c0f368ad7659f76ef33e171e228683c9",
+   "title_norm": "ufc sacramento bonuses main event takes fight night",
+   "ts": "2026-08-23T11:17:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEEzNjdZWEJxSHktVS1SZTJ2Uzd4ZmJ2X2FONGdBTGphRXpHcWNXeUpUT1lkeC12c2F3MTBPSGFwR0pIYTZ3R0lYNkhnM0REQVVYY3JScnVCdGZUY1ptb2VjeE44dmc3TTJPYS1yYkhNNnJxc0JaZ182dDR3VURwX09nSTN2X3RXLWc?oc=5"
+  },
+  {
+   "key": "e6a919cc851bbacf6462fe2874bb1ff63fbb1b29",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Mackenzie Dern - News & Rumors - UFC",
+   "title_key": "909ea2890d205451864bc253e1c2eea85e583acc",
+   "title_norm": "mackenzie dern news rumors ufc",
+   "ts": "2026-08-23T11:17:35+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RQjRlNkpBbldGZExSYnpKd0pMN1doVVBzb3RPNjF0dHFjOV9YN0tFTk4xWm5CS0h3Q2RjVVRXYk1kRHExbkVSM2ZkcVNmMUI1bWZCdzhPTWRScEFDTkpuejNn?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
+  "descartados": 3,
+  "enviados": 0,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 178,
-  "unicos": 6
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
