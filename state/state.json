@@ -28468,14 +28468,59 @@
    "title_norm": "why some fighters have win more get their first title shot",
    "ts": "2026-08-23T13:49:35+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vw33gx/why_some_fighters_have_to_win_more_to_get_their"
+  },
+  {
+   "key": "b65172e7e205efc18f0a23191ff27d214c03015b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "This finish looks even more comical in slow motion",
+   "title_key": "d3a959f0b362f0c4bc9932424a05da2e7d593919",
+   "title_norm": "this finish looks even more comical slow motion",
+   "ts": "2026-08-23T14:18:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vw66b9/this_finish_looks_even_more_comical_in_slow_motion"
+  },
+  {
+   "key": "6b1d4f1cbd7e6af0649b8970e307d834e0ed03b3",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Anthony Smith releases first statement since July arrest for multiple felony charges",
+   "title_key": "615ff87720e60f8d390adef7cfec93ebb9204943",
+   "title_norm": "anthony smith releases first statement since july arrest multiple felony charges",
+   "ts": "2026-08-23T14:18:54+00:00",
+   "url": "https://mmafighting.com/ufc/506512/anthony-smith-releases-first-statement-since-his-arrest-in-july"
+  },
+  {
+   "key": "feb2e7170a51fb1cba677768805aec181768b3f0",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Watch Anderson Silva’s son vs Kimbo Slice Jr end in big knockout at Brand Risk 15",
+   "title_key": "a9854936d32f4aec7712fc1fba36087b6cfb5e6f",
+   "title_norm": "watch anderson silva son vs kimbo slice jr end big knockout brand risk 15",
+   "ts": "2026-08-23T14:18:55+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/watch-anderson-silvas-son-vs-kimbo-slice-jr-end-in-big-knockout-at-brand-risk-15"
+  },
+  {
+   "key": "b3d6bbfa521f1a048c08b2a2361fb72289875295",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "8 posibles peleas para Gregory Rodrigues tras UFC Sacramento",
+   "title_key": "7671f7b2b964ab0a26940293f7ade45943e283df",
+   "title_norm": "posibles peleas gregory rodrigues tras ufc sacramento",
+   "ts": "2026-08-23T14:18:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0gzVTJCY09NR2FCZWdDSXE4bjRHZkRJOG1peXJtUGNXZE14N3hOb0NaZTJHeUhVc0Z2bDZjTkFmLWZpTS1Yb09HYUZkZTdXOFB3UmtVbXZSRzA2SWVUWGlaMDJRemZtWU1rcXUtbDZNNHlTNVVVX2E4UUhTdWJweGVYTQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 0,
-  "llamadas_llm": 1,
+  "descartados": 2,
+  "enviados": 1,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 177,
-  "unicos": 1
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
