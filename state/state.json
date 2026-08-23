@@ -28754,14 +28754,48 @@
    "title_norm": "islam makhachev dustin poirier taking picture together pfl event",
    "ts": "2026-08-23T17:39:45+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vwchuu/islam_makhachev_and_dustin_poirier_taking_a"
+  },
+  {
+   "key": "b2f8754ac4f13af0b9ea9b7442ab901876997469",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Wehen Wiesbaden vs Leverkusen: estadísticas y datos en directo | DFB Pokal 2026/2027",
+   "title_key": "6710fac6a8295c185c644787d2696329124177d4",
+   "title_norm": "wehen wiesbaden vs leverkusen estadisticas datos directo dfb pokal 2026 2027",
+   "ts": "2026-08-23T17:55:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQemNOM0xNZ1o3WFAwMWdhZGFFMlBQRkQ3WU1SWHJZLXRUeF8yTkVSajMzSm1VeU9LU3B2UUE1dFRFU3BBU3EwN1p3M09aMjRxVjY5YVNYTTdET3JjZi0xYjBTRG9YT1g2c0N6UU5RTlgxUUZwcWwtRXQwQUxnRDZSbC1iRE14dXFfaWJxOVktOEVRN0pfWUpXbllSVDM0ejdJU0VkMFBHZWxYSk91azVMQ1JubVVGVDA?oc=5"
+  },
+  {
+   "key": "73f5b63b8eec15302bf7d13d3d78362347b4ec11",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Numancia vs. Utebo FC - Live Score - August 26, 2026",
+   "title_key": "72ec3a8fd4d9d1446dc6144ac276e8aea0e522dd",
+   "title_norm": "numancia vs utebo fc live score august 26 2026",
+   "ts": "2026-08-23T17:55:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclNrYnl0MjE0OXEzRnEwc3h6cUZIMWI5Ykp4U3VjeGZDcWFXb2ZyYldhQmtwaHZlY0VlRzlvR01OSHZ1anc1THVIRFNPNGg2ZXhndGZRbXNIQWphbU1iZGJTT3IwQ3FUcFR3Y1JLeWFNX3ppNWtrYldXNGRYcTZ3UW4zZWxQRFRsZ1VRRUdRcmV1d2I0TlpnZVZsdV9kek9OWG50TXJocF9HLVdlRThsQWphdERVcWM?oc=5"
+  },
+  {
+   "key": "693918e3c1461f19ef7584285f917f1f725ee46e",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "When Islam Makhachev won and defended his belt at welterweight :",
+   "title_key": "4078b26730fad1a329aa5f80223143281ff32a6b",
+   "title_norm": "when islam makhachev won defended belt welterweight",
+   "ts": "2026-08-23T17:55:35+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwcaar/when_islam_makhachev_won_and_defended_his_belt_at"
   }
  ],
  "stats": {
   "descartados": 1,
   "enviados": 0,
   "llamadas_llm": 1,
+  "prefiltrados": 2,
   "recogidos": 178,
-  "unicos": 1
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
