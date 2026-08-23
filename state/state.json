@@ -29161,14 +29161,36 @@
    "title_norm": "mick maynard shoes what next gregory rodrigues after ufc sacramento win",
    "ts": "2026-08-23T23:16:57+00:00",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2RIZ0NjNFFTZlVPQnA1dWdQX1RvZHJjd1BaMEY1VEV2eDRibDgyTDlXNUJUb3FNMEVGT2dZSkx1QVR6SGV1eG9tNWRUamwxbWVPc3ZleUxBcHlUV1UxWUhsTXlpcDlsbE10QmVZcGhaRXV5NUxXZDFOR1dzalBmblFpdlQ?oc=5"
+  },
+  {
+   "key": "7cc798902f2341bba8c707941f4cab5dd55065ef",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What's the most pain a fighter ever been in?",
+   "title_key": "2d33b1ad76546f5c477b5230893cf99561fd740a",
+   "title_norm": "what most pain fighter ever been",
+   "ts": "2026-08-23T23:39:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwgwv8/whats_the_most_pain_a_fighter_ever_been_in"
+  },
+  {
+   "key": "7db0eb2f655899d546d916a98613766537790607",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "“Devastador”: el nocaut en una pelea de MMA que fue descripto como “uno de los más brutales del año”",
+   "title_key": "079c4a43ac690d13c07e15d7998877233e2b4f44",
+   "title_norm": "devastador nocaut pelea mma fue descripto como uno mas brutales ano",
+   "ts": "2026-08-23T23:39:47+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM2trNHRNdm1VTDItUDBhNWlpajNKUzBTT095aFNCNUljVDgybTlHdTE4dWs0SF9UbEJxbElPQnRvUEVkdzdzUDBNZndmR2psVm5FR0p1TnpCRkVnNGRqenRMTzNUcG9BVy13V0xQTVdUSFcxeDV1aDBGby1xdzJWTWQ2QndjOU5lNXU5TGNaTVpKbUJrbEJ4bm5Vc1FMREt1NnQweWZrazhZQTZrWnB6MWR0UWNjRU1lMDZJdk14TUFSTmIxWDhuVUUwcDRJM3dhNU1DQmVnUdIB8gFBVV95cUxQdEF6UW1RQ0JsbWFCMHkyenE0eW9NQUktZ2c3c3gwMTloQ2JfcHp5UHhZanRfcjZNeGRFXy1PT0NfNmw2bGtId2VteTVJT1NJcXFsUHRYOGMydUhMbFhIX3NxaS1QRkxxcWdHcFptYjd0c1VaUFpuTDdTUHRlV1lFbjNXTlBKRk0yaG5BM01tTS1scFl5d3gwRjJVdEJTaEo2Z0Y5VE9QUGNqSUg1OUNXV1pDdEMwS0V5MWs0Y0IzSHJJSFZnLXJfRTd0SUNCSFFhb1NDNTFiNm43Qk1CNUZWVDhoZVFhbGQyTGxmaVZ4dXJQdw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 2,
   "enviados": 0,
-  "llamadas_llm": 3,
+  "llamadas_llm": 2,
   "recogidos": 178,
-  "unicos": 3
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
