@@ -28787,14 +28787,47 @@
    "title_norm": "when islam makhachev won defended belt welterweight",
    "ts": "2026-08-23T17:55:35+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vwcaar/when_islam_makhachev_won_and_defended_his_belt_at"
+  },
+  {
+   "key": "afbc63f6c1a60828a7843132ddb8a65cfb602099",
+   "score": null,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Henry Cejudo reacts to stunning 36-second victory over Merab Dvalishvli at RAF 12: ‘I’m excited for the trilogy’",
+   "title_key": "58c1ad7461ff63dcc240eaf1b58c0e687dff0277",
+   "title_norm": "henry cejudo reacts stunning 36 second victory over merab dvalishvli raf 12 excited trilogy",
+   "ts": "2026-08-23T18:22:29+00:00",
+   "url": "https://mmafighting.com/raf-wrestling/506747/henry-cejudo-reacts-to-stunning-36-second-victory-over-merab-dvalishvli-at-raf-12-im-excited-for-the-trilogy"
+  },
+  {
+   "key": "97a58bf63d98bfc703d1ce65e0e51627024237f9",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Swanson: Lerryan Douglas broke orbital bone in UFC Sacramento loss to Emmers",
+   "title_key": "1148e93229e17282d513553a8abfb69c34433ad4",
+   "title_norm": "swanson lerryan douglas broke orbital bone ufc sacramento loss emmers",
+   "ts": "2026-08-23T18:22:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQXNidXlIaTF1MTl6YUlsLXBwVE81RERVOU1ZSDVMUEdzVEN3TmhlNlZ2b3UzNHI4Y1hFV21TaloxOEw0SkZ0NHFJVnl6TlI4VExaa2lXcTAxMDFyU1l2OU5oc0paZ1c2TVUzcXFyVnZVVk1hRmZfZTZJQjlwRHJFcDVXSDZqNnNrUTdxUDJyczlIZ1ktMFRZbHpQOG9JRjBVU2xUVHdpdDQyVVE3eVZVcjBZcEw2dTBZQ0huZVVnRnRhQjZQNkVZeHg2eUk3ZDBiZ1NsTnUycjJ1c3drZlN3WGlxZ1ZGaVJ6VkJobU10anZUZ0lmeEw5dnNVbw?oc=5"
+  },
+  {
+   "key": "a6f015e71fc23589f7c408a5cc4f7f2fc26b5d0e",
+   "score": 9,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "‘You’re next’… Henry Cejudo targets another former UFC champ after tapping Merab in 36 seconds",
+   "title_key": "ce935ab2b5036b96c10efd22227b191bd5d29c54",
+   "title_norm": "you re next henry cejudo targets another former ufc champ after tapping merab 36 seconds",
+   "ts": "2026-08-23T18:23:01+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/youre-next-henry-cejudo-targets-another-former-ufc-champ-after-tapping-merab-in-36-seconds"
   }
  ],
  "stats": {
   "descartados": 1,
-  "enviados": 0,
-  "llamadas_llm": 1,
-  "prefiltrados": 2,
-  "recogidos": 178,
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "prefiltrados": 1,
+  "recogidos": 158,
   "unicos": 3
  },
  "telegram_offset": 958387804,
