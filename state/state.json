@@ -28864,15 +28864,48 @@
    "title_norm": "nasrat haqparast reacts submission loss ufc sacramento",
    "ts": "2026-08-23T19:01:53+00:00",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUVoxb1BVVG1BUEVNSWtXYlBpUkE5RE1Hc0hYWnI4anlRMkVfLUdMLWpfb3Y5ZDdDZ1hfRC03aHlacEtmaW01NlFHRmJ2eEdrWVdNalVLcV9zNkEzVHgyTXd4RzJWTExhU2FPUVFoMXlMdUd1NDdrU0hva1EydFVtdktsa3NmQWNOQml4RmtBWnlsZw?oc=5"
+  },
+  {
+   "key": "462252b38b34eed861bdaaabe9711c24162434a8",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Put him Morales",
+   "title_key": "2c5864d7cbb8447f05d7198f0d37f854684cab2f",
+   "title_norm": "put him morales",
+   "ts": "2026-08-23T19:39:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwfq0i/put_him_morales"
+  },
+  {
+   "key": "020d207b91c538f88adc6dee56e8df04ae75daa3",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Fight Night 285 post-event facts: New bonus queen at 125",
+   "title_key": "c3386eab80fe39e4cb3a3b27a82ff1485687b3e1",
+   "title_norm": "ufc fight night 285 post event facts new bonus queen 125",
+   "ts": "2026-08-23T19:39:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXA4WGtINEFZWXN5clJSelJWS2RwSkNVc1I3dUdNX0JMZnpzZHd5TU1FWHNiNzZueDRtSElQdVp2NzRYR3lsWFNXZkNqNnZudFAzX1lBc0JScmlMYUZ1RXdoNlpLS09SaTFVRnh0blF1ekFwS0g0WjJaVlNQV25BQ09QaElfMVB0bnRKd0g2Y3dUczk1WVFaRVVXNC1mTGppWGhJSWV4MXpsbUxSeWlyVW16S1NFWm8xYVZ0Z1d5ODFtNTRxOW9ZWUlkVnFhYlR5YVQ4ODdCdldiMy1Gdnc?oc=5"
+  },
+  {
+   "key": "06f839b34d3f44222bb994f73d7f1da4776951f2",
+   "score": 6,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "UFC Sacramento: Petrino Se Impone Por Decisión Y De Ridder Arrolla A Dolidze",
+   "title_key": "65c8c98963e28b978766e916f47e6fd9a447b1ff",
+   "title_norm": "ufc sacramento petrino impone decision ridder arrolla dolidze",
+   "ts": "2026-08-23T19:39:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUpkMWxyZmQ0ejhXNWZZVGFhY0ZOVEZ0R2dSbmpvdFg2Y21EOTByNEwxMUdIcWNlR091WEU1eXR5Y19vRTRIVWdQOXllOWZjTDk2VVpNa2JYcWRGYXB4SzhiWFJCT3N0b2FBVmZuQmd1X1JXSzY3Z0lMQlBEV0hnRjRoRE9MUjFyTm1Oa2VTX3E4NXRQcUd3QmdTNE5YSDdjVjJnSEN0LWg?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 0,
   "llamadas_llm": 2,
-  "prefiltrados": 2,
+  "prefiltrados": 1,
   "recogidos": 178,
-  "unicos": 4
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
