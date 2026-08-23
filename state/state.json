@@ -29029,14 +29029,48 @@
    "title_norm": "dc out there gettin",
    "ts": "2026-08-23T21:57:52+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vwhm36/dc_out_there_gettin_it"
+  },
+  {
+   "key": "8c0fe99e075f6b5b787750d06b039b3885741e46",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Hector Santiago",
+   "title_key": "d759c2da6e7974f76e197d36f453c026193c8252",
+   "title_norm": "hector santiago",
+   "ts": "2026-08-23T22:21:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6Z1VZczVOajJLWUxEbk9EMjd1MENoTS00ZFNwYzFfSkVDTXRrUE43MW5mSHZfQVFNZ25ranpPek1xRFlzNXJfTUV2bzMxbEdnVURSV0hhQVlBaXdMVm9lRWdTTzlkcURJLXc?oc=5"
+  },
+  {
+   "key": "783b6f76c097c6eefcac0855c91f778b1106bd1e",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "UFC 333 may end in a guaranteed retirement as Movsar Evloev shares Alexander Volkanovski’s stance",
+   "title_key": "45d2d7c159d27d7f380e91e08c978c7447c92bed",
+   "title_norm": "ufc 333 may end guaranteed retirement movsar evloev shares alexander volkanovski stance",
+   "ts": "2026-08-23T22:22:04+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/ufc-333-may-end-in-a-guaranteed-retirement-as-movsar-evloev-shares-alexander-volkanovskis-stance"
+  },
+  {
+   "key": "094e3b89af2bb93dbae53bb00d1284bf5688ea60",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Korean Superboy Choi Doo-ho (35, Timmad) will play a 5 minute × 3 round featherweight (66kg) match w..",
+   "title_key": "00d156918bf23c3d4a69997a82f2850d3c4447b8",
+   "title_norm": "korean superboy choi doo ho 35 timmad will play minute round featherweight 66kg match",
+   "ts": "2026-08-23T22:22:15+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BXzM2WW9rVk9FNlV1RkJQQVBXdk5WaXFKak5fZ0hYN0Z6V0xGTWI2NTQtT1lVZ29lTG9lbTJyZE1PemwxYXpwZlJHc2JnSDQx?oc=5"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 0,
+  "descartados": 1,
+  "enviados": 1,
+  "llamadas_llm": 2,
   "prefiltrados": 1,
   "recogidos": 178,
-  "unicos": 1
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
