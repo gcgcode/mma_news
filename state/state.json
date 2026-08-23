@@ -29007,15 +29007,25 @@
    "title_norm": "dana white reacts two retired fighters playing unexpected roles ufc sacramento",
    "ts": "2026-08-23T21:22:54+00:00",
    "url": "https://bloodyelbow.com/2026/08/23/dana-white-reacts-to-two-retired-fighters-playing-unexpected-roles-at-ufc-sacramento"
+  },
+  {
+   "key": "2c3356371f7404ebb4e8d87e61bac2fe2da59df8",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Lobos BUAP suma cinco medallas en Campeonato Nacional de Artes Marc...",
+   "title_key": "65e2db2f02d77f206dc1dfc4181fdff259c190cc",
+   "title_norm": "lobos buap suma cinco medallas campeonato nacional artes marc",
+   "ts": "2026-08-23T21:40:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0FFQTlyLXVVc2tVdkhkQ2wzRnVOVEItcGNBc2dQeDR6MFpsRXAxRFQ2OFBIVHlwc0FVaXExZkNXLWRwV2ZIM1dQYkNkejJXWFhOSzJqSjlHTkpoNGRqLWVGNFlIcGNmZmVVZ2JlRW85cmNOLXRmc3JGbURLUHBvaUdYMmxGQlQ4cnlFSGVOSG1UTHpRSU5Pek5KYXp3dzhKMUZzb2pXYlB1YUg5Ukp3a3JmTVdUVFdCeWkzYW9HLTA?oc=5"
   }
  ],
  "stats": {
-  "descartados": 1,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 1,
-  "prefiltrados": 2,
-  "recogidos": 67,
-  "unicos": 3
+  "prefiltrados": 1,
+  "recogidos": 178,
+  "unicos": 1
  },
  "telegram_offset": 958387804,
  "version": 1
