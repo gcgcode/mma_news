@@ -28974,15 +28974,48 @@
    "title_norm": "jeisla chaves vs carli judice prediction pick ufc fight night 285",
    "ts": "2026-08-23T20:43:50+00:00",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDJCdGRrQjhoTHE1ZkhvUFFqdGxuazNtcTg5V21JeHBhVDRibnVxd0JhVmZLVmV5a3JDNHptbjBObUM1SHdzamRhM0J6bkhodXVKWUU2RmJ1VkV4OHJtOHNoSGRrTkdzZGlhMVhrLTBqcGRzTzFCNzZuUDR6NW12QnFLcDJSaWgtaHZ1c2NoUDltRENpVVJIRnV4N2JHTXBDdjdaMVBCckZZMC1uLWltc25qdXVPd0ZRV3pSZ1NmS3o3STBDck8tV2h0Y2YtWklXR05ENkh3?oc=5"
+  },
+  {
+   "key": "9142701ddc39263556cc9e214c3f8968582eef68",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Wait....what???Did he just say that??Am i dreaming???",
+   "title_key": "9d7b5bb3712bbbff6760124edb3b0b0e78b9d505",
+   "title_norm": "wait what did just say that am dreaming",
+   "ts": "2026-08-23T21:22:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwgx8z/waitwhatdid_he_just_say_thatam_i_dreaming"
+  },
+  {
+   "key": "83333e24d8d7172732b4bac0c056f4159e277bc4",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "In hindsight, this has to be one of the biggest mismatches we’ve seen in the last few years. Chandler literally had nothing for Ruffy in that fight. He really s",
+   "title_key": "ba1a66675e948b90c7d2aa2bdf01c4b5aa244006",
+   "title_norm": "hindsight this has be one biggest mismatches we ve seen last few years chandler literally had nothing ruffy that fight really should retire this point",
+   "ts": "2026-08-23T21:22:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwhsvd/in_hindsight_this_has_to_be_one_of_the_biggest"
+  },
+  {
+   "key": "9fa963e651f7e784bfd946e605994a18126210d4",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White reacts to two retired fighters playing unexpected roles at UFC Sacramento",
+   "title_key": "d8469515966daa0ec5f938848b269a5e27ca334d",
+   "title_norm": "dana white reacts two retired fighters playing unexpected roles ufc sacramento",
+   "ts": "2026-08-23T21:22:54+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/dana-white-reacts-to-two-retired-fighters-playing-unexpected-roles-at-ufc-sacramento"
   }
  ],
  "stats": {
   "descartados": 1,
   "enviados": 0,
   "llamadas_llm": 1,
-  "prefiltrados": 3,
-  "recogidos": 178,
-  "unicos": 4
+  "prefiltrados": 2,
+  "recogidos": 67,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
