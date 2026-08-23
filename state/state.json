@@ -27687,13 +27687,91 @@
    "title_norm": "cris cyborg retiring mma legend clarifies after pfl tampa fight announced last",
    "ts": "2026-08-23T07:30:43+00:00",
    "url": "https://bloodyelbow.com/2026/08/22/is-cris-cyborg-retiring-mma-legend-clarifies-after-pfl-tampa-fight-was-announced-as-her-last"
+  },
+  {
+   "key": "8303169fed8a79b20e7559a6cac033a87e66811d",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Más deporte en AS.com",
+   "title_key": "c6efbc4af6e09bfab3ab7eac10c9d1df73ed686f",
+   "title_norm": "mas deporte com",
+   "ts": "2026-08-23T08:00:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9uMFQzNENFR3NBU0dTWUVvcC1jSFpSQklnXzhpVGlZVGpaclc0NjRCV1UtZ09qNTROU1ByS04yOA?oc=5"
+  },
+  {
+   "key": "50b77ca6cd9a0501906a09226f466ab97144cea7",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Chiefs' Harrison Butker kicks 69-yard field goal, later misses PAT in KC's 1-point preseason loss vs. Bucs",
+   "title_key": "fe0c03f2af61702786cd9800d30d9aec59bf1ab5",
+   "title_norm": "chiefs harrison butker kicks 69 yard field goal later misses pat kc point preseason loss vs bucs",
+   "ts": "2026-08-23T08:00:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWxyUElYZFlIaGtYYlpzeHN6dl9uVk0xc1AxeTBGMC1OcWxYTUx4a3lHb2pMcFdoZXZ3WUxZM3UyQVNYLVlyUHpuMHJ1ZHVMVHFlQ0tmRVVNV18xaFQ4M1k3YndSYnVWaUcwekdOazRpR3V5b0N5QjFsaHJVYTRCZE9WUnhWZ1VueDByYXI5Qm1DaG9xdjliaWdYX2VLQ2VuRGx0R0VTSmowdzF2MjFxOU1tSFJwYklhT1VnSzJB?oc=5"
+  },
+  {
+   "key": "c806767ebba882e498e6477e698bf43c4996f76c",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White doubles down on Ian Machado Garry criticism in new rant about his behavior at UFC 330",
+   "title_key": "4cfe756eb229bcab4c27ef0e6f81d56a36bb5d4a",
+   "title_norm": "dana white doubles down ian machado garry criticism new rant about behavior ufc 330",
+   "ts": "2026-08-23T08:00:36+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/dana-white-doubles-down-on-ian-machado-garry-criticism-in-new-rant-about-his-behavior-at-ufc-330"
+  },
+  {
+   "key": "0bc9bc99ed655e273f4b8dc0fbf3bd107b7025a3",
+   "score": 1,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Polymarket UFC 334: TBD vs TBD",
+   "title_key": "d3c053a4be69bf41feaef0fec201c857f91bee6b",
+   "title_norm": "polymarket ufc 334 tbd vs tbd",
+   "ts": "2026-08-23T08:00:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XWVhoeWJQS3lzWVpENnlYWEVyalN6SjlvOXlKZ2VvV1I0WGtIYUNIZHk5X0tqWXgxemZadHQ4SElyUkpxT3dkWW14bjdxbXVmSVE?oc=5"
+  },
+  {
+   "key": "8ecb628427106d9333df4d67871b8c0d7091ded7",
+   "score": 8,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Cris Cyborg gets pushed to the limit in potential final MMA fight at PFL Tampa",
+   "title_key": "d31bae6622a5818083f96fdc3a391b1d9d8216a6",
+   "title_norm": "cris cyborg gets pushed limit potential final mma fight pfl tampa",
+   "ts": "2026-08-23T08:00:45+00:00",
+   "url": "https://sherdog.com/news/news/Cris-Cyborg-gets-pushed-to-the-limit-in-potential-final-MMA-fight-at-PFL-Tampa-202480"
+  },
+  {
+   "key": "08cc3fe0fb72f0387de0b1c1ee89c2a53c23341a",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "UFC Sacramento bonuses: Carli Judice, 3 fighters take home &#36;100K",
+   "title_key": "80ad7cd1929c6435cbe1b13a0a6695c7d7d80a30",
+   "title_norm": "ufc sacramento bonuses carli judice fighters take home 36 100k",
+   "ts": "2026-08-23T08:00:49+00:00",
+   "url": "https://sherdog.com/news/news/UFC-Sacramento-bonuses-Carli-Judice-3-fighters-take-home-36100K-202482"
+  },
+  {
+   "key": "140e350e4a042aa34972ac29cc6a7a924a208f15",
+   "score": 7,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Gregory Rodrigues survives wild Anthony Hernandez rally at UFC Sacramento",
+   "title_key": "74ab3a80adf01f1fa9ca67bd14530b767e3af44d",
+   "title_norm": "gregory rodrigues survives wild anthony hernandez rally ufc sacramento",
+   "ts": "2026-08-23T08:00:57+00:00",
+   "url": "https://sherdog.com/news/news/Gregory-Rodrigues-survives-wild-Anthony-Hernandez-rally-at-UFC-Sacramento-202481"
   }
  ],
  "stats": {
   "descartados": 3,
   "enviados": 2,
   "llamadas_llm": 5,
-  "recogidos": 177,
+  "prefiltrados": 2,
+  "recogidos": 157,
   "unicos": 24
  },
  "telegram_offset": 958387804,
