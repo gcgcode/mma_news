@@ -27467,15 +27467,92 @@
    "title_norm": "ex nfl star chokes rival unconscious ufc sacramento debut 11 days after winning dana white contender series contract",
    "ts": "2026-08-23T04:21:04+00:00",
    "url": "https://bloodyelbow.com/2026/08/22/ex-nfl-star-lands-round-one-sub-in-ufc-sacramento-debut-11-days-after-winning-dana-whites-contender-series-contract"
+  },
+  {
+   "key": "329d5440c810adc940b105b2a108b4c5b5e9a352",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Merab vs Henry RAF Rematch",
+   "title_key": "0a915c9eda878776b5bbf59fb9cd7ee1907a7107",
+   "title_norm": "merab vs henry raf rematch",
+   "ts": "2026-08-23T05:32:18+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvxmhk/merab_vs_henry_raf_rematch"
+  },
+  {
+   "key": "7ff6c143b1a6597e45a92b3860509a726020b6e6",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Larry Wheels suffers horror injury as Vitaly fight on Adin Ross’ Brand Risk Promotions ends without winner",
+   "title_key": "206ac505c37f578efaf09013d51b447dffafc5c4",
+   "title_norm": "larry wheels suffers horror injury vitaly fight adin ross brand risk promotions ends without winner",
+   "ts": "2026-08-23T05:32:18+00:00",
+   "url": "https://bloodyelbow.com/2026/08/23/larry-wheels-suffers-horror-injury-as-vitaly-fight-on-adin-ross-brand-risk-promotions-ends-without-winner"
+  },
+  {
+   "key": "d8d4a9dc02407fa47f983f841a6ff7fa37057073",
+   "score": 1,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Teofimo Lopez edges Rolly Romero with majority decision to become three-weight world champion",
+   "title_key": "dd78d5ad20e467db491bfe39e709d9b0bde6b84d",
+   "title_norm": "teofimo lopez edges rolly romero majority decision become three weight world champion",
+   "ts": "2026-08-23T05:32:19+00:00",
+   "url": "https://mmafighting.com/boxing/506663/teofimo-lopez-edges-rolly-romero-with-majority-decision-to-become-three-weight-world-champion"
+  },
+  {
+   "key": "c7328313b1f1805efbf624da45cb8d8a15e6cc8f",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC Sacramento salaries: Gregory Rodrigues leads all fighters after main event win",
+   "title_key": "62885599abe1e65d0e9b4f306b0d7cdc31075c21",
+   "title_norm": "ufc sacramento salaries gregory rodrigues leads all fighters after main event win",
+   "ts": "2026-08-23T05:32:20+00:00",
+   "url": "https://mmafighting.com/ufc/506363/ufc-sacramento-salaries-gregory-rodrigues-leads-all-fighters-after-main-event-win"
+  },
+  {
+   "key": "7b6a037bc70e2b88f7fa4683764a33d0ce55598a",
+   "score": 1,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Rolly Romero vs. Teofimo Lopez full fight video highlights",
+   "title_key": "b21b40b4fe0cb8c96bc998329b1e1bc84b724edd",
+   "title_norm": "rolly romero vs teofimo lopez full fight video highlights",
+   "ts": "2026-08-23T05:32:20+00:00",
+   "url": "https://mmafighting.com/boxing/506677/rolly-romero-vs-teofimo-lopez-full-fight-video-highlights-boxing"
+  },
+  {
+   "key": "61d9aba06a8f40ba38b7ed1b45ef499864583f61",
+   "score": 1,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Austin McBroom scores terrifying knockout over Faze Temper in Brand Risk 15 main event",
+   "title_key": "4a87a3834c7d0e3f811550b60ec0eff61560eebc",
+   "title_norm": "austin mcbroom scores terrifying knockout over faze temper brand risk 15 main event",
+   "ts": "2026-08-23T05:32:22+00:00",
+   "url": "https://mmafighting.com/boxing/506708/austin-mcbroom-scores-terrifying-knockout-over-faze-temper-in-brand-risk-15-main-event"
+  },
+  {
+   "key": "8a9b7c84317933af44a2d8435ccf95ebaeecebee",
+   "score": 7,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Dana on Ian Garry’s title shot: “He might never have that opportunity again and probably will never get the opportunity to fight Islam again.”",
+   "title_key": "6d80c8bf0e3f50d33d8836074806760baf76d62a",
+   "title_norm": "dana ian garry title shot might never have that opportunity again probably will never get opportunity fight islam again",
+   "ts": "2026-08-23T05:32:24+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vvxata/dana_on_ian_garrys_title_shot_he_might_never_have"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 177,
-  "unicos": 24
+  "prefiltrados": 2,
+  "recogidos": 67,
+  "unicos": 14
  },
  "telegram_offset": 958387804,
  "version": 1
