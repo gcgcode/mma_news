@@ -2,83 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "ad91aef0cb2bd1e3816c753515a3e653d0796a47",
-   "score": null,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Luke Rockhold vs. Joe Pyfer set for RAF 13",
-   "title_key": "d2ef1143db8e973748ce98a6825ea3b677a5c517",
-   "title_norm": "luke rockhold vs joe pyfer set raf 13",
-   "ts": "2026-08-10T23:34:28+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlM3d1ZaeHJhdzdNQ0JzZzN5SUxNZnNnd25IeGplLUZjY0Y1d3BJazFqWXBlU3FUV19BVEZPeUtYbDE0MWRLc1U2a0kxbTZjMHhfV0pPWE1Sd2Eyd0pOSnJDb0hhTU9iSG9fOWQ4OTYwNXFHV2QwdGN1cmVMekphNUJDdkdMUU42TlRNd1BJOUxmdVh3bkxDbmpsLTZNU3ZCd2UyanRIOE5CTmNGQXRFREJmRQ?oc=5"
-  },
-  {
-   "key": "4498198448aa8ffba037e56d1d2982fc42ae2106",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Carlos Coello compartirá protagonismo con una leyenda del muaythai en un acto del Ministerio de Turismo de Tailandia",
-   "title_key": "bcf89e4249de51a2c0472289ac7d07967ecb15c2",
-   "title_norm": "carlos coello compartira protagonismo leyenda muaythai acto ministerio turismo tailandia",
-   "ts": "2026-08-10T23:34:28+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGd6T0Rla3BiaW52WWlFY2xSN1N2X3ZDakhOdVJZT3lMdWVkTEllUmxvRHBTT0V5WlBRSl9FclNoZ2puRzQxamYxdDVFSGNxWnJWd3UxR1pNMTJ2cGE0SVR6Tk9Hd3lOdU9ZcFg1X3pseHdOcG1TLWY0b1pWVEZyM284Yl9NYXNtTlpiX1RZREwwQ3VVRFVSSnA5R0V4OWhjWm1JUkNPVXB5bWVTajNHbHRINW4wZWYwa2dnOVJmaU9sc05fZVBv?oc=5"
-  },
-  {
-   "key": "f341e8a6a870e64ab61df593b13b191e847f9d3a",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Ex-champ Kleber Koike enters ‘last shot’ for RIZIN title with eyes on PFL, MVP merger",
-   "title_key": "10d92fa55852ba49c1db4b32d2d519ddf329dac3",
-   "title_norm": "ex champ kleber koike enters last shot rizin title eyes pfl mvp merger",
-   "ts": "2026-08-10T23:34:32+00:00",
-   "url": "https://mmafighting.com/rizin/504145/ex-champ-kleber-koike-enters-last-shot-for-rizin-title-with-eyes-on-pfl-mvp-merger"
-  },
-  {
-   "key": "05949b82965586e1641b22bd1b73f04a0530fef6",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "On To the Next One: Matches to make after UFC Vegas 120",
-   "title_key": "2c6f12ceda2109c21e3e208eeea0135228fd71ca",
-   "title_norm": "next one matches make after ufc vegas 120",
-   "ts": "2026-08-10T23:34:42+00:00",
-   "url": "https://mmafighting.com/ufc/504151/on-to-the-next-one-matches-to-make-after-ufc-vegas-120"
-  },
-  {
-   "key": "b533e4f1d8bbdb8fe4971f9c81ef519c944db08e",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Uros Medic tore meniscus on Monday of UFC Belgrade week, needs surgery",
-   "title_key": "943922f5dbd1d1ff94f723aa3d4afc9a86c4a344",
-   "title_norm": "uros medic tore meniscus monday ufc belgrade week needs surgery",
-   "ts": "2026-08-10T23:34:46+00:00",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcHI5R3pzNUF2LXVad2VBRDFzdGNNZHExZjhydHlyTHAtMTM3Si1WOHhEZ1NtbEJrcmJDcXYwQXk0aWY1S0xDcVN6SEhqd0F2V3RnLXNKVkREWko4YS1iU19zNkNuQ1JHakNQR0lWTTUzWUpEenA5emw1U3dSbG91b2dWeG1nNDdHdC1WdURsdVdyZ2phdUhuTVoyOGZxYVVRdXRuYWpGRWxCYktGcmRnZ2tiTjRHSVI5SUhab3lvN0UzMUg0Y0xrSzBwa2tOX1k?oc=5"
-  },
-  {
-   "key": "448d0b626cbf1fe0525dc7a03067cdf4e2f4bbdf",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Melissa Amaya survived insane submission sequence to advance to TUF 34 finals: ‘I could feel my arm doing things it&#8217;s not supposed to’",
-   "title_key": "31ad5df6ff2df6072629a1854c8a2ce6de8fcf78",
-   "title_norm": "melissa amaya survived insane submission sequence advance tuf 34 finals could feel my arm doing things 8217 not supposed",
-   "ts": "2026-08-10T23:34:50+00:00",
-   "url": "https://mmafighting.com/ufc/504006/melissa-amaya-survived-insane-submission-sequence-to-advance-to-tuf-34-finals-i-could-feel-my-arm-doing-things-its-not-supposed-to"
-  },
-  {
-   "key": "532c68afa6eeeddc31ae4add910929a440fb84e8",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Michael Morales weighs an astonishing amount less than a week out from backup role for UFC 330",
-   "title_key": "6841386fd2d1a40dc6760aa1dd18cd7c776c6409",
-   "title_norm": "michael morales weighs astonishing amount less than week out backup role ufc 330",
-   "ts": "2026-08-10T23:34:58+00:00",
-   "url": "https://mmafighting.com/ufc/504150/michael-morales-weighs-an-astonishing-amount-less-than-a-week-out-from-backup-role-for-ufc-330"
-  },
-  {
    "key": "64fda50cd87b6aa29963715af4e18cd633cf435a",
    "score": null,
    "sent": false,
@@ -30701,14 +30624,114 @@
    "title_norm": "dominick cruz glory days ufc legends arthur fils qjfopaoppb",
    "ts": "2026-08-24T23:19:49+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZHJjN09EQXVvLV81Z0c3RklRTzNoTmNjWGZQcS01cXRXOFBSX1F4cUhDb19Gakp2Y3NhNEVKekhQV0FKYlFHcFlnTXNuRjQ5Y25mWEdXWXNZdVE?oc=5"
+  },
+  {
+   "key": "2f861c365bf10b1ed7d37c2b09945d8f102f5968",
+   "score": null,
+   "sent": false,
+   "source": "TUDN MMA",
+   "title": "Khabib Nurmagomedov cambia los guantes de UFC por los botines de futbol",
+   "title_key": "9e507b2442c3fccdd341436a1fe65c43807159f3",
+   "title_norm": "khabib nurmagomedov cambia guantes ufc botines futbol",
+   "ts": "2026-08-24T23:42:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2Q3d0xDcFNqZkVScmtDb0cyRU1Hbm9lMGVDWEZUVi1CUVRDRUhEQmczSXlvVjBDMklBcURycXdkd3hva3ppaHIyZkJWQzlxamQ0NmlNRGxJal8zSVh1ZXZRdDYtSHUyd28zWDY2dm45QTd5bDQwSzVna3NXazlFTWVrT1llWXNablJ5OWxMTFFhblJ4cTRCY0p6Q09aem9MZFZuOUMwOUk?oc=5"
+  },
+  {
+   "key": "292f2169e7fae53d98a8ba8e3627a4e7cf16105f",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "- UFCESPANOL.com",
+   "title_key": "6081135725dccaa94c106fdbed3a1b3196b4882b",
+   "title_norm": "ufcespanol com",
+   "ts": "2026-08-24T23:42:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wQjVWSFFOR2dBdktHTmNmWmNhbm5PTngydTlpQnhJUF92OHRNNUJmY0p6eUdpeVJQNjc1UDctSEVQTGkxTVZ2SHBfSEJWYVhyZnc0c2pCNVl5M2hQeVg1SlpMaWcwSXdGWGZqWHo0Rk9Rb01oWTktclZoaw?oc=5"
+  },
+  {
+   "key": "bd20bf81e7fd3c3aeef2181ecf2187ae290b7861",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Rudy Gobert News, Rumors, Updates - Minnesota Timberwolves",
+   "title_key": "7050c4647678f3647e88205670d870c0c2d2efba",
+   "title_norm": "rudy gobert news rumors updates minnesota timberwolves",
+   "ts": "2026-08-24T23:42:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3eWQ4a3prSzk0U0hWdUw4NjdZUTlXTG5wTFVSMDhaSnVLRGdyZTloUlU2a190WGc1VFMtd19RVWs5MjZ2aldpYl9zZTFrVW9nNkp3Y3djc1lQNXhx?oc=5"
+  },
+  {
+   "key": "8d65e89b4da9df05bc0b37aac5025853ab18d84d",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Islam Makhachev saca pecho tras su victoria: «Somos el mejor equipo del mundo»",
+   "title_key": "f9aa3fd38896c5fa29245d876ad1085c53146aa0",
+   "title_norm": "islam makhachev saca pecho tras victoria somos mejor equipo mundo",
+   "ts": "2026-08-24T23:42:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON3hGV3pXWk1feFYzSmhNd0l4WmQ4V2VRZXgwUy1CdmYyUGgtdWctck1EMHdhRVU5eUVqRDY1dmhvVzVpUGE4OWV4ZTloV3l3Ry1mQV9rdXM3bUJYOXpDcW9PbzVQYTgwWUxweGdsMzk2YTBuQ2lDUEJnLXJKWmpBNVpQNUVSWTBTeVZWSm5LM1dJdy03WnVNdExZWHdyQjNsbTVV0gGoAUFVX3lxTE5Mb01WTXNIb05UcWN3ZzZVZDRUSWFDZTdGSmRCenpScVBKRHBEM2I3MTJ6Q3JOX3FkeVNoek5RTHZGempsTDFZLU5SMHF3N0pnVFFuYnNnZUFCR0ZVeTNqV2F6TUhES0lqbXFwT1dVbGZHNHd2UEVfcU5pamtodVpWTWh2R2hZX3V1XzBuRU1neVV1N2NMV3Z4WjNFbUx1Ry1sOG80clNJcg?oc=5"
+  },
+  {
+   "key": "f0f65440d81fbe8177cb54876b994d77238ac49b",
+   "score": 7,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Islam Makhachev says he has at least 3 “exciting and very difficult” fights left in his career 👀",
+   "title_key": "e085ad3f8d7cb793a28a897c76239374586696dc",
+   "title_norm": "islam makhachev says has least exciting very difficult fights left career",
+   "ts": "2026-08-24T23:42:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxixho/islam_makhachev_says_he_has_at_least_3_exciting"
+  },
+  {
+   "key": "fee7d9d4d3ff441596a509b5b56dc5c2c6fc94dc",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Una semana entrenando en Bangtao, el gimnasio de MMA más popular del mundo",
+   "title_key": "41262816e1c4c8bdad9f4c6df2515326effd51d8",
+   "title_norm": "semana entrenando bangtao gimnasio mma mas popular mundo",
+   "ts": "2026-08-24T23:42:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEJTd2xTWERSX2FkeDdUNUEzaXdjTWRLUDJySGd5dWIzaUJNQmQ0V2k5NURkenRNNFRsMzFHWjNJek1wX2RqZ2p5OVc0Q1RZV0Y3aEtKcHh3eGZ5dGlTWHVRTDVmbkFRRWNEeTBNWEVhOHpOdDVNMk1TRUdTUXM0UDVmNXR1UmxFNVM5NGZYVnBHRFg1bEp4UdIBngFBVV95cUxOZGQ4eUM2Nml2ZWFINElDUFpwSHpSNTZrZVhOTm52YjM5ZXN5RWZFTlFTRHNxWjlzRHU1cC1oaEthaGVvNm56bVNlZmN6VHM5TUxwamVKeVVDQXRzS0JNenhCdlFxWUNzZFlpbk8zOHJHSEY2S1ZfWkRzaU92ZVBvei13VVpiTElDU0JDdFdCQU5hMVhGT0dVb1RFcGpZQQ?oc=5"
+  },
+  {
+   "key": "ca5d5fae6a31e4df65532ffc609c445d1626a0b8",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Canada's Chad Anheliger added to UFC Edmonton card",
+   "title_key": "7fc9481f2746ae134f099436b38e3f038b8a325e",
+   "title_norm": "canada chad anheliger added ufc edmonton card",
+   "ts": "2026-08-24T23:42:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHBWWWhuSzd1QkpvMkpJMmlJUk5ZSy1lTnVvQ3JQVEV6bnVDalY3MUttSUR3bFJSc3hvaHJfdW91Nkw0Y1drVmFGRmtLT3V6Z2tkZ1c2RnZWZm1HOTZvRTE2TmhpMnFIYVk0OE9PWTdoSmJBZXNNeGpFbjJ5cGtKNWlMaW5ySGNnNEhlcGM1cmY?oc=5"
+  },
+  {
+   "key": "21deaf9dd9194eaf09140e129cc16eeb5142b8a4",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC Sacramento: Conferencia Posterior",
+   "title_key": "7d31d201f1d27e9063b70ed3d64ae9592b2edd95",
+   "title_norm": "ufc sacramento conferencia posterior",
+   "ts": "2026-08-24T23:42:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSWUdTaVA2NGdpdHhudWZQM1QzbEFhVnBmYnRLUW5SVjVVRldUTmxmUFFXd1FCcGxMTXhNOGM5cUxfSk1wMzJyaHJQeVphZFlT?oc=5"
+  },
+  {
+   "key": "f16d3c0db237ff62bcf9745e0b2de10cc4b9993e",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Merab Dvalishvili Shares Prediction For UFC Shanghai Main Event Between Umar Nurmagomedov And Song Yadong",
+   "title_key": "bb0f68313211f6324b2d8dde792ec0808bc21120",
+   "title_norm": "merab dvalishvili shares prediction ufc shanghai main event between umar nurmagomedov song yadong",
+   "ts": "2026-08-24T23:42:45+00:00",
+   "url": "https://lowkickmma.com/merab-prediction-umar-nurmagomedov-song-yadong"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "recogidos": 204,
-  "unicos": 8
+  "prefiltrados": 4,
+  "recogidos": 203,
+  "unicos": 10
  },
  "telegram_offset": 958387804,
  "version": 1
