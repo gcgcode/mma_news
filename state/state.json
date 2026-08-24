@@ -30613,13 +30613,45 @@
    "title_norm": "ufc sacramento hernandez vs rodrigues prelim results highlights",
    "ts": "2026-08-24T16:50:02+00:00",
    "url": "https://lowkickmma.com/ufc-sacramento-prelims-results"
+  },
+  {
+   "key": "bf09e282975a565a5b37f8dd26a47417fe9483b5",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Mirror matches",
+   "title_key": "28bba9f4edf554f6991d0dadbf23eba53bcb0f17",
+   "title_norm": "mirror matches",
+   "ts": "2026-08-24T17:26:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vx8qx7/mirror_matches"
+  },
+  {
+   "key": "0157ccc2a96795123ea08efe7c9c27be2fc53648",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "R. Viena vs Hearts: estadísticas previas y datos en directo | Conference League Previa 2026/2027",
+   "title_key": "7e906e0303db4f686917242c8bc619b02afb45b1",
+   "title_norm": "viena vs hearts estadisticas previas datos directo conference league previa 2026 2027",
+   "ts": "2026-08-24T17:26:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMnA3VUhNU1R0UkpiLVV5WmNUajZ1Z09aZjdvUWhXSVZRM3dmZ24wdU9NazRLM2JSZVVQbTFVRmlncWFVYW92eEJaU3Z5SDU4N2k4MXIzUzczdWlORmdfLXEtRkdtbTNxeFN1SlAxanVLR25DbTZXQlczSTNYbHdsSWZZdFIwS3NIZ2RzQVVOSHVpYWhKb2h6OXdaMEx3bGlhRUxlYUJHbVlLNTkw?oc=5"
+  },
+  {
+   "key": "40bb4b0888d7533ee216ba3001fb1f986c6e42a9",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Sorprende la precisión de un robot para imitar el festejo de Cristiano Ronaldo",
+   "title_key": "7207cf5429fcf52bd1236ec1999bbe9269cc9f67",
+   "title_norm": "sorprende precision robot imitar festejo cristiano ronaldo",
+   "ts": "2026-08-24T17:26:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjdxV1JjaEhPaDVyLV90OFQwcWFidWV6RkF2YlFvbkRVWDhpZ3QwNk5DU3BUNUYzXzZlUktlNWdPNEhOSGZwcktNZDU0c1E3U0licFo2VFhQa0lHVEhyQ1pUMUFYOTlKZlZ0b0FXMXdWRjAxalRkNERmZTFDXzg5M2cyTjRURjVQWWQ0WGtIT0RjamFwT21jdDcyczR4ZDI4ZTM0OXNKOWk4b1RhRVg0dlBSWndzdVQ4WkVRR0lQcHdkSEw0cGlyUtIByAFBVV95cUxNYjdxV1JjaEhPaDVyLV90OFQwcWFidWV6RkF2YlFvbkRVWDhpZ3QwNk5DU3BUNUYzXzZlUktlNWdPNEhOSGZwcktNZDU0c1E3U0licFo2VFhQa0lHVEhyQ1pUMUFYOTlKZlZ0b0FXMXdWRjAxalRkNERmZTFDXzg5M2cyTjRURjVQWWQ0WGtIT0RjamFwT21jdDcyczR4ZDI4ZTM0OXNKOWk4b1RhRVg0dlBSWndzdVQ4WkVRR0lQcHdkSEw0cGlyUg?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 3,
-  "prefiltrados": 4,
+  "prefiltrados": 3,
   "recogidos": 201,
   "unicos": 7
  },
