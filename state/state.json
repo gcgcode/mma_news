@@ -30063,14 +30063,92 @@
    "title_norm": "alberto blas vows destroy you minute bkb 58",
    "ts": "2026-08-24T11:06:16+00:00",
    "url": "https://lowkickmma.com/alberto-blas-vows-to-destroy-you-in-a-minute-at-bkb-58"
+  },
+  {
+   "key": "092f99a45f4bd119448cca5c1baf2661f11a7219",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "You know you better than this",
+   "title_key": "9eebfe835d92c4da027714351a733359d972b298",
+   "title_norm": "you know you better than this",
+   "ts": "2026-08-24T11:46:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwze2b/you_know_you_better_than_this"
+  },
+  {
+   "key": "8806f86da0eb3bde24acbd7b85e03ba478a6fd41",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Why is this not talked about more? Should’ve been a DQ imo",
+   "title_key": "bab47800c89ba47115de4f4f60ca708a1167dd66",
+   "title_norm": "why this not talked about more should ve been dq imo",
+   "ts": "2026-08-24T11:46:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vx00t3/why_is_this_not_talked_about_more_shouldve_been_a"
+  },
+  {
+   "key": "8b846530ede08e4538db0ad030caa533f65f6f38",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "WOW 33: Vitoria | Cartelera, horarios y dónde ver",
+   "title_key": "5672a25fd43c4aa7fa3ce6d021e9319d73b21ee8",
+   "title_norm": "wow 33 vitoria cartelera horarios donde ver",
+   "ts": "2026-08-24T11:46:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGhERDM3QnM3VmlJbHN4endfb0xRRDU1VHo4a1AzUW1sRTAtZXo5LTZUNkhDcDM3amM2SXVyQkx2YlZDVE9lOEo2TjFlbXFVNGljZWF4WC1CbC11Qllid3lWSm81MkxSMVRDUjlPbTlNX0NGVjlDUzVpU2YwU1IzTHJn?oc=5"
+  },
+  {
+   "key": "84b743ead6d2877511e0213e0419ff39d9def015",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC Shanghai: Nurmagomedov vs. Song | Apuestas, cuotas y favoritos",
+   "title_key": "6537a3049d546f9d74e57e7beeba0847160e4598",
+   "title_norm": "ufc shanghai nurmagomedov vs song apuestas cuotas favoritos",
+   "ts": "2026-08-24T11:46:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PV1AzWGhuX3hFdjA4SS1IMnM3WVZjaTk3bWpyQWJ2T2JTTFRTbXUzQWdPODlVbjBhNkFlNG9WUm82TmREbGdPU051RkZTR2tlZWFHZTE5UHFKNEtpRjctRHg3eEI3N21lRWdQNTNaSVJuYUtQUkxUbWdGSQ?oc=5"
+  },
+  {
+   "key": "3ae14f927a818f3c2ef1b65eaf02ff4c0e93238d",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Con 10 años de edad, Aliseth logra plata mundial para México en MMA",
+   "title_key": "7cfa1a6d72d1bcbe6a258061a5344f41bae6de92",
+   "title_norm": "10 anos edad aliseth logra plata mundial mexico mma",
+   "ts": "2026-08-24T11:47:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbGZwY2FlcWFnZkhSeHZQemdydkpLYjh3R1p1NGNQWV9kekU0d0tNNXZpZ0RlWlZEOGVTel80NFNXVmxfUFA5dWVLeEwtNWFxZ3JNeG5NaklMem01a042aTU1MU5OcFdKTEZEblRpa2g0a1VBVVV4NURHV2l5enM3VV9rSlNNd2JpNFpxRjBJbkVHdFpUQkJ6dUdYc3lBaVV4RVJ4amlzREZxTlRpUS16UFplQWFQSTBFdjVLaGdn?oc=5"
+  },
+  {
+   "key": "6cac5823ba8051f79d63df1b95cb0cc1ff87cfc9",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Jorge Masvidal teases UFC return with another ‘three piece and soda’ against Leon Edwards",
+   "title_key": "9a7f4bd3bc987edba8e3cb0f0a149b559e9a4d19",
+   "title_norm": "jorge masvidal teases ufc return another three piece soda against leon edwards",
+   "ts": "2026-08-24T11:47:02+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGFDUFRnaHlIRlBxZEpuXzJDSGNzeHJrdWItcC1PXzFneGVvQUFBeHZDNUpveDViN2R6U3BpaVZpbXV5OXFWdXlTWFFxNWQzbVZRaU9ENXZzZVNIVEtNNkRIRGVBV2c1S0dOR29kdTE0U3dET3c0YXRzcThzR2I5UjRJaEw1RUpCN0JtTkdVdkFrMFlPd3EzWklqZjdBSUNsV3NFYnRvZnMyYnpycU1BSEdHZ3BTam51ZTBubXdLRGhrUW14RU5z?oc=5"
+  },
+  {
+   "key": "002574c2b8335998a9951d0564219181ae063db8",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Stan Dorsainvil: UFC Record, MMA Stats and Fighter Profile",
+   "title_key": "f8b4fea1a30a1a3b15b8e7face2fdd75ac32a62e",
+   "title_norm": "stan dorsainvil ufc record mma stats fighter profile",
+   "ts": "2026-08-24T11:47:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IeHNPbEVWMVpnVDFwcDZFRElNZmJhTkpWdVZLTEtJTmVqS0NSeG9TRWRzU3lCZC1IRWFzWXQ0Ukp0emlwenI5Z0x3dXp3WWFSMlJJTHpSdHd5QQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
+  "prefiltrados": 2,
   "recogidos": 176,
-  "unicos": 7
+  "unicos": 9
  },
  "telegram_offset": 958387804,
  "version": 1
