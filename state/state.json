@@ -30008,15 +30008,69 @@
    "title_norm": "dates locations revealed last major ufc events 2026",
    "ts": "2026-08-24T10:22:04+00:00",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQS1TbUtBcElrZm1yUGswTjkwTEpfdFFjZklTR0dfb2N5eVpNZ0dweE9RNEdsWk1pS3BuVVVKNE52LU9iUmJnLTBDT2k4WUk1bF9oUjk0M2ZwZU1nMndic09wRGdWUWg1dy1NTDFwUkxXck1Od09BQURBclVOWkpGeXBxMmFkRVRlWGFEV0lIOC1fbHNhMWJ3c0FJZ1BJVVhpOW9UYmItU05KSXJzRFpWVXFzM3U?oc=5"
+  },
+  {
+   "key": "593cdc755408cb203a1422ed613620b1d05a1b71",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Sacramento video: Marcio Barbosa's glancing shot stops Ryan Kuse",
+   "title_key": "bc7d5e4da21fcbd2b4dc2e27fdd04d28fe3bd271",
+   "title_norm": "ufc sacramento video marcio barbosa glancing shot stops ryan kuse",
+   "ts": "2026-08-24T11:06:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMkdLWVJMWkRMTWM3TTRxN2M5Y2V1SDdLcHctR0pXajYtczlQcmhuaWxFaFJzQ19xbEQ4M1FISl9DcGljaFpqMmhhb1VsSk1GMGxvTEpId05wMDRCbUJMOHpnRGlQb2dpMHVnNUlFX1M3bURQd2R5ZDY3RjMzdThld2h5eU5ETkwwc1YtMXBVM0tHUDMyZjRSeXpnNlMyRFVqNnJIRU45TC1IVUk5ZWdYenJwTEhZYmpObjRKZlRZSGxiNkhiTENKOTR4V19VTG9kYkkzSDMxTWJCcHZ6TXZTbW9HV3dTVlNiLUx5OENuV0VrSDdWMDY2VDVOSG14UQ?oc=5"
+  },
+  {
+   "key": "c4a4a1a942c08106629b80e0ce179d3272e9d376",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Carlos Prates suggests fight date and famous location in new message to Islam Makhachev",
+   "title_key": "1957e225547fc9d4882ceb1baf4f73884f4b2172",
+   "title_norm": "carlos prates suggests fight date famous location new message islam makhachev",
+   "ts": "2026-08-24T11:06:08+00:00",
+   "url": "https://bloodyelbow.com/2026/08/24/carlos-prates-suggests-fight-date-and-famous-location-in-new-message-to-islam-makhachev"
+  },
+  {
+   "key": "557001b229eee09b68d9c6bd72159c97a5050aec",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Does Dom deserve more credit for beating Mighty Mouse even with the size difference taken into account?",
+   "title_key": "b470147eb5c544f16a53ad263b3d1cb46d91eb39",
+   "title_norm": "does dom deserve more credit beating mighty mouse even size difference taken into account",
+   "ts": "2026-08-24T11:06:13+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vwynin/does_dom_deserve_more_credit_for_beating_mighty"
+  },
+  {
+   "key": "773387083a14f551c835a560380ac79fd34cae79",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Reveals Dates & Locations for Marquee End-of-Year Numbered Events",
+   "title_key": "3c97668bf86b5b87a2cde8d83286494c4d7e2a0c",
+   "title_norm": "ufc reveals dates locations marquee end year numbered events",
+   "ts": "2026-08-24T11:06:15+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXZNcW1lMHFUZG9vSFY3T29wTW4xbTB5ZC1Mdnd5R29OdFBwX0Ftam1INVFXOHVBNmN0a1JhMHdyWDkyZmg1N2hOY1pHZmNNMVBsMjg2Q0dPZnR5aE9lbUZtbENZTl9ONEJ0dkZfZHJvc3o5Nnc5U2NleEZNaUI4bU05Z3dfNE92NzBEdWYxMlRlemp3V2lvUFVNLTlZeXhkWWlzbl8zeVk?oc=5"
+  },
+  {
+   "key": "6e99dfd79074f31dcca2bb8ffbd30be63afea86d",
+   "score": 3,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Alberto Blas Vows to “Destroy You in a Minute” at BKB 58",
+   "title_key": "3fc1b7f42724adacbd528748c2fcc2ca56dfbfb2",
+   "title_norm": "alberto blas vows destroy you minute bkb 58",
+   "ts": "2026-08-24T11:06:16+00:00",
+   "url": "https://lowkickmma.com/alberto-blas-vows-to-destroy-you-in-a-minute-at-bkb-58"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
   "recogidos": 176,
-  "unicos": 8
+  "unicos": 7
  },
  "telegram_offset": 958387804,
  "version": 1
