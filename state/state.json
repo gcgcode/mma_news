@@ -30833,15 +30833,81 @@
    "title_norm": "ufc 334 five titles fights that could headline show madison square garden",
    "ts": "2026-08-24T19:03:44+00:00",
    "url": "https://bloodyelbow.com/2026/08/24/ufc-334-five-titles-fights-that-could-headline-show-at-madison-square-garden"
+  },
+  {
+   "key": "db0d5084386b3fdb353e4d403a62e853f4faac2e",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Lobos BUAP ganan cinco medallas en Artes Marciales Mixtas",
+   "title_key": "63bf42b4ed797838bf1cbc08d375c11975562865",
+   "title_norm": "lobos buap ganan cinco medallas artes marciales mixtas",
+   "ts": "2026-08-24T19:48:35+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zNWpHWXZpQ3gwbEs0YklrQ280ZjZlUjBRaE9rMERnOERUUXRPYV9nbzJZaWNIYnhMa1VNWS1CV0dGTjRmOVY3VUJjVlh6V0xfTGhRYmlXTzZvbENMWUJYSW5kdUgzWFUwRWwzNVU1dGx4VFFwYmROYnZn?oc=5"
+  },
+  {
+   "key": "c760254e757f63bd92b7c7cc759fcf25c4948b94",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Dovy🔌 on X: \"7 years ago today, Weili Zhang beat tf outta Jessica Andrade in 42 seconds to become UFC champion\" / X",
+   "title_key": "fee27aad9175d9511b3557fc73cc6010912ef573",
+   "title_norm": "dovy years ago today weili zhang beat tf outta jessica andrade 42 seconds become ufc champion",
+   "ts": "2026-08-24T19:48:35+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vxbqcw/dovy_on_x_7_years_ago_today_weili_zhang_beat_tf"
+  },
+  {
+   "key": "902d344be1ba38d9c36258f7998dd54410d6d3ab",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Robocop and Fluffy were surprisingly close in weight on fight night",
+   "title_key": "9599c0244b246428b502a82c315c1f8120cbff3d",
+   "title_norm": "robocop fluffy were surprisingly close weight fight night",
+   "ts": "2026-08-24T19:48:36+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxaxyv/robocop_and_fluffy_were_surprisingly_close_in"
+  },
+  {
+   "key": "acca542a08345dcdc8bde954c98bad1d483bf020",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Merab Dvalishvili Goes Candid on Why He Lost to Henry Cejudo at RAF 12",
+   "title_key": "bfc019d0520c2247931da5cf35768f2055fc0be4",
+   "title_norm": "merab dvalishvili goes candid why lost henry cejudo raf 12",
+   "ts": "2026-08-24T19:48:37+00:00",
+   "url": "https://lowkickmma.com/merab-dvalishvili-goes-candid-on-why-he-lost-to-henry-cejudo-at-raf-12"
+  },
+  {
+   "key": "3326d4dd418c182602653633604d28e03a594fb2",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC London Official Weigh In Highlights, FIGHTER IN TEARS, TWO WEIGHT MISSES Russian Ship Nuclear Reactors (s0HTsVohfd)",
+   "title_key": "e3e8ca313bf2f2ee737eaf01ad571f477d52ad4c",
+   "title_norm": "ufc london official weigh highlights fighter tears two weight misses russian ship nuclear reactors s0htsvohfd",
+   "ts": "2026-08-24T19:48:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kRWhQRi1jZkxNcjQxNGRPVi1TWWxFVlVONW9yODJTOU00Wm5meklmUElUSi1wUTlzeVpLU2VjZ3p2Qk5zZThvN1B6NkZHY29ubzRSc1JfMXFXM2M?oc=5"
+  },
+  {
+   "key": "7b564d1a76c6969ff93aa104c08dfc88264e3b06",
+   "score": 1,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Ryan Kuse - News & Rumors - UFC",
+   "title_key": "3c939d4a2a0346dbe465024525dc5fb8701424cf",
+   "title_norm": "ryan kuse news rumors ufc",
+   "ts": "2026-08-24T19:48:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WQVNpTDNQY2duR3ZqNU5JRGllYlVIdC13d2lPVk5XdEszV1UtaG9neWZNaUFiWFNLSVNCRDUxTzQzb2FOcmN3LWdZNXJmZ2VBaDc0dDc0RWlSQQ?oc=5"
   }
  ],
  "stats": {
   "descartados": 5,
   "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 6,
+  "prefiltrados": 1,
   "recogidos": 201,
-  "unicos": 13
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
