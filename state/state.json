@@ -2,61 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "6f28dcab5dbdbed999ff71998450eaeed52aae8a",
-   "score": 7,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "King Green makes ex-boxing world champion Arnold Barboza tap in seconds after being battered in sparring",
-   "title_key": "4035ba7eaa771c33f952c5af8aa1e3e1b6c35d90",
-   "title_norm": "king green makes ex boxing world champion arnold barboza tap seconds after being battered sparring",
-   "ts": "2026-08-11T10:15:36+00:00",
-   "url": "https://bloodyelbow.com/2026/08/10/king-green-makes-ex-boxing-world-champion-arnold-barboza-tap-in-seconds-after-being-battered-in-sparring"
-  },
-  {
-   "key": "52c6e0605e342884144d622db4ab119fb31c0688",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Daniel Cormier reveals the toughest part about losing to Jon Jones during infamous UFC rivalry",
-   "title_key": "46fa04ead3975cf10104c5fc6f01f2c3c4080372",
-   "title_norm": "daniel cormier reveals toughest part about losing jon jones during infamous ufc rivalry",
-   "ts": "2026-08-11T10:15:41+00:00",
-   "url": "https://bloodyelbow.com/2026/08/10/daniel-cormier-reveals-the-toughest-part-about-losing-to-jon-jones-during-infamous-ufc-rivalry"
-  },
-  {
-   "key": "8c5580adc2d260f9ac5bef02ae19f512be50d31d",
-   "score": 3,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Ex-WWE star ‘Velveteen Dream’ to fight podcaster Ryan Pownall in latest addition to Mike Perry v Dillon Danis card",
-   "title_key": "104cde9d1e77d22de26d14584fa6d399b6d1d281",
-   "title_norm": "ex wwe star velveteen dream fight podcaster ryan pownall latest addition mike perry dillon danis card",
-   "ts": "2026-08-11T10:15:45+00:00",
-   "url": "https://bloodyelbow.com/2026/08/10/ex-wwe-star-velveteen-dream-to-fight-podcaster-ryan-pownall-in-latest-addition-to-mike-perry-v-dillon-danis-card"
-  },
-  {
-   "key": "6897e30314492a4a32b3f6f1ac39913ef4fe20d1",
-   "score": 5,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Mark Zuckerberg lleva su entrenamiento de MMA al Lago Tahoe en una sesión viral con Merab Dvalishvili",
-   "title_key": "8c1f44633c3a39701b6a31dd63518823cfa0b7a8",
-   "title_norm": "mark zuckerberg lleva entrenamiento mma lago tahoe sesion viral merab dvalishvili",
-   "ts": "2026-08-11T10:15:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnk1cEpiXzFCQmhzbFF0Nmx5cndLWGdYakJfUnhINDJ1TXhDSU5objI4cTZlbWhnZzE4b2wyY0RfSWxycWdNT1B6WGdLSDNERnBlWF90eDdKTHBqcExVSE9CNlVoYW5fNk95eUJjcW5hUFkxeDMwenBRSGJfdkV6bDZ0dHNrV0lMcjdaZ011aGU0OE1oZW5XVDRyWW9oUFZzQ0I2Rzk4WG5ZNmFwX1AtOHFCVGNqVDFOb213dk1vVTNLV1BieDRXUnhVTlBwcnJYTDdTMi1lZVRiaUlyTmNZ0gHkAUFVX3lxTFBBbUFYM2Y1cEh6a3hQQzdaYUJxYmw1SmR5cmx3RVZ4NW95bEJvenRJVFpQYUVJZUc4cWpVRklOSHdaRUo3ZUJMMDZtMUwzZUhYd3hBcWhISk4xTnVtTjRCX18wOUNqTzY1Q2FuaTBaTjBFTm1pWVgxaGphZ2N3NUcwYkxIR0NaRHE1bk80ZHpsZkdvYXRkckdfeVZURUdyRTJBeFdyQUowcWRzTEdpcXdTTE1oT0tNSDdjTmg4VGszY1BJSkRJQjRzbXhZcTdKTkR0WWVRWV85N0NWMVVVRXRFNjBJbA?oc=5"
-  },
-  {
-   "key": "0d5c0701dfc026ce592fb1091c4ed0c470bbf187",
-   "score": 5,
-   "sent": false,
-   "source": "ESPN Argentina MMA",
-   "title": "Conclusiones UFC 329 - ESPN Deportes",
-   "title_key": "0db18513d865deb488861fb45249a7e07cea8c43",
-   "title_norm": "conclusiones ufc 329 espn deportes",
-   "ts": "2026-08-11T10:15:54+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXJOZlRjMVZueFk3amhiUmNULVVrNFozd19SeTBnTWt2eG9sbFVEUTZ2WVRWTGp1b1ZYR2VCSFM2VjhlZ3RjczhfVV9EczhxRGMwc09zT3dVMmJDUVpkVHFmQmM3VUxHZE9tLUJXVThoaFJYdUxPTXRLN1I5TlZCWjNjZHVjazJ4b1MtQmZPaF9OSnlpaFZPZXBEX2ZlMnZrTlktelJMdkk3Mm11TlFpQTA1UWg0NGhqdV9jZmlGZ3hta1pz?oc=5"
-  },
-  {
    "key": "c97b2ef1d61a2d24e3b53ce6674afe661aae8fc1",
    "score": null,
    "sent": false,
@@ -30492,15 +30437,81 @@
    "title_norm": "generacion mma estrena nueva temporada nuevo plato mas humor formato late night",
    "ts": "2026-08-25T09:55:08+00:00",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0V4S1pBSnBldFllbC14Y0JYRHNfVHdNNUFrLWFHU3NndFRveTZ1RzltU2ZUckVzSHVTTkRRMElfZ1dKTjVZeDdrclZidXlEM2R4OUpfbmRFdy1PLW9RdThxa2UyQ3BRLTBjQTR6M3RiNmVZbndBN2NRM0EyNkw4T2F0dmR1RDdRRnNWczYzWEJ0bmxIWkVUc2NPZGMweFNHRkVjV2laWHFoTEF5eDlfdVk1MVEwRjJJRjZr0gG7AUFVX3lxTFBsQWMyRzB5RjRicmFxQk9ZR0huc1g0U3ZpSnFIZDM5dWN0bmliVG8xSjZ2YWlOc210NGl5VzNDY0ZFN1Z6bU1veVpzQ0MtZ0pvX2F2X3VvNnlmRDJjYkJobW95enBaaTNVX3RqT0pLblBqLWthWTgycnpWOXR5bFJpWmRlcTU3NEdmV3NxTENCOTAxb0ZoazV6S0RDZzZIWHRFOUEwMVBDdWRDYzBPdXVreGhVRzdLTXpmRzQ?oc=5"
+  },
+  {
+   "key": "baa5ef6db4e5b4f9c79236971bb7f82b7b3972d4",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "HOT TAKE : Volk is an Overall better striker than Alex pereira",
+   "title_key": "db15062ef7ed79ad642f9272909507d7d8e430c0",
+   "title_norm": "hot take volk overall better striker than alex pereira",
+   "ts": "2026-08-25T10:26:34+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxt3ir/hot_take_volk_is_an_overall_better_striker_than"
+  },
+  {
+   "key": "445c1e4da701a6e75027a27bdaec1e4bcbaf042c",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Darren Till didn't hesitate to accept Yoel Romero BKFC fight despite past remarks",
+   "title_key": "21bb1403e3e37f7d078af14764d0554ab11c78bb",
+   "title_norm": "darren till didn hesitate accept yoel romero bkfc fight despite past remarks",
+   "ts": "2026-08-25T10:26:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFk5eFFlVlplOEJ2aEpqbVlQMm9sWWpUeHd2eWJPNDVJU0tHYkY2SEZBcnZxTzFyd09Dc1JCektiYlEyZTk0ZDdsNmdYUTBzTHhiem5NVVdnSE5UczdSOTRTMEpmaXg5TW5MTFpvVERWV2JQVmxrU0Q4eTVVVlFvdzNsVDk4SVFMVzBHTHlSaVRHRW9FSm5mYWdkRVhTMmM2U0FwQXlGT1B6a3ctVEVqMnBtb2NNSm8?oc=5"
+  },
+  {
+   "key": "5a156384901ca727d8c3bb651408c7b579f024f4",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Peleaba en las calles por un helado, llegó a campeón de UFC y debutará en el boxeo a los 39 años",
+   "title_key": "8f03fee1fb0e000bc0318f68e10f0a12151581ac",
+   "title_norm": "peleaba calles helado llego campeon ufc debutara boxeo 39 anos",
+   "ts": "2026-08-25T10:26:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOERrXzFEVnhrWUJPc2FXSGppMlhiTk5UWFZfalY1elBSS2ZrVXJzYjVOSUQ0N2g4V2dXVjhxdHdaS0pFNWNFclZ6ckp4SUtfTHJhenAtYndXR0F5VG5GTmZ5VmhZUjFVTFFib0VrcXJ2b2dzd3VNTWhSOW5rSlVrS3pJWng1UmxKbmZucUo4RnVjMTdvOUdNd2hYWGJNd0huVnpJTkRfemdoZEFZeEp5bzFyT19nMXQ0eTQ2Qk9zTUM2azR6UkRzN1ExaXZjYjdoNnp2UkVXUllzcUVI?oc=5"
+  },
+  {
+   "key": "ee78bb6440f34e53f47e3977f43dea89743fda67",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Predicciones UFC Shanghai: Nurmagomedov vs. Song",
+   "title_key": "c5a1c859a297ef1e620434988fcd20990536fb28",
+   "title_norm": "predicciones ufc shanghai nurmagomedov vs song",
+   "ts": "2026-08-25T10:26:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMRTlzbkQ1czhRYWtaZ3JiTnZBQjBSYmM5MjY3dUh4SXBzTm1iblpSRktkSkQ3UkpRSnpKVEE1NjhYV2V3cTdBLW9nSnBUNy15VUotbDhaemxIRjFyb09XNEg3amlvRVE?oc=5"
+  },
+  {
+   "key": "864333b459ea5dd9b72b55ec0d0ce072fa93a78a",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Conor McGregor Vs. Max Holloway Announced For UFC 329 🚨 Vancouver News (3gikTeHzSD)",
+   "title_key": "3cf48c14de9a33ed17469e039ec10549b3126c96",
+   "title_norm": "conor mcgregor vs max holloway announced ufc 329 vancouver news 3giktehzsd",
+   "ts": "2026-08-25T10:27:10+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02ZEQzM3dkc3FDYUlBanFqUlJDS2hqOUM2Y1I0bW9sTnNNMzFkTmVWQTBjcFNIeDQwZ1ZUd002OUN3QXktdUhIZTdXS2Q1d3lvdExvVXIwc25HSlZqNUlIRg?oc=5"
+  },
+  {
+   "key": "bbb859343dfff8e4fa1a9757d88d6d337ec8962a",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Dione Barbosa Octagon Interview | UFC Oklahoma City Cwu (vvIu7e0RPA)",
+   "title_key": "661ac6f8cd1ea448e9a6b1c821f75600df6ac5ad",
+   "title_norm": "dione barbosa octagon interview ufc oklahoma city cwu vviu7e0rpa",
+   "ts": "2026-08-25T10:27:11+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zLUl5MHlRMHcyTnN6cWlOMnpVM1JJb2ZMUTMzUkRiRnNWb19hczdOaHgyc2hraXc3c2FYWjBObmZvRWZoSzA1Z0JQU2VTdlNVMmQ0dWl1QVJqVVk?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 5,
+  "prefiltrados": 1,
   "recogidos": 202,
-  "unicos": 14
+  "unicos": 8
  },
  "telegram_offset": 958387804,
  "version": 1
