@@ -2,83 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "b8e1f2da170e11f2644a3064d268870c0e89b472",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Makhachev vs. Machado Garry: Una Era En Juego",
-   "title_key": "c17236962a0b9f9f7f1a707c5dd295020945ff6c",
-   "title_norm": "makhachev vs machado garry era juego",
-   "ts": "2026-08-11T20:38:52+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONk9CZmx1OTdTQnFfWndBQXNPMVdPM21qTUhxZlNDTE5jeFc0MGNZQV9nZjkzV3BPSmZ6R2stN1Y1eXZxTW5iUVlaWGdFRXhPTFV0OGx3SkFzdlVQeWdLOHJ6ZTlSaE03SHZJNU9CZ3Y3T3Q3ZmZOWkM0aHVEVmdPVg?oc=5"
-  },
-  {
-   "key": "26f8124105aa9837a993bd79d34ed92ea986b244",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Paddy post braids",
-   "title_key": "0d55ca7194503b940591fde19fb0dbe47df0ce38",
-   "title_norm": "paddy post braids",
-   "ts": "2026-08-11T20:38:52+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vls5wt/paddy_post_braids"
-  },
-  {
-   "key": "4652e84ee0dce6dc58eeeec1624d24bd4071f836",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Referee Herb Dean makes mess of The Ultimate Fighter 34 fight with confusing call",
-   "title_key": "61ffbda681a199e99d000ac2e347288758a379f6",
-   "title_norm": "referee herb dean makes mess ultimate fighter 34 fight confusing call",
-   "ts": "2026-08-11T20:38:53+00:00",
-   "url": "https://mmafighting.com/ufc/504401/referee-herb-dean-makes-mess-of-the-ultimate-fighter-34-fight-with-confusing-call"
-  },
-  {
-   "key": "2b416cc7bd08d9230dcdea25edb39f74996723fd",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Ian Machado Garry argues he's faced tougher competition than Islam Makhachev",
-   "title_key": "11d7d8dd1ab92269b1a45d5813213421f473716a",
-   "title_norm": "ian machado garry argues faced tougher competition than islam makhachev",
-   "ts": "2026-08-11T20:38:54+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXJRcDdfN0ExaEt1a2lwMDZXSk9RZGl4VmpfaVJpcnFycDRpT0Y1VTlYODFCTi1tb1Q2WFB0dVlHX3NSS1BoemptdWUwRFhKY3N1WVl2Ulplb1FyZDY0Mkxvd21SVHNSZWU5LUdmMDRIa2k3TFhjNTBOb3NGTHBEN0tqVVVGTlhTa09KQ1FibEg1THltVHFnLXpBcU5RVWtibGJVWW1mSnE0RU1vMkxBUExLdXVTSGRySnl1MHZGVkdzSTdJcW1wcmhsSWN1TnpiUVFwN0dGRFVJRHVB?oc=5"
-  },
-  {
-   "key": "bd912d6f088c45907830ec4e00efd309f64e4315",
-   "score": 3,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Reminder: JON KUNNEMAN the ufc ask me anything guy, fights on DWCS tonight at 7pm.",
-   "title_key": "21dc8ea3dec9f68389e03ac062722b910d39dfac",
-   "title_norm": "reminder jon kunneman ufc ask me anything guy fights dwcs tonight 7pm",
-   "ts": "2026-08-11T20:39:10+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlsgmx/reminder_jon_kunneman_the_ufc_ask_me_anything_guy"
-  },
-  {
-   "key": "68d1d33fd747165644d8aaff9c94192dbe7de983",
-   "score": 7,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "Payton Talbott facing another ex-UFC champion after retiring Henry Cejudo reportedly in the works",
-   "title_key": "f4609f448042abcc73da8032bed9f5102a094758",
-   "title_norm": "payton talbott facing another ex ufc champion after retiring henry cejudo reportedly works",
-   "ts": "2026-08-11T20:39:18+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/payton-talbott-facing-another-ex-ufc-champion-after-retiring-henry-cejudo-reportedly-in-the-works"
-  },
-  {
-   "key": "320454009bcda785a32f4ee1197fb59f1a8984cf",
-   "score": 7,
-   "sent": true,
-   "source": "Google News — MMA en español",
-   "title": "La brutal pelea de Mark Zuckerberg contra el campeón de la UFC Merab Dvalishvili acaba en chapuzón",
-   "title_key": "958c4997c0c36791b363cd5e2dc8b8d8ecb5afa4",
-   "title_norm": "brutal pelea mark zuckerberg contra campeon ufc merab dvalishvili acaba chapuzon",
-   "ts": "2026-08-11T20:39:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVpVRVdwNkxhV1J3Z3dPbk94ZGhZU1N6WFU0NnZwWmVsOXcwWG5nMmh5bXFQSk82b3l5MGVWTG45bTREWnhBYTVVQnhvNmlmNXRnQTRScERXTzZzZ3hWb09mUmxDSVpxczFmcUlrMGN2TEpSUnlzZnJGdE1pSVNJbTVubTBWeUdGVDh6WlFEOUpiZjlIeE1tVUlHOTh0ZkpHV1dCQjNSeGNuMlpPNlVVT2JqLVJDdU1BSEE?oc=5"
-  },
-  {
    "key": "2cc1e7a68bbf17bf4c3b0af91cc3b46403de0791",
    "score": null,
    "sent": false,
@@ -30536,14 +30459,92 @@
    "title_norm": "umar nurmagomedov vs song yadong fecha hora tv todo lo debes saber ufc shanghai",
    "ts": "2026-08-25T20:38:49+00:00",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZk01WXdlOHpHS0kwNGFkVVZ4YUNYeUxleDBUMldBcS0talFsYkozYjA0Y3JqTjJnczQzUElIM1FoN1A3TThnZGl4TGRFaUdNbEw4WDZFQzZwZ0xnek9fSlhqVi13c0lSMkVjSjB6c3FQeG9OenZLcC10SXVoc3RLcUNDdXg4SkZ6QU91WVk5eEkzMzRwR1RVbTFFZHp0TDdYRWZSX3RzZkZUN21Tc3I3MTZpbURnSTQxLXfSAbIBQVVfeXFMTXRlbld0cFlqODVJb1FHV2NDRkl1cUwyRjVVMl9ZUDczbFI0Nm5yajhtbFFvNGRUNnlZN013enpCT2JkN1Q4cDFveHdNYmFfX010YUFtWDA4Smc3cnl1dnZMQi1lNmRIdTJ5XzRubnhHWTdKSmNHUndhRTlGckFYaWxJZEFpQ0JxYkY2aWYwY0x4empHR0RWaUViaFJkclpDOUNqRW5GR2tjY1dNT0QyS2tKdw?oc=5"
+  },
+  {
+   "key": "5d872ec05daf227094224d60a58311ccf2a02643",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Shamil Gaziev Is Higher On The GOAT List Than Khabib Nurmagomedov",
+   "title_key": "4d1734f5d8c69cb7f8b8d0df7d9ef54ddb760b30",
+   "title_norm": "shamil gaziev higher goat list than khabib nurmagomedov",
+   "ts": "2026-08-25T21:01:38+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyal1y/shamil_gaziev_is_higher_on_the_goat_list_than"
+  },
+  {
+   "key": "70d2fd7d3e3904d0a0efb5b82041f839426a39b6",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I’ve seen this mentioned a lot lately. Strickland beats the shit out of Islam lmao stop",
+   "title_key": "4f51a4048b16fc5429c30a33a8b79c901c5ee9c8",
+   "title_norm": "ve seen this mentioned lot lately strickland beats shit out islam lmao stop",
+   "ts": "2026-08-25T21:01:38+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vybn9o/ive_seen_this_mentioned_a_lot_lately_strickland"
+  },
+  {
+   "key": "e6952282c7ae787615a2421f0ce685bb6ea5cced",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Gregory Rodrigues reveals he was plagued by health issues before UFC Sacramento",
+   "title_key": "52ed8dc177050d7848494a5169638be63fa5dfa2",
+   "title_norm": "gregory rodrigues reveals plagued health issues before ufc sacramento",
+   "ts": "2026-08-25T21:01:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVhGMDB4aWtFVjVXUUFMaHl0OHRmQTAwUVdiQVRHZDNzSWlDSUhTRWNyN2pvSFlxUnJqcGg1LUtReFdWeEdXUldLOXBRS3N2SkZuWXJISGZENUJXOTZVdURLZG85WG1qVDRub2t3dzJYcUJUaE9MbW8xYV9HV0RIYlV0OG1wRTRGQlY1LThXZzBxa2F2NDY2RHp4bExDV1ZVRGZJRWl5WS1vX1JNU04yY2x3QXZCdXlqVVBRZnFPaDU5Y2JJVEpoai1peTd2Y3ZscUU5STJn?oc=5"
+  },
+  {
+   "key": "fdc638cbdad377a3a8e5812b2688cc6c110c56be",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Tyron Woodley confident he'll beat Khamzat Chimaev 'like a drum' in RAF",
+   "title_key": "61b29ca2c847166648f356e2dc44bf7d7c2afc26",
+   "title_norm": "tyron woodley confident ll beat khamzat chimaev like drum raf",
+   "ts": "2026-08-25T21:01:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUZrcUdvRVRXengxS2ptUW5LY2V5UEtzV2g2RmlCaVoxcUFQMEZmT19yeTh3X2ZBTWh4SmdlWFVNSDdFclFQWXVBWURldlppY3pPMjV6blRyM20xdGtwXzNvMGE0RzhVYnYwZG5BSTVaMTZrdW1XaVQ4WGVLZ3hOejVuOUVfTl9BWVZJZWJTbHpvRzBacURiQmJ0dnpiX3N0ME15LU94M1I3Ymg1RkNXcTNvSmF4TVhKUWpLcHJybXhRQVpzeDdYYUthaGRHZUJsaUJrTg?oc=5"
+  },
+  {
+   "key": "d5a7cecadb038cf0365ddbdb4867f69246751f4e",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev called out in wrestling by six-time world champion who vows to ‘send him for a ride’",
+   "title_key": "e30bffbd264e87f9acf732fad1a766955d94aff6",
+   "title_norm": "islam makhachev called out wrestling six time world champion who vows send him ride",
+   "ts": "2026-08-25T21:01:41+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/islam-makhachev-called-out-in-wrestling-by-six-time-world-champion-who-vows-to-send-him-for-a-ride"
+  },
+  {
+   "key": "ef8f251f5517d8b923bfa0aab02d9066b502da47",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "This guy deserves more appreciation. He lost a razor close decision to Merab, then fought again the same year instead of waiting for a title shot. Now he’s figh",
+   "title_key": "78c7e116535476a0416ebd15821e384aadf312d4",
+   "title_norm": "this guy deserves more appreciation lost razor close decision merab then fought again same year instead waiting title shot now fighting again this year building great resume still has big names ahead him",
+   "ts": "2026-08-25T21:01:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyad3m/this_guy_deserves_more_appreciation_he_lost_a"
+  },
+  {
+   "key": "54195df207149f7a8e6d66406c6f82540782d0ca",
+   "score": 3,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "UFC Shanghai Pelea Gratis: Nurmagomedov vs. Barcelos",
+   "title_key": "e07df74144de73defa3e26822c0333b205601a6e",
+   "title_norm": "ufc shanghai pelea gratis nurmagomedov vs barcelos",
+   "ts": "2026-08-25T21:01:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5laDUwSFBBM24xaWg2dFdjQ0xna3ZaOV9lS1BZRE1vWl94bmZPTDZaZk9SVWlNU3FIRUJjVWctcG0zNTdGYkkzMUduMzZqaWF1?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "recogidos": 158,
-  "unicos": 6
+  "prefiltrados": 2,
+  "recogidos": 178,
+  "unicos": 13
  },
  "telegram_offset": 958387804,
  "version": 1
