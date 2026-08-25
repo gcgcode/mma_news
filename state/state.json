@@ -2,83 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "47167a4af36d33ddc8c84ce4942851472245e0e0",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Would the Jon Jones fights have gone differently if DC was built like this?",
-   "title_key": "bfae1d08999dd6a69f735982aa3989ea915b48b1",
-   "title_norm": "would jon jones fights have gone differently if dc built like this",
-   "ts": "2026-08-11T15:38:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vli62t/would_the_jon_jones_fights_have_gone_differently"
-  },
-  {
-   "key": "9c66879e4b4409fc4298358acdf2f84218c1cb8b",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Talbott is back boys",
-   "title_key": "09a20d24f7136fead2399675a0b4e42094ca3f56",
-   "title_norm": "talbott back boys",
-   "ts": "2026-08-11T15:38:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vljt01/talbott_is_back_boys"
-  },
-  {
-   "key": "5001b01dafffbb2447babecaf1455786b6ade595",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Payton Talbott targeted to fight former UFC champion at UFC 332",
-   "title_key": "09af4f4b2778c15aeb06efe45a1f79b1dc94304f",
-   "title_norm": "payton talbott targeted fight former ufc champion ufc 332",
-   "ts": "2026-08-11T15:38:45+00:00",
-   "url": "https://mmafighting.com/ufc/504291/payton-talbott-targeted-to-fight-former-ufc-champion-at-ufc-332"
-  },
-  {
-   "key": "41cb4c7b2e8ae31b53f704d91d916468746959a6",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Former UFC title challenger books return fight after over two years away from the Octagon",
-   "title_key": "5bf17d9579a858fb45d5060fdd145bedcc9cbbde",
-   "title_norm": "former ufc title challenger books return fight after over two years away octagon",
-   "ts": "2026-08-11T15:38:46+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/former-ufc-title-challenger-books-return-fight-after-over-two-years-away-from-the-octagon"
-  },
-  {
-   "key": "06784132af86537e94f07c9aa58812ae01a65d00",
-   "score": 4,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Apuestas Makhachev vs Ian Garry UFC 330",
-   "title_key": "b785e07769758f86c9eb09ded3aff4796d95fd61",
-   "title_norm": "apuestas makhachev vs ian garry ufc 330",
-   "ts": "2026-08-11T15:38:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMYWdES1AyQjl1LUQ4ZWdoSlNLc3ppNHNybGI5dDRVVDJ1S1oyWXFOTEtER0tjTlB6ZllqdFVUYnAtVDlZdkhzc0gwbThicjlSQmM1bHlGN1RJTXM?oc=5"
-  },
-  {
-   "key": "71d6c0e4bacff490a4ee2b21feaabe48f740e719",
-   "score": 6,
-   "sent": false,
-   "source": "ESPN Argentina MMA",
-   "title": "UFC: Los latinos de habla hispana en Contender Series 2026",
-   "title_key": "5dee86fd0892973cd7e6275dc674cfc90d5c2814",
-   "title_norm": "ufc latinos habla hispana contender series 2026",
-   "ts": "2026-08-11T15:38:56+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDlDc1U3RWhrTGxnekVPSkMwLS15TVY4MUhmV2dSZE1MZUM5VktsczN6TFdzTk9JeldUOHRXQWNQTl9fdC1RZVo5WW5mSGkzeF9WTFljVGZZUklnNElNbV9xSkNQa1pyVnlNSlJtVnZoRWFQTm1iRHBLbmFFdnlTQm9GaUU1aTJkLUlsOG5wZV9IdEVPcW1YN2R0bUd1YnRQZUszbXlQbzNEV1FQSnhMVWlfLTFKbUhESll1Q3JqU21iQQ?oc=5"
-  },
-  {
-   "key": "788ee55f22077e1da2ec804938b12991dab89f4e",
-   "score": 7,
-   "sent": true,
-   "source": "r/ufc",
-   "title": "Khabib Says Pro-Palestine Stance Cost Fighters Sponsors and Contracts",
-   "title_key": "9eea99a2c1317c394c812c076b39c507c0a2d162",
-   "title_norm": "khabib says pro palestine stance cost fighters sponsors contracts",
-   "ts": "2026-08-11T15:38:58+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vkl9j9/khabib_says_propalestine_stance_cost_fighters"
-  },
-  {
    "key": "01c397d3de9464ae613a8a590e762fb6422dcd76",
    "score": null,
    "sent": false,
@@ -30492,15 +30415,92 @@
    "title_norm": "yampier ramirez couldn get out mma fast enough ahead bkb 58",
    "ts": "2026-08-25T15:26:49+00:00",
    "url": "https://lowkickmma.com/yampier-ramirez-i-couldnt-get-out-of-mma-fast-enough-ahead-of-bkb-58"
+  },
+  {
+   "key": "78e52e20cf162a8c9193a5d37a1bcde36af8a522",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Robocop claims he had a herpes outbreak, dislocated finger, bad back, and a weakened immune system leading up to the Fluffy fight",
+   "title_key": "9549088a58a082dd7107542d1790df48aa74c187",
+   "title_norm": "robocop claims had herpes outbreak dislocated finger bad back weakened immune system leading up fluffy fight",
+   "ts": "2026-08-25T16:18:27+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vy3h36/robocop_claims_he_had_a_herpes_outbreak"
+  },
+  {
+   "key": "e04707b6169b9b00a2d215e3b1367408eb1834a2",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Una norma anticuada amenaza la billetera de Max Holloway y Paddy Pimblett: pueden perder miles de dólares por un simple gesto",
+   "title_key": "3fee8e441d578dfd8b3786cb8db2a26c5d597acc",
+   "title_norm": "norma anticuada amenaza billetera max holloway paddy pimblett pueden perder miles dolares simple gesto",
+   "ts": "2026-08-25T16:18:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQWlILW9GX1d6SWdhRFI4X0ZVWWJMVlNSSm5aeTVRdkVMa1lxaFpoMmR6NU5fdFNraUZzREVJR2dFM3BrZGctSEFreFRaa3ZmaWtzTTJuZ3ROUThUSTgwRm40Q0hzZVdKeHViNm11d0U5QXhORlEtNHNoMmtucFRTVW16UUpfbkZNSldxRmdoUVBvVjhvODhmOGdFb2QyZmNEekJzcG9tV25Qd0VBTU9lb2s0TnJ0VlRMRzBpN0xENi1FUnN3UUVrNjdPcGNSWWhIY1JmTjVITm52Z3JLbFB0a2l2cDNQeXJWeXhrUFpaYUNacktPRV8yRtIB-AFBVV95cUxOQWlILW9GX1d6SWdhRFI4X0ZVWWJMVlNSSm5aeTVRdkVMa1lxaFpoMmR6NU5fdFNraUZzREVJR2dFM3BrZGctSEFreFRaa3ZmaWtzTTJuZ3ROUThUSTgwRm40Q0hzZVdKeHViNm11d0U5QXhORlEtNHNoMmtucFRTVW16UUpfbkZNSldxRmdoUVBvVjhvODhmOGdFb2QyZmNEekJzcG9tV25Qd0VBTU9lb2s0TnJ0VlRMRzBpN0xENi1FUnN3UUVrNjdPcGNSWWhIY1JmTjVITm52Z3JLbFB0a2l2cDNQeXJWeXhrUFpaYUNacktPRV8yRg?oc=5"
+  },
+  {
+   "key": "316cd236d0248bf822d446f3b494fd63a2dfceb5",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Shogun Rua to retire after Glover Teixeira boxing match: ‘I think it’s the last one’",
+   "title_key": "a1665c40aab587d6709d067afd3c958471a05668",
+   "title_norm": "shogun rua retire after glover teixeira boxing match think last one",
+   "ts": "2026-08-25T16:18:33+00:00",
+   "url": "https://mmafighting.com/latest-news/506849/shogun-rua-to-retire-after-glover-teixeira-boxing-match-i-think-its-the-last-one"
+  },
+  {
+   "key": "61343bb30d523d80ba7f9cb9fe29616080d0da64",
+   "score": 6,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Liu Ce scored three knockouts in a single night to win the 2023 K-1 Openweight Grand Prix. The Chinese fighter makes his UFC debut against Levi Rodrigues Jr. at",
+   "title_key": "684e4659f5e87cf1a450142c643a59b9d0287ff7",
+   "title_norm": "liu ce scored three knockouts single night win 2023 openweight grand prix chinese fighter makes ufc debut against levi rodrigues jr ufc shanghai august 29",
+   "ts": "2026-08-25T16:18:43+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vy3lln/liu_ce_scored_three_knockouts_in_a_single_night"
+  },
+  {
+   "key": "39d727c74fd2ea18ce39e49275567b5444eb4adc",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Islam Makhachev: ‘I have at least 3 more very hard and exciting fights waiting for me’",
+   "title_key": "8aa99fd0e86401e29d0598199a3f6bfd33bf2ca6",
+   "title_norm": "islam makhachev have least more very hard exciting fights waiting me",
+   "ts": "2026-08-25T16:19:07+00:00",
+   "url": "https://mmafighting.com/ufc/506920/islam-makhachev-i-have-at-least-3-more-very-hard-and-exciting-fights-waiting-for-me"
+  },
+  {
+   "key": "5a38f3543ab79f897bf1979f4a3771bd1f68cd4a",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Shanghai: Make predictions for Umar Nurmagomedov vs. Song Yadong",
+   "title_key": "b2b9bc5c16db402fe94fcb33066f400feb9f27d5",
+   "title_norm": "ufc shanghai make predictions umar nurmagomedov vs song yadong",
+   "ts": "2026-08-25T16:19:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGt6SkpXNWI5MEh6QnlWdnV0VGpySVlvSmY2LTJfbGVWZ0w2NFEzQW43Mm5aQ212WDlYVGRKSlZ0Y0xyRlNBcHQ5X0ctYTBFTVV4R1c0REZacjJocjNBWEFpd1VuU3FJOU1DSEFYUzRpQnFKZGxERl9IVHMwdzVhSHQzX0pNSExGMHFnaThGX0ZSYVItdkVCNlFsbm1tUlowU2p1ZzVaVjU3LTZpajRxMlFhVU1iRVh4bWRfU29FSzBCNGVrdGFJQmV3MDBCVGxsN2VTTUl0RHdUZw?oc=5"
+  },
+  {
+   "key": "d25441ec2dbe259274e39495aac373a78837d4af",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Colby Covington launches scathing attack on Ian Machado Garry following recent UFC 330 loss",
+   "title_key": "f0faa1c2d532d9927bc0f5e801f8f782f9167f37",
+   "title_norm": "colby covington launches scathing attack ian machado garry following recent ufc 330 loss",
+   "ts": "2026-08-25T16:19:10+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/colby-covington-launches-scathing-attack-on-ian-machado-garry-following-recent-ufc-330-loss"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 5,
-  "recogidos": 202,
-  "unicos": 11
+  "prefiltrados": 2,
+  "recogidos": 182,
+  "unicos": 9
  },
  "telegram_offset": 958387804,
  "version": 1
