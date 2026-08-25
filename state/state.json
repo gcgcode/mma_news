@@ -30536,15 +30536,69 @@
    "title_norm": "tfc korean mixed martial arts mma organization has joined hands chosun tofu ceo seo him",
    "ts": "2026-08-25T03:16:42+00:00",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XSUk0RDJwR1JMY19ZMjlFdDJTdDE5aUk3ZmZxV1JoRXVpSThqRG53RS0zTUV3YWg4V3JBS1NLT2llak1tTDNzQmR5cTM3Tm44?oc=5"
+  },
+  {
+   "key": "53204e476363a2cbb665ba964d936e3df253f15e",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Umar Nurmagomedov makes Petr Yan vs. Merab Dvalishvili prediction for UFC 333",
+   "title_key": "3ecb9526c53d1ac4b4c365de7a12fec0a070a95a",
+   "title_norm": "umar nurmagomedov makes petr yan vs merab dvalishvili prediction ufc 333",
+   "ts": "2026-08-25T04:03:56+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNejd5WHZmcHd1R1F0MDlTajN4UVFURTBiWnVUREhlYUZzS2hoZ2NocGhTeHVNdFJOdlZmeXk3aktNYXROX0V5YzJOS0ItRmI1NlpobTJ1cDZNNEl4YmNhaDFiVlJYcVcwZ3poNU1ubE9tMEZIbnVvY1pDZmVRMTZiN0tqVjFQN0dZWTJhX0RNWFVYU2FtUnUzaHdNSEJvbmUwYkRpU3BCcDFWTm12eUJDSHpGU00zeEVKbWtiVXlLNlNVYkZ4dmxYOU9VMHloOUtIeUlpaVBkNG1GdnJG?oc=5"
+  },
+  {
+   "key": "bd3e078395b58eae66038caf26fee9ae9aedc62e",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Paulo Costa says UFC is ‘lost’ without Dana White more involved",
+   "title_key": "45149b2bc23f9dcd20a2cc41100ac2564c050f46",
+   "title_norm": "paulo costa says ufc lost without dana white more involved",
+   "ts": "2026-08-25T04:04:00+00:00",
+   "url": "https://sherdog.com/news/news/Paulo-Costa-says-UFC-is-lost-without-Dana-White-more-involved-202515"
+  },
+  {
+   "key": "94b5086e0cf2f8c18a85c3310a424e4ea4c6f922",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "UFC Fighter gained a whopping 25.5 pounds before stepping into cage",
+   "title_key": "38c734674b90f6e8fc7f71637e504e43203101ca",
+   "title_norm": "ufc fighter gained whopping 25 pounds before stepping into cage",
+   "ts": "2026-08-25T04:04:01+00:00",
+   "url": "https://sherdog.com/news/news/UFC-Fighter-gained-a-whopping-255-pounds-before-stepping-into-cage-202514"
+  },
+  {
+   "key": "3a5c5a82df77a1940fe59ff7e029f0f3f94ad718",
+   "score": 6,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Islam Makhachev says Alexander Volkanovski is no longer at his peak",
+   "title_key": "c5f4d60d2c9450085b607e91474238fc40620b58",
+   "title_norm": "islam makhachev says alexander volkanovski no longer peak",
+   "ts": "2026-08-25T04:04:03+00:00",
+   "url": "https://sherdog.com/news/news/Islam-Makhachev-says-Alexander-Volkanovski-is-no-longer-at-his-peak-202513"
+  },
+  {
+   "key": "f150c79543277359d2d0292c41a476d4427a4e19",
+   "score": 1,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC 329: Ceremonial Weigh-In Coco Gauff (NbhmWTP7CO)",
+   "title_key": "52db8a16c3b447f8ba543f83a3cc1d849ca7b0dc",
+   "title_norm": "ufc 329 ceremonial weigh coco gauff nbhmwtp7co",
+   "ts": "2026-08-25T04:04:04+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hTU9hMHo3cE92cU9SaWZtN3J0R3o4UkpTUHFjNm5CQ01aWGprSi1GTEQ0Z3Y3aGRCM01DWThWMTJBSGx4OFprT1RySno3WE5mUmFwWXNzRnpsRXM?oc=5"
   }
  ],
  "stats": {
   "descartados": 5,
   "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
   "recogidos": 176,
-  "unicos": 10
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
