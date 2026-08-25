@@ -2,105 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "f73531a5af5dc85fe9356dfc4ff442717a2485e5",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Alexis Sánchez dejaría Europa para llegar a la MLS con Montréal",
-   "title_key": "adf5b031a8a1d80a58af91d4e5836a21cdceb296",
-   "title_norm": "alexis sanchez dejaria europa llegar mls montreal",
-   "ts": "2026-08-11T03:13:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXVNR3dreGdiNHJjc1NUVVRXRGxoTks1M1FSN3JkVEVJcnVicHZ0MUdfSEROQnVvaV9NVEdnczVzaEt4ZnFwMzBoQklqQmVEUExWejV1RFdVX0VRV1gwY1hsaHBDdXBFbGswVlBhdF9RZ084TG5KbUhFOE5fd3V2eFhrU01vU1hMcmx5SmtqRkNqYnUzWHVlSUhzeTZPRU8xcDFHaFRrQmR2dUdXbmhmTlAxNV_SAbQBQVVfeXFMTVl1TUd3a3hnYjRyY3NTVFVUV0RsaE5LNTNRUjdyZFRFSXJ1YnB2dDFHX0hETkJ1b2lfTVRHZ3M1c2hLeGZxcDMwaEJJakJlRFBMVno1dURXVV9FUVdYMGNYbGhwQ3VwRWxrMFZQYXRfUWdPOExuSm1IRThOX3d1dnhYa1NNb1NYTHJseUprakZDamJ1M1h1ZUlIc3k2T0VPMXAxR2hUa0JkdnVHV25oZk5QMTVf?oc=5"
-  },
-  {
-   "key": "53f08123d1bf558258b761190347f5108bb54b12",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Underrated Banger, Tony Ferguson always had crazy fights",
-   "title_key": "f26aad3aa14089ea8b9fc8a8e9dbfa6aff49bfd6",
-   "title_norm": "underrated banger tony ferguson always had crazy fights",
-   "ts": "2026-08-11T03:13:51+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vl30dn/underrated_banger_tony_ferguson_always_had_crazy"
-  },
-  {
-   "key": "531dfd693a095b51b2c156a5b36dacbd3eacf59f",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Dustin says he's still not over the Islam loss | Threatens to attack Din Thomas for bringing it up | \"It's Gon Be Good My Din Thomas\" 🤣🤣",
-   "title_key": "40dc0dd038c5dc07dbd5ee440156b933bddf0872",
-   "title_norm": "dustin says still not over islam loss threatens attack din thomas bringing up gon be good my din thomas",
-   "ts": "2026-08-11T03:13:51+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vl3j1k/dustin_says_hes_still_not_over_the_islam_loss"
-  },
-  {
-   "key": "e6a222d100ddd53f152d40300660e4b68f243427",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Alistair Overeem fires message to Rico Verhoeven amid talks for massive Amsterdam stadium fight",
-   "title_key": "273aa23afad237498cafcaeeec4c780883cdba0e",
-   "title_norm": "alistair overeem fires message rico verhoeven amid talks massive amsterdam stadium fight",
-   "ts": "2026-08-11T03:13:51+00:00",
-   "url": "https://bloodyelbow.com/2026/08/10/alistair-overeem-fires-message-to-rico-verhoeven-amid-talks-for-massive-amsterdam-stadium-fight"
-  },
-  {
-   "key": "e7d18f7655f3ee53ea1292242fd9ff1e517cfa16",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Coatzintla invita al encuentro de artes marciales mixtas con la WFN Combat League, edición 17",
-   "title_key": "912c6ea48b91bc38c7a09edad1bff98d5e60a1fc",
-   "title_norm": "coatzintla invita encuentro artes marciales mixtas wfn combat league edicion 17",
-   "ts": "2026-08-11T03:13:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNEZYalExb1hQVm5TZnZNQ3BGUGtHZ3VRLWNQdVBKaVNRNEdFcEZ4VHlXUFY1U05WaTd6UV9SQTRMcXBZMDdlS2FKTDlvWlMxSmdkYUdEczJHZUtJMEpSellDbldCQjhMaFdqQ0k0QXpKUVZxTElhX3RFQW01RzktQjZkMWlwRlg0RVZMVzRJaVN4ZWY5ZldhNjJWLXpyalBKUTB2dzNibmxZZHZXV25SUDdSOG9ONDhjSWNmVGNjdnEzdw?oc=5"
-  },
-  {
-   "key": "324eeaeaf81c2892b35cf7abb3b56a53721569da",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Photos: Dana White's Contender Series 87 weigh-ins and faceoffs",
-   "title_key": "24852648d2b0588967ebc1e29f31692f9a472ab6",
-   "title_norm": "photos dana white contender series 87 weigh ins faceoffs",
-   "ts": "2026-08-11T03:14:16+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeHZlcnpiR09BT1JQSnpOU0h4UTNXM0ZodUNHcUVfY3RhZ09PbDR6WThjX3FDUlBWNmdDd3M4V1o0VkRZak5wUXNxX3dFZm1jRUhxY0gwejdjVjBXZUFqWDEyQzM0VHpjcTdMMUk2WFpLaWpqdW12ZVpjTnZSZEJ3RURYVDIyN3AtSVE2VG00Z3RGLUFpY1hDM3RCcGpRTExDSlU5Vjc4eG5nd1RfNnhzRVR1SnhreGVacWdrV0FwMU11dl9KZ3h4b3BxRTZoV3pPNDlUcUJYMHRmN1U?oc=5"
-  },
-  {
-   "key": "3b56839fc6ecddced1ad94f16e75b05f3fd2be33",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Daniel Cormier pitches Quillan Salkilld vs. big names after UFC Vegas 120",
-   "title_key": "476bf135f63f82fb25c14e19121b25793173f41b",
-   "title_norm": "daniel cormier pitches quillan salkilld vs big names after ufc vegas 120",
-   "ts": "2026-08-11T03:14:18+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU0sxSXdKcjRiUXllNnRRb2FwTFA2VE5lRVRyT1FRWTVIYkpyNlg2VzU3MElMR1dtczlIeURiVzlqVW51U1JCcVN1R3pNdUxIT1NPaTdsYVllTVo5aGdQSWJfQjdmT04tNDEzN2Jtd1doNVlFZVNhNzd6MkZGaFdPem40UkdnNVRYUW9uWlc2OTBNeXluX1dVTWdaWnNuUEdObXZBUnVMa25vR2h0WEdfSThocDhCTmFpY3I1UEhRLUZJeGN0ZVBaNm5JZWJoVG1jT0l2eFZn?oc=5"
-  },
-  {
-   "key": "de3c59eebb99c968ef958c3e2139fdc556e482fb",
-   "score": 5,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "UFC Edmonton just got a major injection of Canadian talent",
-   "title_key": "45125771c6006a614ae1e74c0090318e84fe28ec",
-   "title_norm": "ufc edmonton just got major injection canadian talent",
-   "ts": "2026-08-11T03:14:20+00:00",
-   "url": "https://sherdog.com/news/news/UFC-Edmonton-just-got-a-major-injection-of-Canadian-talent-202301"
-  },
-  {
-   "key": "146a5bf8e2152c0a4c8e2f5dd9b4d59989d05dd1",
-   "score": 3,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Who are the two most dangerous brothers in the history of MMA?",
-   "title_key": "9e5ed652108d87639aecf5222c58a3d2f4fe3da0",
-   "title_norm": "who are two most dangerous brothers history mma",
-   "ts": "2026-08-11T03:14:23+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vl4z47/who_are_the_two_most_dangerous_brothers_in_the"
-  },
-  {
    "key": "adf06c644a17d9c2833b910e9a8d9e5a884f5218",
    "score": null,
    "sent": false,
@@ -30536,13 +30437,112 @@
    "title_norm": "ufc houston analisis predicciones peleas brett kulak v6vgkpcois",
    "ts": "2026-08-25T02:20:06+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OWJwNG13TnNqOGNkc19DWmh6RWxsdHVrcnl2UnpBN2lYdzBsZXB3a19vTlNlMnJZNXMybnBsSzNFbExYbFRNU2Z2Z0ZVVWZPYm5yd3M3LUthUUhVMVNrQQ?oc=5"
+  },
+  {
+   "key": "1972e529ab7a08a2bb379a16ea54b5b7a36f5c56",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Wolves vs Port Vale: estadísticas y datos en directo | EFL Cup 2026/2027",
+   "title_key": "65802ca0c234bc4412e6448d2b87306030f85b80",
+   "title_norm": "wolves vs port vale estadisticas datos directo efl cup 2026 2027",
+   "ts": "2026-08-25T03:16:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzItM1FCVHBiTldXTndrdC11d245SlVyMVVpUDkteDBxQWdjMGxYSXJ2eVoyMzlQWFFmelFPWllrY2x4R3VUVW9NeWVQbFBvQnJDSXB0M096emw0SHJJbkhqRUxETkNBV0dDSHdtWWdnMUhIT0UwZ0N0NDJXb2NETEJEX1RtaFFZUkJPVjU2R0dOQmhISDIzekZRUG15cmR4ckZ0ZUF4bmZvNXMyUU1j?oc=5"
+  },
+  {
+   "key": "cc5850a10c4434e2093fa25a6521bfd35107f15b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I get he’s doing what he needs to do to win, but stalling guys out in back mount is weak as hell.",
+   "title_key": "bcf4fa366249ff2b402d8232af2a5c20cd9d8221",
+   "title_norm": "get doing what needs do win but stalling guys out back mount weak hell",
+   "ts": "2026-08-25T03:16:32+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxmfb5/i_get_hes_doing_what_he_needs_to_do_to_win_but"
+  },
+  {
+   "key": "afe9168ab1e1029066a234359fce5d9b9d68f5ff",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Merab Dvalishvili explains why he slapped Umar Nurmagomedov’s friend",
+   "title_key": "56eca7b64361dbc58a1f53a72316354cd4021b35",
+   "title_norm": "merab dvalishvili explains why slapped umar nurmagomedov friend",
+   "ts": "2026-08-25T03:16:32+00:00",
+   "url": "https://sherdog.com/news/news/Merab-Dvalishvili-explains-why-he-slapped-Umar-Nurmagomedovs-friend-202509"
+  },
+  {
+   "key": "18e4f1ff27f2e7b0442e464b2bc853a74e507be7",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Islam Makhachev teases retirement as he reveals how many fights he has left in legendary career",
+   "title_key": "10c96cfeabfd2614194d523155f90080887ccb2b",
+   "title_norm": "islam makhachev teases retirement reveals how many fights has left legendary career",
+   "ts": "2026-08-25T03:16:32+00:00",
+   "url": "https://bloodyelbow.com/2026/08/24/islam-makhachev-teases-retirement-as-he-reveals-how-many-fights-he-has-left-in-legendary-career"
+  },
+  {
+   "key": "a4ac1c14c4fa57b3ac58918d1cd933f12f049532",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Bella Mir makes weight for DWCS headliner as 5-fight card becomes official",
+   "title_key": "33c3e8535addb4c52e86ee835819b04c6587d0ba",
+   "title_norm": "bella mir makes weight dwcs headliner fight card becomes official",
+   "ts": "2026-08-25T03:16:35+00:00",
+   "url": "https://sherdog.com/news/news/Bella-Mir-makes-weight-for-DWCS-headliner-as-5fight-card-becomes-official-202510"
+  },
+  {
+   "key": "ead73cf6cbf4d97f90fd82b95b3a73b48e88fb12",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Gregory Rodrigues denies cheating, admits possible glove grab at UFC Sacramento",
+   "title_key": "0e66044d1df10b1e284fcf0a7621a4a08b2ce9a6",
+   "title_norm": "gregory rodrigues denies cheating admits possible glove grab ufc sacramento",
+   "ts": "2026-08-25T03:16:36+00:00",
+   "url": "https://sherdog.com/news/news/Gregory-Rodrigues-denies-cheating-admits-possible-glove-grab-at-UFC-Sacramento-202511"
+  },
+  {
+   "key": "e4fea8fc7e624cac64c88c471fba15c6541f29bd",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "This will go down as the most Iconic walkout in UFC history.",
+   "title_key": "975dd22496b0112888b27d1005cff68438596bad",
+   "title_norm": "this will go down most iconic walkout ufc history",
+   "ts": "2026-08-25T03:16:40+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxmt09/this_will_go_down_as_the_most_iconic_walkout_in"
+  },
+  {
+   "key": "3c29390e0048e2c2fe6ad2372d11768685e64d2b",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Topuria vs Pimblett surge como posible pelea estelar de UFC 335",
+   "title_key": "1a63835d4e24002b4e91d0295a04ccd4c4c9ff5f",
+   "title_norm": "topuria vs pimblett surge como posible pelea estelar ufc 335",
+   "ts": "2026-08-25T03:16:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjFkSS1qVkdLdnY5SGZNMWVQbkthM1JoWEQzTWk0UXNDMF95TVU5VGFFUG5PczdVdjZheVdMcFo5NFI3RDlzVDRHOGp5bVJkaGRSS2lvaV80NUFDODhKd3lWZERxNUhvbjdnemRSTnZhUmc0UVhEWC1NTXNsMC0zYkZIVVc3Zzd2VlJxeEtlUWZMeTJVc29EdWpxaVZwaHJpb1E?oc=5"
+  },
+  {
+   "key": "c30d92d5be0471ee83e3e7125144981b31e9ea77",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "TFC, a Korean mixed martial arts (MMA) organization, has joined hands with Chosun Tofu (CEO Seo Him",
+   "title_key": "212938c86d0bc995677619f9ce8dcd8c72d9b096",
+   "title_norm": "tfc korean mixed martial arts mma organization has joined hands chosun tofu ceo seo him",
+   "ts": "2026-08-25T03:16:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XSUk0RDJwR1JMY19ZMjlFdDJTdDE5aUk3ZmZxV1JoRXVpSThqRG53RS0zTUV3YWg4V3JBS1NLT2llak1tTDNzQmR5cTM3Tm44?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 5,
+  "prefiltrados": 4,
   "recogidos": 176,
   "unicos": 10
  },
