@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "4f3b54400d1e09b1b2c9cff28d184d5ef480dcda",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Babe wake up, new banger dropped",
-   "title_key": "10419e34418ee5bbec2afe12bb953093131d098b",
-   "title_norm": "babe wake up new banger dropped",
-   "ts": "2026-08-11T13:23:48+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlal4n/babe_wake_up_new_banger_dropped"
-  },
-  {
-   "key": "b10df6bdcf24b1e15fce6b663fb71708b9fa8808",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Jones response after DC called him a non-hard worker(expand image)",
-   "title_key": "fdd857d4a42790e7ee841e52b35aaa02aa88e873",
-   "title_norm": "jones response after dc called him non hard worker expand image",
-   "ts": "2026-08-11T13:23:48+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlatvi/jones_response_after_dc_called_him_a_nonhard"
-  },
-  {
-   "key": "36f5d0a25b09e177ebf05e1d00c85313c4255330",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "This man made the anti-wrestling crowd support a wrestler. How do you achieve that by simply opening your mouth?",
-   "title_key": "111dd40a52cfe4f911d1b7e71a66681477bcafb5",
-   "title_norm": "this man made anti wrestling crowd support wrestler how do you achieve that simply opening your mouth",
-   "ts": "2026-08-11T13:23:48+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vldzdr/this_man_made_the_antiwrestling_crowd_support_a"
-  },
-  {
-   "key": "e62c00338f74a40bab141c870d582c92becff75d",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "RIZIN 54 results: Patchy Mix drops fourth in a row, Alex Pereira teammate replicates iconic celebration after violent knockout",
-   "title_key": "9e9e13d73e0d121658afd58c81205e860e38932e",
-   "title_norm": "rizin 54 results patchy mix drops fourth row alex pereira teammate replicates iconic celebration after violent knockout",
-   "ts": "2026-08-11T13:23:53+00:00",
-   "url": "https://mmafighting.com/rizin/504241/rizin-54-results-patchy-mix-drops-fourth-in-a-row-alex-pereira-teammate-replicates-iconic-celebration-after-violent-knockout"
-  },
-  {
-   "key": "261ab1f45849bb590030d633962ccb454916b73b",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Morning Report &#124; Chael Sonnen calls Ian Machado Garry ‘the perfect bad guy’",
-   "title_key": "db67e2dac1e2510859386e55f5694f48cd2cce73",
-   "title_norm": "morning report 124 chael sonnen calls ian machado garry perfect bad guy",
-   "ts": "2026-08-11T13:24:01+00:00",
-   "url": "https://mmafighting.com/ufc/503433/morning-report-chael-sonnen-calls-ian-machado-garry-the-perfect-bad-guy"
-  },
-  {
-   "key": "c5ee014176aaaf288146a9931f818854abcb5ba7",
-   "score": 6,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Dana White open to introducing new UFC belt but shuts down possibility of new weight class",
-   "title_key": "e17669c85dc33a0c2eea8d41134f8878b9d6e127",
-   "title_norm": "dana white open introducing new ufc belt but shuts down possibility new weight class",
-   "ts": "2026-08-11T13:24:02+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/dana-white-open-to-introducing-new-ufc-belt-but-shuts-down-possibility-of-new-weight-class"
-  },
-  {
-   "key": "54991c39388ed5cf0b7d820918047545f182716e",
-   "score": 4,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Makhachev on UFC gloves condition after intense training.",
-   "title_key": "e5ae0f9d48fcfb9a4a2eab2555d48e091c0236c3",
-   "title_norm": "makhachev ufc gloves condition after intense training",
-   "ts": "2026-08-11T13:24:03+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vle5hb/makhachev_on_ufc_gloves_condition_after_intense"
-  },
-  {
-   "key": "00c516c65662199b20332dd41345bc65062e2d32",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Can anyone explain how some fighters just have zero KO power while others seemingly have the touch of death?",
-   "title_key": "9546d0fb344edcce76f2f8a4833315991aa2843f",
-   "title_norm": "can anyone explain how some fighters just have zero ko power while others seemingly have touch death",
-   "ts": "2026-08-11T13:24:04+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vldg5j/can_anyone_explain_how_some_fighters_just_have"
-  },
-  {
    "key": "52cec4789db2fe10c15ca19d22396309c4c1f78a",
    "score": null,
    "sent": false,
@@ -30503,15 +30415,81 @@
    "title_norm": "record breaking islam makhachev anticipates least three more very difficult fights ahead",
    "ts": "2026-08-25T12:39:03+00:00",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1NuZnZxUDRhZXhMR0FyM2hJYXhsT2VHZmhXSDlLbEZ0SDB2ZldadlJCTy0tVVFvcTR6bThhdjBOQm5VZUREYWRqWFdURWFrZHAtVGJLR0U2a3h4czg0SWJNMzY3T3AzaENINE43VjQ5M1gyb0xqU1hnNk9WUEJTaHY1a0RENkhXdmFUZ1JJalB3V3RIX25wQkVseTBYUGZxTzJKa0hSZ0pGclBMY0hyYXdKTFZDOWdmLVVvNVlLQmlkOHg2WEdZUnJ2dEw?oc=5"
+  },
+  {
+   "key": "24a3e7c66941daf6d7ceea0f4551f191b6f67a1b",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Bristol City vs Walsall: estadísticas y datos en directo | EFL Cup 2026/2027",
+   "title_key": "a46a304d25739c39e1d275a68c9b7473f70ccf1d",
+   "title_norm": "bristol city vs walsall estadisticas datos directo efl cup 2026 2027",
+   "ts": "2026-08-25T13:33:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTm9LWEpJVjhPMnhoZmhHVEVjR0hVNnF1MlN6Rm5USFFTVU1YaDRMeTYzazBzQjV0SkxRTXFXS0FEVlNDUTNlaWIycXVnYzNicGF2M1VCejhsNE9XV05fbzFPanNaa210TG91cC1rclR6QnFZYzZVTWpaYWFxRTdaM09HZGQtU2N5Mm1QTV9xdXVMempHaDZseFJ2c2JBNk9WaEhDUk1CTXptSjBSYVVJ?oc=5"
+  },
+  {
+   "key": "aeeec3e45c9360128817f73dce8ef2b9630209af",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Jake Paul - News & Rumors - PBC Boxing",
+   "title_key": "03e1a7e390f0bebd82a0f938ebd2781ec1f7fad5",
+   "title_norm": "jake paul news rumors pbc boxing",
+   "ts": "2026-08-25T13:33:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGT1hBb3h5NXlEWUdsWkRoVGxCV2czSjdMQjR0ZFIyY0xyUTNvZlNnWXAzSDRqTGNWZExZVnFZb2pTTUl1VTFpUWhRbXBqQ2RHZ3hGV2RqNmFMdWx1Vmc?oc=5"
+  },
+  {
+   "key": "7c109c392b99d7564d4089173eb8b851ebf0a4bb",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Matt Brown understands why Mike Perry took Dillon Danis fight over returning to BKFC to face Darren Till",
+   "title_key": "1855fa3c218c39213a265a5006b5fca0540f31ea",
+   "title_norm": "matt brown understands why mike perry took dillon danis fight over returning bkfc face darren till",
+   "ts": "2026-08-25T13:33:37+00:00",
+   "url": "https://mmafighting.com/bkfc/506901/matt-brown-understands-why-mike-perry-took-dillon-danis-fight-over-returning-to-bkfc-to-face-darren-till"
+  },
+  {
+   "key": "58f094994acfafd1941fca0230738422dba0b67c",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Reinier De Ridder overtakes former champion in light heavyweight rankings after divisional debut win",
+   "title_key": "56060276c96d343e61c990f00b5bcbbaa8f26e01",
+   "title_norm": "reinier ridder overtakes former champion light heavyweight rankings after divisional debut win",
+   "ts": "2026-08-25T13:33:42+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/reinier-de-ridder-overtakes-former-champion-in-light-heavyweight-rankings-after-divisional-debut-win"
+  },
+  {
+   "key": "6b3531335f17e4394c7c627c8757b2a4a92f9803",
+   "score": 5,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Will Alexander Volkanovski retire after UFC 333? Joe Lopez has his say",
+   "title_key": "52fcfca80419fd3acf3d82de8b0edee0070079d2",
+   "title_norm": "will alexander volkanovski retire after ufc 333 joe lopez has say",
+   "ts": "2026-08-25T13:33:43+00:00",
+   "url": "https://lowkickmma.com/alexander-volkanovski-joe-lopez-retirement-ufc"
+  },
+  {
+   "key": "79319bf8f14d4b2f542255d5c1ce9c104390d514",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Breaking Down UFC Fight Night: Allen vs. Costa",
+   "title_key": "4cdb67db034a7a03cda18271b177abcecfee9669",
+   "title_norm": "breaking down ufc fight night allen vs costa",
+   "ts": "2026-08-25T13:33:47+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihgZBVV95cUxNNmtMX3dxWmNNeEZOSjhnR2s0ak12R2JEQk1jbFd0M1J6eHJhMHp3SGVzNU0xa1lxTW5qbzVtS2U3UngzbmhRXzJnZW4tSlZ5bTNZYlRmYXdkTjVkc0JIbjA2U2pNeV9kTVVaUmhXcUJvT0hjQ2J4MzJHT2FraGloNS1iOFlfQ21Ba2RxTDFfaGcwSTVnNWZWZVNpZFlNMV9CbzNZdFU2QkUwRWtYbGhPZVFEaXl5ek1rMlJVVjM0N1M4aTdFR21SR3pQNGdZVldqRi1TU05jWGczS3RnbnVaUVdvb2pwT1AzOC1xMmk5TGZNOVdKaHdFczNXdHJleDNzT1l3VE9ualpqeDlYQ3FkZll5WW5YZVpFN1JkdWV3R3FlY2RSeXJ6RlcteGlycDFPbFo0Q3A2LUU3Ry0xSlU3RVp3X3MxcUctdVJGV3BCRUNJZlp6bzVtSHFNVnJtcmxwSll2OWJjd0tqQmV6YzRkSHM3SHdhY3JVUG8yUXlpdk9CTkhwWWc1Qmk5YjBBUzlKZW4zaFpHdmJkaEl2dlFnZTJZcVRBTnhjMEdubVVJcXNscnZkSnpjQW9LV1B1M2RPLVFHak9lV0lyTEtGZEJMWGRiLUZfMUpaUmVJT1FsZXJOZzFQOUhqbnFMVE9pR09lSkx1TlY4WGltTHdFcnFnTllpT3N1YjhmdkMzbTNXNzhtTnMzRjBKNDM1Q25ldnpJY0prUmRaWTU4dWVxSjg1UXZDZ2lTYXVnYjJxWXl3VGxXdTlDLWdfMGhRYjBvVGdXYjRnQ1ZvYjdkbV9ha1F5aFRYVWVrT1ZZTmtValdlUWlEUXU1Um9wa2xaZVNDcURFLUhrcjB0MDFTVjlOMEJkUFR2eUgwbmlhdFlZQXVTVHIyNnNBcmdRLXU1WlZ3cnFqQ3k5V2NWWFBRMWpFQy1pUnB0UHNhY3JTYmNiQUJEVzNPTlV1dXZjYnFUX1h3cDVOZGFRNTJTRFk3SzF3cGUwMERVd1phYmM3d3FMR1hTRHZWcWJPbEE?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 0,
   "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 177,
-  "unicos": 5
+  "prefiltrados": 2,
+  "recogidos": 178,
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
