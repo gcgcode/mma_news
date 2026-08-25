@@ -30635,15 +30635,58 @@
    "title_norm": "jon jones ufc comeback could be closer than anyone expected",
    "ts": "2026-08-25T22:29:07+00:00",
    "url": "https://lowkickmma.com/jon-jones-ufc-comeback-could-be-closer-than-anyone-expected"
+  },
+  {
+   "key": "2aab4e7d50a14c2c2d86a540eee9be757dfb183f",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Drake's Lifestyle Brand OVO Drops UFC Collab, With Famous Fighters Front and Center on New Merch",
+   "title_key": "7898848b8be23195ef117c9c385596d5d16f6e6b",
+   "title_norm": "drake lifestyle brand ovo drops ufc collab famous fighters front center new merch",
+   "ts": "2026-08-25T23:00:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWlhzdE9DOUw2VVVxMjFNT2R4RlZCV3B4akVSLWp3RzdxNHh6RTFPTXJ3bzBmZ2FQZ2czajNJYW94UjdGT3lPcWJyM2pUNlZwNzlIcTFWNFNnNHY0akw0VDB0a1hnSFNaWEliMmhSSU5YbVdWR1lCTVJGT0xaVDBqVjVvdTdsX3lzazBXUU1rNHhmQzJTYklHU3FtcExibU9fTXlRWFdIMEFTZGJ0eDBVOHZDY3ZTZnFBaUdzUEJCVXc0YjNIbGxRMEpB?oc=5"
+  },
+  {
+   "key": "5758ac6d7b7c6d1004197174aada1c84e1471588",
+   "score": 1,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "DESFILE CÍVICO ESCOLAR POR 28 DE JULIO - PUENTE PIEDRA 2025 Ufc White House (otdRmPMQxA)",
+   "title_key": "d9ee7389d0b339d92ee52d08d0576f23a0b9cfff",
+   "title_norm": "desfile civico escolar 28 julio puente piedra 2025 ufc white house otdrmpmqxa",
+   "ts": "2026-08-25T23:00:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhb1M4R3NQQ2dWWmQ4eTVubnhpRUZxWU1VNS1PM1lvb2JrWUEtWU1MS3EtZTNNSWtSTkZOQ3czSVhndGNjbUZ1ZDliclVtUmpnMGlMQmlkVGtLa1U?oc=5"
+  },
+  {
+   "key": "d631115137499a7ee08cdc1b84f766048eed2715",
+   "score": 9,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Volkanovski Vs Evloev Announced For UFC 333",
+   "title_key": "bc7f5bd33ae55a37cec5fad2d5735bdcd24eb26a",
+   "title_norm": "volkanovski vs evloev announced ufc 333",
+   "ts": "2026-08-25T23:00:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVMDVDUWc2NXJkYm4wM0RHeENfU2QzODJxZXJxRW01R05NUXI3VDhfdUpyVlZjY1JLaG53ZkdId2pYVWZLYTA4UUJuaW1pWTRienJTUlJjVF9OeGs3Q2pIWktldVNZZzhmb1k2VEd6bkxqY3FFRE9KTFRjeWxMUQ?oc=5"
+  },
+  {
+   "key": "2ea7130b179e64b2e43a5d8fa73c5afc54652566",
+   "score": 3,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "For Bella Mir, there's no such thing as being just another UFC prospect",
+   "title_key": "e4d2fb2cc1ed6c6474e78895393019552b94496e",
+   "title_norm": "bella mir there no such thing being just another ufc prospect",
+   "ts": "2026-08-25T23:00:35+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON0hzNmVDM25CeW9wOWhSa1NaanI1Qi10aTJMRXN6TzNSaE56VjVMcXNia1M3Vkt5cFhkRlo4R2dpdlJRQVhzYjg0RG9Sd3lQaW5EZnpPM3VkMkpFLVhJWERnVWRKZ0dHdzl3WnJEMllPWWpGRXFFY3ZIZ3p5d09UbDhRV3dVWC1Yb25iRzQ1NnpRbks2Y3g3TTNkUjJOSTVrbmRJRDNnUWVJTjVCTmxOclAwVkd3cHVDRTNUTDg4YzZMSDl0dF9tdFprOW1OT1lnTVhCTjAzQ3ZVSmtuOGZHM05iSjlrdklsVmstUEF3RQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
-  "llamadas_llm": 5,
-  "prefiltrados": 4,
-  "recogidos": 196,
-  "unicos": 12
+  "descartados": 3,
+  "enviados": 1,
+  "llamadas_llm": 4,
+  "recogidos": 186,
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
