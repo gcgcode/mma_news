@@ -2,138 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "ef584f5ffd63d911629e35d1f82084fbc5464cc4",
-   "score": null,
-   "sent": false,
-   "source": "TUDN MMA",
-   "title": "FC Cincinnati vs New York City FC",
-   "title_key": "06b987b5de76b7f0805fb6c240521987cf290182",
-   "title_norm": "fc cincinnati vs new york city fc",
-   "ts": "2026-08-11T05:51:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb19ZQkNlaWxLaDhTNTFiUWtrUElkU05fbWxkUk12ZlJTcDc1VEVER01PdjUybjFHcTc4LUdtSV8yb0xlODFxMkFiWGEyZ0I0WXVSNFlfOG5xamREdGVGd2M4blZ2UGxRbE5QSWVHc1Y0c0N5d0VkZi0xeTlHNm9zNEFHY3o0dkU?oc=5"
-  },
-  {
-   "key": "8c28dd76c567e782c6468f6e697eb359a3185f37",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Guerra mundial contra la FIFA",
-   "title_key": "9bf699dc922f4a8f02ab5038c2a0fb17cc97cbd4",
-   "title_norm": "guerra mundial contra fifa",
-   "ts": "2026-08-11T05:51:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3lYdnhkSUNFV09CTEFSNFQtaVNfNHROYXNPTjVweXBQYXdSc1kxYnhGWWhtd09RUTBzX0xQWGVOQm5ocjFCeUIyWm4wR3dIdnVpTktaR0xMcHJHNHA3OHNJcF9pX3FkMW5hVmh3NnFEVzVBd1MtdmpRNHEyLTllMUEyQdIBgwFBVV95cUxNME4tbkltLXRzSmllcHFkdVc3WEJkdldiOGZ6bzBmZ0FHSHVILUZCaDZCWEhPNUl1UnNDTmsyZFY3R2RkZjk1YUpSeHJtQWQ5NHprS0xVeVFGMFRwSzN4Z1d6MXRsaHF1a2tlZTAtaVNENC1DdzhoTkdpZF9EV2FLUU5uZw?oc=5"
-  },
-  {
-   "key": "21fbe4b3886b8742605a3b8e99ff490a6411bea1",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "El presidente Trump parece quedarse dormido durante un evento en la Casa Blanca",
-   "title_key": "bb16164483c4223012e79351664befefb92c7a05",
-   "title_norm": "presidente trump parece quedarse dormido durante evento casa blanca",
-   "ts": "2026-08-11T05:51:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWtrZEZhQ0ZpM2xlblJWVml0OGhRM3QyNERjOUU4Q1hfVTBVUm5GRlVlM1hVRW54LV91Y1lMMlFHSDR5YzRFVXZCSlY0UkNBLUZTYmVjWXpkcWExUDBjMHBkamJzVjNjeElVUl9JSGgzWVRnaGlSX3VDYVdkQ1RKRWxxdzlRNDhaeEpRanFhS3RpS0JOTEJMOUdSNjJRUENEbVVza09sQy13ZnROY3JqM3ZYd2hhOElkWFVBc1E0LTc4VGdUMnRfT2RrLVQtc1EwYllYZkVR?oc=5"
-  },
-  {
-   "key": "f93d1c769e861d06f14535e11d1c3e0c07618547",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "this man is so unbothered.",
-   "title_key": "2f21aa398c42a7986ffd3e68fdc90b5af87a0172",
-   "title_norm": "this man so unbothered",
-   "ts": "2026-08-11T05:51:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vl7a25/this_man_is_so_unbothered"
-  },
-  {
-   "key": "956170226b0db7807cb7514c63e37694ff2717e1",
-   "score": null,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "King Green admits being humbled by a real boxer",
-   "title_key": "60ecb7e8b9d26b87562eee90e8cdf2202b9d7f48",
-   "title_norm": "king green admits being humbled real boxer",
-   "ts": "2026-08-11T05:51:43+00:00",
-   "url": "https://sherdog.com/news/news/King-Green-admits-being-humbled-by-a-real-boxer-202309"
-  },
-  {
-   "key": "d943676bb90de8ff62590016e0d9fd5e9f57250a",
-   "score": null,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Ian Garry believes he has faced tougher opponents than Islam Makhachev has",
-   "title_key": "e1b4c57b5f5e67620ba2fc56685d3c99e4ca48c0",
-   "title_norm": "ian garry believes has faced tougher opponents than islam makhachev has",
-   "ts": "2026-08-11T05:51:43+00:00",
-   "url": "https://sherdog.com/news/news/Ian-Garry-believes-he-has-faced-tougher-opponents-than-Islam-Makhachev-has-202310"
-  },
-  {
-   "key": "971c291b704621c90a5a4e91f3cfa71fb02def3e",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Polymarket Promo Code FOX: Deposit $10, Get $20 Trading Bonus",
-   "title_key": "a77b05045fe05bdcf3931149953ded89e74de133",
-   "title_norm": "polymarket promo code fox deposit 10 get 20 trading bonus",
-   "ts": "2026-08-11T05:51:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMkxRSnY1XzZwYnN3OXY2YTJTMEVPckFleWd1MGlOMTVDNjdOUldzdzJpdFRaTWxlekUwN1BJTWJkRDROWHRpbjZVemhqMVVxY0JWV3kyV1FEc1FjWHM1WndwNEFzTGZBc0JITUt2VXTSAXBBVV95cUxQOTVWcUsyMVlOQXdsdHBtR3ZPRWR1T1Zrb2FpbllSNmR0NUoydlFWdDJ5RUFSaG5nMXRZYWJwTXV6OEdjV2JlYk41T3UyZ1dDVWhVbmlpVVM5V3NBZWlmNHhXNy1LTWlGRTdRd1gycTZk?oc=5"
-  },
-  {
-   "key": "9b839fb174e617c60ffa645bd1a6b4259017ca68",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Islams entire UFC resume so far",
-   "title_key": "44fda3c29bcb58d6d046e97b533b8f1c749e7f01",
-   "title_norm": "islams entire ufc resume so far",
-   "ts": "2026-08-11T05:51:47+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1vl8l55/islams_entire_ufc_resume_so_far"
-  },
-  {
-   "key": "071618d5841dd814200a1370a009a3449caeb14b",
-   "score": 8,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "[News] Patchy Mix misses weight by 2.6kg. He will be facing off against Shoko Sato tomorrow at Rizin 54",
-   "title_key": "7860eff80da35c5dbe10d414bf4e037b6fba20b3",
-   "title_norm": "news patchy mix misses weight 6kg will be facing off against shoko sato tomorrow rizin 54",
-   "ts": "2026-08-11T05:51:54+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1vkfds7/news_patchy_mix_misses_weight_by_26kg_he_will_be"
-  },
-  {
-   "key": "547225bea261916752c60d643d4a9df2d4c8762a",
-   "score": 1,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[Official] Technique & Training Thread - Week of August 10, 2026",
-   "title_key": "62020a4e41d7eea47689aae37639bb9d6e73470a",
-   "title_norm": "official technique training thread week august 10 2026",
-   "ts": "2026-08-11T05:51:55+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1vkacza/official_technique_training_thread_week_of_august"
-  },
-  {
-   "key": "f915d77d6a00877c58728d4c9b297b50d2e7d0f4",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Sean Shelby's Shoes: What's next for Mateusz Gamrot after UFC Vegas 120 loss?",
-   "title_key": "ce55d48fa236e023c6089e83959074572adb57ca",
-   "title_norm": "sean shelby shoes what next mateusz gamrot after ufc vegas 120 loss",
-   "ts": "2026-08-11T05:51:56+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajl3cHd5cjlXb0ZHQUtQcUlVZzJZT0x4ajJzMzVfcE9iZWJjMGlGVnVHNlZxU0g4WmN5czlrUnpOR3dZbHhwUkJFb2JMY2E4c0J4dHlyU2dKLVBuYlhXQVR3cWZZQTdiY2FfZENFMko5T1lzX3MxVll3d01oanNPTnBtdC1EMmhnQ0U0S0VXSHVnYlZnak05a1hnNzF4bmJuaU15eDdOTzZydTV3UGF6elktZEFsNjc5a0RHNUhqZ1ozVjlnSlE?oc=5"
-  },
-  {
-   "key": "6f1dae32f2c3a00dc426f94711d81b00166eab03",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Vegas 120 winner Ty Miller focused on bonuses to make up for meager contract",
-   "title_key": "46aa7f003644cc37f46dac9644460bf22ccb7b7e",
-   "title_norm": "ufc vegas 120 winner ty miller focused bonuses make up meager contract",
-   "ts": "2026-08-11T05:51:59+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmdtdnhsRlh1R3Q2RHNxRXVtQmNPTVoyLTY5OEdEVEFRMlRFbkZ4bzV1RVcxcHV1bzAxQUFGelZLSFNHYkJtN005WFFfejJDc3p2UFVpRThiSTBYcElZMkx2blRFZzM0ZTRZQlBfS3NkMTBnQjJyZUlUc0g2c3lFaE1iT2QtdFhicS03ajRreEQ3RURfc2p5ODIzZXdkZmF4QWM5WHNkZzJOVkEzNGZ3T1dXVzBwQVY0Nnc?oc=5"
-  },
-  {
    "key": "965bdf2dc9eeb812c16ebc7c01b3d8dcf2a664a4",
    "score": null,
    "sent": false,
@@ -30624,15 +30492,58 @@
    "title_norm": "ufc 329 mcgregor vs holloway official weigh ins retirement m6aptpgxvj",
    "ts": "2026-08-25T05:30:53+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTZ0l3X1ZqTlNuc3piTGVvUlBCa0VWOFdfSVdlZEdmTXJ6ZHQzNjRWeDNOTlJtNF9zUVJ5RTdPZHo0enQ0N3hST19CWlM4WXhZSVVXSWRJbERlYVhWb1Zudg?oc=5"
+  },
+  {
+   "key": "9f43e6f912338001185ba1bf1160b607f25cdbb9",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC 296 - ESPN",
+   "title_key": "bae9cf6e2267cf6846d18b421b6ffa4e338cdbc1",
+   "title_norm": "ufc 296 espn",
+   "ts": "2026-08-25T06:02:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLU0wSVUyQmdUcEl6ZFlZWEY1QXUwRUEzSHFLU2FiMVBocExQYUZUZ3RLNlNXTU5tNUdldkdIN1hZTnNsMm5CQVVlSEhyclg2ZkdVNHdKcktXQnBxVnl2eFlJWFE5cVdDYmxpajJJVDFPY0daczVOSjlob3Z4WXB6MFJ4UTZ5VmJQQzVOaGoyamU2UTNxMGM5RnR5MG9KN29sTmlUMXgxZG5hOXFlSjdqeFoyZWhSb3JIbEM2TGFLcXRyelhZaFpXOHN3?oc=5"
+  },
+  {
+   "key": "ea674db9993603436f298ccf3a3f249e27cee7d3",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "SEC rechaza que jugadores que llegaron al profesionalismo vuelvan al deporte universitario",
+   "title_key": "f746be6d852949280f4f779ce933d921f29788f4",
+   "title_norm": "sec rechaza jugadores llegaron profesionalismo vuelvan deporte universitario",
+   "ts": "2026-08-25T06:02:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSjJVd2xMd3RNTl9IUUtnOUdtV2FMbWtnNlJFVUNmZmN0NVJnNWJnYUU5WVlrV09ZSThYb0pjSURmX2t6d1VFc1ZPZ3RLeE9PR0M4Nm5FWThLU3hUNjJBMnlqblJ1T2NVNFFOdEZLb3ZwWDN3d3FFSnFSRlFGNU5xNms2TWlFNFZWMjJsei1ZbkxaRVI5aUhRMC01c1VtMUczREJKUFpEbXZWX2lNdnVsNUpfWHVpR3gyNFpFemJJU2RYSW9CczBWeTZ6SWNqZnpSY0dNOVNabEc1MjFqYnfSAd4BQVVfeXFMTkoyVXdsTHd0TU5fSFFLZzlHbVdhTG1rZzZSRVVDZmZjdDVSZzViZ2FFOVlZa1dPWUk4WG9KY0lEZl9rendVRXNWT2d0S3hPT0dDODZuRVk4S1N4VDYyQTJ5am5SdU9jVTRRTnRGS292cFgzd3dxRUpxUkZRRjVOcTZrNk1pRTRWVjIybHotWW5MWkVSOWlIUTAtNXNVbTFHM0RCSlBaRG12Vl9pTXZ1bDVKX1h1aUd4MjRaRXpiSVNkWElvQnMwVnk2ekljamZ6UmNHTTlTWmxHNTIxamJ3?oc=5"
+  },
+  {
+   "key": "1b45a0ad7ff05b071fc6126006099d8108f63f8c",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Colby Covington tears into Ian Garry, says Bo Nickal’s ‘mystique’ is gone",
+   "title_key": "82a3ae47ed28bddb70c1991cbcbedb817faf4143",
+   "title_norm": "colby covington tears into ian garry says bo nickal mystique gone",
+   "ts": "2026-08-25T06:02:37+00:00",
+   "url": "https://sherdog.com/news/news/Colby-Covington-tears-into-Ian-Garry-says-Bo-Nickals-mystique-is-gone-202519"
+  },
+  {
+   "key": "9fad83fd34dd7fb71d53e9012547db585455caf5",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Jordan Burroughs calls out Georges St. Pierre for wrestling match",
+   "title_key": "fec93ba431790bd97356d651cdb89c70764fed36",
+   "title_norm": "jordan burroughs calls out georges st pierre wrestling match",
+   "ts": "2026-08-25T06:02:37+00:00",
+   "url": "https://sherdog.com/news/news/Jordan-Burroughs-calls-out-Georges-St-Pierre-for-wrestling-match-202520"
   }
  ],
  "stats": {
-  "descartados": 5,
+  "descartados": 0,
   "enviados": 0,
-  "llamadas_llm": 5,
-  "prefiltrados": 3,
+  "prefiltrados": 4,
   "recogidos": 177,
-  "unicos": 8
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
