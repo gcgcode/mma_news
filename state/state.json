@@ -2,83 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "3896e90e5a63fbfbd1736d268f56a4b0058ea5a5",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "justin gaethje tryna knock himself out.",
-   "title_key": "cba334f7ef03e198814b4b9a580e48ac42217ea1",
-   "title_norm": "justin gaethje tryna knock himself out",
-   "ts": "2026-08-11T18:31:55+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlo50x/justin_gaethje_tryna_knock_himself_out"
-  },
-  {
-   "key": "4b0676eb3d6a8653e2d6ca87a1558ff8797bb5bf",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Herb doesn't care what we think.",
-   "title_key": "758ecad644b3d21ac3ddc1eed7a3f19d85699d06",
-   "title_norm": "herb doesn care what we think",
-   "ts": "2026-08-11T18:31:55+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vloy19/herb_doesnt_care_what_we_think"
-  },
-  {
-   "key": "cba4db6725586b28d8d8234e5a1038d6f4155e4d",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Coach who said he’d ‘get rid’ of Islam Makhachev thinks Ian Machado presents ‘rare’ grappling issue",
-   "title_key": "233facb5c827f4253802703c8a305ba3d8e2ed88",
-   "title_norm": "coach who said get rid islam makhachev thinks ian machado presents rare grappling issue",
-   "ts": "2026-08-11T18:32:00+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/coach-who-said-hed-get-rid-of-islam-makhachev-thinks-ian-machado-presents-rare-grappling-issue"
-  },
-  {
-   "key": "0c1e0ed59fb52525c33823e981ea3a3244f9e938",
-   "score": 4,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Yadier Del Valle: Show Y Ko En Menos De 1 Minuto",
-   "title_key": "821a9a50e032b946dfed0c44e30c437fb2e0d86d",
-   "title_norm": "yadier valle show ko menos minuto",
-   "ts": "2026-08-11T18:32:01+00:00",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzA0QUdnWUJBeDJhVlZWTTdJQ3U4cE1lZEFUSmtJZUZBcThENDVSckkxT2RvR1ZFeFFlZXljeGN4YUpseno0SnZNU2VjRTZUMzJhX0hmVWxSX0VLSDZuSkxnT0RLeTQ4c2NmdEE1bVFPUnZvb2VSYXZPclhXYkFSUXpFd1Jodw?oc=5"
-  },
-  {
-   "key": "bf4ea2983777599e45b14caa0ea423ce4b577bbe",
-   "score": 4,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "UFC Vegas 120: Nocauts Y BJJ Deslumbran En Preliminares",
-   "title_key": "f23653a55c1c5c9e673b79239d97b5dcbfa0ad22",
-   "title_norm": "ufc vegas 120 nocauts bjj deslumbran preliminares",
-   "ts": "2026-08-11T18:32:02+00:00",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjk5TkhadGRYemZxR3h3NkpyVTZBaDIyVldwbTZzZy1DbU96TWRmd2U1SVlmRFRCWGUzSzVQZEplSjNFY0NsOF9QQ0Z1UWU2NVRyRkZwcGtaaEtEaG1TcEQ2WVdFeHFHZjNrMXZOQXlQU1ZCN25aalVmMHRhdGk0OFFQQTMwam5SUVpIRE5sMA?oc=5"
-  },
-  {
-   "key": "3f554a91e8a9a0479042a0e46dff7f76a6bbc904",
-   "score": 1,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "🔴 !! Join The Elite on r/UFC Official Discord Server !! 🔴 // Link in below",
-   "title_key": "42e62be4064314f5447ee50e09ac408c69c11975",
-   "title_norm": "join elite ufc official discord server link below",
-   "ts": "2026-08-11T18:32:03+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1eqm4ww/join_the_elite_on_rufc_official_discord_server"
-  },
-  {
-   "key": "6eb89137cd87caa3732a144bb12f4ee6fd547d44",
-   "score": 8,
-   "sent": true,
-   "source": "TUDN MMA",
-   "title": "¡Voló el rodillazo en el careo de UFC!",
-   "title_key": "e0aef066e676b3580fa94d055ff4678666643f7c",
-   "title_norm": "volo rodillazo careo ufc",
-   "ts": "2026-08-11T18:32:12+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYzI0WnMtRms3UDU3TVZYZVFmQS1xcmo5aXFqclFhVGg1Y0l2dXE0SmVjRG95ZTJFeFFlYmZCUk00b0ZaU0hRSWZpMjF3eEJvbVZXOEFfazl0Q1A4TTRzRWdiNTFXOVhoQVR3dGpyWFdmN1NCdGVReVJlLTdxMHZrWFZB?oc=5"
-  },
-  {
    "key": "dbc3fbfdf810cd4ba7028adde99e2c04a9845a93",
    "score": null,
    "sent": false,
@@ -30448,15 +30371,81 @@
    "title_norm": "shara bullet draws gracie family star raf moscow debut",
    "ts": "2026-08-25T18:02:42+00:00",
    "url": "https://mmafighting.com/raf-wrestling/506986/shara-bullet-draws-gracie-family-star-for-raf-moscow-debut"
+  },
+  {
+   "key": "d04950f686eb058f8a1ad29a0ed77f5f11fbaf91",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Chicanos in the sport.",
+   "title_key": "2f7b3f1d53f17985570802a568ca194e39c40f9c",
+   "title_norm": "chicanos sport",
+   "ts": "2026-08-25T19:00:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vy7lx2/chicanos_in_the_sport"
+  },
+  {
+   "key": "3390081cfe2ff7453ffffe5023331b8a9385deff",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Aljamain Sterling has humble reason for why he would ‘absolutely not’ have taken Jean Silva fight at Noche UFC",
+   "title_key": "86b2cb34b0b0762d89e4e4cde7aaf08e9922ffda",
+   "title_norm": "aljamain sterling has humble reason why would absolutely not have taken jean silva fight noche ufc",
+   "ts": "2026-08-25T19:00:50+00:00",
+   "url": "https://mmafighting.com/ufc/507031/aljamain-sterling-has-humble-reason-for-why-he-would-absolutely-not-have-taken-jean-silva-fight-at-noche-ufc"
+  },
+  {
+   "key": "d3393c42836c74f6a92d77bede53ac2dd323bd10",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Umar Nurmagomedov calls out a wrong translation of his words about Song Yadong: \"I didn’t say he’s a punching bag, that’s how they translated it. [...] I was ro",
+   "title_key": "0a70a702934398e3c8c7042ec2d67886bd3c6994",
+   "title_norm": "umar nurmagomedov calls out wrong translation words about song yadong didn say punching bag that how they translated rooting him little mad good fighter tough guy has lot experience",
+   "ts": "2026-08-25T19:00:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vy8oxp/umar_nurmagomedov_calls_out_a_wrong_translation"
+  },
+  {
+   "key": "d4ad4d8086532af6eb210f044d900fdecce764c0",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Shara Magomedov gets new RAF debut opponent on Khamzat Chimaev card as Gracie family member steps in",
+   "title_key": "012f112982be133f37597a200d91e9bfea04c3db",
+   "title_norm": "shara magomedov gets new raf debut opponent khamzat chimaev card gracie family member steps",
+   "ts": "2026-08-25T19:00:57+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/shara-magomedov-gets-new-raf-debut-opponent-on-khamzat-chimaev-card-as-gracie-family-member-steps-in"
+  },
+  {
+   "key": "e1b7eb600cf1d1d14e21bb51a9557ee09e9abab1",
+   "score": 7,
+   "sent": true,
+   "source": "Marca — UFC/MMA",
+   "title": "Makhachev habla de su futuro en la UFC: \"Me esperan al menos tres combates más\"",
+   "title_key": "df7a72da484e76a2fed8a4b487031b46163fc786",
+   "title_norm": "makhachev habla futuro ufc me esperan menos tres combates mas",
+   "ts": "2026-08-25T19:00:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2ZOM3N0ZDVPSExpb2NSOFZsa2V5a1NYbnBaY242eFVtNDF0bUN2Q1hKQ3lxVDJnLVRTMkdiWnJXMDg0QkNqal9odG5GbmJZb0piRGVDR1NNRHJTdVpMMnlnS05VaV8tYjJGQTFwQ2VxNFJ6b2lmaWhaMm5pZmcwU1RuckFNeE04NWZRU1p1MExqWWZHUkZqNXR6RUc1Ymc2UzcxStIBpAFBVV95cUxNLWtXVkZEQjhuOGpOOWFBVF9ieEJfUjFyb192aFJhWm5OUWhYeGp2X1VQeG8ydjZaX3dSaEItd3RzUG9EcEFHSFRiaXR4TUZfUm1UeXhjUW9MdnJINExhMzBEQlRIZlR5aHdBRk9DYVlOYjRmUTdyOHBfeXlUaG11Sy1XcHJzVDhKSWE3ejlnSDliU3FuVTd3MHIxeFQ5QVIxSC1Bcg?oc=5"
+  },
+  {
+   "key": "163243b0a8ee180589124f4d57bee0246727a04e",
+   "score": 7,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Do Bronxs just called out Justin Gaethje for a rematch: I was robbed. They wanted to distract me so I would go in there, have a bad fight, and they could crown ",
+   "title_key": "185650f75134f5b0f2c2ceee9924b25346014060",
+   "title_norm": "do bronxs just called out justin gaethje rematch robbed they wanted distract me so would go there have bad fight they could crown him champion felt my hands dropped him then submitted him rematch doesn need be brazil",
+   "ts": "2026-08-25T19:01:08+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vy6mo4/do_bronxs_just_called_out_justin_gaethje_for_a"
   }
  ],
  "stats": {
-  "descartados": 0,
-  "enviados": 1,
-  "llamadas_llm": 1,
-  "prefiltrados": 2,
-  "recogidos": 202,
-  "unicos": 3
+  "descartados": 2,
+  "enviados": 3,
+  "llamadas_llm": 5,
+  "prefiltrados": 1,
+  "recogidos": 203,
+  "unicos": 12
  },
  "telegram_offset": 958387804,
  "version": 1
