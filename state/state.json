@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "ab0531b01aab124b7c6af451adb49c37d1bf1d73",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Real Madrid le da la bienvenida a Cucurella y así realiza su primer entrenamiento con los merengues",
-   "title_key": "51840857eba12dfccc0adb7585412dc88c9d2eae",
-   "title_norm": "real madrid le da bienvenida cucurella asi realiza primer entrenamiento merengues",
-   "ts": "2026-08-11T01:17:39+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR21SaG42ZC01Zkw3QVNlaXhvM1ktSFNxNmdZN2J2a0Vib2tpVnlpN3NuR2taYmFHcUdsMTlrcUR1STBMbHJxaUVlbC11akxXSkpwcjhubmpOdFpRX196UHdDYVJEaG8xek9qZUpEdnpGRFkydWd4SEJPVGZ4Q3FKWTV3MlMydzZWWjBSWXNZU1dFdGNCckNBelg3QXZUaEV1RElkS2FKaDBIdTVmOVJBcWRQQmxHbW56bDNIcjdMYkNnZFNublVTSDR1aDhqQ3JG0gHQAUFVX3lxTFBLRUF5R3dXS0E1TXZlYjczMUpWSFhkT0JhNkhjZFFBOFpocDJqZ0o2a1VrQmlqaEY5bTlLdWZmNkhyeHVYcmlvdXdYYWJBMkxySlE4WGhwM2dSVF8wZENQbS1ldWlNZTZsczhDWDdLV0RIdmRmWVczY0ZBM1hvVElfX1pQT1hIdHdiOHlBclYzVVhyWllfWllMVDlkU3JLWTlFbFFyazRTYmtFTFU3S0tRdEFQME5MUmJTM2UtOW85cWNUNWVQRkNtMjVPS2ZmODY?oc=5"
-  },
-  {
-   "key": "082aa34da6ef3177d0a20b24e1d93e605183953b",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Those leg kicks were murderous",
-   "title_key": "b632eaafd1cb92d545ea517c9d75a38604cc4b5b",
-   "title_norm": "those leg kicks were murderous",
-   "ts": "2026-08-11T01:17:39+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vl106v/those_leg_kicks_were_murderous"
-  },
-  {
-   "key": "5ef1966b89976384e93f3fbf66978f0ca7ca5ad3",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "“Khabib Would Want To Wring His Neck” – Daniel Cormier Explains Why Jon Jones Rivalry Never Soured His Team As Conor McGregor’s Did",
-   "title_key": "d493f00e32644355bb2b84248af3c8280331960c",
-   "title_norm": "khabib would want wring neck daniel cormier explains why jon jones rivalry never soured team conor mcgregor did",
-   "ts": "2026-08-11T01:17:39+00:00",
-   "url": "https://lowkickmma.com/khabib-conor-mcgregor-cormier-jon-jones-rivalry"
-  },
-  {
-   "key": "7a0b4b1ece33f793d8896ae49840ea3281164232",
-   "score": 1,
-   "sent": false,
-   "source": "Instagram (manual)",
-   "title": "Post enviado manualmente: https://www.instagram.com/p/Db0VEtGu85f",
-   "title_key": "f6adf89377c5e8e07a8351153e51de8f4f7fb2da",
-   "title_norm": "post enviado manualmente https www instagram com db0vetgu85f",
-   "ts": "2026-08-11T01:17:51+00:00",
-   "url": "https://instagram.com/p/Db0VEtGu85f"
-  },
-  {
-   "key": "45be4676ce41cc1a1a918b8d119831de9ce94952",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "‘UFC 330 Countdown: Makhachev vs. Machado Garry’ video",
-   "title_key": "6d5fef720267efdbc4d207cd793987dcddd4534c",
-   "title_norm": "ufc 330 countdown makhachev vs machado garry video",
-   "ts": "2026-08-11T01:18:07+00:00",
-   "url": "https://mmafighting.com/ufc/504039/ufc-330-countdown-makhachev-vs-machado-garry-video"
-  },
-  {
-   "key": "0872ef2906100e1d09b92212e3f007da48f72b44",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Fight Night 291 adds four matchups to Edmonton event",
-   "title_key": "525daf03866c2ae0b41e827877f485a6879590e0",
-   "title_norm": "ufc fight night 291 adds four matchups edmonton event",
-   "ts": "2026-08-11T01:18:26+00:00",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWJabE1TZnZOdV9PSVMyU2dnOUNLV1B3U0ZkZVVjaGxXb09QWVpxc2hqbk1JcGZpeldjLXRpbDU0ckJUSENVUE5VX2M4U2ZTaHZ1NzE1T015aUF2SnB3cEE5MTRGcVVZcjBhTlVXS0xCRkNPUUxXM282RWFiUV9xSThra2FUNlNfYnZqQ0QtZDh3T2VwRU9pUV9qSmN3TmFPekFDRGY5czEyWTQ5ekEyQkt6c1hrTl9yckpIaQ?oc=5"
-  },
-  {
-   "key": "0287d4ed3f2c823f623dd602880b48c7c0ac7d00",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Fight Night 284 post-event facts: Quillan Salkilld ends Mateusz Gamrot's takedown streak",
-   "title_key": "a4cc5a6bcf529099f66348d3d5822a54395d2e1b",
-   "title_norm": "ufc fight night 284 post event facts quillan salkilld ends mateusz gamrot takedown streak",
-   "ts": "2026-08-11T01:18:27+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLVlzVjZLYUN3dlg4emxnNXBGTUYtN2hNNUM0MjU3d3NfVzlMQWJmUWNDRlk1bGtLODlOOTROMWtMZ0cyZXVpRHl4eGhrNWFwMHFvZEE2d2JJa0U2Nm5tR0ZibGc1QXV0MEt0Zjc2YVZRMEtpS2RxS05md1VwalpoMy1lNm9BOEF4ZVlNSnY3dDZ4SDZtYUh3SmY3RjBRdG1iSzdBTTl4bVlvMTdRZWdiVXRkUGtHV2NCRGdpZ1BlSHZFQkFPYk8yNk5lcnRoeElzQ19YSzNqd3h4RjM1WTV3RGdlOHEtWUtFZlBr?oc=5"
-  },
-  {
-   "key": "15e344bac079c55f08e1c55347696c471426f90c",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Dakota Ditcheva says she broke both hands – again – at PFL New York",
-   "title_key": "6138ffcb08d9bd02181202f8a32aa74cfb925088",
-   "title_norm": "dakota ditcheva says broke both hands again pfl new york",
-   "ts": "2026-08-11T01:18:28+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQME9rSDBIY3l4eC02WWNhM3dvempJOEVwbGQ2TmpXRnI1eWVyaFdIVWsyTVJuU3dHalJPaXVJZHpGSzlUc3lMOUE5bm8zelExTThzSHUtZGdwdFJsblVWa2s0TEEwR3AwSjd1QWFPWE5OUUVMalAtWV9OVGEtcmNtNnBabE1qSGc1V2FfUldwZldGcll6aGlkODJ6UEpBVnkxR2plZmQxSHdKcVdkXzFRN1hLSmpRLWdfVnBhLTlUWHQ3dTZ5a0tMU3BUSzlYVS1rSW5OQ21SSzdURXV1REo3M083bEVmekJWR2RhU2l5YmRsMzB2bHJUSF85SWFUcnl2?oc=5"
-  },
-  {
    "key": "f73531a5af5dc85fe9356dfc4ff442717a2485e5",
    "score": null,
    "sent": false,
@@ -30514,15 +30426,125 @@
    "title_norm": "daniel cormier ufc 329 stars having purses withheld celebrating ridiculous",
    "ts": "2026-08-25T00:59:50+00:00",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0FxZk9EQlY2bVEwRFUxZ0NYaXJucFk0RlJBbUlsSm5rUGgwS1hNa3hXRGpfYlM4eFl6TnhnZTBOVC1td3lUNTdXUzZYYmx6SWotOFZEM2wwWUtabkU4VkNsSWItbWI5SFF6Z1VRa2FOVDFVZ0JmTXZSMkFSdXc1bmVSVQ?oc=5"
+  },
+  {
+   "key": "9907f3cf59122303b6641d4b49fd1fbc2c00d53a",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam Makhachev fired back at Merab Dvalishvili after Merab criticized him for raising the Russian flag following his win over Ian Garry 👀",
+   "title_key": "841d11edb929a7162c26bba71091762040f844e2",
+   "title_norm": "islam makhachev fired back merab dvalishvili after merab criticized him raising russian flag following win over ian garry",
+   "ts": "2026-08-25T02:19:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxj2vb/islam_makhachev_fired_back_at_merab_dvalishvili"
+  },
+  {
+   "key": "4a32cd907e6cf7fc85a74ec8cfc300bb7c331557",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "El “shock” de Carlos Rodríguez sin Tour y una Vuelta para resurgir",
+   "title_key": "8060ac0895932e889790c609d91e5f6e640d63db",
+   "title_norm": "shock carlos rodriguez sin tour vuelta resurgir",
+   "ts": "2026-08-25T02:19:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFFnRk1sUVZZTUhOS0daTG5CYS1QTFZlMW5DNjJsME1tNzhiQ1VtSi1WSVpXMUFzaGdaYk9jcXNseWRoXzVobFlnQ3pZYXFxanBIVlhNdW9tMzAzRTd2dTNOQnozYzZkSnZxZ01KSlJDdUVaTWRIejNzQVBQc1ZuS0xlR1JPcUZQNXFaN1VObEszd05zS3hQYWZhYWZ1MFVBUzF0M0Qyb2p6NzdXdFZZc2dYMV9PX2dOdWcwc2hqS0lqbXloQ3Nr0gHHAUFVX3lxTFA0UWdGTWxRVllNSE5LR1pMbkJhLVBMVmUxbkM2MmwwTW03OGJDVW1KLVZJWlcxQXNoZ1piT2Nxc2x5ZGhfNWhsWWdDellhcXFqcEhWWE11b20zMDNFN3Z1M05CejNjNmRKdnFnTUpKUkN1RVpNZEh6M3NBUFBzVm5LTGVHUk9xRlA1cVo3VU5sSzN3TnNLeFBhZmFhZnUwVUFTMXQzRDJvano3N1d0VllzZ1gxX09fZ051ZzBzaGpLSWpteWhDc2s?oc=5"
+  },
+  {
+   "key": "20a05c845e4c4d14bfcd1a1df63dd50ee7a1f7b5",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "Noticias - ESPN",
+   "title_key": "662064a5dd7f8a85739c486058e42a9fbb0639a0",
+   "title_norm": "noticias espn",
+   "ts": "2026-08-25T02:19:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tSGNxZThBYXlLbmkzek1lSTAtbHF4NkltU0dMelBBRmNBcnpEcW5XTTBJVTY5bVR6TDNIaDJGczJOMjJqSmNiUTFjUlRuQkUzSXlnVG5LUVF1TndVM3BxZ1Q0ZXB3c3JlMUR5UTJkaEZkbFA2OG1vcVB6enk?oc=5"
+  },
+  {
+   "key": "2702c09a4dfe45d39d36757ae4293b20f93bf8f0",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Islam Makhachev fires back at Merab Dvalishvili, backs Petr Yan to silence him",
+   "title_key": "eb4c8022fc6e30042c067928ca3c1adb25e0ac5b",
+   "title_norm": "islam makhachev fires back merab dvalishvili backs petr yan silence him",
+   "ts": "2026-08-25T02:19:49+00:00",
+   "url": "https://sherdog.com/news/news/Islam-Makhachev-fires-back-at-Merab-Dvalishvili-backs-Petr-Yan-to-silence-him-202508"
+  },
+  {
+   "key": "f2f25e24849606aa880902a07a286a6e69680d61",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Anthony Smith breaks silence following arrest and felony charges",
+   "title_key": "3cc4f6034c29c18e03cf24d9bdf0d3b63bd26297",
+   "title_norm": "anthony smith breaks silence following arrest felony charges",
+   "ts": "2026-08-25T02:19:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZG5kZEp5NHo2YmUzTkk5VXNQSk5KVnZvbjBrNjlHbnUtTDhOQVZsbnhtal9zbXpKNzd3b3prYWt2MTNPZTNmWURDek9tSkpTQldsV0lVTHllUHVPMzFVSTh1aXYtNlY3UGN6RXNKXzMxUS1CZUtEMzlyLWItR3dmWFh4UVBwZkhOVE82N19BeUY?oc=5"
+  },
+  {
+   "key": "a33458932d8f495f8cae5fbc2bfb866f0b7d7104",
+   "score": 3,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dillon Danis reveals how ‘Gypsy Crusader’ cost him and Mike Perry DAZN headliner",
+   "title_key": "afc26ca4f5fa6885bb17314738845500b233cb69",
+   "title_norm": "dillon danis reveals how gypsy crusader cost him mike perry dazn headliner",
+   "ts": "2026-08-25T02:19:53+00:00",
+   "url": "https://bloodyelbow.com/2026/08/24/dillon-danis-reveals-how-gypsy-crusader-cost-him-and-mike-perry-dazn-headliner"
+  },
+  {
+   "key": "dd52e71b5f349f3bd648ea87135d03dee1c0f7ac",
+   "score": 1,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Islam Plushachev vs Carlos Pratatoes",
+   "title_key": "449699ba3a559d1775a4533bcb798df716162e51",
+   "title_norm": "islam plushachev vs carlos pratatoes",
+   "ts": "2026-08-25T02:19:56+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxkzzn/islam_plushachev_vs_carlos_pratatoes"
+  },
+  {
+   "key": "3883805f6279a772cc8031e3fa3ed53628864a42",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What's the Fighter Tweet that aged worse?",
+   "title_key": "5ad1a116ff6a133f2a1c415c966a54b9fdb435d7",
+   "title_norm": "what fighter tweet that aged worse",
+   "ts": "2026-08-25T02:19:57+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vxk7ig/whats_the_fighter_tweet_that_aged_worse"
+  },
+  {
+   "key": "c8182372942e4adaa05d9cb76f2c9b286adfdd66",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Peruanos Kevin Borjas y Nilson Rojas pelearán en el UFC Fight Night Shanghái este sábado",
+   "title_key": "6c2b337b37aca2f411660638790fb53281d63950",
+   "title_norm": "peruanos kevin borjas nilson rojas pelearan ufc fight night shanghai este sabado",
+   "ts": "2026-08-25T02:20:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVk00ZURfZUYyeWVIMzd1MF81UTg4N0NwcnNydlBfUkNYeS1YOWh0NzNTV1Jzak9FTk5BcnE5NHdPR0NXZDR4SnJOZloyUzR3TUlFaWcyZVprdmZoN1p0bmh6X2FkZ3hEMXlZcXpLVmxDU2d6VTNOTlM4akpvZTNselBQblc3ZmZTZHJNZld6UG1WN094T3FUWFdoTWdpWDFmTmlYTGc0akgtUkkwZDVzV3JCdW00bjVRenNJNXFIbDdsblh0czhILU9RMA?oc=5"
+  },
+  {
+   "key": "caf3fa0bfed601ddd438899fd8e69c83d1fa345e",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UFC Houston: Análisis Y Predicciones De Las Peleas Brett Kulak (V6VgkpCOIs)",
+   "title_key": "75efc391002c29cb75adc187221e68109eaaf170",
+   "title_norm": "ufc houston analisis predicciones peleas brett kulak v6vgkpcois",
+   "ts": "2026-08-25T02:20:06+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OWJwNG13TnNqOGNkc19DWmh6RWxsdHVrcnl2UnpBN2lYdzBsZXB3a19vTlNlMnJZNXMybnBsSzNFbExYbFRNU2Z2Z0ZVVWZPYm5yd3M3LUthUUhVMVNrQQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "prefiltrados": 2,
-  "recogidos": 184,
-  "unicos": 6
+  "descartados": 4,
+  "enviados": 1,
+  "llamadas_llm": 5,
+  "prefiltrados": 5,
+  "recogidos": 176,
+  "unicos": 10
  },
  "telegram_offset": 958387804,
  "version": 1
