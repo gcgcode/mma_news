@@ -2,105 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "dbc3fbfdf810cd4ba7028adde99e2c04a9845a93",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam hopes ilia bounces back",
-   "title_key": "5ee0f45cc6252a043314e0b83e84a72d018f8ba6",
-   "title_norm": "islam hopes ilia bounces back",
-   "ts": "2026-08-11T19:42:41+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlomfz/islam_hopes_ilia_bounces_back"
-  },
-  {
-   "key": "c9353f75efe482f3c052b0030add1cce90fc8240",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Tom Aspinall offers prediction for Islam Makhachev vs. Ian Machado Garry: ‘He’s got more chance’",
-   "title_key": "656ff55c66577d8b983d76adca5a7e51e2ed24f9",
-   "title_norm": "tom aspinall offers prediction islam makhachev vs ian machado garry got more chance",
-   "ts": "2026-08-11T19:42:41+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/tom-aspinall-offers-prediction-for-islam-makhachev-vs-ian-machado-garry-hes-got-more-chance"
-  },
-  {
-   "key": "333be107b44a9dff51dd5ebf83672cf2a2739fde",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam clowning on Chanco for his slow learning of English LOL.",
-   "title_key": "d954b5060277910adca52b550450e26428ef3418",
-   "title_norm": "islam clowning chanco slow learning english lol",
-   "ts": "2026-08-11T19:42:41+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlqm23/islam_clowning_on_chanco_for_his_slow_learning_of"
-  },
-  {
-   "key": "2dc366d543bdedd3aedee4a2438fd5c4b87b7c5e",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Triple H Sends Message To Brock Lesnar After Retirement Announcement",
-   "title_key": "aa5336c610962d19452fb17dbb6f141763cb4726",
-   "title_norm": "triple sends message brock lesnar after retirement announcement",
-   "ts": "2026-08-11T19:42:41+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazRsZXdSbDFhYUExUlJZNUlXSEZ2eDhseEVjVjZVb3FTNFhEdEpUNW14YXNpTHZBUHAtZm9uZjVocng2WVFkYlFVR2RtTkhHV0JCeWUtc0dDeVZZOTlzMHduelUyMmNidlNDVmM2VlN2LWFqVkM5SnFiZHg5X09MNHgyWQ?oc=5"
-  },
-  {
-   "key": "c522b0a890b354d3c97cf6fd4255a203c8c09664",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Dana White teases another UFC mega-event possibly in the works: ‘I love it’",
-   "title_key": "f2543e12cc89ac3a09ec28b5e26ccaa9a98638b0",
-   "title_norm": "dana white teases another ufc mega event possibly works love",
-   "ts": "2026-08-11T19:42:45+00:00",
-   "url": "https://mmafighting.com/ufc/504389/dana-white-teases-another-ufc-mega-event-possibly-in-the-works-i-love-it"
-  },
-  {
-   "key": "d6267b6accc6296dd1b3cb63fd747bed440e17e9",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "UFC 330 broadcast team revealed with usual trio calling Islam Makhachev vs. Ian Machado Garry main event",
-   "title_key": "0e9b366ea64a4648c1676b033ff911cc5fbadbce",
-   "title_norm": "ufc 330 broadcast team revealed usual trio calling islam makhachev vs ian machado garry main event",
-   "ts": "2026-08-11T19:42:49+00:00",
-   "url": "https://mmafighting.com/ufc/504374/ufc-330-broadcast-team-revealed-with-usual-trio-calling-islam-makhachev-vs-ian-machado-garry-main-event"
-  },
-  {
-   "key": "a0ebb925953f13e5cdc499aea8053838d1a97edf",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "The Ultimate Insider &#124; Behind the scenes of TUF 34 injury woes: ‘A lot of bad sh*t that started happening’",
-   "title_key": "ada4588124fa92149bbc466c172ef1783c633b5e",
-   "title_norm": "ultimate insider 124 behind scenes tuf 34 injury woes lot bad sh that started happening",
-   "ts": "2026-08-11T19:42:50+00:00",
-   "url": "https://mmafighting.com/ufc/504276/the-ultimate-insider-behind-the-scenes-of-tuf-34-injury-woes-a-lot-of-bad-sht-that-started-happening"
-  },
-  {
-   "key": "6f067426a90dc3e73c44a3b654998276c5db86b3",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Mackenzie Dern's coach: Gillian Robertson is in for a big surprise at UFC 330",
-   "title_key": "28f369b0c76cdb3a1c45c667db7ef6bc328f18eb",
-   "title_norm": "mackenzie dern coach gillian robertson big surprise ufc 330",
-   "ts": "2026-08-11T19:42:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNXzhlaGdHLU9hQ0VpOU52VlBha01IcU1MT3FHVUZHalJBUDM0QXJOTmFpVVM4QVQxYmNzbnpwX2h3Z01wWU81N2hMTzhFM0NLOUhRWnA5X09KbVg5Z2R2aVBZcTR3SDBTbG9qZmJfYnFPeVk4T0ZFaUg1SFVFcW1YZl9XVE1OVnViUU9xR044WE9CZTVZN0I4SEhsRDR3MFVNNU5pVlFGVVpRTV9wUVJYSUxVR1ltb29QeEFTbUNlZXZkUU9MVFJtcXJmeWl5WGx0WS00OHFWTzBJbnJy?oc=5"
-  },
-  {
-   "key": "374ee6ddbf795b8ae64f2ffa1c331a2b10559220",
-   "score": 4,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam indirectly confirmed that he does not fight more often because the UFC deliberately withholds him to make room for other big matchups. Should this change ",
-   "title_key": "c9acc6dfd8275a1ad87e2f643a9f5286ed1c11e3",
-   "title_norm": "islam indirectly confirmed that does not fight more often because ufc deliberately withholds him make room other big matchups should this change fan negative attitudes about islam activity what can ufc do better improve upon this artificial scarcity marketing model",
-   "ts": "2026-08-11T19:42:52+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlq2ct/islam_indirectly_confirmed_that_he_does_not_fight"
-  },
-  {
    "key": "b8e1f2da170e11f2644a3064d268870c0e89b472",
    "score": null,
    "sent": false,
@@ -30492,14 +30393,103 @@
    "title_norm": "antony rizzo baby baby official video paramount ufc hgzaxiewtz",
    "ts": "2026-08-25T19:39:32+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sX1hHMjdSMkFKYTk0UC0yYUY3NG1fTFpWYkdpbWsxTkRRX0pZVzZWdDdNTEtBMFI2VEZYOHJYelZlc0VPT0hOSU1nbWRJeXI3b1k3SGk1N0N5VFdvYXhVcw?oc=5"
+  },
+  {
+   "key": "8411b804f62ed7065ddf0742e8f2cade5d6e89e6",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Top 10 current ww ||Division is crazy stacked",
+   "title_key": "2c5115a1e7a1914dfb39c5b0e09cd2f95752b674",
+   "title_norm": "top 10 current ww division crazy stacked",
+   "ts": "2026-08-25T20:00:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vy74wl/top_10_current_ww_division_is_crazy_stacked"
+  },
+  {
+   "key": "a10930cb22f6222fb19e6216aad046318c4d6fce",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I’m still laughing at the fact that Kamaru kept hitting this confused victim pose to the ref the whole fight while getting his ass beat🤣",
+   "title_key": "3a23645742cc8b9afafd767095f8d4ea72093fb3",
+   "title_norm": "still laughing fact that kamaru kept hitting this confused victim pose ref whole fight while getting ass beat",
+   "ts": "2026-08-25T20:00:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vy8ino/im_still_laughing_at_the_fact_that_kamaru_kept"
+  },
+  {
+   "key": "d03561c3e2986c472bc9897ffe57e7840c8cd2b3",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I see your Gaethje walkout and raise you Korean Zombie retirement walkout.",
+   "title_key": "47aed48c4d0bad6f29695848b15c522a39e7a295",
+   "title_norm": "see your gaethje walkout raise you korean zombie retirement walkout",
+   "ts": "2026-08-25T20:00:47+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vy8p2s/i_see_your_gaethje_walkout_and_raise_you_korean"
+  },
+  {
+   "key": "ee0faf48a52d5df6552171555dd01d8641e7d954",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Coach: Mauricio Ruffy's improvements from first UFC loss are 'chalk and cheese'",
+   "title_key": "b9c38840a77a17f949594e19fe4dd5f6f50f2baa",
+   "title_norm": "coach mauricio ruffy improvements first ufc loss are chalk cheese",
+   "ts": "2026-08-25T20:00:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ251ZXJGSloyZ1A1WUhscVBvaU05YWhpZS1OUklCZk1HeDl2VXlXT040TFFpYWNjai1DSjQ0clFna3E3YkpuNFFvUi1RaTV1R0pjb1JQVkMwS29kcS1HbWVucktSTFM0OFQ5YXpKWDRXNmxhSmJjYWoyWl8wVEJEQk0xeUpvcHpJTVo5TS1HQkljRUlXXzNfdkxPWC02cHE0bHFXNHdrX2tQcS1KelBGOV9BbDFVVFY2RmFjdDhScEQyWWtNSHlpTnZROFg3QmtS?oc=5"
+  },
+  {
+   "key": "68ca4487d72dac9f0472179e01100bedc0bf7f00",
+   "score": 6,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Paddy Pimblett’s withheld UFC 329 purse branded a ‘crime’ in passionate rant by Michael Bisping",
+   "title_key": "56105aca0a3cb8c0215c8bdd99fa800863e35216",
+   "title_norm": "paddy pimblett withheld ufc 329 purse branded crime passionate rant michael bisping",
+   "ts": "2026-08-25T20:00:49+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/paddy-pimbletts-withheld-ufc-329-purse-branded-a-crime-in-passionate-rant-by-michael-bisping"
+  },
+  {
+   "key": "3f85f2d32b370a8b07c2c1e4f0de65d5540976f9",
+   "score": 3,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "UFC Sacramento: Recapitulación",
+   "title_key": "1ab4b00ff2f9b33b00b68190252e58bc85c10588",
+   "title_norm": "ufc sacramento recapitulacion",
+   "ts": "2026-08-25T20:00:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11TDc4ZU5DejdGVmJKZDFuaVo2cmJTeW1hR2hTWmJfbEZ3WU5BSGEzMnRyVmxUQmUySG9GejlOQmx6eXVWQ2lnTmZhTFFrR0dG?oc=5"
+  },
+  {
+   "key": "3f554a91e8a9a0479042a0e46dff7f76a6bbc904",
+   "score": 1,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "🔴 !! Join The Elite on r/UFC Official Discord Server !! 🔴 // Link in below",
+   "title_key": "42e62be4064314f5447ee50e09ac408c69c11975",
+   "title_norm": "join elite ufc official discord server link below",
+   "ts": "2026-08-25T20:00:57+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1eqm4ww/join_the_elite_on_rufc_official_discord_server"
+  },
+  {
+   "key": "524f04695b2c544ee7f4d01036da79cad5cacaa5",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC announces dates and locations for UFC 334 and UFC 335",
+   "title_key": "7b776c6a5693a741ea019e386cb874c2d7849e41",
+   "title_norm": "ufc announces dates locations ufc 334 ufc 335",
+   "ts": "2026-08-25T20:01:06+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1NiYk1NVV85QmdPcnJJLTcxcjZGWlZsZTlJS3ZGdnVZek9Xb1Q1U0ZpWFJuY1dTVkNDWGhsMV8tWmxVN1BhVmNwaTdsWkplQjJGdWhCN05qaHpyclhYZFJhejJiZmdBTDRfcmdaY2NNaDZEcklmMElJS3Z6QlJqMnZsYmtsOUszTk9tYg?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "recogidos": 182,
-  "unicos": 7
+  "prefiltrados": 3,
+  "recogidos": 177,
+  "unicos": 11
  },
  "telegram_offset": 958387804,
  "version": 1
