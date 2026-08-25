@@ -30415,15 +30415,48 @@
    "title_norm": "mma fighter insults opponent wife gets immediate dose karma video",
    "ts": "2026-08-25T17:38:48+00:00",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWt3MWRhVWR3a3ZsVTlYZ2Mxc1ZPSnZGYkZUYXlFMXh0VHVCbldBVGxsVXlLdjdvQkVXUW9QU3pLMGtsa3FTQmZ5cVhZd0gxZ0NfUEFLSlVKWXQyUlZxeTZJaDhIbXNyS29EZjMwR2oyRzBETlMtYnBNZ1pmYXU0Skw1aEwxenN3bDhF?oc=5"
+  },
+  {
+   "key": "4dc3517fa3e0b005c6e9d79643bf69dead8215ca",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Umar Nurmagomedov says that now it’s personal with Merab Dvalishvili",
+   "title_key": "bd8217c73aa350418c638ab3c3b5b856172908da",
+   "title_norm": "umar nurmagomedov says that now personal merab dvalishvili",
+   "ts": "2026-08-25T18:02:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vy77sn/umar_nurmagomedov_says_that_now_its_personal_with"
+  },
+  {
+   "key": "3e1c1f0b57c915e2a504ada1585fb6be4d98dda7",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Merab Dvalishvili admits he underprepared for RAF loss as Petr Yan looms: 'He will beat the s*** out of me again'",
+   "title_key": "d3771d2bbbc6ae9d0a90dd9b70242267c588b33d",
+   "title_norm": "merab dvalishvili admits underprepared raf loss petr yan looms will beat out me again",
+   "ts": "2026-08-25T18:02:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTWtwX1pLclFkUGE4cmJZRmxLRE51Z0ZYMFItcFpfaVNTNGV3aks0bDJVUDFXVVhzTC1yYlJEN0NlczJzMkxXUHN0Q29DYWduUGQybVA4YjkxQjVYR0sxLU5LWUVkYjBRMWtVSXRnRlJXc3ZHeGlFVU5ZZy1BVWxUazFYc1BkTS1nbkNVWDJrRlNZOTUzbjZTdGkwbnJSWGVKNHdhVjFTXzV2RlkzNl9RNVpDZUJKNGpJNUl5WXA3bGtVWVpvTnhxSGN3ZzFtdXJYbkx5QTRqYjhFMFpKd3paekFDQUgwOWJvQnhzMVRVQTc?oc=5"
+  },
+  {
+   "key": "13f11c6a45cef37b0fabb083ba219bfd199260fb",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Shara Bullet draws Gracie family star for RAF Moscow debut",
+   "title_key": "52d5a3f2dfda83dd652f3d9567920020e372dc3b",
+   "title_norm": "shara bullet draws gracie family star raf moscow debut",
+   "ts": "2026-08-25T18:02:42+00:00",
+   "url": "https://mmafighting.com/raf-wrestling/506986/shara-bullet-draws-gracie-family-star-for-raf-moscow-debut"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 3,
-  "recogidos": 203,
-  "unicos": 7
+  "descartados": 0,
+  "enviados": 1,
+  "llamadas_llm": 1,
+  "prefiltrados": 2,
+  "recogidos": 202,
+  "unicos": 3
  },
  "telegram_offset": 958387804,
  "version": 1
