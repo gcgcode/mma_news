@@ -30437,15 +30437,69 @@
    "title_norm": "do bronxs just called out justin gaethje rematch robbed they wanted distract me so would go there have bad fight they could crown him champion felt my hands dropped him then submitted him rematch doesn need be brazil",
    "ts": "2026-08-25T19:01:08+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vy6mo4/do_bronxs_just_called_out_justin_gaethje_for_a"
+  },
+  {
+   "key": "7c2abcb36cdcdd22f2e879ba980969549c5458b3",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "'The Ultimate Fighter 34' final matchups set for upcoming UFC event",
+   "title_key": "98919bbb8190a6e818634ce155f8174ec2c18d46",
+   "title_norm": "ultimate fighter 34 final matchups set upcoming ufc event",
+   "ts": "2026-08-25T19:39:29+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkI1R291Q0hFX0V3UlR3R0JGc0JLU1JsanNQa1RUeXctbC1ZWlZTaU9RVlNEWER6Rm1BR1BqVFc3NDRScklITmZ1dzRMd0JfWGJKQ3lUSE9Tc0VNbXlEQ3JaOUZpU0d4bWJIMEFJWFZZNGNPQ3Zhdkl5elhXeWRkNUdTWWdaM3ZlSHZ5SjE4TzJBZFlKQUhpNWxCbFhYaThoUnNER2VZWWxySDdkMzFKZ2ppSnZEZVlyelVz?oc=5"
+  },
+  {
+   "key": "b06b3c972417ce209bbfdda72bed0fb59bdd5859",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Representan a México cuatro atletas tamaulipecos en el Mundial Juvenil de MMA",
+   "title_key": "6fe03029ed23f5ff974a020989851488b50baccf",
+   "title_norm": "representan mexico cuatro atletas tamaulipecos mundial juvenil mma",
+   "ts": "2026-08-25T19:39:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsVXZvZnVyWGFTZUF6eG1SczRDZFlqd0NhWG1wYTFKOWVwSk42QTR0aXo0SHo4VFcwb1RyLWVmczFlQTExa3lCNTRub1U2cUprQmlYM0xuY0F1MHQxQmRfQ0pvcE9rZVBpanFLaXlzb2RoUldYN2dSUkwxTFByV252Zk1yNUN1SkhoWGJMMlhvaUQ2TGJBR3RXTGtUdW92a0JPYjFNVDZIcDRPemhaUzZB?oc=5"
+  },
+  {
+   "key": "4721cbb999193d2d76e4dc24bbac69be1994d480",
+   "score": 2,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Michael Aljarouj - News & Rumors - UFC",
+   "title_key": "b2cfce6fc4aa10450fc7c117039039f59d44718e",
+   "title_norm": "michael aljarouj news rumors ufc",
+   "ts": "2026-08-25T19:39:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rY3ZSU09sS1dGRWRWQjdxREUtbWMzeEhRZTFub3dIbWMweTNET2VBejVCVUFjQWU4XzdGWmZsaUYtWTVhdG5pdUFHUVRRX3VDYlJ3QlZScHcwU2ZILXh5WUItVzk?oc=5"
+  },
+  {
+   "key": "f2892a084516092479434ef1ba8f46efe704035e",
+   "score": 2,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Lawrence Lui: ‘I Belong Here’",
+   "title_key": "bc30f891fc24f47220c6474975efdf4b3a714223",
+   "title_norm": "lawrence lui belong here",
+   "ts": "2026-08-25T19:39:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XR0h4M1FqbXo4R0s0cGp2eG1YWEViOWFiX2dXUXdRQzZRMHk3UC1taHVKdEJWM3ZQZHdXWEZZMm5Nd0p5YXM5VEtSazZxVVFaTWtJMzQ2TTRib3NiZGdoUEJrZ01jZlhpX0lQcjJQT1oxQQ?oc=5"
+  },
+  {
+   "key": "80be803819f84e9657a05b57d1a69669fdde5a53",
+   "score": 1,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Antony Rizzo - Baby Baby ( Official Video ) Paramount Ufc (HGZAXIeWTz)",
+   "title_key": "e91177b97a99f71d199608024a598e42030b38d7",
+   "title_norm": "antony rizzo baby baby official video paramount ufc hgzaxiewtz",
+   "ts": "2026-08-25T19:39:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sX1hHMjdSMkFKYTk0UC0yYUY3NG1fTFpWYkdpbWsxTkRRX0pZVzZWdDdNTEtBMFI2VEZYOHJYelZlc0VPT0hOSU1nbWRJeXI3b1k3SGk1N0N5VFdvYXhVcw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
-  "recogidos": 203,
-  "unicos": 12
+  "recogidos": 182,
+  "unicos": 7
  },
  "telegram_offset": 958387804,
  "version": 1
