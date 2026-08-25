@@ -2,105 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "52cec4789db2fe10c15ca19d22396309c4c1f78a",
-   "score": null,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Umar Nurmagomedov reacts to Merab Dvalishvili brawling with friend at RAF event: ‘How do you live with that?’",
-   "title_key": "a4040ad18dceb6718ec92c4205ad031e10034a02",
-   "title_norm": "umar nurmagomedov reacts merab dvalishvili brawling friend raf event how do you live that",
-   "ts": "2026-08-11T14:41:33+00:00",
-   "url": "https://mmafighting.com/ufc/504264/umar-nurmagomedov-reacts-to-merab-dvalishvili-brawling-with-friend-at-raf-event-how-do-you-live-with-that"
-  },
-  {
-   "key": "139a4c9aeae69d953c3d7628c959a938a7eb3a01",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "So far 3-0 to Dagestan",
-   "title_key": "03475e6d73110fe8e3c812f6384888856de21fe3",
-   "title_norm": "so far dagestan",
-   "ts": "2026-08-11T14:41:33+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlggqg/so_far_30_to_dagestan"
-  },
-  {
-   "key": "df93f7a29d2c3f3e73f4aa35b1990511eb302899",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Golpe sobre la mesa de WOW: Borja García, fichado",
-   "title_key": "ffbba03359cc6f37cfab40b085d6d002ec464e5d",
-   "title_norm": "golpe sobre mesa wow borja garcia fichado",
-   "ts": "2026-08-11T14:41:33+00:00",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzdoeHZhdjNRaHpoUklydlFnV0pLTTNjN2pnY0llQjRVRnlnYVd6T1ZNbUYwU0hCdFZENzRsQjdqQVp5QkJkbXJFcnRueUxTdUc4T2s5TDd4TC03Tm5McmF1a1l0cDBOclBZbG0wS24ybWJUakdjaHhfck1XRkszMVZCZE8zM3REZllBMW96QVFNR1YyUEpJ?oc=5"
-  },
-  {
-   "key": "2812752c33ae6c375ebd24356ba226a537563fef",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Kelly Slater, 54, Dominates 20-Foot Teahupo’o and Schools Kids Half His Age (Video)",
-   "title_key": "732c3aba24e1d99ed06fda3b18deab166521b64c",
-   "title_norm": "kelly slater 54 dominates 20 foot teahupo schools kids half age video",
-   "ts": "2026-08-11T14:41:33+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUl0b0RSWmlmZDZrcEZ6NlJ1WUx1d3NGVXdaVEZvdGZObENjVElNbTl3SnltUlJ0WmZTRmVkazRicmFGV180NGdmVmlaMXZwLW5ybE9VY1ZDYmEzWk0xR0Q4d3hlTDJXWHNfZDF3dVRYd1Vic3FUZTl1MHRuMnhkdzFTMA?oc=5"
-  },
-  {
-   "key": "c853c9a5e9efecddcd49534436d2203c2dff64da",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Matt Brown: Ian Machado Garry has championship potential but Islam Makhachev is the ‘wrong guy at the wrong time’",
-   "title_key": "aa0dd0944003d0d750a3ded07ecdde531bff2900",
-   "title_norm": "matt brown ian machado garry has championship potential but islam makhachev wrong guy wrong time",
-   "ts": "2026-08-11T14:41:49+00:00",
-   "url": "https://mmafighting.com/ufc/504200/matt-brown-ian-machado-garry-has-championship-potential-but-islam-makhachev-is-the-wrong-guy-at-the-wrong-time"
-  },
-  {
-   "key": "7fd1a9d8fc7b413277ee90a4e1c00d41eae517f7",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "MarQuel Mederos aims to be the first to stop Mason Jones",
-   "title_key": "646d4f8356e27ce1a91b054d9ce9ad2fd3bd870b",
-   "title_norm": "marquel mederos aims be first stop mason jones",
-   "ts": "2026-08-11T14:41:59+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHo3ZWlxSV90d3JxcUhINEpqWjlEd0dPUWlpQXBRdzlMWGgzV2lNeE9SNzEtNU90M3dYNlBvS2JuRVo2ZWF5aG1BM3RzTkl6XzN5NmdSU0V4Sy1fTTVLa0NLLVc2X2FXVTFjb2NVdTl2aHdLUlUydFA2elBiRktJWGp0cTN4RW0xNTJxOGgzaHBweFJKQ0xxVElpVXpEWVA3c0NYajBRZy1UVW01d0lUZnVkeDBFQl8tek95Y2ZVaEJkQVViR1g4?oc=5"
-  },
-  {
-   "key": "e628af2b571ef0780cd23b316050c745ee449581",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "UFC fans this week",
-   "title_key": "c9ce759fb0717b11e7429f3078f81fd8283a8fb9",
-   "title_norm": "ufc fans this week",
-   "ts": "2026-08-11T14:42:00+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vliifp/ufc_fans_this_week"
-  },
-  {
-   "key": "dddd0849d8d211ccf1813f1e0364e9f7c1f1883d",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Dana White reacts to his assistant fighting for a UFC contract on Contender Series",
-   "title_key": "ba331a99d763ca8535597cab6233d6697f3d7486",
-   "title_norm": "dana white reacts assistant fighting ufc contract contender series",
-   "ts": "2026-08-11T14:42:01+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/dana-white-reacts-to-his-assistant-fighting-for-a-ufc-contract-on-contender-series"
-  },
-  {
-   "key": "6d032b4b319bdaf5cdf12e21488019e76bc29920",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "UFC 322 had one of my favorite press conferences. It was the first time the crowd was rooting for Islam, and you could tell he was surprised by it. The crowd wo",
-   "title_key": "487300cbe32a545b9df3e0b1225ebd3a366f863b",
-   "title_norm": "ufc 322 had one my favorite press conferences first time crowd rooting islam you could tell surprised crowd would be even crazier ufc 330",
-   "ts": "2026-08-11T14:42:09+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vkw3gm/ufc_322_had_one_of_my_favorite_press_conferences"
-  },
-  {
    "key": "47167a4af36d33ddc8c84ce4942851472245e0e0",
    "score": null,
    "sent": false,
@@ -30481,15 +30382,125 @@
    "title_norm": "breaking down ufc fight night allen vs costa",
    "ts": "2026-08-25T13:33:47+00:00",
    "url": "https://news.google.com/rss/articles/CBMihgZBVV95cUxNNmtMX3dxWmNNeEZOSjhnR2s0ak12R2JEQk1jbFd0M1J6eHJhMHp3SGVzNU0xa1lxTW5qbzVtS2U3UngzbmhRXzJnZW4tSlZ5bTNZYlRmYXdkTjVkc0JIbjA2U2pNeV9kTVVaUmhXcUJvT0hjQ2J4MzJHT2FraGloNS1iOFlfQ21Ba2RxTDFfaGcwSTVnNWZWZVNpZFlNMV9CbzNZdFU2QkUwRWtYbGhPZVFEaXl5ek1rMlJVVjM0N1M4aTdFR21SR3pQNGdZVldqRi1TU05jWGczS3RnbnVaUVdvb2pwT1AzOC1xMmk5TGZNOVdKaHdFczNXdHJleDNzT1l3VE9ualpqeDlYQ3FkZll5WW5YZVpFN1JkdWV3R3FlY2RSeXJ6RlcteGlycDFPbFo0Q3A2LUU3Ry0xSlU3RVp3X3MxcUctdVJGV3BCRUNJZlp6bzVtSHFNVnJtcmxwSll2OWJjd0tqQmV6YzRkSHM3SHdhY3JVUG8yUXlpdk9CTkhwWWc1Qmk5YjBBUzlKZW4zaFpHdmJkaEl2dlFnZTJZcVRBTnhjMEdubVVJcXNscnZkSnpjQW9LV1B1M2RPLVFHak9lV0lyTEtGZEJMWGRiLUZfMUpaUmVJT1FsZXJOZzFQOUhqbnFMVE9pR09lSkx1TlY4WGltTHdFcnFnTllpT3N1YjhmdkMzbTNXNzhtTnMzRjBKNDM1Q25ldnpJY0prUmRaWTU4dWVxSjg1UXZDZ2lTYXVnYjJxWXl3VGxXdTlDLWdfMGhRYjBvVGdXYjRnQ1ZvYjdkbV9ha1F5aFRYVWVrT1ZZTmtValdlUWlEUXU1Um9wa2xaZVNDcURFLUhrcjB0MDFTVjlOMEJkUFR2eUgwbmlhdFlZQXVTVHIyNnNBcmdRLXU1WlZ3cnFqQ3k5V2NWWFBRMWpFQy1pUnB0UHNhY3JTYmNiQUJEVzNPTlV1dXZjYnFUX1h3cDVOZGFRNTJTRFk3SzF3cGUwMERVd1phYmM3d3FMR1hTRHZWcWJPbEE?oc=5"
+  },
+  {
+   "key": "981aabe5b4ce1a9b6c21e34a7aea49f7d19e06a5",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "RUN IT BACK 👊",
+   "title_key": "452c52fc65116402c316c02a92452b8b808f9baa",
+   "title_norm": "run back",
+   "ts": "2026-08-25T15:26:36+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vxu3ru/run_it_back"
+  },
+  {
+   "key": "e30fb01a335dbb99759a9a77a7fa67887bc54a37",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Anthony Hernandez asked last week if he could ever make 170 lbs: “Fuck no I couldn’t. They did that shit at the PI. I think I had like 175 lbs of muscle and my ",
+   "title_key": "06ab8fbf468c435e4137f8f221938d8f27c9748e",
+   "title_norm": "anthony hernandez asked last week if could ever make 170 lbs fuck no couldn they did that shit pi think had like 175 lbs muscle my bone frame like 10 lbs so perfect 85er ve been fighting 85 since 18 why change if ain broke",
+   "ts": "2026-08-25T15:26:36+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vy1jbl/anthony_hernandez_asked_last_week_if_he_could"
+  },
+  {
+   "key": "bebf1ec492639ac2f89faa1f53c472b38cb4d94e",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Nick Klein will fight Joe Kropschot at #UFCVegas123 on October 31st. (first rep. @sitoslimy5)",
+   "title_key": "0f75a4be6e0d7e09555e25c9bf6ecf6820d120ff",
+   "title_norm": "nick klein will fight joe kropschot ufcvegas123 october 31st first rep sitoslimy5",
+   "ts": "2026-08-25T15:26:36+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vy2dpn/nick_klein_will_fight_joe_kropschot_at"
+  },
+  {
+   "key": "d8742063ad863237d38fb3115b3c490c4cea7275",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Can Volk at 38 years old beat Evloev?",
+   "title_key": "1cfe02748497e2ec937d98ce9a039aae5cef3384",
+   "title_norm": "can volk 38 years old beat evloev",
+   "ts": "2026-08-25T15:26:36+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vy26n9/can_volk_at_38_years_old_beat_evloev"
+  },
+  {
+   "key": "239b70bd64b672e5985808b04d982a0f58201578",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Charles Oliveira maintains he’s next for Justin Gaethje as rejects Paddy Pimblett fight: ‘I’ll wait’",
+   "title_key": "e905ff2fc19fde2e5f2ce92e3ee240443ffddb1a",
+   "title_norm": "charles oliveira maintains next justin gaethje rejects paddy pimblett fight ll wait",
+   "ts": "2026-08-25T15:26:36+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/charles-oliveira-maintains-hes-next-for-justin-gaethje-as-rejects-paddy-pimblett-fight-ill-wait"
+  },
+  {
+   "key": "a4713aaea797f0954a5c4583b9faafebd092b707",
+   "score": 3,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "La NFL pudo cambiar para siempre la UFC: el camino que Brock Lesnar no llegó a abrir",
+   "title_key": "3dbdd3249352ffaf84caffdbdd6bb6b06382842a",
+   "title_norm": "nfl pudo cambiar siempre ufc camino brock lesnar no llego abrir",
+   "ts": "2026-08-25T15:26:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmpkcFZjVFU5UEYzdGhLdl9rN0dubzhOUDhxUGxVRkFwMXUyeE9BQzhtejVVN1Iza2FxZ2xERHI2bmN2cGRKd0pEc2pneFRwRjQ3MzJ2cHN2d2JKRS1yZ21HVlNOcmU4ZndKd1V3Mk5RZzN2WC0zc2hfdDZZN244TTV5Sk1QZnlRMXltTVBIalA1OEJBaWQ5UmM1UV9ycXEwcDdZeWlVNNIBpwFBVV95cUxPc0ZLZUlaY2hic2pKWnY3YUtzdVJoSVBhYW14aVhYT2d0ZHNNZk1xbjNTcE1LakVVaXE2WGg2YzlRY0tuZ3pBWS02dm1GSVQxbmt2MXJNbTdjN3NodXA3dERveXZFamFNWnhMMkE0Qi1GcnhMMHlYYmNyUEJyU0hGZk5Pb3haTjFwSkJITU43REYzdjlRM3FmMHU2WU1XeDFwV08tb010RQ?oc=5"
+  },
+  {
+   "key": "0a24ff7a7a30c05c37a946f514d1dd8f9150ac9b",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Dana White maintains stance that he will never sign Jake Paul to Zuffa Boxing: ‘Not what we do’",
+   "title_key": "2f757c853158ec0defb4eccbe7e04d4441c87e49",
+   "title_norm": "dana white maintains stance that will never sign jake paul zuffa boxing not what we do",
+   "ts": "2026-08-25T15:26:43+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/dana-white-maintains-stance-that-he-will-never-sign-jake-paul-to-zuffa-boxing-not-what-we-do"
+  },
+  {
+   "key": "d6d555a4419ea26af998e1b9090174a3e25000cb",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC Fans Torch Lackluster New Fight Added to UFC Edmonton Card",
+   "title_key": "c693ff65646d56958221fbd47b764fbc019eb4af",
+   "title_norm": "ufc fans torch lackluster new fight added ufc edmonton card",
+   "ts": "2026-08-25T15:26:47+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTMwemtnSi14N092Z1pWcERwNW81X2NVTTdFZEMteVJORjdQY2lmQUpUazFobTBiT2pDamdacEhMZENhckRHcjVhR2YtczNsUE5BUm9BM2FfMEEtVDR2V19TT2RESVF3NGpaZFl0U01OZmNKT09xbHltX2JwLWRzc2hIVk1NWnRRdHFhVElkQ2FVVDg1bnpZQzB4Mmh6TWhfTGc?oc=5"
+  },
+  {
+   "key": "76a0e87b805c5605ca20d2f18512daea29142c1e",
+   "score": 5,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Quién es Tito Petruzzella, el argentino que buscará ganar un contrato en UFC: qué necesita para ingresar a la máxima compañía de MMA del mundo",
+   "title_key": "7a982b060ae162b5cde3a3f5a57fa9c885d1946c",
+   "title_norm": "quien tito petruzzella argentino buscara ganar contrato ufc necesita ingresar maxima compania mma mundo",
+   "ts": "2026-08-25T15:26:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZzFrMTZNRmsydkJCYms5VUNMeTVRdFEtSlVxX0hNeFBZTUhIcFBRODMyWFViVVVGRm13RDJhRkU2enlSOGY1XzN2MXhpY2tLd01YZDVOVE1sTFVIYUhVekNPV0hYRWpEd1BKTEY4V2o3Q19lTHY2Rm4ybXlFUG1mVVZ5UVdWRHFkTFpRc0VONXJzaFktX1Y1eWN2bHgtVXFEM3J2c25RU2M3T05HbHJDdk5qMV9KeHRydzZwS1ozX0pKS19LREZSRlprb3lWamhfUXF6cHlRT1ptZUN4aW1Pd0NUQ3RWT1VNaV80eTh2MGFPZlRfWExmSkZoMVF3dkQ2NWlmSXIxUmZZb3Nna3Q0N00ySdIBrgJBVV95cUxOc2dMc21xX01HeEhwR3d4RlItVGVBTTJieUZOZDB4Y2ItWHVCUHJIYVBTVGhpQ0RZT2QzdUxEYjFJUkVRbWlORjI3VkNMdzhWZ3BiNmN3NVR6b05OaWpsem9ERE41WVFmaE5Td0FnWXNiOS1LZmdyNjZiZXJJdHFtRHNWQ3l0S0gwQXR2V1pjRlpQenYtOXJOYlk0Tk1oR2VHTFBLNHhLZ19GdGowNEE2VUNCa1g0bmVPdUZveVhZeUxteU82MGs2MWMtZWYzTlFKMktwcE9sMDU3dTU3UUlsMjl2ZEdRdXZiSUNSWTBQc1JyOHhHWTNpOXhLeUtQT1phdFlaandGNFdRVWhCMFYxYlVReTBDWlhBd2hvZ2p6bGJqWHFPSzNVdjBlbm5oZw?oc=5"
+  },
+  {
+   "key": "3c75f02fd255812d5aad465399b3156403f60a56",
+   "score": 3,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Yampier Ramirez: “I Couldn’t Get Out of MMA Fast Enough” Ahead of BKB 58",
+   "title_key": "b6ff59d7108cbd04426d5060fcbbfbce892d48b2",
+   "title_norm": "yampier ramirez couldn get out mma fast enough ahead bkb 58",
+   "ts": "2026-08-25T15:26:49+00:00",
+   "url": "https://lowkickmma.com/yampier-ramirez-i-couldnt-get-out-of-mma-fast-enough-ahead-of-bkb-58"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 5,
   "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 2,
-  "recogidos": 178,
-  "unicos": 6
+  "llamadas_llm": 5,
+  "prefiltrados": 5,
+  "recogidos": 202,
+  "unicos": 11
  },
  "telegram_offset": 958387804,
  "version": 1
