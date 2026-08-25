@@ -2,105 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "dd97ed12c0340fd2292f45610c1b349b561aeac7",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Yall made him turn off his comments😭",
-   "title_key": "7bf8bff79ac5f759755e958de6253d3ae430579d",
-   "title_norm": "yall made him turn off comments",
-   "ts": "2026-08-11T22:23:55+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlsql1/yall_made_him_turn_off_his_comments"
-  },
-  {
-   "key": "4793650fa64c0e0046d0a24f00ce7f5af0686827",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam is to funny ! 😂",
-   "title_key": "ec46ed7fcfe4d33609ab8f5c01814635b4f72d6e",
-   "title_norm": "islam funny",
-   "ts": "2026-08-11T22:23:55+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlsr72/islam_is_to_funny"
-  },
-  {
-   "key": "e83cca5018735bebaf3add0c62550611b4679160",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "I have cat his name is Tony ! 😂😂",
-   "title_key": "2c1e816fb835c529b5e4d17faae39b1ff609bc89",
-   "title_norm": "have cat name tony",
-   "ts": "2026-08-11T22:23:55+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vluix7/i_have_cat_his_name_is_tony"
-  },
-  {
-   "key": "e79d65940aff9ecad7557d20e2189499bb0afd3d",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Today's Featured Sports Betting Odds, Picks, Predictions",
-   "title_key": "909e2dd64244ffae190face1d9fce7ae533bbef8",
-   "title_norm": "today featured sports betting odds picks predictions",
-   "ts": "2026-08-11T22:23:55+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yYWdFekQ3UmhTcHJDWVMzU2YtMkt5dFV6QlB2MmVjN1o3aVpwS0YtQlNkcU13VTVhd24yVE9WODB4eEliWlBYVw?oc=5"
-  },
-  {
-   "key": "83718ed380235e88bc3abb9c11bf039ee6e53737",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "UFC Edmonton adds 6 new fights, former title challenger returns",
-   "title_key": "305a720f0d5af92f47d0a4d99bfc319038f76512",
-   "title_norm": "ufc edmonton adds new fights former title challenger returns",
-   "ts": "2026-08-11T22:23:56+00:00",
-   "url": "https://mmafighting.com/ufc/504300/ufc-edmonton-adds-6-new-fights-former-title-challenger-returns"
-  },
-  {
-   "key": "8f352c7a1ea6e3ad86e65da8d78db07b4ab705ee",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC 331: Gable Steveson vs. Sean Sharaf odds, what to know",
-   "title_key": "30fef8241643a2b754f15e32eb9cf0626803fcf4",
-   "title_norm": "ufc 331 gable steveson vs sean sharaf odds what know",
-   "ts": "2026-08-11T22:23:57+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0F1QzNNazExeUQ3R1hmams3MlVGSTlvZTU3cVc3SjliNmpUZjRUNkZiLWJMSFBlbnFrcmh6Z3dQUWdtLUpHVHNGNVR1Y2h2al8xRWdFUUZLMjdqT1lramFHRnJrcVFFM3RoY3pPc01rZnhrWjFVbHZ6ckk0aXM1cmduUFVwdVFMRXlWWDFqS2c3MGVtVHg2WDB2RGdVdi11UUNtYVpNM2stbFYxdTNDNTFmeUc?oc=5"
-  },
-  {
-   "key": "dff477d48d6fffcd09dde91c459d5378c9bd7813",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Joe Rogan believes Islam Makhachev could retire at UFC 330 to set up vacant title fight that he wants",
-   "title_key": "fc582ca0c19ab98ab4df0f7c6f09be9098bc7446",
-   "title_norm": "joe rogan believes islam makhachev could retire ufc 330 set up vacant title fight that wants",
-   "ts": "2026-08-11T22:24:02+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/joe-rogan-believes-islam-makhachev-could-retire-at-ufc-330-to-set-up-vacant-title-fight-that-he-wants"
-  },
-  {
-   "key": "1903240dc32f6584da61608e33f5fe3e13bc0dd2",
-   "score": 6,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Khabib Nurmagomedov compliments Ian Machado Garry's Skills and Defends his Personality and Views by saying \"Who Cares? It's His Life.\"",
-   "title_key": "9e35fcc6973fa99d9599ae97dd02cc16deed7f3f",
-   "title_norm": "khabib nurmagomedov compliments ian machado garry skills defends personality views saying who cares life",
-   "ts": "2026-08-11T22:24:02+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vluynh/khabib_nurmagomedov_compliments_ian_machado"
-  },
-  {
-   "key": "bac217d2590cd728596c5d493085de31de332ed3",
-   "score": 5,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "UFC prepara una revolución: la IA podría cambiar a los jueces",
-   "title_key": "9a42aa1ac6140c58939fbb1e948a256b15ed2bbe",
-   "title_norm": "ufc prepara revolucion ia podria cambiar jueces",
-   "ts": "2026-08-11T22:24:03+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN28zZFUwRVhTaHBNd21FOU52MEdmb1JmT0ticlBrMVc0R3h3QnNTR1BwbHlZTEJJRDAtWVNUVktndTYteHlZbWZoc0h1Vl9BTFotWUZzdEdjSm1rcU1Wd193SUVxUGVYR1FiLVRLcUtMcVhZZ2E2aXl3a1Jrd1R4TlIyVHFIRHRHOHlDdnJ5WjhoOHNtci1xSFFrVnZIUWVKZEtCR0JLaGFuQQ?oc=5"
-  },
-  {
    "key": "5926f4ea9eca6b625c6aea357ec6f47c99451efb",
    "score": null,
    "sent": false,
@@ -30635,6 +30536,105 @@
    "title_norm": "dwcs semana hoy cartelera horarios donde ver",
    "ts": "2026-08-25T21:58:53+00:00",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdHhUWldtNTBZampCdWp1cldEZUFlUzJ3Si1SWjBXRnlycVpYNnE5Qmk2MEJsN0xIaG9heUI0MjVUZDVKTjhvUks5R2dDdnFtS2JFOVdGampfdU5LVnU4MzBTbHRBcVdYZHVhaVdCVU1vS0prMlpkZGtWeHEyazNmUw?oc=5"
+  },
+  {
+   "key": "95712556f089a9468f90066345ed6476f9c3b588",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Tuf 34 Christian Strong vs Mehemmedeli Osmanli",
+   "title_key": "c7b5061779e51189f477f47d8bae4bb2c4fb9658",
+   "title_norm": "tuf 34 christian strong vs mehemmedeli osmanli",
+   "ts": "2026-08-25T22:28:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vycbzb/tuf_34_christian_strong_vs_mehemmedeli_osmanli"
+  },
+  {
+   "key": "fed31f417a06c0379d66a9a26a2f11310894099c",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Umar Nurmagomedov vs Song Yadong first faceoff",
+   "title_key": "72683a1cb55e6f779ae690ed1b6078d3a82d50f4",
+   "title_norm": "umar nurmagomedov vs song yadong first faceoff",
+   "ts": "2026-08-25T22:28:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vycil8/umar_nurmagomedov_vs_song_yadong_first_faceoff"
+  },
+  {
+   "key": "2b2c54c413c48bc8d22c64f417e76afc314aa53e",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "DWCS Ep. 3: El Momento De Miranda Y Petruzzella",
+   "title_key": "f33d84f31a78cd4eab57a642ad058a93870be8ea",
+   "title_norm": "dwcs ep momento miranda petruzzella",
+   "ts": "2026-08-25T22:28:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzlDTWJpRG0xQzhjZnVwYlVTU2x6bGxqM2s4WkRJRnlRVGM3eEw4Tzd0NVZaWm1IYU12VGVWa2lZdUlTMUVWRktHRmpGRVNIanNHMTlRT19KRlNSQmpCdFlXb3hBMTBqSTVSQjVtMVJFQlVLMnhIMklCV0Vvb1hPY3FQaw?oc=5"
+  },
+  {
+   "key": "50acb634c064aa08278796f1083e6d11e3bd6168",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "English Premier League News, Scores, & Standings",
+   "title_key": "f2fe51e8bea75b321b9ba8fd23ff0c4d7cf5e12b",
+   "title_norm": "english premier league news scores standings",
+   "ts": "2026-08-25T22:28:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nOE5rRERBVER2SEtWaTNJaWRJR1k5SjVHYmRiU3h2M3hxOWdSQWpQei1QOGh0WjFJUWVsWUh5cXhBNWE0Q1lBcEc1cGgycXVtaTNXclZtb1JRcjg?oc=5"
+  },
+  {
+   "key": "d7c62f3b8c8abc4ada646a4de5ff087e38c072e9",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "DWCS Results: Mir vs. Apodaca",
+   "title_key": "b725aa05e36304e2efca6d37ce7b5b10a6245bda",
+   "title_norm": "dwcs results mir vs apodaca",
+   "ts": "2026-08-25T22:28:55+00:00",
+   "url": "https://mmafighting.com/ufc/507005/dwcs-results-mir-vs-apodaca"
+  },
+  {
+   "key": "167fcc2e7cab54534abdc963fc804b6a40a159bd",
+   "score": 6,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Charles comments on the Arman fight... also in the same interview says he thinks he should be next for the title (with both belts on the line)",
+   "title_key": "e342b7ae2b069145924626d47940f3deb64a0877",
+   "title_norm": "charles comments arman fight also same interview says thinks should be next title both belts line",
+   "ts": "2026-08-25T22:28:57+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vydh8x/charles_comments_on_the_arman_fight_also_in_the"
+  },
+  {
+   "key": "5b434a3362f6fcd786c7451879b2fc333b740f1e",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Michael Bisping and Luke Rockhold arguing at the UFC 199 post fight presser",
+   "title_key": "f382cf2dbe6aafe06def82bf1dc04e0816111ceb",
+   "title_norm": "michael bisping luke rockhold arguing ufc 199 post fight presser",
+   "ts": "2026-08-25T22:28:57+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vychjy/michael_bisping_and_luke_rockhold_arguing_at_the"
+  },
+  {
+   "key": "c0dde04024b66d7371cd71b0f7bfb4d5c5e72803",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Merab Dvalishvili makes an honest admission to explain why he lost to Henry Cejudo in 36 seconds",
+   "title_key": "3cdc5c05a6b1c27b016c33b98361bbe6f1d1966c",
+   "title_norm": "merab dvalishvili makes honest admission explain why lost henry cejudo 36 seconds",
+   "ts": "2026-08-25T22:29:06+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/merab-dvalishvili-makes-an-honest-admission-to-explain-why-he-lost-to-henry-cejudo-in-36-seconds"
+  },
+  {
+   "key": "dc5264dad1b423f7d9bc9758a9bbeb8c5f8a78fd",
+   "score": 4,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Jon Jones’ UFC Comeback Could Be Closer Than Anyone Expected",
+   "title_key": "e4abb44470af797554fcfecad6f1b67d48a7c155",
+   "title_norm": "jon jones ufc comeback could be closer than anyone expected",
+   "ts": "2026-08-25T22:29:07+00:00",
+   "url": "https://lowkickmma.com/jon-jones-ufc-comeback-could-be-closer-than-anyone-expected"
   }
  ],
  "stats": {
@@ -30642,8 +30642,8 @@
   "enviados": 0,
   "llamadas_llm": 5,
   "prefiltrados": 4,
-  "recogidos": 181,
-  "unicos": 10
+  "recogidos": 196,
+  "unicos": 12
  },
  "telegram_offset": 958387804,
  "version": 1
