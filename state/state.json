@@ -2,72 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "bf0c6b2c4d6b61a8f0c225f4bbe10214b1971fd0",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Joel Álvarez: \"Este sábado veremos si ha vuelto ese veneno, esa chispa...\"",
-   "title_key": "4712e72d4791053f2b4459325c3521a4c3441ac6",
-   "title_norm": "joel alvarez este sabado veremos si ha vuelto ese veneno esa chispa",
-   "ts": "2026-08-12T15:18:24+00:00",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXlyMEtOaUJCSTlvUHZWR3h4X1I5UU4xU1VsaVhwR0poZjhpV0dxTFZKOFVNUUI1Qnd6enNDVEpHWmI1Zzh1bEV3aXNkWE45LURDV0dRYm5HdTFPdGItcURyVXZ4WEdqSnNYbWRKaFVXbW03alpEeGdtQnpWazNxQnFoN0xNYkwyWExCVGxmenFZU1FTc0k1N0pGcUVwM2R2VnZMNk130gGmAUFVX3lxTE1pb1NYcVhLZi1rNUV4V3lpdDhZT1pPUUkxQ3laWDZOVzhsb2RyX0RhY3BxR1Nhd1RWZTF6Z1g3eWxIQy16aXdybVVONWtZSF9mNkttUUlCdVVsNTZqV2NwZlNFUnBjQUQxQnZqTVR5VGdXV2tZendyOG9NQ3lqbV9LR2pPTjhJSTZ4dGRncjd2YjlqbGQ3eU4yTjV4S2NsZ0xqRS0tRlE?oc=5"
-  },
-  {
-   "key": "e30423018dd15ab866a470f9f4fa2ad52a17ec37",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "UFC 330 media day live stream",
-   "title_key": "5d640711f20672cd38b776585e0ffb29cb7e5f19",
-   "title_norm": "ufc 330 media day live stream",
-   "ts": "2026-08-12T15:18:28+00:00",
-   "url": "https://mmafighting.com/ufc/504392/ufc-330-media-day-live-stream"
-  },
-  {
-   "key": "cad2c8669806ad845dbe814eb0ba0a32502e263f",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Dana White likes Bella Mir’s chances of winning 4 titles, including Olympics and UFC",
-   "title_key": "13a02829f884675e34be8b9fa7beff3eed9ba82b",
-   "title_norm": "dana white likes bella mir chances winning titles including olympics ufc",
-   "ts": "2026-08-12T15:18:32+00:00",
-   "url": "https://mmafighting.com/ufc/504497/dana-white-likes-bella-mirs-chances-of-winning-4-titles-including-olympics-and-ufc"
-  },
-  {
-   "key": "e71234380cd98eb20458b22816b8490b42ac5f31",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Dana White's Contender Series 87: Grading the winners",
-   "title_key": "fed73527e5f69112529305c7a8a951add62ebff5",
-   "title_norm": "dana white contender series 87 grading winners",
-   "ts": "2026-08-12T15:18:33+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlBxbXNuRjZsRXpUM01kWWxhejJUbEp4enRINGVKWlZSQUhHWFNEV3BoQTJtTzRxNzZ5MFFpVy1RdUFWcFIxb21xTTN2NXB3OFNVX3VGM1NEOFhYZkpQaXJycUpuaEpUUjRLWDVVVUJ2Tm1vMmwzZXJnVFpwaGFwVVlKejJwNlB6cV9VbDA3LXZKekdVOUVuU1hzTWpVZlhJWnl2czdDSXduWTZ5VGs1WFREYmZUZU1HcDRJRXgwdzVMaE1Ubmh4anFkWWhYVDZnQ05UdTBibDM?oc=5"
-  },
-  {
-   "key": "3fd276560fcb9c66b0c04bc060ea41d023807169",
-   "score": 6,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Will Joe Rogan be at UFC 330? Broadcast team revealed for Islam Makhachev vs Ian Machado Garry card",
-   "title_key": "93d3bb12dbf399359750f8f7fb4ac6c5ff16b895",
-   "title_norm": "will joe rogan be ufc 330 broadcast team revealed islam makhachev vs ian machado garry card",
-   "ts": "2026-08-12T15:18:34+00:00",
-   "url": "https://bloodyelbow.com/2026/08/12/will-joe-rogan-be-at-ufc-330-broadcast-team-revealed-for-islam-makhachev-vs-ian-machado-garry-card"
-  },
-  {
-   "key": "7a992ff75c060db39fd0f31c04079b7bfa01b1db",
-   "score": 8,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "UFC 330 featured main card fight cancelled just days out from world title double header",
-   "title_key": "656d2f3117e64f8a421b1404d22ae110bc42283f",
-   "title_norm": "ufc 330 featured main card fight cancelled just days out world title double header",
-   "ts": "2026-08-12T15:18:36+00:00",
-   "url": "https://bloodyelbow.com/2026/08/12/ufc-330-featured-main-card-fight-cancelled-just-days-out-from-world-title-double-header"
-  },
-  {
    "key": "d25ee20502be6dac24f71fd48b637dc0dc8e2b91",
    "score": null,
    "sent": false,
@@ -30767,15 +30701,136 @@
    "title_norm": "can michael morales defeat islam makhachev ufc commentator says yes",
    "ts": "2026-08-26T14:12:35+00:00",
    "url": "https://lowkickmma.com/michael-morales-islam-makhachev-chiesa-view"
+  },
+  {
+   "key": "ccbfded0f39ec619ba8f8f150065ec6d13bb7b38",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Momma Mir a sore loser",
+   "title_key": "1e8df2d28f4d524fbf1452240861eb83c6f403a5",
+   "title_norm": "momma mir sore loser",
+   "ts": "2026-08-26T15:55:33+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vywr3j/momma_mir_a_sore_loser"
+  },
+  {
+   "key": "f7ad12c193d87e96d46ac547e5e86d4017a3e24c",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Lleva 2M de visitas: la situación de ‘vergüenza absoluta’ de un futbolista con una niña",
+   "title_key": "0c8c5d84d71982e84a0292847664c9847ff01912",
+   "title_norm": "lleva 2m visitas situacion verguenza absoluta futbolista nina",
+   "ts": "2026-08-26T15:55:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNGZjOWxfZ3J6S290b0FVemJXV25FS2l1Nnp6ZUVicy16OG12T2xpTDVaaXVPNGZTZUFQeFBNdkN3OHFKYVZVeDlzaUZaUGJTOWc2UlRQWDRnTlpybGVYV1J2d05fUFQxSE85RGdVOG9lb3JDQ2N3dExPYVU3NFV1R1RNX1J0cVVhWGQycEctQ2RPYUp2aHFWU1FwSTNEYXNTRl9vU3g1NXRHVm1GQ29TX2VxQy1yQ2V2bkIzQ3JKbVE2YnlpdGYyUmhFTkNtVnJLalJlQTFn0gHWAUFVX3lxTFA0ZmM5bF9ncnpLb3RvQVV6YldXbkVLaXU2enplRWJzLXo4bXZPbGlMNVppdU80ZlNlQVB4UE12Q3c4cUphVlV4OXNpRlpQYlM5ZzZSVFBYNGdOWnJsZVhXUnZ3Tl9QVDFITzlEZ1U4b2VvckNDY3d0TE9hVTc0VXVHVE1fUnRxVWFYZDJwRy1DZE9hSnZocVZTUXBJM0Rhc1NGX29TeDU1dEdWbUZDb1NfZXFDLXJDZXZuQjNDckptUTZieWl0ZjJSaEVOQ21WcktqUmVBMWc?oc=5"
+  },
+  {
+   "key": "cf5633c992797839f4a1187671d98669e720c641",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Merab explains his reaction to Islam Makhachev raising the Russian flag",
+   "title_key": "122719689b021c056df57f2fe042246afb980fbe",
+   "title_norm": "merab explains reaction islam makhachev raising russian flag",
+   "ts": "2026-08-26T15:55:33+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyybfj/merab_explains_his_reaction_to_islam_makhachev"
+  },
+  {
+   "key": "bf9ee9768c452201fbb0170b4ff312f977826664",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Back when Merab went on a rant because of a simple question asked by Umar 😂",
+   "title_key": "aff6349ecbf691a24796dd020e6378f1ec6605bb",
+   "title_norm": "back when merab went rant because simple question asked umar",
+   "ts": "2026-08-26T15:55:33+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyytyy/back_when_merab_went_on_a_rant_because_of_a"
+  },
+  {
+   "key": "49d0cce12624a685984652bb01d861e58b552f6a",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Petr Yan vs Merab Dvalishvili 3, un combate de legado: \"Si me gana, será el mejor de la historia\"",
+   "title_key": "42559b7a60f302f70b4fa8511c603167cb865e0f",
+   "title_norm": "petr yan vs merab dvalishvili combate legado si me gana sera mejor historia",
+   "ts": "2026-08-26T15:55:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW1fLVJoSU1KQzZ2Vjl3bC1SbkpUdmtNR3ZOdHNlSEFLbkVXRHVlSU9xMTFfZU03ZVlKSHhFSHQ5U0xGcUh0dVFnZ3Uwc1VyOFFpZ0ZqVjZRMDBWdGhkVjkzcjl0NzFlQ2RLYkxPRmtpdlpXNGR1RUtzVkdJckRsWWV1UU9IN2ZpX2dDbDFCUTljekVmc3YtMlpnXzlpQXN0bHJfbktYMF9tamNWQVRCN0UyRjlId0xxRFFlZmlmT2k3VDTSAcMBQVVfeXFMTjZoZFl4WnVyZzY4N09BOXQzeFVhXzB3ZzlBVXJDZ0pMUnZ2blRIUHFEbFVyMjFaZHhPZ3g4NHVsNTY1b0s3Mnp4aDNKV3lUcGpCVUVNTVlNdWhIY1RkSGJHWlBKdHQ4dDVxaU9GeEJKdmE1UnhMdXhiaE1BQm9yMm9fN3FQLURJRW03eGRIZGhyQ2hnZ2MyUmd1RFVJcWRQNWZiWlhaR2poT19zaUVxTkwyN2JVNHludUZONk5OVDZmWkpV?oc=5"
+  },
+  {
+   "key": "aa2596673925708d551f5f508a1066ff0ae90231",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Logra BUAP 5 medallas en Nacional de Artes Marciales Mixtas",
+   "title_key": "d438e54978afffd79e7514cf65050f4100de4fa5",
+   "title_norm": "logra buap medallas nacional artes marciales mixtas",
+   "ts": "2026-08-26T15:55:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVdJYU9VdVEwcDNPVmhpbFVQdXh0RUxwYUJGTEtJZ3JwZUwwazl1Qi1zLXVQR2hyUVR5emg0bV9UOUJmQTEwTG1Kczh5dlp0X2JmSEI3VjB6aXRQT2FkVkZvWXByRTZOUllsNkR2MXVZbUFBRFlWUmRHcjB6TXh6T2JjTGRGQzUtQ1FEbFFaZ2Q2WEc4eXpOdmtBc0lfaUZrM0ZR?oc=5"
+  },
+  {
+   "key": "d3a06b4fc12da0aa85643481f4e6427566073fff",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Who is the most underrated fighter you've ever seen?",
+   "title_key": "bd5547345735cc1ab9d5a9b9a887f789355de9bb",
+   "title_norm": "who most underrated fighter you ve ever seen",
+   "ts": "2026-08-26T15:55:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vyz1z9/who_is_the_most_underrated_fighter_youve_ever_seen"
+  },
+  {
+   "key": "4dd635db9a385e0d8dc2e0b3290f5ec803eb5705",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Merab Dvalishvili clears up issue with Islam Makhachev following UFC 330 reaction",
+   "title_key": "e03b5837d12792f00a8803463ce115cc212b7a45",
+   "title_norm": "merab dvalishvili clears up issue islam makhachev following ufc 330 reaction",
+   "ts": "2026-08-26T15:55:54+00:00",
+   "url": "https://mmafighting.com/ufc/507171/merab-dvalishvili-clears-up-issue-with-islam-makhachev-following-ufc-330-reaction"
+  },
+  {
+   "key": "ccdd93ee306a185c6407f85e0cda1d638bc24a81",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Dana White reacts to Bella Mir's stunning loss: 'I was extremely bias'",
+   "title_key": "6f5807332f5e6ddc7cb8bf50b608c958d259a6cb",
+   "title_norm": "dana white reacts bella mir stunning loss extremely bias",
+   "ts": "2026-08-26T15:55:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnBsQnh3bHp6aHVhcE8zRmZGRG9waWU1Wm56U0hrblZtdzNLcndxMjFtTzBNOXlONG5naEZnNWpoUFNMdklIb3N6bXhKNlJiVXdyemw1azl5bzktWHdLQVhsS2RxLXFnY3N5U29fTkpmeDk3dklTZkZDbU5hNlRYMi1pT0E4SElIeUZyeXNiUnBIWUFHdzlMUmlYTGtnUjR2LTlTMlRGYkhVYUJ6dVpVbGk4YmtlY2NRUldkeldPelotZw?oc=5"
+  },
+  {
+   "key": "0bff829a542e00b13ea0bb339a0b43e90cfc1ae7",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC Middleweight rankings updates: Media and Meta. Gregory Rodrigues moves up after beating Anthony Hernandez.",
+   "title_key": "2dabe0470c04560ebe1967d6873896f205962cb2",
+   "title_norm": "ufc middleweight rankings updates media meta gregory rodrigues moves up after beating anthony hernandez",
+   "ts": "2026-08-26T15:55:56+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vyx20v/ufc_middleweight_rankings_updates_media_and_meta"
+  },
+  {
+   "key": "9f5f90d10908b069d4f0e9d7781d7638fa41591c",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ex-UFC star slams Dana White for exploding at reporter’s press conference question: ‘Ego overdrive’",
+   "title_key": "af6fcd2728a600cc42784ba2b4f23afac423aa86",
+   "title_norm": "ex ufc star slams dana white exploding reporter press conference question ego overdrive",
+   "ts": "2026-08-26T15:55:57+00:00",
+   "url": "https://bloodyelbow.com/2026/08/26/ex-ufc-star-slams-dana-white-for-exploding-at-reporters-press-conference-question-ego-overdrive"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 5,
   "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
-  "recogidos": 179,
-  "unicos": 5
+  "llamadas_llm": 5,
+  "prefiltrados": 6,
+  "recogidos": 204,
+  "unicos": 14
  },
  "telegram_offset": 958387804,
  "version": 1
