@@ -30756,14 +30756,37 @@
    "title_norm": "unidad editorial lider sector comunicacion global",
    "ts": "2026-08-26T10:54:49+00:00",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YR1FBTEU4aWk5RXFhSHdXRGM5YWV2UFpfMURBOWRqT09ZdU9VaDJwbkN1R2U3TFVVMkdieTc0UndKc2N1MS1ZQW1tQmdmbUNnbFNQcGFubU1QTUppS3Nz?oc=5"
+  },
+  {
+   "key": "da6ff5b614390527e94b7c8851e1657766c9cf93",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Quién hubiese ganado si Jon Jones peleaba con Fedor Emelianenko",
+   "title_key": "76edec34d53dc0d25dcc6667a55fa1fe3e1dba75",
+   "title_norm": "quien hubiese ganado si jon jones peleaba fedor emelianenko",
+   "ts": "2026-08-26T11:24:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29CeTBoYkdjNU1ma01Oam5IeVJRSWVwZWdONkwxUy1LT0tWZ05tR0t1aEhQbGxHQTZlR1JMZG5GVnRSMjRsT3FLRXltTW9FNWNmenBQMVFSeXAzSkZzQk90Z0NPcVZaYUVkWDJnWmJMSzd2M1Nvel82MUJBalJmNmtZNUQtbWRvZnFaNWpOOGctblZfMUdJT1l2WVIxSktmWEF6VkdxV2RKcnNMVm95RGNaQjVKTnU4elY5RQ?oc=5"
+  },
+  {
+   "key": "8ed940b4daf54d0019a4a8fdd45ba2eb2146c983",
+   "score": 7,
+   "sent": true,
+   "source": "Bloody Elbow",
+   "title": "Dana White claims unnamed DWCS star with zero UFC title fights has earned $11 million",
+   "title_key": "7d69d481ea8d197eb7adacaa0422da5f562517e7",
+   "title_norm": "dana white claims unnamed dwcs star zero ufc title fights has earned 11 million",
+   "ts": "2026-08-26T11:25:16+00:00",
+   "url": "https://bloodyelbow.com/2026/08/26/dana-white-claims-unnamed-dwcs-star-with-zero-ufc-title-fights-has-earned-11-million"
   }
  ],
  "stats": {
   "descartados": 0,
-  "enviados": 0,
-  "prefiltrados": 5,
+  "enviados": 1,
+  "llamadas_llm": 1,
+  "prefiltrados": 1,
   "recogidos": 179,
-  "unicos": 5
+  "unicos": 2
  },
  "telegram_offset": 958387804,
  "version": 1
