@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "771809752cba350e64aabdc2c5a7223df6e7fee4",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam and Ian face off",
-   "title_key": "c81a6b6ef5bef3486cbf1affe29993e180de1157",
-   "title_norm": "islam ian face off",
-   "ts": "2026-08-12T00:40:56+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlxuvb/islam_and_ian_face_off"
-  },
-  {
-   "key": "df532b4d07034cfe5e449f405318012df06150e4",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "We’re proud of you dog",
-   "title_key": "0dfb2005717482fc00851717756ee792f86a52e3",
-   "title_norm": "we re proud you dog",
-   "ts": "2026-08-12T00:40:56+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlxv3z/were_proud_of_you_dog"
-  },
-  {
-   "key": "20174a53b4d1a190c8553b4e948e6359c35aacac",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Ian Machado Garry Breaks Down Why His Last Five Fights Top Islam Makhachev’s",
-   "title_key": "7716464f76cc0f6dc6012956d9409881ebc89381",
-   "title_norm": "ian machado garry breaks down why last five fights top islam makhachev",
-   "ts": "2026-08-12T00:40:56+00:00",
-   "url": "https://lowkickmma.com/ian-machado-garry-islam-makhachev-path-title"
-  },
-  {
-   "key": "8b2e3c6eb65220ad10f6fa33a657e24526c03f31",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Dana White's Contender Series 87 live updates, round-by-round coverage",
-   "title_key": "54e6ae27c9b458442eb7b76884915fbe93f4a3c0",
-   "title_norm": "dana white contender series 87 live updates round round coverage",
-   "ts": "2026-08-12T00:41:00+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGNfclZVb3p0YV9tQ0FZQWI0SkZ5ZDBXUzZhTU1zS0xfclJMLWh2Q09vZ0V1bENlTFNlQ0ZLZXVtQWtDUW4zNlNTUXMybWp1elkwM1YweWxFczRibzNfVG9MN3JQbno1c1p2MDZKc1RsS2w1QWxrU3huVDNxT05kR3FRVlVqNHN3bXl4WXJnTlltaGdCeVdRTkhRb2pjT3lreS1uU0VjdW9GVjNwNG85S0JjSFpIMHZwa19RR2pQem1zc2dwbVJkZTJn?oc=5"
-  },
-  {
-   "key": "2df7ac58c592a2c457fe2e051c5ad1966f2480f8",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Daniel Cormier confused why more people don't consider Khabib Nurmagomedov GOAT",
-   "title_key": "68b4bae420d08247f984c14e2770bc13ab235e13",
-   "title_norm": "daniel cormier confused why more people don consider khabib nurmagomedov goat",
-   "ts": "2026-08-12T00:41:01+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbzZRTnh5Y1pEZjI4bXk1Y3Z5b05lMkxzRE14ZFRKZ0lPSzJvNFJOSmRHOE1faF9zVmNNMEViLTRqSU80VGh6Z2U0ZjB5NG9yTEhWcHlFTkMxRmg5VlB4Q0ZpU1ZMU3ZWSFdnM0QzTkJ5RUNrZ1V1M2tPT2RrWHBfVGNPUkRKUFVCc3MtR01vWl9UR29TRU5hWmpSSkNOd29Yd3lkVHpLTV9xNnBrby1pRjJKdEdjTVlsYXhYemZJdG51X1R1ekpTeTN4YW5TbGhH?oc=5"
-  },
-  {
-   "key": "3036ee337c75c91b10dedb0e49bf7547a53bc91d",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "The man who KO’d Islam Makhachev never had his hand raised again after stunning UFC legend",
-   "title_key": "c6916c9f86a02307537e5982a95b2d894fc1654e",
-   "title_norm": "man who ko islam makhachev never had hand raised again after stunning ufc legend",
-   "ts": "2026-08-12T00:41:01+00:00",
-   "url": "https://bloodyelbow.com/2026/08/11/what-happened-to-the-only-man-to-ko-islam-makhachev-in-the-ufc-a-win-that-plagued-his-career-for-9-years"
-  },
-  {
-   "key": "f69d17b3e900c0d1e38a735a5630cb8a43072162",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Who is the smallest fighter that could beat Derrick Lewis if there were open weight classes?",
-   "title_key": "330f63c3bb86eb3bed7f43442eb2e06498452472",
-   "title_norm": "who smallest fighter that could beat derrick lewis if there were open weight classes",
-   "ts": "2026-08-12T00:41:02+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vlu5ah/who_is_the_smallest_fighter_that_could_beat"
-  },
-  {
-   "key": "e8ea44c2310d43d26af3649c6e774b66b4444469",
-   "score": 6,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Tom Pagliarulo TKO’s Ananias Mulumba on Dana White’s Contender Series Season 10, Week 1",
-   "title_key": "c298e1c7e107fdcda09c0bc244d5d7856d68ad1b",
-   "title_norm": "tom pagliarulo tko ananias mulumba dana white contender series season 10 week",
-   "ts": "2026-08-12T00:41:03+00:00",
-   "url": "https://lowkickmma.com/tom-pagliarulo-tkos-ananias-mulumba-on-dana-whites-contender-series-season-10-week-1"
-  },
-  {
    "key": "e35f1dd77f11370cf579817114c1278ef588d29a",
    "score": null,
    "sent": false,
@@ -30646,15 +30558,136 @@
    "title_norm": "locked anthony smith ufc connected man cfcdsl13pp",
    "ts": "2026-08-25T23:56:57+00:00",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByV1c1Tnk5R2lDMkp2dENSUUFTaXJ0VEVKNC1KT3RwUEZfVDVkZm5vYUo2VlJVODRJVzV3TThuUWlVOXpUaDNVNldvNFdoLURJZFlXMXZENzVlWEk?oc=5"
+  },
+  {
+   "key": "82810b7d4d0f887655f8ef8b8aeed3ac7329b29d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Sean Clanc Jr. vs. Gary Balletto (DWCS 03/2026)",
+   "title_key": "3997d5bc66d1413b00a151c8691fc3639e82091e",
+   "title_norm": "sean clanc jr vs gary balletto dwcs 03 2026",
+   "ts": "2026-08-26T01:01:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vyh5ii/sean_clanc_jr_vs_gary_balletto_dwcs_032026"
+  },
+  {
+   "key": "4ccd3967039eef0aa342ccc99a6b64fcf141e869",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Mario Piazzon vs. Guilherme Uriel (DWCS 03/2026)",
+   "title_key": "48b0b7aff219f6efeb768067a109339d87f90ad3",
+   "title_norm": "mario piazzon vs guilherme uriel dwcs 03 2026",
+   "ts": "2026-08-26T01:01:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vyhijy/mario_piazzon_vs_guilherme_uriel_dwcs_032026"
+  },
+  {
+   "key": "eb28fe4b9c4f10d4359a9e09fb3166c03b576ebd",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Chance The Rapper at Freedom Mobile Arch, Vancouver",
+   "title_key": "ee200ce0750969eff323e4af71589c9ccd0f8594",
+   "title_norm": "chance rapper freedom mobile arch vancouver",
+   "ts": "2026-08-26T01:01:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjFaeTVXY1VaS2pKXzVETHRMZ0FvNEhHNHZLUms1cVNjN0RFSnh1c2JRUHB1M3JPXzFpLVYyZ3JMYXozRjlGRmY0TTlZa3pIRHNWeE9KTjQtRlYwTDlmY3FNQkVNdTEyTER6cWVxVGhOM1M5NWJKN2lMbk9HU0s4Tk4teU01S25zTXljaE85MV8?oc=5"
+  },
+  {
+   "key": "6389ac037fca054fb20e0fe47551dcc9648106c4",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Juegos Olímpicos 2028: El número de boletos vendidos tras la segunda fase",
+   "title_key": "6a72d43898b2605bcfef796a8b29fd4900559c5b",
+   "title_norm": "juegos olimpicos 2028 numero boletos vendidos tras segunda fase",
+   "ts": "2026-08-26T01:01:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkZ3dkt5eUItb2NyLU5uNDF1VjhwOVUzVUpnYTJIeHNnNVY5eTNNSHYtXzhUQ20tRGZnbGFuUVJrWUphaExMOG5vOTh2WXFXc3F6QzZFRjgyOEI5cm55OGVGSnprd3prSDJqOWJUU1NQYmtCUC0zbmxsV0lxblZTaEdtclBUekpEZkdUQWFTbEtzQ3JTYTFTYnk2WjVWTUFSMjZrd1BYc1pDYk9oaGFoZlIxZkMtWktOZ25fTlZBVWF4dndrelHSAcYBQVVfeXFMUDZGd3ZLeXlCLW9jci1ObjQxdVY4cDlVM1VKZ2EySHhzZzVWOXkzTUh2LV84VENtLURmZ2xhblFSa1lKYWhMTDhubzk4dllxV3NxekM2RUY4MjhCOXJueThlRkp6a3d6a0gyajliVFNTUGJrQlAtM25sbFdJcW5WU2hHbXJQVHpKRGZHVEFhU2xLc0NyU2ExU2J5Nlo1Vk1BUjI2a3dQWHNaQ2JPaGhhaGZSMWZDLVpLTmduX05WQVVheHZ3a3pR?oc=5"
+  },
+  {
+   "key": "e834aabf70d63d2cc67bff3484e3d7579419a5fe",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Get bro some PR training immediately 😂",
+   "title_key": "8b00d2f9142a30c8316d64686f34810bc17dd57f",
+   "title_norm": "get bro some pr training immediately",
+   "ts": "2026-08-26T01:01:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vygnce/get_bro_some_pr_training_immediately"
+  },
+  {
+   "key": "c6b13b32620de2bf0e87b34938b5fadda3218896",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Sumudaerji",
+   "title_key": "8f82ef844dc604f35f4825f822fbc455a0b9e571",
+   "title_norm": "sumudaerji",
+   "ts": "2026-08-26T01:01:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KRmQ1NER5TmtRZ010VHdTbXhoaS1aOFc4WlkyM1ZSYU5tajdkOHUzUjFfT0Jndl9zZ3g3NUF3TXhOUTFPVnZKTXRpLThHdDA?oc=5"
+  },
+  {
+   "key": "f35ecf521637fe3d10c8fcda85b25868f03d6bbc",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "\"Tom Aspinall won’t fight again in the UFC\" says Stipe Drviš, his boxing coach, on his Instagram live",
+   "title_key": "0c2b38b78656dd9f747a6f1b3832e5caec5f0267",
+   "title_norm": "tom aspinall won fight again ufc says stipe drvis boxing coach instagram live",
+   "ts": "2026-08-26T01:01:56+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vyhus2/tom_aspinall_wont_fight_again_in_the_ufc_says"
+  },
+  {
+   "key": "afccc483181ce81465350bae6a6c5dd69621098f",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Fight Night 286 pre-event facts: The most accurate striker at 145 returns",
+   "title_key": "80dec71f197144f800f8a12268f13b3bc9f24a8a",
+   "title_norm": "ufc fight night 286 pre event facts most accurate striker 145 returns",
+   "ts": "2026-08-26T01:01:58+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmtWbjFTTXByV1NzY2cxVENuN3AwRkZTcG1OMDdkaUMtSWdYSFJ6aGxfZV9NS1lEcl93UVdraXRnLTVVMnd4REEwa0hkRzNsOUhkWXJjT19TUTNEc0M3aWdIdUZ6eE9UZVBYNWs1YktZU3h1cmFTSTZBa0hDZlFsWjFvU3pESFdoZ0k0UmoxSm5YRk9xcjFsZ3dLa2VzWFVlQ1pIZzJxcklXSUk4QVFSZUFiYWlQOFAwNjkzTnFWME4tS2g2My1HVURzZ2oxMEc5ck44SzJNRHRRb3pWdEpHek02ZUcyZw?oc=5"
+  },
+  {
+   "key": "e36a22217f53408c9a124f0a595013935e0f8ae3",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Khabib Nurmagomedov’s cousin Abubakar books combat sports return 3 years after his last UFC fight",
+   "title_key": "38da306d1946daa4a1e62ca8de9ce9ca4f9a897b",
+   "title_norm": "khabib nurmagomedov cousin abubakar books combat sports return years after last ufc fight",
+   "ts": "2026-08-26T01:01:59+00:00",
+   "url": "https://bloodyelbow.com/2026/08/25/khabib-nurmagomedovs-cousin-abubakar-books-combat-sports-return-3-years-after-his-last-ufc-fight"
+  },
+  {
+   "key": "75b9eafa8968d5187794bcbd0be6ec294892ab07",
+   "score": 4,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "No pudo entrar a la UFC: un peleador argentino sufrió un brutal nocaut en 35 segundos",
+   "title_key": "f3bbd5ef25167dc004395c74ecf5f0211d533d5a",
+   "title_norm": "no pudo entrar ufc peleador argentino sufrio brutal nocaut 35 segundos",
+   "ts": "2026-08-26T01:02:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTVIyOFhUck9zbVVqR3hlWHFBTU9rTDBvYUlmSzBOZEU5VFpSYVZvQ1hfS2VNMmtLUDMxc2NTU05Wa1hDc0dyME9yS29YWHA1bVRGd0JYMFFMbkVrVzlDVGI0MHVYTExUOFhXaXh2ZUdqUHc5enItb3VvLTVfWGFfb1IySE80cVY4cnliNjRPMVFuMHNkWDlLbG9XZ3A3M3hCZHFoQ3liWThvc0RaZklQcmRxN05nRHphOF9MZWR6Wm1ZWWNDaThIOU5wRUZYU1hudWtsTkd0XzQ0NmFZUDFSWEZoSG1wdG9KWldOT2VhU1c2TmpQb2Uw0gGLAkFVX3lxTE4zc3J3SHRBLXNzWjUxMndXX3R4LWhsc2tiTk5zVmZ5c0pwTmxEbWZfNWhkTWVtU2d5ZzVXRTRrNWctOHN2bVczeE12V01MMElNWWVQSUxuSmtMLXF6cnVnRGFzMVRtWXNOcTFDZUczTEpHekVFOUp2UHhIMlpqNXFTcTg4NXBsZ3BOQUNlODl3ZVNWNnZMYkUzOENxTXRldHoyMGZjNnpDa05KNVVnQmZTb2xOMmhmeHB6SXVqQnhOR25HNWJ3cFA2YVJPc1VNNVFaTXVBTVFmYTV3VzBDdmpSX0JsQWhORTNhclg5T0Y4V0tSMkFyclhnN1JDdElvRHphOXlXNTFMRlo3OA?oc=5"
+  },
+  {
+   "key": "07f1fe84e4e1dcca917fb41c296309c68d2e2b18",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA en español",
+   "title": "Jon Jones cuestiona que Makhachev sea el nuevo GOAT de la UFC: «Estoy tan confundido»",
+   "title_key": "cba6093725748f8cb9c76141356acbc83ef1bc0c",
+   "title_norm": "jon jones cuestiona makhachev sea nuevo goat ufc estoy tan confundido",
+   "ts": "2026-08-26T01:02:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVXRxeHYwX0Y1Zk1hY0Z1OHdidUdZNEFqWER2Rlh0dWxSZ1lYbTBkNEN1TWtnRV9hNzhSbUVTMGFnWi1EQjE0M1QzZ2ZPNGllLWxnWkJiWGNLTnpjXzBZUUp5QkZ5aWREaDBTcms1SFRJakFCd1dKS0NZakZWeEFVajM0bGNxWVJrdXJhLTJ6QjlHeHZPNXgyaU5XLVRvUkhn0gGmAUFVX3lxTE5JbW81YWo3VlVkRkFaZTNURDEtY3VBcHg0SUxJNEs3X1U3d25aMVI2RmhMV0UxQ3dSSzVMMkl0R2t2OG9PZzVrX1hvazFIZkxvQUcydzhNVm9teEg5OE1QRGtPMXUydElpT3hMRkppM3lweGFyNUZGLU5kVm9TMWhzclhidGhCbWdEMzFiOGhJRkhVcV9RX1RiajVQS2xKWGJzSFpRcEE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 1,
+  "descartados": 3,
+  "enviados": 2,
+  "llamadas_llm": 5,
+  "prefiltrados": 6,
   "recogidos": 206,
-  "unicos": 5
+  "unicos": 13
  },
  "telegram_offset": 958387804,
  "version": 1
