@@ -2,160 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "e35f1dd77f11370cf579817114c1278ef588d29a",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "DWCS Ep. 1: Hasan Y Wint Noquean En Menos De 1 Minuto",
-   "title_key": "4eb5236251d6259332a1ab372cbc6ad19e6bad63",
-   "title_norm": "dwcs ep hasan wint noquean menos minuto",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGh6VHpvaF8xWXFOX0dMUUlONUpHTnFQS0loQjNORV9peFZ5U2hGVjdRSFlNM0hERWRqNGg2aWd4aFEwV3ZOSk9wSUpEMk9nU1R4blRzTV9YUnZyTlA0akwyUEdzTmNfVHgtaUtGYWg1U1VmSHU1anNmRjRnYW5RQzBOOFJENVBoNWtN?oc=5"
-  },
-  {
-   "key": "b93806953806f4d5a9e44ec7d885c9d579660169",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Inter Miami se juega el pase: ¿qué necesita para clasificar a cuartos de la Leagues Cup?",
-   "title_key": "81f41584698854e9e7a47384cb1c3d3c3dda5611",
-   "title_norm": "inter miami juega pase necesita clasificar cuartos leagues cup",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3hyTFlLaXhIZjV5R1JUVVNINWdUT2lLcGRuLWZMN1EybzBsZ0E2a3lmT1Y5b1ZUVzYwQUtHOXdXUmhoWGRVSzBCRllHSExYV3ZubG1qdVFoUGFtWFUwZXF5Wkd6NXFxdjNxMy03alhHTmVVMVQ4N0lNYXdJMkN4MGxwZ25MbkxzU1lZSUtsQzhrRmJ1aW1RMnBkX1J3bmFNX0NfNl9Pdy1uZ0wzWWFYQ0J6elhPRDdrQUZJcm00VEM5a2ZaU2NFaTRFaGU1UEFmcWfSAdIBQVVfeXFMT2t4ckxZS2l4SGY1eUdSVFVTSDVnVE9pS3Bkbi1mTDdRMm8wbGdBNmt5Zk9WOW9WVFc2MEFLRzl3V1JoaFhkVUswQkZZR0hMWFd2bmxtanVRaFBhbVhVMGVxeVpHejVxcXYzcTMtN2pYR05lVTFUODdJTWF3STJDeDBscGduTG5Mc1NZWUlLbEM4a0ZidWltUTJwZF9Sd25hTV9DXzZfT3ctbmdMM1lhWENCenpYT0Q3a0FGSXJtNFRDOWtmWlNjRWk0RWhlNVBBZnFn?oc=5"
-  },
-  {
-   "key": "0cf75e9bc5849f7b2aa52d8a2f45fda7c9b3b43d",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Full Fight | Mackenzie Dern vs Nina Nunes",
-   "title_key": "4e4c06e4eede3e02c7bf82aaf0edd27a36117f8c",
-   "title_norm": "full fight mackenzie dern vs nina nunes",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ma2lFVVMyblJrektiaFoxU0VKVGIzeGhyT3JLQjFnR0c1WllNbm16bEthUGdVd1JiUEcwWmtWbWUxNFliaF9FNk54alg4bTQ?oc=5"
-  },
-  {
-   "key": "f453e1504a7936a38c483823754db06d4ae160d7",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Full Fight | Gillian Robertson vs Polyana Viana",
-   "title_key": "51f3eb0efcbcb9824878829d48c1704c00f69c60",
-   "title_norm": "full fight gillian robertson vs polyana viana",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OQVRYZUp1WUk5WUxiUlcyV3VNY0ZzQUFHdHIwLUMzWGV2ejNYSmpTbjREdFRJVEwycFRuNlR1czEtRVpoTjBXRVdhbk85N3M?oc=5"
-  },
-  {
-   "key": "d588c3e46d46aa9a25a3b7f0f38c6ff47b9b8a06",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Danny Parkins: Sophie Cunningham’s ‘North Star isn’t protecting women in all cases’",
-   "title_key": "8ba93aa805e100fe3333a8f1abaa39c09e05f450",
-   "title_norm": "danny parkins sophie cunningham north star isn protecting women all cases",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamdxdE9VelBDQTEtTkV4X2R6eThMMkFfYTJndjhVZThJaW04VklDT1BBaWF5dldFTjBQXy1EYnd1SjEzSGFvSUhsVWFIaUpPOThFdWhKS2ZiUnRqM0dDTjViQTIyaG4zWkpnR0JzbkpoTUkzTjI5M1llRmlkUUZjd3FXRkMzckJIVFdJd1NTZw?oc=5"
-  },
-  {
-   "key": "74ef0a74583d18d4b97b3cc7fe5c3be41880682a",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Trump says it would be 'terrible mistake' to remove Infantino",
-   "title_key": "7c14bf5eade681d7c9b21d0eb4d4dd8c6b0078d1",
-   "title_norm": "trump says would be terrible mistake remove infantino",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjBLRUhTdFp3cVh0cnJCWVN6UXNVZ1FHd0pfM3pzVENkZjFsSktCWmNQNjU0bTdGcVhQWjhCd0lpYWI1OVI2UXBuVk1xNFZmUG9yVjQtTnppTm1nbldVLWpKTVJBd2hsa2loUHlKQlpqYmltcGNxYm9lWWhfNEl1MXRfMA?oc=5"
-  },
-  {
-   "key": "32c9216b0207e98ccfb1707e806fdb823d06a102",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Anthony Joshua - News & Rumors - PBC Boxing",
-   "title_key": "edeaa107df9cd9868473babaa3a48f8c6bf18d3b",
-   "title_norm": "anthony joshua news rumors pbc boxing",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBySDhYLVhhV01wOWotcjdTUTl6anFtamh0OXJ6R2F0dXpnQ0t2NHZ0RVk2ZG96SHdIZFRaTkhNcXBJVWJGaTdCMzRCOXV3cnh4OXp3bXVoMmd2SVZWNm44dU9fa1A?oc=5"
-  },
-  {
-   "key": "24bbb7e602ec1a356daf620952b3a480e33410cb",
-   "score": null,
-   "sent": false,
-   "source": "El Rocktagono",
-   "title": "“¿Estás vivo?”: Merab Dvalishvili lanza un picante mensaje a Petr Yan",
-   "title_key": "f10333db6a37419bb019cec65255261cdbdcd08d",
-   "title_norm": "estas vivo merab dvalishvili lanza picante mensaje petr yan",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWtiQ00ySWFvV1pNR2VNTGNJNlpwdlVyZmRkLUYxRllCVFFDdVhic0VYT05lV1doNk9PLUVNX3FhWWtNdWV5MUlSbnhZTHVQeDFlWDQtOWtHYW9ZdFh0M3NfLWpMQmpHdW4zWWwyTUVENEloUURELW8zbkl1MTRlQm1uczBUVFRMbmQ2Z3RQZ3VBdVJpRmVlbi1n?oc=5"
-  },
-  {
-   "key": "03dc1d24e600c1bf8a69bdb89b6bf3663cada8da",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Patchy Mix’s 2nd Big Rizin Defeat Has Verdict Contradicted by Tapology",
-   "title_key": "d5cea6a54139748dcc4b18625b6f0fa02430df0e",
-   "title_norm": "patchy mix 2nd big rizin defeat has verdict contradicted tapology",
-   "ts": "2026-08-12T03:11:25+00:00",
-   "url": "https://lowkickmma.com/patchy-mixs-2nd-big-rizin-defeat-has-verdict-contradicted-by-tapology"
-  },
-  {
-   "key": "6de32b13b13f9514e7f4b9ab0f97e8d5861eac37",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Dana White explains why he’s not ready to crown Islam Makhachev as the GOAT just yet",
-   "title_key": "b5f5002237cc0ea5fade78d772f52e69d5db2b2b",
-   "title_norm": "dana white explains why not ready crown islam makhachev goat just yet",
-   "ts": "2026-08-12T03:11:33+00:00",
-   "url": "https://mmafighting.com/ufc/504477/dana-white-explains-why-hes-not-ready-to-crown-islam-makhachev-as-the-goat-just-yet"
-  },
-  {
-   "key": "ad20c6c54571922f218535df1aec844bbbf77d1a",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Video: Islam Makhachev faces off with Ian Machado Garry for first time ahead of UFC 330",
-   "title_key": "fa87ac7b96b5031cf3944f1a5d8e4205569d14c4",
-   "title_norm": "islam makhachev faces off ian machado garry first time ahead ufc 330",
-   "ts": "2026-08-12T03:11:35+00:00",
-   "url": "https://mmafighting.com/ufc/504454/video-islam-makhachev-faces-off-with-ian-machado-garry-for-first-time-ahead-of-ufc-330"
-  },
-  {
-   "key": "a136ff1d8e1c7f225f4a7ef7b35baeaf221c5eb1",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC champ says Ian Machado Garry 'bad matchup' for Islam Makhachev – but is it enough?",
-   "title_key": "b54b1e69605e08c16d14ed3c2d453dc33e5d5ee4",
-   "title_norm": "ufc champ says ian machado garry bad matchup islam makhachev but enough",
-   "ts": "2026-08-12T03:11:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlFlbmlHUHhWRE4xVUhkWXJORG1pWE1XejEwZDNWUXhaUS12ejNzM3pUN191TkxJTzhXMWRhQ1RzMms0ZDVvZEVCVmhIQnpjWmx6dVVkdXZqWWItUGVuYzhLUEV0TEx4cF9XOFFGLTVDS0NsOUZwWUJOZ1h3MDhMU3F6cTJHbGE4WTRhT0hJbFdZcFRDQkpCLWYwaWN2OENaSEQyem42UUR1Y2tqZUpqcS16S21nRW40X3ZBOEc0M3ZqenQ2YVg5VzNn?oc=5"
-  },
-  {
-   "key": "bad1056b10cb635fc0501fff5ef0847d35af4bef",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "The Thrill and Agony: UFC Fight Night 284 winner and loser reactions",
-   "title_key": "6019cb8e9eb385723366853f33868e38812312e7",
-   "title_norm": "thrill agony ufc fight night 284 winner loser reactions",
-   "ts": "2026-08-12T03:11:39+00:00",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNllRaHJIWnJaRlNKTi1McDhaNV9TRUlFakdsa0wydGhhaU9KTElOYUpISzhPM2RnMjdNcUZ1NnlMNEtKcy1Gb0JIdzNsbktHbGUzY1B0QUg4dDJtMXFHb0FoRFhEYUdWNUYweVFSYTd0VUFFZEM5UWU2Unh3VjdDSlpHN2FMZS1SYXFNU09iZjV6OVdTVzhPaHZRTUhGSU9PTjkzYWpNOFVST0RQQjN1WDhnWlNCek5QYnc1cWlXd2RkbnVvUlBCbW43NGVlUQ?oc=5"
-  },
-  {
-   "key": "9658fee0b78cb83403330a67dad67878ac7b8ead",
-   "score": 5,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Four earn UFC contracts at DWCS 2026 Week 1",
-   "title_key": "f4f2a10c3253134d0b0a4c3a61ee15d0b009ba10",
-   "title_norm": "four earn ufc contracts dwcs 2026 week",
-   "ts": "2026-08-12T03:11:40+00:00",
-   "url": "https://sherdog.com/news/news/Four-earn-UFC-contracts-at-DWCS-2026-Week-1-202322"
-  },
-  {
    "key": "f4f22b3f261b752c08c9b63b8ef8e3f728c0f6db",
    "score": null,
    "sent": false,
@@ -30767,15 +30613,125 @@
    "title_norm": "want epic mma action watch andres escudero take alvaro chaparro primera division arabia saudita eghmtrjnu4",
    "ts": "2026-08-26T02:42:26+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kSG1WOFdhTFRUbmRkZENlYVhJZTYzWWJBZjRxZXl0UUNZVGF4ZVpneE5fUTlKTUdUaU9wUXNOU0lFUWRWTHNwUk1nLWxfSUQtQ1ZzdUk0TE9jWVJCQWxmTQ?oc=5"
+  },
+  {
+   "key": "cd89ddda487a8fad445d891b612565c38dee83f6",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Shout out to Alex “we got Dakota Ditcheva at home” Apodaca",
+   "title_key": "52fc7f65fe19c5ef44d09d7629f57ae7e8bbe8c6",
+   "title_norm": "shout out alex we got dakota ditcheva home apodaca",
+   "ts": "2026-08-26T03:39:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyifpo/shout_out_to_alex_we_got_dakota_ditcheva_at_home"
+  },
+  {
+   "key": "62b84dade790d2cc3426aaa375110600fb15eef7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Females, you finally have a Dricus Du Plessi",
+   "title_key": "de902dd1f8c2457d4ea940c3e0ce6a126a50ddd0",
+   "title_norm": "females you finally have dricus du plessi",
+   "ts": "2026-08-26T03:39:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyigqp/females_you_finally_have_a_dricus_du_plessi"
+  },
+  {
+   "key": "2a455565dec4e15e85580817f5ec22732cc07444",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Bobby Green being a complete idiot recklessly driving",
+   "title_key": "233ba99e1d8d77b55a8c1322f75248188699d47a",
+   "title_norm": "bobby green being complete idiot recklessly driving",
+   "ts": "2026-08-26T03:39:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyiiir/bobby_green_being_a_complete_idiot_recklessly"
+  },
+  {
+   "key": "93d26d1b293936802accbfade64018ad959ea6b6",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "These two have got to go",
+   "title_key": "1039ce89e3c6bd38b6655701068c31541ceada42",
+   "title_norm": "these two have got go",
+   "ts": "2026-08-26T03:39:54+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyiwo3/these_two_have_got_to_go"
+  },
+  {
+   "key": "695464580a0f378cf4fc90eab759e386da2970b1",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "¿Cuándo pelean Lester Martínez vs. Luka Plantić? Fecha, hora y boletos para la pelea de box 2026",
+   "title_key": "7ffa6ff8fcea3b3c81b82963ec9129c33f804495",
+   "title_norm": "cuando pelean lester martinez vs luka plantic fecha hora boletos pelea box 2026",
+   "ts": "2026-08-26T03:39:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPck54TG9feklKeVkwbHp6RzNtQ011N0FkbmVDZDYyX1B2Q1pJcVdvWXdoc1dNY1NHUjg2clNVOEVzLTU1TFgxSXFMQ2dXR19fN0o0T2NqcnMwUzhoU3dyTnFTUHZGNHl6OHhUS2puTkh1alJZN3hBQVpzOE02RXE4RXFlaWliQWZoM2U5b2JfRUVXVTJuSERaOFAwSWJSVzdGRXFhbDFqazluYnNUSF9Mc3VsYkNzQjNHcExwRUNtNmJacHd5U3EwR3FqcEpXWnI3MzFWY2NBT3E2emZlMVNOTtIB4AFBVV95cUxPck54TG9feklKeVkwbHp6RzNtQ011N0FkbmVDZDYyX1B2Q1pJcVdvWXdoc1dNY1NHUjg2clNVOEVzLTU1TFgxSXFMQ2dXR19fN0o0T2NqcnMwUzhoU3dyTnFTUHZGNHl6OHhUS2puTkh1alJZN3hBQVpzOE02RXE4RXFlaWliQWZoM2U5b2JfRUVXVTJuSERaOFAwSWJSVzdGRXFhbDFqazluYnNUSF9Mc3VsYkNzQjNHcExwRUNtNmJacHd5U3EwR3FqcEpXWnI3MzFWY2NBT3E2emZlMVNOTg?oc=5"
+  },
+  {
+   "key": "cdd2cd4bd7265dfef9c582680f3c02c225132e13",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "DWCS 89 video: Nick Galanti scores brutal 35-second knockout",
+   "title_key": "4e12c95bd9027d7c147634c5d57c03ca87d9a7e7",
+   "title_norm": "dwcs 89 video nick galanti scores brutal 35 second knockout",
+   "ts": "2026-08-26T03:39:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWHk4Rk4ydk9DRW9pa3lFUGpFQ2JZNjFVdXR0LVlOSG9xYkxQRFJ4anBwbGdNS2x4V3FWdVdhY0JCbWhkSlVQTTQzaVljNlB5RXpVX1BjcmxLQngzcVJzT1laNkVJekJpTGJIQkJ5WEhhenVhTlA5blpPU0lSdUp2eWpwTVpCWG1OZmVETlo1emdKd1l3ZzR2ZXVWVi1XRDJ4Zjh3eUMyLXNRc0FHcmg0ZzV2VVZ5UEpzNDdldEFkckpsbkp5SkZnTW5qYzJWdTRCTm5rZzRCUXotaW0tYkQ3eVc0dF8?oc=5"
+  },
+  {
+   "key": "b45c0b6455af523642dcf7341a97172e54c9f07e",
+   "score": 7,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Bella Mir stunned in historic DWCS upset as Dana White awards five contracts",
+   "title_key": "847d05f354bcb6cd5b52ddf61cd3d757636c51bd",
+   "title_norm": "bella mir stunned historic dwcs upset dana white awards five contracts",
+   "ts": "2026-08-26T03:40:01+00:00",
+   "url": "https://sherdog.com/news/news/Bella-Mir-stunned-in-historic-DWCS-upset-as-Dana-White-awards-five-contracts-202529"
+  },
+  {
+   "key": "d84522e535272dd7f5cf7e392ca800a0b27d4d92",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "New UFC signing sends warning to entire welterweight division",
+   "title_key": "6455b3e886122d381265c4f2e5d3f7f83e238a10",
+   "title_norm": "new ufc signing sends warning entire welterweight division",
+   "ts": "2026-08-26T03:40:02+00:00",
+   "url": "https://sherdog.com/news/news/New-UFC-signing-sends-warning-to-entire-welterweight-division-202528"
+  },
+  {
+   "key": "3ec117b8dd949e35c787b0129f87fe680aef1fcf",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Nick Galanti credits former UFC fighter following 35-second DWCS knockout",
+   "title_key": "305709d78c2937cf8a6945eef9b431675140134c",
+   "title_norm": "nick galanti credits former ufc fighter following 35 second dwcs knockout",
+   "ts": "2026-08-26T03:40:03+00:00",
+   "url": "https://sherdog.com/news/news/Nick-Galanti-credits-former-UFC-fighter-following-35second-DWCS-knockout-202527"
+  },
+  {
+   "key": "3e0f743b769f41b8e5635be1b452adda96d48510",
+   "score": 8,
+   "sent": true,
+   "source": "r/ufc",
+   "title": "Tom Aspinall's striking coach Stipe Drviš confirmed on Instagram live that Tom will not be fighting under the UFC anymore",
+   "title_key": "a2b9bbba141d2f7aaf363648ee664ed3e88ff6ce",
+   "title_norm": "tom aspinall striking coach stipe drvis confirmed instagram live that tom will not be fighting under ufc anymore",
+   "ts": "2026-08-26T03:40:06+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyj0x5/tom_aspinalls_striking_coach_stipe_drviš"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 3,
-  "recogidos": 161,
-  "unicos": 9
+  "prefiltrados": 5,
+  "recogidos": 181,
+  "unicos": 13
  },
  "telegram_offset": 958387804,
  "version": 1
