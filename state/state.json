@@ -2,83 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "36c0fd445b25d263773436f37f6755c837b369a9",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Why does it seem like only Indian fighters can’t break through",
-   "title_key": "64725cca1a68505579420b57ee5bbcd762dfd611",
-   "title_norm": "why does seem like only indian fighters can break through",
-   "ts": "2026-08-12T14:04:42+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vmc9bs/why_does_it_seem_like_only_indian_fighters_cant"
-  },
-  {
-   "key": "f1de244a7b5b8f5375184ed6e71a68f52606694b",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Conor McGregor Shares Six-Word Reaction As Cristiano Ronaldo Marries Georgina Rodriguez",
-   "title_key": "22b1939414a2631e36bdab67501b4de84fb53257",
-   "title_norm": "conor mcgregor shares six word reaction cristiano ronaldo marries georgina rodriguez",
-   "ts": "2026-08-12T14:04:42+00:00",
-   "url": "https://lowkickmma.com/conor-mcgregor-reacts-cristiano-ronaldo-wedding"
-  },
-  {
-   "key": "2f19b3625ae4b77ecfce01c0f6b5ea10cd1e0257",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Inside ONE Fight Night 46 Media Day | Carrillo, Hemetsberger, Nabati & More",
-   "title_key": "49019bdac4ed7b7e43242b3b7e51b50955169b25",
-   "title_norm": "inside one fight night 46 media day carrillo hemetsberger nabati more",
-   "ts": "2026-08-12T14:04:46+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1vmewca/inside_one_fight_night_46_media_day_carrillo"
-  },
-  {
-   "key": "496780d9d124e4f90bb5b98cd0e729a8f3cafcee",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Islam Makhachev questions Ilia Topuria celebrating night before UFC White House loss",
-   "title_key": "bd038f47d75b7262f04c02677e46d41384f76892",
-   "title_norm": "islam makhachev questions ilia topuria celebrating night before ufc white house loss",
-   "ts": "2026-08-12T14:04:48+00:00",
-   "url": "https://mmafighting.com/ufc/504386/islam-makhachev-questions-ilia-topuria-celebrating-night-before-ufc-white-house-loss"
-  },
-  {
-   "key": "925b1afe513acdd5cdf0cb3de88f1558f4a2586c",
-   "score": 3,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Mark Wahlberg settles the UFC GOAT debate and reveals he’ll make a cameo at UFC 330",
-   "title_key": "bc5d6c966fa17efe31372229bd93c277e6ebda60",
-   "title_norm": "mark wahlberg settles ufc goat debate reveals ll make cameo ufc 330",
-   "ts": "2026-08-12T14:04:52+00:00",
-   "url": "https://bloodyelbow.com/2026/08/12/mark-wahlberg-settles-the-ufc-goat-debate-and-reveals-hell-make-a-cameo-at-ufc-330"
-  },
-  {
-   "key": "f65ec72f974743288597bc2c78911c95f140273c",
-   "score": 6,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Dana White infuriates fans by claiming renovated Meta Apex could host UFC title fights in the future",
-   "title_key": "eb3e0b99a82e93507063add93d4e5d25619369e9",
-   "title_norm": "dana white infuriates fans claiming renovated meta apex could host ufc title fights future",
-   "ts": "2026-08-12T14:04:53+00:00",
-   "url": "https://bloodyelbow.com/2026/08/12/dana-white-infuriates-fans-by-claiming-renovated-meta-apex-could-host-ufc-title-fights-in-the-future"
-  },
-  {
-   "key": "83787fb0cb76dbd188ef006850b27a3a22b50a9e",
-   "score": 1,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "the UFC 330 press conference might happen this way😭😭",
-   "title_key": "29f65a7645df5299a6a4be26960748dfbe0cfd02",
-   "title_norm": "ufc 330 press conference might happen this way",
-   "ts": "2026-08-12T14:04:53+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vm8qt7/the_ufc_330_press_conference_might_happen_this_way"
-  },
-  {
    "key": "bf0c6b2c4d6b61a8f0c225f4bbe10214b1971fd0",
    "score": null,
    "sent": false,
@@ -30789,15 +30712,70 @@
    "title_norm": "umar nurmagomedov heavy favourite over song yadong ahead ufc shanghai",
    "ts": "2026-08-26T13:21:04+00:00",
    "url": "https://lowkickmma.com/umar-nurmagomedov-favourite-song-yadong-ufc-shanghai"
+  },
+  {
+   "key": "f198cc11e1e99e6cb0b277f8fce3ae9b6c4c34fc",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Din Thomas approves this message",
+   "title_key": "bc2fd33d4a104d202dfe2eda5727188fda1b3869",
+   "title_norm": "din thomas approves this message",
+   "ts": "2026-08-26T14:09:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vywprc/din_thomas_approves_this_message"
+  },
+  {
+   "key": "dc84dd482051c268dd21b175e8e66750ea5d1d8e",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC legend Ronda Rousey returns to training to help dethrone champion she beat 13 years ago",
+   "title_key": "067ade1e2dbf6824d0103e91f3bf9c75f7b68192",
+   "title_norm": "ufc legend ronda rousey returns training help dethrone champion beat 13 years ago",
+   "ts": "2026-08-26T14:10:58+00:00",
+   "url": "https://bloodyelbow.com/2026/08/26/ufc-legend-ronda-rousey-returns-to-training-to-help-dethrone-champion-she-beat-13-years-ago"
+  },
+  {
+   "key": "0ca773892354a7cdb261bc3a4653f51c5523bd8e",
+   "score": 2,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Can Sina Karimian Upset Bahram Rajabzadeh at GLORY Collision 10?",
+   "title_key": "88427ee9f1189efc328a9088d17f3b563a75600e",
+   "title_norm": "can sina karimian upset bahram rajabzadeh glory collision 10",
+   "ts": "2026-08-26T14:10:59+00:00",
+   "url": "https://lowkickmma.com/can-sina-karimian-upset-bahram-rajabzadeh-at-glory-collision-10"
+  },
+  {
+   "key": "ecc37641f3bacbebaae1291c4bc2ef086067d8ea",
+   "score": 3,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Gokhan Saricam’s UFC future: How far can Turkey’s heavyweight go?",
+   "title_key": "4515d46b22cf93dc870969649f4677e19aab9089",
+   "title_norm": "gokhan saricam ufc future how far can turkey heavyweight go",
+   "ts": "2026-08-26T14:12:11+00:00",
+   "url": "https://lowkickmma.com/gokhan-saricams-ufc-future-how-far-can-turkeys-heavyweight-go"
+  },
+  {
+   "key": "7d777734292957ed4043b274bbdce60926f21d5a",
+   "score": 3,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Can Michael Morales defeat Islam Makhachev? UFC Commentator Says Yes",
+   "title_key": "b05171a1aa4846822e9239e98a478687d6f8e201",
+   "title_norm": "can michael morales defeat islam makhachev ufc commentator says yes",
+   "ts": "2026-08-26T14:12:35+00:00",
+   "url": "https://lowkickmma.com/michael-morales-islam-makhachev-chiesa-view"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
-  "llamadas_llm": 5,
-  "prefiltrados": 4,
+  "descartados": 4,
+  "enviados": 0,
+  "llamadas_llm": 4,
+  "prefiltrados": 1,
   "recogidos": 179,
-  "unicos": 10
+  "unicos": 5
  },
  "telegram_offset": 958387804,
  "version": 1
