@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "193e3a6d3cdd4bd78d156df2f8b3a812c38b06db",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "That's a legit question",
-   "title_key": "c4b26c051664300111b15f4be84ef66d550f5535",
-   "title_norm": "that legit question",
-   "ts": "2026-08-12T12:29:40+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vmafio/thats_a_legit_question"
-  },
-  {
-   "key": "34a796e912ff2dfb08031c26399fb3245799b32c",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam learns a new word",
-   "title_key": "9f5c9c68bfb5eff42c2dd00039b311b496cf5d1a",
-   "title_norm": "islam learns new word",
-   "ts": "2026-08-12T12:29:40+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vmbi7r/islam_learns_a_new_word"
-  },
-  {
-   "key": "243a126b34b9412c87213739ce5dc94afa71a139",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Sharing some stickers I made",
-   "title_key": "34186340d5c3a4431f2a93e65feb9832112b4019",
-   "title_norm": "sharing some stickers made",
-   "ts": "2026-08-12T12:29:40+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vmcejg/sharing_some_stickers_i_made"
-  },
-  {
-   "key": "3ba4592d53550decdd426ffd8a55f5a3f5204fd1",
-   "score": 5,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "17 title challengers have arrived on 4+ straight decisions. Only 4 won. Nobody but Petr Yan ever did it on 6+, which is exactly what Ian Machado Garry brings to",
-   "title_key": "267b8c4f737051d858e755c3b4c5ef2ec7d7c2f3",
-   "title_norm": "17 title challengers have arrived straight decisions only won nobody but petr yan ever did which exactly what ian machado garry brings ufc 330",
-   "ts": "2026-08-12T12:29:41+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1vmcnn5/17_title_challengers_have_arrived_on_4_straight"
-  },
-  {
-   "key": "50945eb9a8d7c86f4e1461533384a58ac65e4660",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Morning Report: Joe Rogan reveals what he considers ‘the most bullsh*t part of the UFC’",
-   "title_key": "5dd6d151146013e02e627236d235fb052e2f58dc",
-   "title_norm": "morning report joe rogan reveals what considers most bullsh part ufc",
-   "ts": "2026-08-12T12:29:42+00:00",
-   "url": "https://mmafighting.com/ufc/504286/morning-report-joe-rogan-reveals-what-he-considers-the-most-bullsht-part-of-the-ufc"
-  },
-  {
-   "key": "4901d5e50bbf4b7210241bdb6893e95143c17f49",
-   "score": 2,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Gina Carano put up a solid effort against Cyborg considering the beast she was facing",
-   "title_key": "247e868bb0dbd5128ef990d969617cac88bc534f",
-   "title_norm": "gina carano put up solid effort against cyborg considering beast facing",
-   "ts": "2026-08-12T12:29:43+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1vlcfg4/gina_carano_put_up_a_solid_effort_against_cyborg"
-  },
-  {
-   "key": "d35dd925b67b462745a65ed729cdcd74f3592b84",
-   "score": 10,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "‘It’s all fake’… Ian Machado Garry believes UFC fans love him despite online hate",
-   "title_key": "cf0fe49823e19108b530b77b3be5c296d375fd46",
-   "title_norm": "all fake ian machado garry believes ufc fans love him despite online hate",
-   "ts": "2026-08-12T12:29:45+00:00",
-   "url": "https://bloodyelbow.com/2026/08/12/its-all-fake-ian-machado-garry-believes-ufc-fans-love-him-despite-online-hate"
-  },
-  {
-   "key": "8a1cecb59b0c3e4329944dfc21fe140bab504fcd",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Can you guess this UFC fighter? Difficulty level - Easy",
-   "title_key": "fc50b4f1399901598ac5c78955f7517b663462ac",
-   "title_norm": "can you guess this ufc fighter difficulty level easy",
-   "ts": "2026-08-12T12:29:46+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vmbr0h/can_you_guess_this_ufc_fighter_difficulty_level"
-  },
-  {
    "key": "36c0fd445b25d263773436f37f6755c837b369a9",
    "score": null,
    "sent": false,
@@ -30778,15 +30690,114 @@
    "title_norm": "austin bashi octagon interview ufc vegas 108 ncaa men volleyball championship 2026 dszd7zqqgb",
    "ts": "2026-08-26T12:02:00+00:00",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQ3d1Nl82QmFhaE1pa3VlVG5aSXUxWG1xc2tMNXZ3T3V4ZDVaOVJVMEFnWHVyaFBKenRsOXVNcHBHU0NCSHBHY2RNaV9iSVFVT1luWUNZTEx4WXhDZ3UwOQ?oc=5"
+  },
+  {
+   "key": "d34973e48630ca4c738f0664f8ff9c2976cf64e0",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "from father to son",
+   "title_key": "0e3d629e7407121e677a53ba08926009b1267341",
+   "title_norm": "father son",
+   "ts": "2026-08-26T13:19:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vytriq/from_father_to_son"
+  },
+  {
+   "key": "efd392f7ec744b2f99c6060397093e6511a82b38",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "How do see this match up goes? No hugging and sniffing the crotch bs.",
+   "title_key": "df14218243c5451d9099ff1a1821db5ef3597141",
+   "title_norm": "how do see this match up goes no hugging sniffing crotch bs",
+   "ts": "2026-08-26T13:19:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyux4r/how_do_see_this_match_up_goes_no_hugging_and"
+  },
+  {
+   "key": "eb8cf81975ccd822a4ea2909c5396a9260fb56a9",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Sirio Hamza Al-Haj Ali logra bronce mundial en artes marciales mixtas",
+   "title_key": "647fa3b880d100fbb5b6953981e206b21ac6b881",
+   "title_norm": "sirio hamza haj ali logra bronce mundial artes marciales mixtas",
+   "ts": "2026-08-26T13:19:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lR3I0VnNzVkZubWxScGhYS2plU3JJcU5ELVNQbDZ4VnJPZDYyTHZhVEpaWi05UGZzcVQzbGVVa0ZsLVZuMTZqZQ?oc=5"
+  },
+  {
+   "key": "e958736b01d33cc79338912351518515b8c538d4",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Olympic Gold Medalist Yuriorkis Gamboa Set to Headline BKB 58 Miami",
+   "title_key": "ab94c209aa11dcbf224f2707fa674074984c9313",
+   "title_norm": "olympic gold medalist yuriorkis gamboa set headline bkb 58 miami",
+   "ts": "2026-08-26T13:19:51+00:00",
+   "url": "https://lowkickmma.com/olympic-gold-medalist-yuriorkis-gamboa-set-to-headline-bkb-58-miami"
+  },
+  {
+   "key": "00b8e4e0887efb858ae333be4f0e1379ba5c1870",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Dana White reacts to Bella Mir’s shocking upset loss on Contender Series: ‘She didn’t have deep water experience’",
+   "title_key": "b14845573f1ee90f2207403976fdc26d1806427a",
+   "title_norm": "dana white reacts bella mir shocking upset loss contender series didn have deep water experience",
+   "ts": "2026-08-26T13:20:01+00:00",
+   "url": "https://mmafighting.com/ufc/507100/dana-white-reacts-to-bella-mirs-shocking-upset-loss-on-contender-series-she-didnt-have-deep-water-experience"
+  },
+  {
+   "key": "acba1a52f9e9370731f059edbc3a15ccac13500f",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Morning Report: Michael Bisping calls it ‘a crime’ for NSAC to withhold UFC 329 fighter salaries for celebrations",
+   "title_key": "533fb24f5a60f17bf41e5b19d73ec945fa89698a",
+   "title_norm": "morning report michael bisping calls crime nsac withhold ufc 329 fighter salaries celebrations",
+   "ts": "2026-08-26T13:20:13+00:00",
+   "url": "https://mmafighting.com/ufc/506983/morning-report-michael-bisping-calls-it-a-crime-for-nsac-to-withhold-ufc-329-fighter-salaries-for-celebrations"
+  },
+  {
+   "key": "02328e53633449c8babe72c0cd8738249bfe84c5",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Terrance McKinney roasts ‘drunk unc’ Adrien Broner after their heated bar confrontation goes viral",
+   "title_key": "fa34d88cdd2f8db020993d0b6c3d8052128185d6",
+   "title_norm": "terrance mckinney roasts drunk unc adrien broner after their heated bar confrontation goes viral",
+   "ts": "2026-08-26T13:20:43+00:00",
+   "url": "https://bloodyelbow.com/2026/08/26/terrance-mckinney-roasts-drunk-unc-adrien-broner-after-their-heated-bar-confrontation-goes-viral"
+  },
+  {
+   "key": "7b677b2988d646583c1e60c41059396a7d179914",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Easily became the most entertaining female fighter",
+   "title_key": "b355af190ee0f3a1851dcfb8bdf339f3e1a8e156",
+   "title_norm": "easily became most entertaining female fighter",
+   "ts": "2026-08-26T13:20:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyvod8/easily_became_the_most_entertaining_female_fighter"
+  },
+  {
+   "key": "585131040dc426d94d07d16432b3386ec687760c",
+   "score": 7,
+   "sent": true,
+   "source": "LowKick MMA",
+   "title": "Umar Nurmagomedov Heavy Favourite Over Song Yadong Ahead of UFC Shanghai",
+   "title_key": "3435673f87fe301713dfc8a2ae84bc0feeacc8b1",
+   "title_norm": "umar nurmagomedov heavy favourite over song yadong ahead ufc shanghai",
+   "ts": "2026-08-26T13:21:04+00:00",
+   "url": "https://lowkickmma.com/umar-nurmagomedov-favourite-song-yadong-ufc-shanghai"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 1,
-  "llamadas_llm": 2,
+  "descartados": 3,
+  "enviados": 2,
+  "llamadas_llm": 5,
   "prefiltrados": 4,
   "recogidos": 179,
-  "unicos": 6
+  "unicos": 10
  },
  "telegram_offset": 958387804,
  "version": 1
