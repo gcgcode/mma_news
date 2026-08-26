@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "bc9c8d0c5298c50f177a4fe482728d57759978aa",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Somebody is lying about their height",
-   "title_key": "da52b04e46b46a04b0ff4d428541cf6dead07542",
-   "title_norm": "somebody lying about their height",
-   "ts": "2026-08-12T08:13:50+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vm5z3w/somebody_is_lying_about_their_height"
-  },
-  {
-   "key": "90529b09ed4867d663011f27eb34754789fba094",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Volk says that Islam vs Volk 1 was his favourite fight, despite him losing that fight",
-   "title_key": "cd6ec7e547a21a817d81e9c12ace1c4263cb2eb7",
-   "title_norm": "volk says that islam vs volk favourite fight despite him losing that fight",
-   "ts": "2026-08-12T08:13:50+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vm6x4l/volk_says_that_islam_vs_volk_1_was_his_favourite"
-  },
-  {
-   "key": "6295654eacac6e11b9228815cbf127f243cc7f30",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "DiJonai Carrington says White privilege post wasn’t about Sophie Cunningham",
-   "title_key": "9a473b3a267837acce003086ce93cfad197ef4a5",
-   "title_norm": "dijonai carrington says white privilege post wasn about sophie cunningham",
-   "ts": "2026-08-12T08:13:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWFJMmpnRE85R2FuMVRIVURuT3JsS1FnQy1sd3h4aUFvZVZTTDlpS21PUWJDV25sTk1FMlVlNmk0OHFaeUY3UmU5bzRZU0YtLWxqS2NkZ0pPRHVmbC00N2hqOUtQUDJvZFpxZkRDb3ZUdmdZakJvSzFUV2pMWldGNm5BOE9oOUt4U3c?oc=5"
-  },
-  {
-   "key": "7fa5db8a9771e2fb79413f75780f32d8b542a7ba",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Espinilleras De Kickboxing Con Protección De Empeine – Funda De Nailon Y Espuma, Cierre De Gancho Ajustable Para MMA Y Muay Thai",
-   "title_key": "c0db8ddd5e2435eec887c24f0120374eab54b968",
-   "title_norm": "espinilleras kickboxing proteccion empeine funda nailon espuma cierre gancho ajustable mma muay thai",
-   "ts": "2026-08-12T08:13:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObl9SNmJuYkd0UXZCY1hqNjlsTE9zdlk2TWJMV3YzXzJ5VjhvNzE4REx5cHBlM1FQMURJay02WWk5MVNCYUZoUWRYbXRfZk9ESlI1NV9seDZsaEEzSHl2U3hDSGNfbEM2ZVAtdndsRVJtUEpyeDIzbm9STy1FMlYxWUx1MElMbkJpeFRpbk1QbjQ?oc=5"
-  },
-  {
-   "key": "6489a3d1c3d584766b7067aa69bbf8502b9cac92",
-   "score": 4,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Alexandre Pantoja coach touts ‘Pantoja 2.0’ ahead of UFC 331",
-   "title_key": "4f307757e16e6fcd4dfdf607e3df5d5ae629c450",
-   "title_norm": "alexandre pantoja coach touts pantoja ahead ufc 331",
-   "ts": "2026-08-12T08:13:54+00:00",
-   "url": "https://sherdog.com/news/news/Alexandre-Pantoja-coach-touts-Pantoja-20-ahead-of-UFC-331-202335"
-  },
-  {
-   "key": "66624d37918a7cd40ef20cb261545ec821a04bda",
-   "score": 8,
-   "sent": true,
-   "source": "AS — UFC/MMA",
-   "title": "Cartelera completa del UFC 330: combates, orden y horarios más alla del Makhachev vs Machado Garry",
-   "title_key": "53ae843891fe46da82319b4507a8ff454e849e6b",
-   "title_norm": "cartelera completa ufc 330 combates orden horarios mas alla makhachev vs machado garry",
-   "ts": "2026-08-12T08:14:01+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNFRCX3NzREpXNFBqWUdUVThqRFJMMUJUR0Vrb2tSdTJXNFBZaWlmMWJKVmFpT2swc3ZSeVdkcHJ1bnZxLVRERzVZcWJVbFVkbGlFdTR2bjNyUGVrdnhzVGpjWHhSNkFhTklQeTZCQnA1eDJqaU10X3Ntb19nQ3lKMjYxbTRhUlhuZzU1RXFDU3lEQXlHYWxxckcwendnMWd1SUY0VGpZYUpmbDZJWkF1bkZtdm9Gdzc4ZWVxOWdxSGdIaUZPYWVya3I2eHRkMnI1VE1WOW55dDVtYWU2M0pYadIB9AFBVV95cUxOUFdiTnVYUzRmSUpaalIwVmNzdlhLV1d4aExuS2pNQzA1Q2VXaXQ1VlZRY0FqanZKRE1sLXNVZVJYaDNQdGdXd1RsV1ZwdzFMMDJPWTJGV2dUa1hRdjNEQWNmYXVoMUt1dUFUNmlzUzlwaVBJN0NJd1AzX2Y5dHd4VEZrc3hiUGVIaU1WdXBjZzlWSGNRemYzLWRoUmVWaVVzUkhhSDRuY1MyWlQxRWlTdGJVN0dWdnhzLXJSOWpXSS16QXFjZU5jeU0xeVJGVlV1ZkFYM1dEWnVJTlhCaFdPRXRfajFrc005NmRNVWNZZTV4UWIt?oc=5"
-  },
-  {
-   "key": "f7f85c65dbfc34258a5c91eb230a2843642028f3",
-   "score": 4,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Grappling icon lays out blueprint for Ian Garry to give Islam Makhachev fits at UFC 330",
-   "title_key": "447ca554e7581f94d0198f1796c523b3e9b6bcf2",
-   "title_norm": "grappling icon lays out blueprint ian garry give islam makhachev fits ufc 330",
-   "ts": "2026-08-12T08:14:18+00:00",
-   "url": "https://sherdog.com/news/news/Grappling-icon-lays-out-blueprint-for-Ian-Garry-to-give-Islam-Makhachev-fits-at-UFC-330-202334"
-  },
-  {
-   "key": "5a4637dad800c3845324f04c6b2ec6584bd24531",
-   "score": 4,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Dana White backs Bella Mir’s UFC, Olympics and boxing ambitions",
-   "title_key": "6520dcdcfed57e39bd4ae417852c64fe934148bd",
-   "title_norm": "dana white backs bella mir ufc olympics boxing ambitions",
-   "ts": "2026-08-12T08:14:31+00:00",
-   "url": "https://sherdog.com/news/news/Dana-White-backs-Bella-Mirs-UFC-Olympics-and-boxing-ambitions-202332"
-  },
-  {
    "key": "6ffb89126b58ae08613e01853c4356a5cfdeb704",
    "score": null,
    "sent": false,
@@ -30789,15 +30701,59 @@
    "title_norm": "whoops wrecked robocop accidentally leaks then deletes pre fight herpes outbreak following ufc sacramento",
    "ts": "2026-08-26T07:32:03+00:00",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQV82UnZGZFl2Q2RYczFGXzE3MVdaUzVtSmtEUmNFd1pwbG9DVEFZOW1HOTRvTEQyUkM4ck9LdURlRUM3aktaajQ2bFNlOHFaejJYZWJqQzZGSTJNQm0tdTFXTE1na1VXUVlGLVJ0WUdCaDN5anc1aUtLbDV5SHhZWUl6WUZzMFVtSGx6WTQ0d3JUMVBU?oc=5"
+  },
+  {
+   "key": "951620593af4fd308ef6ad41c46a309765bcbff9",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Why did ilia’s head movement and defense seem worse against Gaethje?",
+   "title_key": "19eedc8ee55c184058c0b2c73bf6d8384129c3c0",
+   "title_norm": "why did ilia head movement defense seem worse against gaethje",
+   "ts": "2026-08-26T08:22:56+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vypq8y/why_did_ilias_head_movement_and_defense_seem"
+  },
+  {
+   "key": "3f199c5dcc731ab0183e96ea4ee3ddb6aecba9fe",
+   "score": 8,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "UFC DWCS -6000 favorite Bella Mir suffers her first MMA loss in 6 years to Alex Apodaca in massive upset",
+   "title_key": "96e5f9e32ed3e73f54fd36000551e04f42d50429",
+   "title_norm": "ufc dwcs 6000 favorite bella mir suffers first mma loss years alex apodaca massive upset",
+   "ts": "2026-08-26T08:23:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZ1JxbnVNWFc4THRvOHp2ZWUwbms2NFZNMjlKWVlKbUV0TC14ck5WdzgwQ1BCRFFGbUxhVmJJX2E0NnphVTV5SnI2R0t0aUc3WTdaNVBPNEF4MkotR2czN0VwSUpneW1LWTNSdFdsaGtFbGJaSkQ3bERpZnYxNVYyRjhQUXpfbnRXQWRoVy1fNkFfUkZ2QnBMSUNmWVZwTlNlbGhMTm9tVU9xRnktMjd4Z3p1cVYtNWJFcUpaQjdLYjlsM1d3V3RPc1J6c2wyYjFIT1FscS1CMTk2bkY3c2NtVXBzVDdvd0oyaktlT2J2SVVTZFVGMi0wa3lxaTFwaGR0amR4cklEcHhZNjJET3I2bnVWekJzWjdSei1UcWtB0gGjAkFVX3lxTE9LU09CVmtpSGo2UkhkQ2ZpUnB0VGZCdEwtSkRucXRVSkN1YVluTGpZMWtsQ054akQzY2pzNnJLUDNwQk9MMjg0NUdMcnV0dU9sVG5PRzZwalNKVjNTNHBRcktwMjZuOVNYR1M5QVlqZlhFWXJGN0tJLVJ5ZjBNLWVRb0xGT0xVWlV5UU5vSVlOeWFhM3EwZnhGUFlsSTl2Vkx4ZzFXajZQWGlKSVM2VlpIWFBkcVVRUEVaZDFybVI1TTBMY2NMSXZVVl9hN2phQ2hsbEl6UzkxSXN1OEdrZFVwU01oUnRtQnEzbnQ2NndfbmIxTUMzR1lJeHJmNERqVThlckVnVFZ4QU9UejIyZHp0ZU9RdVVGeDdiOGZkOURYWEw4dw?oc=5"
+  },
+  {
+   "key": "f2d9ad7f0fe06a4418e8c3577539dc90bfd57fa0",
+   "score": 7,
+   "sent": true,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Alberto Montes Octagon Interview | UFC 326 Alek Thomas (YXnfOzc3Y9)",
+   "title_key": "fd39076c99cd3cfcbea700ddfeaf91ac43914c2f",
+   "title_norm": "alberto montes octagon interview ufc 326 alek thomas yxnfozc3y9",
+   "ts": "2026-08-26T08:23:12+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UTHozZWQxT2RfVnZaam5iX01BX0dZYjhnLVU1TlFFV1REVzMzWXRaUmZIR0I2bndoMmV0Ykx3NWc2cWpLNlIxOFVNZExKWXUzWTYxQUkwYTZWbm9kQ2gxSg?oc=5"
+  },
+  {
+   "key": "d396c38d3c02a37976ed996233e889c9aaf0e931",
+   "score": 4,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Islam Makhachev is building his MMA GOAT case by risking it all — and that kind of audacity is in short supply",
+   "title_key": "35c6d09fe5436ed88852c09ab7e818128a23555f",
+   "title_norm": "islam makhachev building mma goat case risking all that kind audacity short supply",
+   "ts": "2026-08-26T08:23:16+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNmNJQVIzeUswVWVoNjdyVkEyemhoYW8tQWRydG5WNFV6Y3RhSkxQX1B0cGtuMzRzQ2M4WXR5LXdEcEc1b0YydVpxdTdBS2N4UnZtWWZxcEtZMmtGWmNiaUdTTjRwYXMzRjJBUDhVVk13aGpIV3RBME5SYzh4VmU2S19PZ3NYTzlVSnRfOGU0TnlXaktGSmRQemVUVld6dXFQNTh5M3pDOFg4VVVYUGFpR2ZuRllLVXppWVhpUU1La1RPRGpGQjlrRlgxdmkyWFFvUEFjeVNxb3hJejE3S1M0RjNYYVhvZzdMQklhSWNrSG9Ldw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 0,
-  "llamadas_llm": 2,
-  "prefiltrados": 3,
+  "descartados": 1,
+  "enviados": 2,
+  "llamadas_llm": 3,
+  "prefiltrados": 1,
   "recogidos": 181,
-  "unicos": 5
+  "unicos": 4
  },
  "telegram_offset": 958387804,
  "version": 1
