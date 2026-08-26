@@ -30723,15 +30723,92 @@
    "title_norm": "tom aspinall striking coach stipe drvis confirmed instagram live that tom will not be fighting under ufc anymore",
    "ts": "2026-08-26T03:40:06+00:00",
    "url": "https://reddit.com/r/ufc/comments/1vyj0x5/tom_aspinalls_striking_coach_stipe_drviš"
+  },
+  {
+   "key": "a4b40c8158e9ab4a9ddc3b7d59e91525339ce9e3",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Bella Mir vs. Alex Apodaca (DWCS 03/2026)",
+   "title_key": "fb794d895ec4710c06f0f2ff74ff04f2156c047f",
+   "title_norm": "bella mir vs alex apodaca dwcs 03 2026",
+   "ts": "2026-08-26T04:23:32+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vyie2s/bella_mir_vs_alex_apodaca_dwcs_032026"
+  },
+  {
+   "key": "8a24e0ab8b211594d996c760a3acf8423ea76714",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "WWE's Undertaker Says He Got Phone Call From Brock Lesnar After SummerSlam Retirement",
+   "title_key": "eb88ffaadaefbf48c4cabe3e3db318e4005c0844",
+   "title_norm": "wwe undertaker says got phone call brock lesnar after summerslam retirement",
+   "ts": "2026-08-26T04:23:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONHJMRHVmSU5kX1NGb2tjOTBZS2pFS1N0THhvcHRiLVFqb01KZ1VrX0FOT0tjZUhZLXNYOGpsRXhFMFJsR25sUHk5Yk9uQnVDRjQ0ck5FalF3QnJvNTk2Z3RESGJ4NDk5RDNSZnk3MDAtSnpOb3llUElfWVdqVzBMblhrZ3VrZw?oc=5"
+  },
+  {
+   "key": "0f2a4a58977709b8001725deb9103d33dc2832db",
+   "score": 1,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official]r/mma Betting Discussion Thread - Week of August 26, 2026",
+   "title_key": "c8faa545c82363268c6964555084d5aafd51eb8b",
+   "title_norm": "official mma betting discussion thread week august 26 2026",
+   "ts": "2026-08-26T04:23:32+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vym982/officialrmma_betting_discussion_thread_week_of"
+  },
+  {
+   "key": "10eb8ee72b9c3e9efea0b82482f9f65892c8cfed",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "MMA Orbit on X: \"🚨#DWCS W3 CONTRACT EARNER",
+   "title_key": "619b4fe40cc12a8c744121bfd3d60859f5d6adc2",
+   "title_norm": "mma orbit dwcs w3 contract earner",
+   "ts": "2026-08-26T04:23:33+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1vyin2e/mma_orbit_on_x_dwcs_w3_contract_earner"
+  },
+  {
+   "key": "d6282886e3ec1dc64338a664aa79b3f7e3cc20f2",
+   "score": 5,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "DWCS winner Joseph Kropschot lands UFC debut just weeks after earning contract",
+   "title_key": "54d7b67b5e79551442c5deef56941c99a62608dd",
+   "title_norm": "dwcs winner joseph kropschot lands ufc debut just weeks after earning contract",
+   "ts": "2026-08-26T04:23:34+00:00",
+   "url": "https://sherdog.com/news/news/DWCS-winner-Joseph-Kropschot-lands-UFC-debut-just-weeks-after-earning-contract-202532"
+  },
+  {
+   "key": "439a1549b39a3e0834a2f349bac95370add65c0f",
+   "score": 5,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "A young reporter politely asked Dana White if welterweights Kaik Brito, who won last week, and Ronald Humphrey, who won this week, could be announced next. Dana",
+   "title_key": "a398f0bf42cbcb933412c572b4b4cf547ca7842e",
+   "title_norm": "young reporter politely asked dana white if welterweights kaik brito who won last week ronald humphrey who won this week could be announced next dana weirdly flamed him front everyone there always gotta be one horrible question congratulations sir you tonight",
+   "ts": "2026-08-26T04:23:35+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyljnk/a_young_reporter_politely_asked_dana_white_if"
+  },
+  {
+   "key": "a837a69f32b9e838242aeaca386f03df050e20f7",
+   "score": 4,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Sean Clancy Jr. explains why he waited until Round 2 to finish Gary Balletto Jr.",
+   "title_key": "32260ac2ef5ebf309d07bcf5dbce9fb4aa78c0c1",
+   "title_norm": "sean clancy jr explains why waited until round finish gary balletto jr",
+   "ts": "2026-08-26T04:23:37+00:00",
+   "url": "https://sherdog.com/news/news/Sean-Clancy-Jr-explains-why-he-waited-until-Round-2-to-finish-Gary-Balletto-Jr-202530"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 5,
-  "recogidos": 181,
-  "unicos": 13
+  "prefiltrados": 2,
+  "recogidos": 206,
+  "unicos": 15
  },
  "telegram_offset": 958387804,
  "version": 1
