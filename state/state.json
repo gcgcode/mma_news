@@ -30712,15 +30712,69 @@
    "title_norm": "ufc sacramento star jumped three weight classes one night before landing stunning first round ko",
    "ts": "2026-08-26T05:09:56+00:00",
    "url": "https://bloodyelbow.com/2026/08/25/ufc-sacramento-star-jumped-three-weight-classes-in-one-night-before-landing-stunning-first-round-ko"
+  },
+  {
+   "key": "aeed5c788fbfae7d220a289da653480ad185fa48",
+   "score": 6,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Umar Nurmagomedov not taking Yadong Song lightly: 'Not an easy fight'",
+   "title_key": "114ec224f5b044c8ca9d153d38e79cd8b6b75fc8",
+   "title_norm": "umar nurmagomedov not taking yadong song lightly not easy fight",
+   "ts": "2026-08-26T05:53:48+00:00",
+   "url": "https://sherdog.com/news/news/Umar-Nurmagomedov-not-taking-Yadong-Song-lightly-Not-an-easy-fight-202535"
+  },
+  {
+   "key": "28a7f82704fac8522e1e30180bfa3720820246e1",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Nina Drama reveals how heroic Dana White saved her from ‘crazy stalker’",
+   "title_key": "3d5cb01646876407a5a9c74d7dc80ab47f52c3bb",
+   "title_norm": "nina drama reveals how heroic dana white saved crazy stalker",
+   "ts": "2026-08-26T05:53:57+00:00",
+   "url": "https://bloodyelbow.com/2026/08/26/nina-drama-reveals-how-heroic-dana-white-saved-her-from-crazy-stalker"
+  },
+  {
+   "key": "97ab1e8fb439bcdd876696cf20f802ff39c85afe",
+   "score": 3,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Nina Drama says she once told Dana White about a stalker who was harassing her daily - Dana called counter-terrorism police instantly, they found out who he was",
+   "title_key": "c17c7a53444cc055205f3f7ae78cdc9c99994503",
+   "title_norm": "nina drama says once told dana white about stalker who harassing daily dana called counter terrorism police instantly they found out who put him no fly list so that couldn get vegas",
+   "ts": "2026-08-26T05:55:14+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyigq5/nina_drama_says_she_once_told_dana_white_about_a"
+  },
+  {
+   "key": "d9b6663041884a650acab057b607243dffdc8327",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Biggest upset in UFC history btw",
+   "title_key": "fde1e3912202d1c58de513346a0ac98a407abc29",
+   "title_norm": "biggest upset ufc history btw",
+   "ts": "2026-08-26T05:55:15+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1vyiemw/biggest_upset_in_ufc_history_btw"
+  },
+  {
+   "key": "a911ebc1d5ed6833659cbe1bef293cde7e3986d5",
+   "score": 3,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "'Valkyries': la valenciana Carmen Torner retrata la lucha de la MMA femenina por hacerse hueco",
+   "title_key": "7fe59616130b7fea8a7736eef89002523e01af12",
+   "title_norm": "valkyries valenciana carmen torner retrata lucha mma femenina hacerse hueco",
+   "ts": "2026-08-26T05:55:16+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMkZNQjBfTWFoLUJBSHZvM3paelp3cXJzWENwdUdMeUk3by1QdTFBbVZlT2VxSXkxbGZma2ZVcEJnS2dKX2NyZ2lGSzRuWWlHbW5PVXQ2TkRXamJMek5ZRVJzYkItV0dXMGNOSlhGTFNvbUw5UWJHaURGTV9nbFN3S2ZSMjhHa2xzU2NSaDBneU91RHAxd0l0UzRXaGZyVWhhMUZIdW9yUWNrNGx5YWJLcUlEZ004M2M0akp2VkF6WHNOWVhWcEFsZHI1bnR5SVdDSzNqS1kzRXJDVXhnbDNlVnFRNzlNSFdNMnpYTkQ3eEs4WGFGZDc0?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 1,
   "recogidos": 206,
-  "unicos": 11
+  "unicos": 6
  },
  "telegram_offset": 958387804,
  "version": 1
