@@ -2,127 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "d772c18df96dd137e8c3aa0ad30d5ae1a21dda7b",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islams next fight to make is so obvious. It's time to finally see who the true GOAT is",
-   "title_key": "59f75196350f6ba4ef7a2d0219c8fd8239318aa3",
-   "title_norm": "islams next fight make so obvious time finally see who true goat",
-   "ts": "2026-08-22T09:01:41+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vv6dtt/islams_next_fight_to_make_is_so_obvious_its_time"
-  },
-  {
-   "key": "ddfc47d2cbbb127a95111c4e51039de5ab2ca271",
-   "score": 5,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Daniel Cormier Talks to Usman Nurmagomedov & Asks him to Come to the UFC",
-   "title_key": "e22fecb5fde79c8e6c9cfe30b61c4d0ecd090457",
-   "title_norm": "daniel cormier talks usman nurmagomedov asks him come ufc",
-   "ts": "2026-08-22T09:01:46+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vv6m79/daniel_cormier_talks_to_usman_nurmagomedov_asks"
-  },
-  {
-   "key": "c88123891192b3df3ada3b0ac41e6fb4673c073d",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "🙂😃",
-   "title_key": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-   "title_norm": "",
-   "ts": "2026-08-22T09:46:41+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vv791s/_"
-  },
-  {
-   "key": "473e6beebc9203992033dbcda5f49e504b7e04a3",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "El dilema de Holloway: McGregor, Makhachev o Gaethje",
-   "title_key": "68d2dc98ae376a9db08e22ea398328609ba25556",
-   "title_norm": "dilema holloway mcgregor makhachev gaethje",
-   "ts": "2026-08-22T09:46:41+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWc4Ul9tajFBX3JRUjJRUExma2ZsMGwzSDJCeUR6YU1XeU1MXzAzQVJNNzV4VUhDb1JCcDBaOWlSRWRSVlU4M2tyT3BKYmhDVWR5MW03ZkVfUlRVRndpbUxMR0dWNktXZHQ4RzNSQ203WU9tS0p6bjRHM1V4dHZVOHVQTGNWQTZIREw3T3J0b3lSTEJpdnB3SjZIMzhDeW5OTWw00gG3AUFVX3lxTE9oQlViSGphRGt0MThBUnFnekhYc0YyZExpQ3JZaGFwRWNfS0JFM2ljQUx5NlNfVVlYeFI1SHFUSHZYVmpEaVVRcU5yVFg3SGRaY3ZKbGtFbGt2Z055SDRwOGRXQTVzUVFEUEhXN0RnLWtLb1BjYlN3Z01ZTWp5bTZBVWctRlZnYlVBNDJpeXp1QTdIOXAwbkhXX1B2dDFHdDNjOHJoOVphblBTSGItb0lCSDFYV2Q5Zw?oc=5"
-  },
-  {
-   "key": "25deb5712bee1fecc8c8de10e7cb4d890006ca3e",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Anthony Hernandez vs Gregory Rodrigues Predictions, Picks & Odds",
-   "title_key": "bcab86ce1525f527c08f7902bff8840c71931d06",
-   "title_norm": "anthony hernandez vs gregory rodrigues predictions picks odds",
-   "ts": "2026-08-22T09:46:41+00:00",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbExqZ1Z2RFZKSlAxQWU4VmlhdmFWc2g0Qk9Wd0lOWTAtemY0c2UyaGh6YXFqVVE4WXVmRTI2QVg4cmpwWnc2dl8tWi1EUmlMaHZzM2dCTXBhWE14WC1zaWxaa1lKTEtlS25BaHMwOVBpYmIzTWxuczc1U0l6NVVtSFlVZEpKamlSX0NXanRWMkw?oc=5"
-  },
-  {
-   "key": "c4a1b8e5efc4bc1f3ec95f8a7f37e66c1a07e348",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Csepel UFC II.",
-   "title_key": "c364f7cf679e9db28749e8d66c490d0162758fb8",
-   "title_norm": "csepel ufc ii",
-   "ts": "2026-08-22T09:46:41+00:00",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3c3YmM1TlNMMUVZYmw0ZXhPeFg0a0hBdXNYZVpkU0ViLXdxOHR4alIwcTFaYUJPenJWaTlkTnhQM2ZMNFBJZDdUOUZXMkZtQ3NzTkpnV1E5RGJDV2psT2NKRUtFOHkzeXpGZThPLWJ3VVNfdjlHTVRmaHc2cE9ka2hTaUg?oc=5"
-  },
-  {
-   "key": "b6ec9d90c20ece16587f44658d5772943de4de22",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "People thought this guy would run through Strickland and be Khamzat toughest test because he beat Roman Dolidze, and now he’s just a very slightly the favorite ",
-   "title_key": "e28f51be136f58ee059b4d116b06d5cea30d6103",
-   "title_norm": "people thought this guy would run through strickland be khamzat toughest test because beat roman dolidze now just very slightly favorite against robocop crazy how fast sport moves",
-   "ts": "2026-08-22T10:18:47+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vv7w7l/people_thought_this_guy_would_run_through"
-  },
-  {
-   "key": "0dfc288c64c4b59ee7ab06ffa43214d32e8dedd2",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Whatever happened to him man... he seems like an entirely different being here. He was so poetic and acute with words. Even though he now has become someone I d",
-   "title_key": "1051467aecd7c64f8530ae06fe353325b1de8202",
-   "title_norm": "whatever happened him man seems like entirely different being here so poetic acute words even though now has become someone don like but kinda miss who used be",
-   "ts": "2026-08-22T10:18:47+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vv88bi/whatever_happened_to_him_man_he_seems_like_an"
-  },
-  {
-   "key": "bb0858882f80b51598d2034e88f160c3b9d6ecf4",
-   "score": 7,
-   "sent": true,
-   "source": "Marca — UFC/MMA",
-   "title": "Hecher Sosa: “Estoy en UFC para pelear contra los mejores y demostrar que soy uno de ellos”",
-   "title_key": "487259bbcd75405d89baea04ea0999d3dd4d3803",
-   "title_norm": "hecher sosa estoy ufc pelear contra mejores demostrar soy uno ellos",
-   "ts": "2026-08-22T10:44:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3dGak52Yk44UDhqTXhNS0hWM1Z1Q2RYdUJpN1pEYkw2SEdOVWlSdmp6LXpsT1l0eEZiQ3llQmdDU1Iwc1hYQmRvYUtBMkVpaDhHcGNkWE5Ra1dPd1k4bURmWW5NcnRwZkFnOGJLOUI5X2t0M25DQkM0LW11VlpSRS05c2tDc0thUFRGSjZVT0g2RnlDbkHSAZYBQVVfeXFMTndzd1dDN2hHOTRFME1vNnFfREZqRncxZEtGYXMxZ2VtTy1fLW8zd0lDQzVmbWl1UXRZal8tR1NOMDdvTXY1YWtkb2lKaEVPYU4tQ01HRnkwbW55S0c2X21HNUszN3ByTU9PVGtFc3ozZk5Ednl6eElHdk0zUmFsN2hxbEJmemJ2MV9pbl9OZmdEQXpHTWJB?oc=5"
-  },
-  {
-   "key": "b0dc3058fd8b0c26568d8d71abd849c935c21abc",
-   "score": 6,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "UFC signs undefeated two-weight world champion with debut reportedly set for October",
-   "title_key": "17718fdcb4dd2bd7ad70ef8df4256c675039536e",
-   "title_norm": "ufc signs undefeated two weight world champion debut reportedly set october",
-   "ts": "2026-08-22T11:16:53+00:00",
-   "url": "https://bloodyelbow.com/2026/08/22/ufc-signs-undefeated-two-weight-world-champion-with-debut-reportedly-set-for-october"
-  },
-  {
-   "key": "dd881c53630608f0dc1405868ee536e061db7e1e",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Why Javid Basharat swapped UFC for PFL after leaving promotion on a win",
-   "title_key": "b792256b9fb6ae59c0b6465ba56e57d29d9cf179",
-   "title_norm": "why javid basharat swapped ufc pfl after leaving promotion win",
-   "ts": "2026-08-22T11:16:57+00:00",
-   "url": "https://bloodyelbow.com/2026/08/21/why-javid-basharat-swapped-ufc-for-pfl-after-leaving-promotion-on-a-win"
-  },
-  {
    "key": "8fc2065933a7a66d22ca6e29577726c3bc6d2d96",
    "score": 3,
    "sent": false,
@@ -19371,15 +19250,125 @@
    "title_norm": "fabia sintes toma relevo espana busca volver ganar ufc",
    "ts": "2026-09-05T08:47:18+00:00",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzd1aThFVXRZeHhqVlFTZ0xDZXQ0SEVVRGpERnp5U05fNERpLUh6QlU0M2FOV19Rc0tDWkphN0JQd2tQenh6STJLYjBULTdrNGpzd2JzLUM5endjb1J1c2dyTDdoYXMwMEJnTDdDZGNtU01odkREX1huWTlZUXBkZm8wMWtkN2h3WGlDNmNvQ2czdkVzSUlQM0pDanRPb1haeTA2V1hpeWp0QzRLa3hHN09Tb9IBxwFBVV95cUxPc0wyRVpjOUs3bnZnNkpmZnlfWi1fZjY1MFdjRDBNUDYzR3BMeElrdThnYXpaeTlHTlg4X3VveHlPc1pKdzV3bmZYOW4yWUlLSE9rWmhkblcteGdrUVFtc1h4UmJkODlkTmFKQlYyNkJsUGR6d2VZNnhqV0JSX01paTB2X01Hek9JMVdjS0NpVkR1alJqZFc1Ql83aEt6amZHU3FUTVJ4eW42RS13Mmwta21UNjVIRnk4VFd5NmVIQUJ5bWlRcnQ0?oc=5"
+  },
+  {
+   "key": "add64ab603517a074c5aa09366c86ec4e7d9e4ed",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "and there are people who will say WW is better lol",
+   "title_key": "cb695f1560b1baef11b7f29a9ce7616d046e34eb",
+   "title_norm": "there are people who will say ww better lol",
+   "ts": "2026-09-05T12:24:59+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1w7veee/and_there_are_people_who_will_say_ww_is_better_lol"
+  },
+  {
+   "key": "aec58209c835fe64b81cab9523547408fd8fdfa6",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "RIP",
+   "title_key": "ab8e595618bc5f23916675978911ffae75f50e81",
+   "title_norm": "rip",
+   "ts": "2026-09-05T12:24:59+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1w7x1ng/rip"
+  },
+  {
+   "key": "613827c2eb3b0da921362d36ffa19a7c4938b89c",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "lol",
+   "title_key": "403926033d001b5279df37cbbe5287b7c7c267fa",
+   "title_norm": "lol",
+   "ts": "2026-09-05T12:24:59+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1w7xdwr/lol"
+  },
+  {
+   "key": "23e5b071772bd9b9bc05ae738c9494e06efa6794",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Ilia Topuria drops \"My story, written by me\" on his website after loss to Justin Gaethje",
+   "title_key": "ecc3bda58605c1b15e9b4aa8b928189c5e9c304e",
+   "title_norm": "ilia topuria drops my story written me website after loss justin gaethje",
+   "ts": "2026-09-05T12:24:59+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1w7ym1o/ilia_topuria_drops_my_story_written_by_me_on_his"
+  },
+  {
+   "key": "5d4a6a1557088cecd9478b75ac35a042fe3b42cd",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Actually true",
+   "title_key": "555df64d390c8be0aa4aad293d070362e946c51f",
+   "title_norm": "actually true",
+   "ts": "2026-09-05T12:24:59+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1w7yoe1/actually_true"
+  },
+  {
+   "key": "3d26ef6b229e421d4942c6c6db02fb98451fa2f6",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC Paris predictions",
+   "title_key": "22313c77551e0ec47ffc6a485117abcd8ed0617d",
+   "title_norm": "ufc paris predictions",
+   "ts": "2026-09-05T12:25:04+00:00",
+   "url": "https://mmafighting.com/ufc/508477/ufc-paris-predictions"
+  },
+  {
+   "key": "01ad5e13966d4b0474ec9caf46c91a5899625587",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Katie Taylor vs. Flora Pili live round-by-round updates",
+   "title_key": "27feacb0e7cf4ed0d55ead032ab18ead4a017bd5",
+   "title_norm": "katie taylor vs flora pili live round round updates",
+   "ts": "2026-09-05T12:25:07+00:00",
+   "url": "https://mmafighting.com/boxing/508546/katie-taylor-vs-flora-pili-live-round-by-round-updates-boxing"
+  },
+  {
+   "key": "084ffeb634cf07493358af01b4c096df6d29594a",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Taylor vs. Pili Results: Live updates of the undercard and main event",
+   "title_key": "bfc079fc1f4187e48b524c3719222245bcb864b9",
+   "title_norm": "taylor vs pili results live updates undercard main event",
+   "ts": "2026-09-05T12:25:10+00:00",
+   "url": "https://mmafighting.com/boxing/508537/taylor-vs-pili-results-live-updates-of-the-undercard-and-main-event-boxing"
+  },
+  {
+   "key": "3c239dbda2659813e0280fcf52f6c4af1f33d992",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Female UFC star hits back at Movsar Evloev’s harsh take on women’s MMA: ‘You hardly fight’",
+   "title_key": "eac4084778024e39be90d37a4e232ca5788b3b56",
+   "title_norm": "female ufc star hits back movsar evloev harsh take women mma you hardly fight",
+   "ts": "2026-09-05T12:25:15+00:00",
+   "url": "https://bloodyelbow.com/2026/09/05/female-ufc-star-hits-back-at-movsar-evloevs-harsh-take-on-womens-mma-you-hardly-fight"
+  },
+  {
+   "key": "5778ed372a7b979bebcfaf6ab93990e263e7c214",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Ciryl Gane leaves the door open to Alex Pereira rematch while admitting Tom Aspinall may not be next",
+   "title_key": "f458cd5e9c437e778bc780466c690e77701df34c",
+   "title_norm": "ciryl gane leaves door open alex pereira rematch while admitting tom aspinall may not be next",
+   "ts": "2026-09-05T12:25:21+00:00",
+   "url": "https://bloodyelbow.com/2026/09/05/ciryl-gane-leaves-the-door-open-to-alex-pereira-rematch-while-admitting-tom-aspinall-may-not-be-next"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 5,
+  "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 7,
-  "recogidos": 212,
-  "unicos": 92
+  "prefiltrados": 5,
+  "recogidos": 92,
+  "unicos": 38
  },
  "telegram_offset": 958387804,
  "version": 1
