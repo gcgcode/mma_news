@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "fd825fa966e7dd02faa53d3155792393ff7bba52",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Need I say more?",
-   "title_key": "dd1b8da323372b8b9b0aead49963bcd4086c6ed6",
-   "title_norm": "need say more",
-   "ts": "2026-08-22T23:56:42+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vvqxfm/need_i_say_more"
-  },
-  {
-   "key": "d930625971a4c7c16295df631a72b24a5e9a1964",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "We’re good Tom Aspinall, we have Shamil Gaziev",
-   "title_key": "baa303fc222e5ca6887c38b61e08140b37e47a14",
-   "title_norm": "we re good tom aspinall we have shamil gaziev",
-   "ts": "2026-08-22T23:56:42+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vvqy9b/were_good_tom_aspinall_we_have_shamil_gaziev"
-  },
-  {
-   "key": "ea1e4f6ac8ecb53de2fa1cd41a210c4f54b49147",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Absolute chad",
-   "title_key": "1bfa48586234b06d2bbd6a8b0f923ca4a35f8d88",
-   "title_norm": "absolute chad",
-   "ts": "2026-08-22T23:56:42+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vvr2cy/absolute_chad"
-  },
-  {
-   "key": "e58853e3a025d8b5e6620437f80c6f5734aa268e",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "UFC Sacramento video: Shamil Gaziev makes Kennedy Nzechukwu pay for hands-down defense with 1-punch knockout",
-   "title_key": "cf5566f4f8abe14f60837b657f0b13fba012e5e0",
-   "title_norm": "ufc sacramento video shamil gaziev makes kennedy nzechukwu pay hands down defense punch knockout",
-   "ts": "2026-08-22T23:56:44+00:00",
-   "url": "https://mmafighting.com/ufc/506430/ufc-sacramento-video-shamil-gaziev-makes-kennedy-nzechukwu-pay-for-hands-down-defense-with-1-punch-knockout"
-  },
-  {
-   "key": "86c997714b16248772f3bb21a407eebb32769f9b",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "UFC Sacramento video: Chris Padilla puts Nasrat Haqparast to sleep with shocking last-second choke-out",
-   "title_key": "798137b1fd7bc81fed17d44c177771409deb4d51",
-   "title_norm": "ufc sacramento video chris padilla puts nasrat haqparast sleep shocking last second choke out",
-   "ts": "2026-08-22T23:56:46+00:00",
-   "url": "https://mmafighting.com/ufc/506412/ufc-sacramento-video-chris-padilla-puts-nasrat-haqparast-to-sleep-with-shocking-last-second-choke-out"
-  },
-  {
-   "key": "632319f2942eb6acd9808a852036dfdc5dd65b31",
-   "score": 6,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Shamil Gaziev returns to win column with terrifying one-punch KO at UFC Sacramento",
-   "title_key": "0eefa48f76593cf87cea74eb44850e707d8fd9b9",
-   "title_norm": "shamil gaziev returns win column terrifying one punch ko ufc sacramento",
-   "ts": "2026-08-22T23:56:50+00:00",
-   "url": "https://bloodyelbow.com/2026/08/22/shamil-gaziev-returns-to-win-column-with-terrifying-one-punch-ko-at-ufc-sacramento"
-  },
-  {
-   "key": "d60bb057573cacee17413b92283685b0d1bdf8db",
-   "score": 6,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Conor McGregor teammate Eoin Sheridan scores KO of the Year contender in PFL Tampa opener",
-   "title_key": "18e9aea410e051738ea81bc3927e3ed9ef213202",
-   "title_norm": "conor mcgregor teammate eoin sheridan scores ko year contender pfl tampa opener",
-   "ts": "2026-08-22T23:56:51+00:00",
-   "url": "https://bloodyelbow.com/2026/08/22/conor-mcgregor-teammate-eoin-sheridan-scores-ko-of-the-year-contender-in-pfl-tampa-opener"
-  },
-  {
-   "key": "4b70d6a9fbd8a8123a242bd328e364f3fe30901a",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "ASPINALL AINT READY FOR HIM BABY. NASTY KO",
-   "title_key": "3c424a9705e7ed3946c7abc2801714fd84c664fd",
-   "title_norm": "aspinall aint ready him baby nasty ko",
-   "ts": "2026-08-22T23:56:52+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vvqw8n/aspinall_aint_ready_for_him_baby_nasty_ko"
-  },
-  {
    "key": "090b40c500346456b832c9e5519e70eb42f5a1b7",
    "score": null,
    "sent": false,
@@ -19162,15 +19074,92 @@
    "title_norm": "full ufc 332 card finalized star signing roberto soldic debut among main card additions",
    "ts": "2026-09-05T23:20:03+00:00",
    "url": "https://bloodyelbow.com/2026/09/05/full-ufc-332-card-finalized-with-star-signing-roberto-soldics-debut-among-main-card-additions"
+  },
+  {
+   "key": "e613e6538d9c8bbc92367e616396336e16a05494",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Los influencers se ponen los guantes",
+   "title_key": "d2edfe337988f422fc4ee5471b88d7b5c7b2c271",
+   "title_norm": "influencers ponen guantes",
+   "ts": "2026-09-06T01:05:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm44RGQ4eFBPNEJzazJIbTdtZXp4REd2clpPSEpKZmozMXBSclYxT2Q1YmJPZ1c0UXQxaXJDdFNoZnlURHZ3dTVBcFNOUGJTcnNiNWRtVDA3bEtXZnZkdDBBdEZkOE5oQU01ZGF2U2hRaEtvd3BnTGthMUJwbHlRWWM2WWExaE45QVlaT1paRHbSAaQBQVVfeXFMTUVFNnJmOFZIUHY5anctcUxwQjg0dkxQVXhPaDFMak9lYVZDNGRkQ2E5V0Z3cU54eV9uQk5VLS1xM0ZWbUFTazNEYVBValZtbFlBZEJ6RHVSd1NYQWRhUlo2WTY4REo3RDBvTllVREVFSV9pNW9Wcm9LbWNIenJJUnMzQ3ZLZFdjNUJmUVRCMHk4OGYxdTZZUFZoUXd4SWpNSndFQk8?oc=5"
+  },
+  {
+   "key": "9f87897df8e3ad7f664a6b62d59de6514359d90d",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Salahdine Parnasse calls for ‘dream’ Max Holloway fight after stopping Dan Hooker in his debut",
+   "title_key": "3801c0ff79ee88a782b3532967f97076276d38b6",
+   "title_norm": "salahdine parnasse calls dream max holloway fight after stopping dan hooker debut",
+   "ts": "2026-09-06T01:05:28+00:00",
+   "url": "https://bloodyelbow.com/2026/09/05/salahdine-parnasse-calls-for-dream-max-holloway-fight-after-stopping-dan-hooker-in-his-debut"
+  },
+  {
+   "key": "63a12a1b529f2e9fd5f26f9d75b070aba47559ec",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC Paris Post Show: Reaction to Salahdine Parnasse’s quick win over Dan Hooker, and where he goes next",
+   "title_key": "cbbae2d8547adf4cd10eb04bc4e66c2f3a681cbb",
+   "title_norm": "ufc paris post show reaction salahdine parnasse quick win over dan hooker where goes next",
+   "ts": "2026-09-06T01:06:45+00:00",
+   "url": "https://mmafighting.com/ufc/508931/ufc-paris-post-show-reaction-to-salahdine-parnasses-quick-win-over-dan-hooker-and-where-he-goes-next"
+  },
+  {
+   "key": "b709afe103824550d04dfef5104416695f03f3da",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Paris bonuses: Salahdine Parnasse scores big in debut",
+   "title_key": "796fd9724c0e1ec301fd5301394cd5f2b35fe8ff",
+   "title_norm": "ufc paris bonuses salahdine parnasse scores big debut",
+   "ts": "2026-09-06T01:06:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ2Zldjd2S2s0elB2SjAwRUR6Rm9DdkhwZl9sSGxyb3loelZRMzd4cmFrNkFSRjJ0YVlsMVVkb0FQcnRPUjc2WnJ4LVBneU9qNFI5NEpBTHRmOUM4ZU5ZTDNPV1RkdUMwZ1pKX2hHSkNjSF9wS2o3LS1yM2wwek1YUl9JaUREOTdKVXhGanJORkh2djhfazdZdUhmTFFwTjF1WEtaMmc2ZmJxU0VneVU0bHFka2NvRWJDbHI4SWYxeDQ2M0JZLUZlNzFUVE90OE1ObVlUc25ORXozQnc5aUNNMzRwdkxwZFc5WGRfLUxHNEF0MEUtOVVGcUprRDY5WXM?oc=5"
+  },
+  {
+   "key": "889d71afda521ed88810044d76191aaccea03951",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Paris results: Salahdine Parnasse sparks Dan Hooker, ready for Max Holloway",
+   "title_key": "fb39adc3f043d5a445d4f586c0d6358a0f6eac23",
+   "title_norm": "ufc paris results salahdine parnasse sparks dan hooker ready max holloway",
+   "ts": "2026-09-06T01:06:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYkxuVndhVm9fSHJIWjF1VllScWpFSm9WUF9zNWNNTUlsbElLVmNPRWdiSVQ3Ti1qc19mYXJXTlUwSVc5eXZ2T1p4NnZlLUVoVWlYSWo4clN6cWt5UjA4Q0JBWjk2d25IZWNqOXlTeE9GSzVXMTRXaDZ5SXEwLTQ4RlRJMU14RHRsX2N6ZXFIUHZhbzJmOFRoR2s5a29YYi1OU2REQ21nNEM2dUZqZVo2RFM4aHc0VDlkekE0UGFyaWxCSUJsQjBFUlo2TGE1MUpMbnc?oc=5"
+  },
+  {
+   "key": "ec59a093c1e3ec6db8a4d83637972c4efaa0ecf5",
+   "score": 5,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Michael ‘Venom’ Page doubts re-signing with UFC by putting himself in their shoes after UFC Paris win",
+   "title_key": "ae2efdc79a2e9fe7bb53b14ba8f0f356800759f2",
+   "title_norm": "michael venom page doubts re signing ufc putting himself their shoes after ufc paris win",
+   "ts": "2026-09-06T01:06:50+00:00",
+   "url": "https://bloodyelbow.com/2026/09/05/michael-venom-page-doubts-re-signing-with-ufc-by-putting-himself-in-their-shoes-after-ufc-paris-win"
+  },
+  {
+   "key": "034475b014891a0a62d8af8de9409a19cefd4d17",
+   "score": 8,
+   "sent": true,
+   "source": "Marca — UFC/MMA",
+   "title": "Salahdine Parnasse debuta a lo grande en la UFC París con K.O. ante Hooker",
+   "title_key": "44001189bc7f1e5d6ed69ee73dbdf646b0b852b8",
+   "title_norm": "salahdine parnasse debuta lo grande ufc paris ante hooker",
+   "ts": "2026-09-06T01:07:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWtmU2xMZThXT2ZabGlkTXlpV0hUOW55OW9zakhrRzN2YTF5ZVBTOEFDWkpBMTNCcE5xSnVmMXRuOVpkZWVIWUlHRnJCWFBwWmxieGxsSng3QTRKdV9zNGxNdlBHZkVzdkpRUkNOekM0TzJLbzlWd0VwN082NWdRaU1ReDVjeVY0UFpWUDkxUk1kOGdkd21SenFQZm5QV2dyZkJxM9IBpAFBVV95cUxNbnFTQVFNV2xhQWFEakJzQUh5d1R3Y0lrdDRzbWhKbUFGSmVmRGFJSEZGUXczQ1FldG5iSmhSSXNWcENqcm5XSUZ6MmE4MFpmNk9oeHZWU1YwQzF5cVhnN0s0SHZoUmplVkpFMDR6X3BEUTYyTDJZekp6LWF3STh4Y0NpTkNEZVVSSENSTTVRcy1Ld3c2bF8wNzFmZENHVUhsa0ZYTQ?oc=5"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 13,
-  "recogidos": 187,
-  "unicos": 96
+  "prefiltrados": 2,
+  "recogidos": 165,
+  "unicos": 82
  },
  "telegram_offset": 958387804,
  "version": 1
