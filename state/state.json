@@ -2,182 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "6d9f82e46d1e0e6aff936136f15044551295e015",
-   "score": 8,
-   "sent": true,
-   "source": "Google News — MMA en español",
-   "title": "Yair ‘Pantera’ Rodríguez fuera del Main Event de Noche UFC 2026",
-   "title_key": "1ffe592deda18166dc1d33ab6b81bed5e25718f2",
-   "title_norm": "yair pantera rodriguez fuera main event noche ufc 2026",
-   "ts": "2026-08-23T16:47:31+00:00",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0U1NmZFU0hXNUZkMkFMOFNiMlU5dGtwSjVjQktzMHBLcEJ4UWpXNmt3eElxUHVoa04zaGkzdTZvRXFRZGxSblRDZ2dYYzRnN3J1Q0o2TWRyTm10V1gwUjVsRXR4RTd2YXl1VFVDdVpVZXZqYzdrSTVVMEZ2MnBiYUtobUpxWmJpUlhJa3JyeENHa25ZOXBLdkdZS3BoVEk?oc=5"
-  },
-  {
-   "key": "dfc993bd97727797de035a9669cc3e33ee521cae",
-   "score": null,
-   "sent": false,
-   "source": "TUDN MMA",
-   "title": "'Hormiga' González se quiebra al despedirse de Chivas en emotivo video",
-   "title_key": "7b58679235def5ed0a37e003cb0daa8f247c339c",
-   "title_norm": "hormiga gonzalez quiebra despedirse chivas emotivo video",
-   "ts": "2026-08-23T17:17:40+00:00",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVlkVUNuUTQxVHk3SFBhcXQwU0hhMEFqTWg5eU1QdjJIYnd5cGxvTkNDOFdDSDN4WGkxaXowMHZNd1lQYk9MczBnZVN0SlI3a1NzU25RQTdCWXJfYUtzWFFVbUUyWmhtMmZ6d1dPY2tpNExLSjlCNnlPVDFHa20zSkFTRmFNd2VnRElBQ3pnVTFCa0JWcV9oUlF0N2VPUkduRjVLSEd0bVZTVGdaMHVv?oc=5"
-  },
-  {
-   "key": "002be93deffc019223b77a1fb74cf58a24cdbda6",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Good to see these guys getting along after all the drama",
-   "title_key": "bc9f11de136849ce02218861da93c09087eea3ba",
-   "title_norm": "good see these guys getting along after all drama",
-   "ts": "2026-08-23T17:17:40+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vway1p/good_to_see_these_guys_getting_along_after_all"
-  },
-  {
-   "key": "1798c9d6ee87f9bb14cfb0823b8b62bae608dcf0",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Glad Bo lost yesterday",
-   "title_key": "eb348a9e07c68f5f5b80ca0553b02d508288a489",
-   "title_norm": "glad bo lost yesterday",
-   "ts": "2026-08-23T17:17:40+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vwcciu/glad_bo_lost_yesterday"
-  },
-  {
-   "key": "73f5222547e3c8eb36de5c3477769f152165d06d",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Ex-UFC star who many think ‘beat’ Valentina Shevchenko loses another PFL fight",
-   "title_key": "06134759102e5c1d14fc19c937d6c315bf6fff5c",
-   "title_norm": "ex ufc star who many think beat valentina shevchenko loses another pfl fight",
-   "ts": "2026-08-23T17:17:45+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/ex-ufc-star-who-many-think-beat-valentina-shevchenko-loses-another-pfl-fight"
-  },
-  {
-   "key": "9d89b97f13fd985fbec0a1e8ec714b788a3e61ab",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Bit of a pointless post but this sport’s fanbase is so filled with hate towards fighters (Islam, Ilia, Aspinall…) and between the fans. Can’t we all just enjoy ",
-   "title_key": "bae7b4185c90707cd29f6b7d56b6eba30d5def95",
-   "title_norm": "bit pointless post but this sport fanbase so filled hate towards fighters islam ilia aspinall between fans can we all just enjoy fights",
-   "ts": "2026-08-23T17:17:46+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vwbbsa/bit_of_a_pointless_post_but_this_sports_fanbase"
-  },
-  {
-   "key": "78cb00f4e862e35244ca4c0b82af54701ca64d46",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Who has the most vicious GnP in UFC history?",
-   "title_key": "383d1583668c166a0a9c4fffdb6c2cfce0c2aace",
-   "title_norm": "who has most vicious gnp ufc history",
-   "ts": "2026-08-23T17:17:47+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vw9w2z/who_has_the_most_vicious_gnp_in_ufc_history"
-  },
-  {
-   "key": "adc61e4018002a1ef499abff085ef2e58a934ced",
-   "score": 7,
-   "sent": true,
-   "source": "UFC Español",
-   "title": "UFC Sacramento: Rodrigues Se Impuso A Hernández Tras Cinco Rounds De Guerra",
-   "title_key": "b4f7476dd4bed3089631c53511ecf07996ee6a80",
-   "title_norm": "ufc sacramento rodrigues impuso hernandez tras cinco rounds guerra",
-   "ts": "2026-08-23T17:17:49+00:00",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1dRdUMxNE5WVzMwWmNZODgwRmczczQ0MXl3VTlTejc4eTFocmNXQjNNQ0VIWGszZjJkVUdXdW84bTgwWUl6ZW1SRzZySkdGOFU0NjI2QXNDWUgzeFZGc2dibkNTWmtjQW81M0hMekxZNGZJNTBzakNsdG54RlI4dkVBMkVqWTNILTdVYjhFLWFoWGE4OHh5STR6cnZPblA2VHFjRExkaw?oc=5"
-  },
-  {
-   "key": "7ab5e8d1d883ca569c9a43a80b2930c0109f4b0d",
-   "score": 4,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Dana White: Anthony Hernandez lost, but 'gained a lot of respect' at UFC Sacramento",
-   "title_key": "9b2a1b3ab9909ed54e8978804506e87a90f7d79e",
-   "title_norm": "dana white anthony hernandez lost but gained lot respect ufc sacramento",
-   "ts": "2026-08-23T17:17:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa1Frc1lUeDUxa3pZcEgweUNOZ1RGN0tjYW40LTI1dDFmaEJfMVozYk5XeERuT2ZLenphQklRS2kxQXZqNDhhMVhTSDlsMDNTMVE5VHdJUURoaVFmTnJVOWxMbnlJWUlYZlVRb3lfS0VoWHUtMVRmRHhxOWJWM1hZM291dXNGNlJkbXc?oc=5"
-  },
-  {
-   "key": "9c26e23cb063c498c03a50357332d1d9471cf677",
-   "score": 3,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam Makhachev and Dustin Poirier taking a picture together at the PFL event",
-   "title_key": "212125416522c430ba1edb817ef89331908852c0",
-   "title_norm": "islam makhachev dustin poirier taking picture together pfl event",
-   "ts": "2026-08-23T17:39:45+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vwchuu/islam_makhachev_and_dustin_poirier_taking_a"
-  },
-  {
-   "key": "b2f8754ac4f13af0b9ea9b7442ab901876997469",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Wehen Wiesbaden vs Leverkusen: estadísticas y datos en directo | DFB Pokal 2026/2027",
-   "title_key": "6710fac6a8295c185c644787d2696329124177d4",
-   "title_norm": "wehen wiesbaden vs leverkusen estadisticas datos directo dfb pokal 2026 2027",
-   "ts": "2026-08-23T17:55:31+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQemNOM0xNZ1o3WFAwMWdhZGFFMlBQRkQ3WU1SWHJZLXRUeF8yTkVSajMzSm1VeU9LU3B2UUE1dFRFU3BBU3EwN1p3M09aMjRxVjY5YVNYTTdET3JjZi0xYjBTRG9YT1g2c0N6UU5RTlgxUUZwcWwtRXQwQUxnRDZSbC1iRE14dXFfaWJxOVktOEVRN0pfWUpXbllSVDM0ejdJU0VkMFBHZWxYSk91azVMQ1JubVVGVDA?oc=5"
-  },
-  {
-   "key": "73f5b63b8eec15302bf7d13d3d78362347b4ec11",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Numancia vs. Utebo FC - Live Score - August 26, 2026",
-   "title_key": "72ec3a8fd4d9d1446dc6144ac276e8aea0e522dd",
-   "title_norm": "numancia vs utebo fc live score august 26 2026",
-   "ts": "2026-08-23T17:55:31+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPclNrYnl0MjE0OXEzRnEwc3h6cUZIMWI5Ykp4U3VjeGZDcWFXb2ZyYldhQmtwaHZlY0VlRzlvR01OSHZ1anc1THVIRFNPNGg2ZXhndGZRbXNIQWphbU1iZGJTT3IwQ3FUcFR3Y1JLeWFNX3ppNWtrYldXNGRYcTZ3UW4zZWxQRFRsZ1VRRUdRcmV1d2I0TlpnZVZsdV9kek9OWG50TXJocF9HLVdlRThsQWphdERVcWM?oc=5"
-  },
-  {
-   "key": "693918e3c1461f19ef7584285f917f1f725ee46e",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "When Islam Makhachev won and defended his belt at welterweight :",
-   "title_key": "4078b26730fad1a329aa5f80223143281ff32a6b",
-   "title_norm": "when islam makhachev won defended belt welterweight",
-   "ts": "2026-08-23T17:55:35+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vwcaar/when_islam_makhachev_won_and_defended_his_belt_at"
-  },
-  {
-   "key": "afbc63f6c1a60828a7843132ddb8a65cfb602099",
-   "score": null,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Henry Cejudo reacts to stunning 36-second victory over Merab Dvalishvli at RAF 12: ‘I’m excited for the trilogy’",
-   "title_key": "58c1ad7461ff63dcc240eaf1b58c0e687dff0277",
-   "title_norm": "henry cejudo reacts stunning 36 second victory over merab dvalishvli raf 12 excited trilogy",
-   "ts": "2026-08-23T18:22:29+00:00",
-   "url": "https://mmafighting.com/raf-wrestling/506747/henry-cejudo-reacts-to-stunning-36-second-victory-over-merab-dvalishvli-at-raf-12-im-excited-for-the-trilogy"
-  },
-  {
-   "key": "97a58bf63d98bfc703d1ce65e0e51627024237f9",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Swanson: Lerryan Douglas broke orbital bone in UFC Sacramento loss to Emmers",
-   "title_key": "1148e93229e17282d513553a8abfb69c34433ad4",
-   "title_norm": "swanson lerryan douglas broke orbital bone ufc sacramento loss emmers",
-   "ts": "2026-08-23T18:22:30+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQXNidXlIaTF1MTl6YUlsLXBwVE81RERVOU1ZSDVMUEdzVEN3TmhlNlZ2b3UzNHI4Y1hFV21TaloxOEw0SkZ0NHFJVnl6TlI4VExaa2lXcTAxMDFyU1l2OU5oc0paZ1c2TVUzcXFyVnZVVk1hRmZfZTZJQjlwRHJFcDVXSDZqNnNrUTdxUDJyczlIZ1ktMFRZbHpQOG9JRjBVU2xUVHdpdDQyVVE3eVZVcjBZcEw2dTBZQ0huZVVnRnRhQjZQNkVZeHg2eUk3ZDBiZ1NsTnUycjJ1c3drZlN3WGlxZ1ZGaVJ6VkJobU10anZUZ0lmeEw5dnNVbw?oc=5"
-  },
-  {
-   "key": "a6f015e71fc23589f7c408a5cc4f7f2fc26b5d0e",
-   "score": 9,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "‘You’re next’… Henry Cejudo targets another former UFC champ after tapping Merab in 36 seconds",
-   "title_key": "ce935ab2b5036b96c10efd22227b191bd5d29c54",
-   "title_norm": "you re next henry cejudo targets another former ufc champ after tapping merab 36 seconds",
-   "ts": "2026-08-23T18:23:01+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/youre-next-henry-cejudo-targets-another-former-ufc-champ-after-tapping-merab-in-36-seconds"
-  },
-  {
    "key": "ea93d38b2f4059c5dc516aa77fe66f3c782f6707",
    "score": null,
    "sent": false,
@@ -18029,15 +17853,103 @@
    "title_norm": "ufc fight night 287 promotional guidelines compliance pay dan hooker leads card",
    "ts": "2026-09-06T16:43:28+00:00",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSFY1cmFBcVRCYWwxY1hOcnhoQnhxN3IyQjVrRGRZNHRtTE9WbkdrVm9hbDAwRlZyNDFyVFpERFQ3Ykg1OGhFazRXVld4VUJ1TlQwVHhmaU10MXNiRnJ0dGhrVjd5ZTVkMUUyRjVUaFpXcXN0cGJpamdURDVnMGlNYjR1bWVDcFZFcG1XRDF0enRtU2Zyay1RMzJoTnlCYm1lOUk5LUtmNlhxSmt5dUdCTVVod2hReExsV3dIam1XcjNwRTJycno1YldPNnNYdVBWdURlbkVha0JkNElORkZR?oc=5"
+  },
+  {
+   "key": "f8f8ac9de47c11ec05c80984a90acf6c344af533",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Joshua Van vs Tatsuro Taira | FULL FIGHT",
+   "title_key": "3de300e0a1fdb7b52c867a2c5816bb9fcb8659e4",
+   "title_norm": "joshua van vs tatsuro taira full fight",
+   "ts": "2026-09-06T18:50:32+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w927b8/joshua_van_vs_tatsuro_taira_full_fight"
+  },
+  {
+   "key": "724cc9479ae7dfcd75a0deb8127b0de9fdd1cc5d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Jon Anik: “I think there are internal conversations to potentially try to do Gaethje vs. Topuria 2. A rematch would be absolutely enormous, and I think, predict",
+   "title_key": "e1107fe86b47bb2f2d0c7ba4908ee85ad2295b1a",
+   "title_norm": "jon anik think there are internal conversations potentially try do gaethje vs topuria rematch would be absolutely enormous think predictively that what going happen",
+   "ts": "2026-09-06T18:50:32+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w92lui/jon_anik_i_think_there_are_internal_conversations"
+  },
+  {
+   "key": "cdf8110254731169c26fe0923086df364e5192cc",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "La reacción de Son al ser el pick 1 del Fantasy de la NFL con el LAFC",
+   "title_key": "4d345c19c5ab34331d17bcd7dbec62b0d1b0ff72",
+   "title_norm": "reaccion son ser pick fantasy nfl lafc",
+   "ts": "2026-09-06T18:50:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVk56TVJFVWFET3VDdFNacDFpM0gtaHRsS012bjlfdjRjM181VXlUQWdEY3JHV1BxSFBUT294NFJQaXZpR28yenJPOXFiMWU1bU5MTEIwQzVfcXZBNmwtdjJxUDNfZy00QkppUXRCdzVtZldCbWN6ZVl3ZEQ3QlhGWWRJWEttLV9RaVQ1SFJfd2tHaWJQTUFrcXZDMUJpMDlkck0yMlYtRkHSAbwBQVVfeXFMT0JGRkVkblpVVEZ3ZDNSOGlXUDlUaWl6ZXdEOGVfT3VGNllMaERVSTdRYUs3d1BBV1lrZ3hTWFlnOEU4dHcwenU1RTJVazdNM0d4NG1QcTIxejNnOTBUcUZnX0RvTjVfWHN5YjlNcGJYaVBvZGhhMlY4VUR4emMtMmFNWDdLRUo2ckRVX3N3ZDNtYnBEeGNxUi13dHNseEdPQlJ4b3NET2E1WHA1S29YbVg2cF92czN1cmc5VjM?oc=5"
+  },
+  {
+   "key": "06a9dcd4ba8c7dd27338c4e52d72c3ea9b910198",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Video: UFC veteran floors man during police stop in Florida",
+   "title_key": "e88a2cacaadd4a6c941c3ab417057881a4dfa022",
+   "title_norm": "ufc veteran floors man during police stop florida",
+   "ts": "2026-09-06T18:50:43+00:00",
+   "url": "https://mmafighting.com/latest-news/508580/video-ufc-veteran-floors-man-during-police-stop-in-florida"
+  },
+  {
+   "key": "4af09e467abc4d5b899ba947b400069b30f819c9",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Fight Night 287 post-event facts: Dan Hooker hits career-worst skid",
+   "title_key": "2f83f1232b56d1d13e72f6b2d8137c59599c9db0",
+   "title_norm": "ufc fight night 287 post event facts dan hooker hits career worst skid",
+   "ts": "2026-09-06T18:50:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSFkyaUl6S1VYMDQ2ZkpJS283TzVxZVJtNGdhdElNZTBGd1VUanJnRnlMTlVzQjlZVVZRXzFsak1zZzJ4VjVkaExtZThBeEE4ZDZ3YzdWWU1nVXoxdzFuQXlXNlBOY2F6VTV5STZYVEZ1bmZpaHU3V0l2TmpmLWM3Yl8wblRaMjRLaEdsdHNISEdXY3UtaHR4cEoxUHRuRUtuUWYxSWM0OElWaDlydVJlRXVuZXM5enlWMTdmTGN3T1RualAyb0RLU3E0dEtlTWVMRUJCWmE0eHV5Z0Nj?oc=5"
+  },
+  {
+   "key": "4ff0b085ddcd0753dbfc0403d727d767f564e486",
+   "score": 1,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] General Discussion Thread - September 06, 2026",
+   "title_key": "d8fc60f188acff085f540f4d44ae728c2abb9ac4",
+   "title_norm": "official general discussion thread september 06 2026",
+   "ts": "2026-09-06T18:51:09+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w8mpii/official_general_discussion_thread_september_06"
+  },
+  {
+   "key": "29afd6dc2da7b1bcd75fda0dc4318b397ae8c0ba",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Paulo Costa claims he offered for a LHW interim belt to be on the line at UFC 332",
+   "title_key": "4b9344a51764d1a14f09f1127c0f11204efcaff2",
+   "title_norm": "paulo costa claims offered lhw interim belt be line ufc 332",
+   "ts": "2026-09-06T18:51:19+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w8k59h/paulo_costa_claims_he_offered_for_a_lhw_interim"
+  },
+  {
+   "key": "7c9848ccdca076debdda28713fadc7d5f6ec4854",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Who's the least intimidating looking fighter in the UFC",
+   "title_key": "16757e8476da7b303be526508a87870e5803cc61",
+   "title_norm": "who least intimidating looking fighter ufc",
+   "ts": "2026-09-06T18:51:19+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w8gh47/whos_the_least_intimidating_looking_fighter_in"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
-  "recogidos": 211,
-  "unicos": 96
+  "prefiltrados": 3,
+  "recogidos": 188,
+  "unicos": 91
  },
  "telegram_offset": 958387804,
  "version": 1
