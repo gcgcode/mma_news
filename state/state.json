@@ -2,160 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "ea93d38b2f4059c5dc516aa77fe66f3c782f6707",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Otros Deportes Tickets for World Snooker Championship: Round One Or Two Table One",
-   "title_key": "32fb71027e87f9b854d23d17cedf4ef87e366314",
-   "title_norm": "otros deportes tickets world snooker championship round one or two table one",
-   "ts": "2026-08-23T19:01:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXA5SnZ6bXo1MC10YVl6d3FoRjNSN3ZYb0p6bExFcjZLRWh0UDFCcGJOVmktOGNNdGltNUpqYnFHS1FWaWhYcE4tV2FWQVNxWmN0MEFkRGtaUzRMRFh0SWdUbEJUU0QtdDhjdlVwWjBWQ29CakZHekFBMjRfM0VjSXVLR1M1X1hrekZ5eEx0SQ?oc=5"
-  },
-  {
-   "key": "32a0855fc95004c6bdc9f8c3b3c0a77dd9003759",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "'Look, mate, I'm not turning away': What's it like when Yoel Romero gazes into your soul? Darren Till knows",
-   "title_key": "3ace2ad8067423e028f990bd928d46d5f49bc024",
-   "title_norm": "look mate not turning away what like when yoel romero gazes into your soul darren till knows",
-   "ts": "2026-08-23T19:01:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRk03eGFaazJfVnlDVnp4bTd3MGQwV1BJdXBfb243a3NNYTFNZ0JfbDI3eGhRNDhvdHlBcVpiTmdOdDdaR01obElNR1NJTVQ4UlNRYnFka19Kel80Nk1kWk53VnhXNVh4SEtxVkZOcFRxUEtVX0txRXRXRHNyMTR5T3pkU0w4bUlMNklad1lmTzJ5VFZiN2l0bnFEbnFpNmZfRkcwYThnQ3hUdmUyazhkUUgtajFwVndzVEUwTFlZdDFveWhJYk9iV09FYTd1WDcwOXc?oc=5"
-  },
-  {
-   "key": "f1453933153e1165d9c3c2748a3b389ea20ce953",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "‘I’m still alive’… KO of the Year victim reacts to Conor McGregor’s teammate putting him to sleep",
-   "title_key": "c9d74c4903a03fe32aff42836617249e7c45e8d9",
-   "title_norm": "still alive ko year victim reacts conor mcgregor teammate putting him sleep",
-   "ts": "2026-08-23T19:01:52+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/im-still-alive-ko-of-the-year-victim-reacts-to-conor-mcgregors-teammate-putting-him-to-sleep"
-  },
-  {
-   "key": "50086a593bf2f7ba4b7b1f59732e5baed2bad178",
-   "score": 4,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Nasrat Haqparast Reacts to Submission Loss at UFC Sacramento",
-   "title_key": "182f195509370b6485ab50fc501999c04a3f9b2b",
-   "title_norm": "nasrat haqparast reacts submission loss ufc sacramento",
-   "ts": "2026-08-23T19:01:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUVoxb1BVVG1BUEVNSWtXYlBpUkE5RE1Hc0hYWnI4anlRMkVfLUdMLWpfb3Y5ZDdDZ1hfRC03aHlacEtmaW01NlFHRmJ2eEdrWVdNalVLcV9zNkEzVHgyTXd4RzJWTExhU2FPUVFoMXlMdUd1NDdrU0hva1EydFVtdktsa3NmQWNOQml4RmtBWnlsZw?oc=5"
-  },
-  {
-   "key": "462252b38b34eed861bdaaabe9711c24162434a8",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Put him Morales",
-   "title_key": "2c5864d7cbb8447f05d7198f0d37f854684cab2f",
-   "title_norm": "put him morales",
-   "ts": "2026-08-23T19:39:51+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vwfq0i/put_him_morales"
-  },
-  {
-   "key": "020d207b91c538f88adc6dee56e8df04ae75daa3",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Fight Night 285 post-event facts: New bonus queen at 125",
-   "title_key": "c3386eab80fe39e4cb3a3b27a82ff1485687b3e1",
-   "title_norm": "ufc fight night 285 post event facts new bonus queen 125",
-   "ts": "2026-08-23T19:39:55+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXA4WGtINEFZWXN5clJSelJWS2RwSkNVc1I3dUdNX0JMZnpzZHd5TU1FWHNiNzZueDRtSElQdVp2NzRYR3lsWFNXZkNqNnZudFAzX1lBc0JScmlMYUZ1RXdoNlpLS09SaTFVRnh0blF1ekFwS0g0WjJaVlNQV25BQ09QaElfMVB0bnRKd0g2Y3dUczk1WVFaRVVXNC1mTGppWGhJSWV4MXpsbUxSeWlyVW16S1NFWm8xYVZ0Z1d5ODFtNTRxOW9ZWUlkVnFhYlR5YVQ4ODdCdldiMy1Gdnc?oc=5"
-  },
-  {
-   "key": "06f839b34d3f44222bb994f73d7f1da4776951f2",
-   "score": 6,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "UFC Sacramento: Petrino Se Impone Por Decisión Y De Ridder Arrolla A Dolidze",
-   "title_key": "65c8c98963e28b978766e916f47e6fd9a447b1ff",
-   "title_norm": "ufc sacramento petrino impone decision ridder arrolla dolidze",
-   "ts": "2026-08-23T19:39:56+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUpkMWxyZmQ0ejhXNWZZVGFhY0ZOVEZ0R2dSbmpvdFg2Y21EOTByNEwxMUdIcWNlR091WEU1eXR5Y19vRTRIVWdQOXllOWZjTDk2VVpNa2JYcWRGYXB4SzhiWFJCT3N0b2FBVmZuQmd1X1JXSzY3Z0lMQlBEV0hnRjRoRE9MUjFyTm1Oa2VTX3E4NXRQcUd3QmdTNE5YSDdjVjJnSEN0LWg?oc=5"
-  },
-  {
-   "key": "8ffaa677839a23ac3cb11956c90707a49b7b4139",
-   "score": 4,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Movsar Evloev Reveals What Could Force Him to Retire After UFC 333 Alexander Volkanovski Title Fight",
-   "title_key": "abe8b1bcecc5816ca74d40ed99e70717363f1367",
-   "title_norm": "movsar evloev reveals what could force him retire after ufc 333 alexander volkanovski title fight",
-   "ts": "2026-08-23T19:55:27+00:00",
-   "url": "https://lowkickmma.com/movsar-evloev-reveals-what-could-force-him-to-retire-after-ufc-333-alexander-volkanovski-title-fight"
-  },
-  {
-   "key": "4e12c840064f3d147ca76c4420c22ad21110aff9",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Jorge Masvidal’s Gamebred FC inks broadcast deal with DAZN, next 4 events announced",
-   "title_key": "283c3297e2e45f30e661658dac4893c7a5a9eb4d",
-   "title_norm": "jorge masvidal gamebred fc inks broadcast deal dazn next events announced",
-   "ts": "2026-08-23T20:17:34+00:00",
-   "url": "https://mmafighting.com/latest-news/506384/jorge-masvidals-gamebred-fc-inks-broadcast-deal-with-dazn-next-4-events-announced"
-  },
-  {
-   "key": "0ad58e28898fda103351a6667b61177914e8650c",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Daniel Cormier says the rule Paddy Pimblett and Gable Steveson broke is ‘the most ridiculous in MMA’",
-   "title_key": "0a09c20edc3f66bce2df8dbc8fbceb70cb9613b6",
-   "title_norm": "daniel cormier says rule paddy pimblett gable steveson broke most ridiculous mma",
-   "ts": "2026-08-23T20:17:38+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/daniel-cormier-says-rule-paddy-pimblett-and-gable-steveson-broke-is-the-most-ridiculous-in-mma"
-  },
-  {
-   "key": "2befc33885e3da65d52d4a1f7b88f6d958f0ee44",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "This guy is obviously on roids",
-   "title_key": "604123a5a69eb6d312a0b36a5c9a34256f7b6cc2",
-   "title_norm": "this guy obviously roids",
-   "ts": "2026-08-23T20:43:46+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vwh0mn/this_guy_is_obviously_on_roids"
-  },
-  {
-   "key": "800feb5ebb5bbd241a391ae266ff8ed023620a5b",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Lobos BUAP domina el podio en Artes Marciales Mixtas",
-   "title_key": "2fb149cbeb79ae52cfe73ce76dfaf03d147e7a88",
-   "title_norm": "lobos buap domina podio artes marciales mixtas",
-   "ts": "2026-08-23T20:43:46+00:00",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjlYTnpOU19vTEtDbmRHUnEyRGdVWU9Na3pUdW1QRm85cV9NTUtBLTRCakpET01GZ0ZDMlNhQWZCRjJmRHVVcS0yUE02LW5ELXZvaEgzMW9QYzg5VnBYdGM3d3VCaXdjZjF6Y2k5X3R6ZnNhMWcwLXB5ZFVyOUd4YVJhVE5SYldTaGthTTA3VWRnU1VXZnQxd2RB?oc=5"
-  },
-  {
-   "key": "7744015ded74e45ff5606fe5a75c8e90117bbebc",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Obtiene selectivo de Kickboxing BUAP medallas durante competencia nacional",
-   "title_key": "e1d27e64ffcdb2f7f0fed93bd78daba987a0fbf2",
-   "title_norm": "obtiene selectivo kickboxing buap medallas durante competencia nacional",
-   "ts": "2026-08-23T20:43:46+00:00",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdUR1ZEJfYldPMTVlSHVQY2gwRDduVVhTYlhmUndnaUpVR3pVbk0xa2V1dzBtdElUTThOeEpqaEpmV1hKQVpyOWJWRU5rRWpMNERjekVtWURFNUthcjJTbGktUjBnLVJwblN5UFpkOUtXbTd1LTdkVThFeG1GckJaQ0ZhbFZuZmxSQzFUZXlGelFVM0NIbGRWVEo5RWFIaFZBNFZQX2Y5c19VSDdJdUE?oc=5"
-  },
-  {
-   "key": "354386d9ac613117607fd06bbb3d82225aa0c6a5",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Jeisla Chaves vs. Carli Judice prediction, pick for UFC Fight Night 285",
-   "title_key": "c929872ec413d7eaae0b38dc8103313303fd7da4",
-   "title_norm": "jeisla chaves vs carli judice prediction pick ufc fight night 285",
-   "ts": "2026-08-23T20:43:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDJCdGRrQjhoTHE1ZkhvUFFqdGxuazNtcTg5V21JeHBhVDRibnVxd0JhVmZLVmV5a3JDNHptbjBObUM1SHdzamRhM0J6bkhodXVKWUU2RmJ1VkV4OHJtOHNoSGRrTkdzZGlhMVhrLTBqcGRzTzFCNzZuUDR6NW12QnFLcDJSaWgtaHZ1c2NoUDltRENpVVJIRnV4N2JHTXBDdjdaMVBCckZZMC1uLWltc25qdXVPd0ZRV3pSZ1NmS3o3STBDck8tV2h0Y2YtWklXR05ENkh3?oc=5"
-  },
-  {
    "key": "9142701ddc39263556cc9e214c3f8968582eef68",
    "score": null,
    "sent": false,
@@ -17941,15 +17787,81 @@
    "title_norm": "who least intimidating looking fighter ufc",
    "ts": "2026-09-06T18:51:19+00:00",
    "url": "https://reddit.com/r/MMA/comments/1w8gh47/whos_the_least_intimidating_looking_fighter_in"
+  },
+  {
+   "key": "078c967181b9f36daa743e4db4ec099add121fce",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Shara Magomedov signs new deal with RAF Wrestling after scoring victory in his debut",
+   "title_key": "365fb14c097ce6067e7c8d1e7100e39435d5a2fd",
+   "title_norm": "shara magomedov signs new deal raf wrestling after scoring victory debut",
+   "ts": "2026-09-06T21:02:24+00:00",
+   "url": "https://bloodyelbow.com/2026/09/06/shara-magomedov-signs-new-deal-with-raf-wrestling-after-scoring-victory-in-his-debut"
+  },
+  {
+   "key": "13b6b492d9e7301c97c1f34244faf7461731ef61",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Jon Anik thinks UFC is considering Justin Gaethje vs. Ilia Topuria rematch: ‘That’s what I think is going to happen’",
+   "title_key": "ac072cc94256866e152411a64640ff32f3510aa6",
+   "title_norm": "jon anik thinks ufc considering justin gaethje vs ilia topuria rematch that what think going happen",
+   "ts": "2026-09-06T21:02:32+00:00",
+   "url": "https://mmafighting.com/ufc/509024/jon-anik-thinks-ufc-is-considering-justin-gaethje-vs-ilia-topuria-rematch-thats-what-i-think-is-going-to-happen"
+  },
+  {
+   "key": "cbd54b336702aadb5cfc943310e03ec99c5206ab",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Tony Ferguson books Misfits Boxing title defense",
+   "title_key": "0fc8bcb5a141169f77d49f03a56cb1d3bcf9339a",
+   "title_norm": "tony ferguson books misfits boxing title defense",
+   "ts": "2026-09-06T21:02:37+00:00",
+   "url": "https://mmafighting.com/boxing/508679/tony-ferguson-books-misfits-boxing-title-defense"
+  },
+  {
+   "key": "9a80a01971b8f4c82c595d57351f6f6b4968bd71",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Mario Pinto explains difference between him and other UFC heavyweights after Paris win",
+   "title_key": "30cde9b5e31142e0650c009b2066df6a40390034",
+   "title_norm": "mario pinto explains difference between him other ufc heavyweights after paris win",
+   "ts": "2026-09-06T21:02:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaW9EU0VyellqVjd1RTVad1g3Vnh1WUNvUHVPYWJMLXg1WFpLUlZZcWwtX1JXMmdLaDRuNVpfOW9aVE1xemdLeEg5UGl2OTRyVG50LXpIS1VhSk5jZHF2OGJUUFp2Q2pnYzA4LVBFaEVEU2NWRWQyTVBmOS1TWVF4Wko5TkpiVjM5RDkxYTZBVm1qMnBPWHhWclhZVWZ2RkNkX0E5ZGtodXczRzR3amU5ZXBVaUQ?oc=5"
+  },
+  {
+   "key": "bcdf5668c4dc5d1e5468ca17d928cec81ec864b2",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Paris: Salahdine Parnasse calls out Max Holloway after debut win",
+   "title_key": "d4a7d1f540bf1e01ddaa45c110ceac0089b4a7c3",
+   "title_norm": "ufc paris salahdine parnasse calls out max holloway after debut win",
+   "ts": "2026-09-06T21:02:55+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR1ZoQXMwMkcyYUlpT0ZBdmZnY0pWeHpvbklrQkVoLTRIdndLYU5BYzk2Nk05cURLWEFYX2ZFRFAtSS1DSkllcmhSaW1NRWU5bHduVV9JN1IxN2c1RmlzSEFSLWhjaGY4SFVIXzR4MW5aLVVwejRXNHRsTUZJLXZpSTk3azAwOGRZZ3dKbktEWnlzU2VLekdhNzZkWlUyU1pOR0JZNzQzSXZlVkYtWk1xUWlja29qWEdmNWMzSk9ucjdZc2NWcTNhSGFxQ1Y4OG85eGZHOEIzbw?oc=5"
+  },
+  {
+   "key": "e004fedfe587fd330c9be215d589c6331962570a",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Michael 'Venom' Page plans to change his style to introduce more volume, and hopes the UFC will re-sign him",
+   "title_key": "474e97786910c74d9bb6a8b2760db4c2e8e2c0b8",
+   "title_norm": "michael venom page plans change style introduce more volume hopes ufc will re sign him",
+   "ts": "2026-09-06T21:02:59+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w8f8kb/michael_venom_page_plans_to_change_his_style_to"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 3,
-  "recogidos": 188,
-  "unicos": 91
+  "prefiltrados": 1,
+  "recogidos": 186,
+  "unicos": 90
  },
  "telegram_offset": 958387804,
  "version": 1
