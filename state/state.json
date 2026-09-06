@@ -2,182 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "b65172e7e205efc18f0a23191ff27d214c03015b",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "This finish looks even more comical in slow motion",
-   "title_key": "d3a959f0b362f0c4bc9932424a05da2e7d593919",
-   "title_norm": "this finish looks even more comical slow motion",
-   "ts": "2026-08-23T14:18:46+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vw66b9/this_finish_looks_even_more_comical_in_slow_motion"
-  },
-  {
-   "key": "6b1d4f1cbd7e6af0649b8970e307d834e0ed03b3",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Anthony Smith releases first statement since July arrest for multiple felony charges",
-   "title_key": "615ff87720e60f8d390adef7cfec93ebb9204943",
-   "title_norm": "anthony smith releases first statement since july arrest multiple felony charges",
-   "ts": "2026-08-23T14:18:54+00:00",
-   "url": "https://mmafighting.com/ufc/506512/anthony-smith-releases-first-statement-since-his-arrest-in-july"
-  },
-  {
-   "key": "feb2e7170a51fb1cba677768805aec181768b3f0",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Watch Anderson Silva’s son vs Kimbo Slice Jr end in big knockout at Brand Risk 15",
-   "title_key": "a9854936d32f4aec7712fc1fba36087b6cfb5e6f",
-   "title_norm": "watch anderson silva son vs kimbo slice jr end big knockout brand risk 15",
-   "ts": "2026-08-23T14:18:55+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/watch-anderson-silvas-son-vs-kimbo-slice-jr-end-in-big-knockout-at-brand-risk-15"
-  },
-  {
-   "key": "b3d6bbfa521f1a048c08b2a2361fb72289875295",
-   "score": 3,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "8 posibles peleas para Gregory Rodrigues tras UFC Sacramento",
-   "title_key": "7671f7b2b964ab0a26940293f7ade45943e283df",
-   "title_norm": "posibles peleas gregory rodrigues tras ufc sacramento",
-   "ts": "2026-08-23T14:18:57+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0gzVTJCY09NR2FCZWdDSXE4bjRHZkRJOG1peXJtUGNXZE14N3hOb0NaZTJHeUhVc0Z2bDZjTkFmLWZpTS1Yb09HYUZkZTdXOFB3UmtVbXZSRzA2SWVUWGlaMDJRemZtWU1rcXUtbDZNNHlTNVVVX2E4UUhTdWJweGVYTQ?oc=5"
-  },
-  {
-   "key": "5276133bb8b8b035f9388249e0d7ee82e0fb5302",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "TBD",
-   "title_key": "1d9c8ac0b20576c0f57f0b78929d8a9dde6e79aa",
-   "title_norm": "tbd",
-   "ts": "2026-08-23T14:45:45+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oRXZveWtXYmJ0Q0l4Qi11RW9ZSFF4SWxneVVOU2NoTl9DWEo5NmRtTmt0NHFQRXZiT2xUTEtUeEhtYVFzeEhhM1pHTy1sVGZkS0E?oc=5"
-  },
-  {
-   "key": "4cbbc42c7039bc7445e3a999e3615cf5bc56ab25",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Anthony Hernandez told ref Gregory Rodrigues was cheating in UFC Sacramento main event",
-   "title_key": "df3fa40418e412e07326a8eadda06f2cf7d1a107",
-   "title_norm": "anthony hernandez told ref gregory rodrigues cheating ufc sacramento main event",
-   "ts": "2026-08-23T14:45:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTFlBWDRrbG9wWVpscDFsaU5CcS1FU2NNdkI2bVJmQzRzU2VTQjZRdzFaVHN4Z2g4Zld2OUhPWE8wSjBZZW1WRTQyNzhuWUpVZUJpaXM2M1ZZQ0VoeWdJOEtKbXItQ2Q3b2tNY3dMQ1NUMDhGRFByQXphc29UYURLYkxhU1hJb2czU3IzX0QxWGtuTk1GNzJDSDBZVDB3Wm9hQjQteUhtZEJHQmFteWs5NzVXNHB3cEtEeWU0U09rV3hlRG1RYy1lc1pScXVjaHhaRWdaSw?oc=5"
-  },
-  {
-   "key": "dd3076d7baafcb718cbd0437186ff4b94a594bfd",
-   "score": 7,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "Former UFC contender posts statement after losing to Cris Cyborg with a 7-pound weight advantage",
-   "title_key": "547e0e6952a0b87d863a6dcb674f31175758d53c",
-   "title_norm": "former ufc contender posts statement after losing cris cyborg pound weight advantage",
-   "ts": "2026-08-23T14:45:59+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/former-ufc-contender-posts-statement-after-losing-to-cris-cyborg-with-a-7-pound-weight-advantage"
-  },
-  {
-   "key": "9122ce4e27987bc5a0cdf26889f36063b4f3c7d1",
-   "score": 3,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Hoy en la historia | Colby Covington debuta en UFC",
-   "title_key": "52703a50c6509a70ab46284e581c35e4f6bbdeef",
-   "title_norm": "hoy historia colby covington debuta ufc",
-   "ts": "2026-08-23T14:46:03+00:00",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1REdpUGlaRFhBYTZacmRDUktPbVZ2S3RwYml1UmQ3QnpNYUNsZl9ocTBwWXhsVS1iZ3VOWmcybFhVX3F3NXduRkpjMkNXVXYyczJDSE5xSm92LVhUalZwN3FkUzVLcVpMYnluSQ?oc=5"
-  },
-  {
-   "key": "9bdc91bd598e73a65ea38a131e5e9d29d1e87c39",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Rodrigues, Hernandez have banged-up backstage meeting after UFC Sacramento",
-   "title_key": "732d608b32baee376a155f53a1c76c2b8e9881a2",
-   "title_norm": "rodrigues hernandez have banged up backstage meeting after ufc sacramento",
-   "ts": "2026-08-23T15:18:01+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMlFPRHh5dTZ3YlJrNGhlYlFBUjhUdkp6VkFMWDROWXRnMkhzX2FfZU9qOVh0Y3EzYkNrOVZJZW93dmo1RDhlUlFDTzBEN1B3TU5Sc2FsUDJycWxUbjA1bndHNzFqeGNfYWNVSXBwX0lTX0tvRDZESGRENm5Mb0JIcnRuVGQzdDZDaENDQUF4Q0FZZzlLNFZaM3ZoUmZHbXY3TDZFd2lyS1BuNUtrQkF0YXRCOVUyR1RhMXU4M3NyVzlRSnNzS0FpWEE3SHY4SmdSbGdzU1RwMjZWU3BOQjNFZFBEdjJ3aHdRZkpHb3VNQWlWYzBHcmFMLWdSN2taY2pYQVE?oc=5"
-  },
-  {
-   "key": "89c1a0792a5f72a14798e6ba07c0e175113cc1fc",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "UFC Sacramento loser set to see specialist after ‘instantly’ losing vision due to a broken orbital",
-   "title_key": "e8addc773e259fef4e9e3a4cc0ad9f25509b1ec9",
-   "title_norm": "ufc sacramento loser set see specialist after instantly losing vision due broken orbital",
-   "ts": "2026-08-23T15:18:02+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/ufc-sacramento-loser-set-to-see-specialist-after-instantly-losing-vision-due-to-a-broken-orbital"
-  },
-  {
-   "key": "471c552199d701a641d51f2c8ad76aeffb76bc61",
-   "score": 6,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Former UFC fighter Anthony Smith breaks silence after his recent domestic violence arrest",
-   "title_key": "9af23e822af98efa74c06add112206497499cc00",
-   "title_norm": "former ufc fighter anthony smith breaks silence after recent domestic violence arrest",
-   "ts": "2026-08-23T15:18:03+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDN0VklWQ211Z3ZTZ2o0anhfazRpck9kOTN3SFBoMDE5OVZRdG5RUTMxTGxLUE41cC0tVzFFcU5rMHFGZllEZVNHcDF0eFFjZFNLOHlwVjdiZTRoZGd5aVhFUEc2czJZNWJzMkRmRHpoSUpMV1VacFNnSklIbktBNWxmUUlpRXJO?oc=5"
-  },
-  {
-   "key": "4105302650fea5a591fc9e18e965a907be95c31a",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Round 2 last night was giving flashbacks to JDM v Prates",
-   "title_key": "c69e5b4636e54a3c939161c35a52a718821f65cc",
-   "title_norm": "round last night giving flashbacks jdm prates",
-   "ts": "2026-08-23T15:42:34+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vw87jf/round_2_last_night_was_giving_flashbacks_to_jdm_v"
-  },
-  {
-   "key": "cfd405d96c8945f3d33b8889b22f14b27291c33a",
-   "score": 2,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "What's the most bittersweet UFC title win of all times?",
-   "title_key": "69622945d26d94e04fc5ccfc71c5899636592830",
-   "title_norm": "what most bittersweet ufc title win all times",
-   "ts": "2026-08-23T15:42:35+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1vw912j/whats_the_most_bittersweet_ufc_title_win_of_all"
-  },
-  {
-   "key": "619c584f340ad9d89069f1fe788680593c91a7c5",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Islam Makhachev slammed by doctor for unsuccessful attempt at popping teammate’s shoulder back",
-   "title_key": "e60b3af65e9376b0b7d44473cd28893a491a2192",
-   "title_norm": "islam makhachev slammed doctor unsuccessful attempt popping teammate shoulder back",
-   "ts": "2026-08-23T16:19:32+00:00",
-   "url": "https://bloodyelbow.com/2026/08/23/islam-makhachev-slammed-by-doctor-for-unsuccessful-attempt-at-popping-teammates-shoulder-back"
-  },
-  {
-   "key": "44c1d75be272376f0a55ccd901c3115d34d0dfbc",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Dana White addresses Namo Fazil allegedly being attacked before DWCS: ‘We handled it behind the scenes’",
-   "title_key": "516952d8a264a49a0ba666aff1a94de861cccb05",
-   "title_norm": "dana white addresses namo fazil allegedly being attacked before dwcs we handled behind scenes",
-   "ts": "2026-08-23T16:19:35+00:00",
-   "url": "https://mmafighting.com/ufc/506696/dana-white-addresses-namo-fazil-allegedly-being-attacked-before-dwcs-we-handled-it-behind-the-scenes"
-  },
-  {
-   "key": "c7b52575130eea6e782ccb51651b3be61fceab37",
-   "score": 6,
-   "sent": false,
-   "source": "Google News — MMA breaking (EN)",
-   "title": "UFC makes final two numbered events of '26 official in New York, Las Vegas",
-   "title_key": "ca8c0b0240f541be7efafcd9b0ca6f2b4a868790",
-   "title_norm": "ufc makes final two numbered events 26 official new york vegas",
-   "ts": "2026-08-23T16:19:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUnhkd3hENUd3Yy1fZzhBM3hCWFJwQVMzVFhhUmxqa0R6N2x4RFJpV1lWQnJHc0t0YTNHVFN2dU5INDI4T1NlZlowMTBIaVJVMGVKQldsUnJYb2hPSVdlVVMwM3hUOWZYTHRUZjFad0xaNEtYb2tqeVB1aUlyeWJ2MEFvZw?oc=5"
-  },
-  {
    "key": "6d9f82e46d1e0e6aff936136f15044551295e015",
    "score": 8,
    "sent": true,
@@ -18106,15 +17930,114 @@
    "title_norm": "how does ufc decide matchups champions other organisations making their debut",
    "ts": "2026-09-06T13:57:32+00:00",
    "url": "https://reddit.com/r/MMA/comments/1w8nesz/how_does_the_ufc_decide_matchups_for_champions"
+  },
+  {
+   "key": "b06eefd5c22530b6ab26af00f99d52a7baf30ae3",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "New meme format?",
+   "title_key": "ecbc37cd7a44a938a5b790ce2bfbaba2be136b0a",
+   "title_norm": "new meme format",
+   "ts": "2026-09-06T16:41:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w8ytso/new_meme_format"
+  },
+  {
+   "key": "2adb13b16bb0022ad97112923f6666dbc29a8fc1",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Shavkat says he's Islam's toughest opponent, reacts to Ian Garry saying he ended his career: \"I had health problems 2 weeks before fighting Ian, my leg was swol",
+   "title_key": "98a54f6cf44a822d02c6e0be9e940709af3c0f0e",
+   "title_norm": "shavkat says islam toughest opponent reacts ian garry saying ended career had health problems weeks before fighting ian my leg swollen shouldn have fought him all interview recorded months ago",
+   "ts": "2026-09-06T16:41:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w8zu4m/shavkat_says_hes_islams_toughest_opponent_reacts"
+  },
+  {
+   "key": "e6eecf7216ef9cbbd2032a4dd17a06512b53726a",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "It’s gon be bad amigo",
+   "title_key": "24ae038a0ba43d9c95239db8fece5e64025f53f8",
+   "title_norm": "gon be bad amigo",
+   "ts": "2026-09-06T16:41:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1w8vzgl/its_gon_be_bad_amigo"
+  },
+  {
+   "key": "335bee02f5c50ced1c2e3157913e83fdf2a6f33b",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Israel Adesanya drops his first name",
+   "title_key": "befb033c61b3be04b02cbc823afc3b5364106ec5",
+   "title_norm": "israel adesanya drops first name",
+   "ts": "2026-09-06T16:41:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1w8yo9s/israel_adesanya_drops_his_first_name"
+  },
+  {
+   "key": "eb5a38a04af87888eadc9bb69a40d0b11aed060a",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Shavkat Rakhmonov on fighting Ian Machado Garry injured: ‘Khabib or Islam Makhachev, they definitely would’ve refused’",
+   "title_key": "1db0b702b2059281720c2769b2b51347af26a466",
+   "title_norm": "shavkat rakhmonov fighting ian machado garry injured khabib or islam makhachev they definitely would ve refused",
+   "ts": "2026-09-06T16:41:53+00:00",
+   "url": "https://mmafighting.com/ufc/509003/shavkat-rakhmonov-on-fighting-ian-machado-garry-injured-khabib-or-islam-makhachev-they-definitely-wouldve-refused"
+  },
+  {
+   "key": "7b92db388d80760772ecae1c2b24bd13f868beaa",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "In six fights in the UFC Michael Venom Page fought 18 rounds and had a total of 173 significant strikes",
+   "title_key": "fa351233158e7d2e96c045aad33cbef3b3c097d5",
+   "title_norm": "six fights ufc michael venom page fought 18 rounds had total 173 significant strikes",
+   "ts": "2026-09-06T16:42:04+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1w8zq42/in_six_fights_in_the_ufc_michael_venom_page"
+  },
+  {
+   "key": "0bfe45ee83678da31d755c7a47b44b37c038ada6",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "‘If I fight him right now, I beat him’: Ian Machado Garry on loss to Islam Makhachev, when he wants to return",
+   "title_key": "1b7c73022eab066aa95b21b73904ffe081ed8bf3",
+   "title_norm": "if fight him right now beat him ian machado garry loss islam makhachev when wants return",
+   "ts": "2026-09-06T16:42:15+00:00",
+   "url": "https://mmafighting.com/ufc/508946/if-i-fight-him-right-now-i-beat-him-ian-machado-garry-on-loss-to-islam-makhachev-when-he-wants-to-return"
+  },
+  {
+   "key": "3ff2ca0c429b46acc2180055a5aeaf548f3904bb",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC Paris main event winner Salahdine Parnasse calls Max Holloway ‘my dream fight’",
+   "title_key": "a107f62e324bbb6db51b25c9adeea6709e9be7cb",
+   "title_norm": "ufc paris main event winner salahdine parnasse calls max holloway my dream fight",
+   "ts": "2026-09-06T16:42:27+00:00",
+   "url": "https://mmafighting.com/ufc/508977/ufc-paris-main-event-winner-salahdine-parnasse-calls-max-holloway-my-dream-fight"
+  },
+  {
+   "key": "47b0edb9c2494188047f0a1888cacafafec1a9b7",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Fight Night 287 Promotional Guidelines Compliance pay: Dan Hooker leads card",
+   "title_key": "1a47e0659859fdcbd308b67aef6e49a63319e123",
+   "title_norm": "ufc fight night 287 promotional guidelines compliance pay dan hooker leads card",
+   "ts": "2026-09-06T16:43:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSFY1cmFBcVRCYWwxY1hOcnhoQnhxN3IyQjVrRGRZNHRtTE9WbkdrVm9hbDAwRlZyNDFyVFpERFQ3Ykg1OGhFazRXVld4VUJ1TlQwVHhmaU10MXNiRnJ0dGhrVjd5ZTVkMUUyRjVUaFpXcXN0cGJpamdURDVnMGlNYjR1bWVDcFZFcG1XRDF0enRtU2Zyay1RMzJoTnlCYm1lOUk5LUtmNlhxSmt5dUdCTVVod2hReExsV3dIam1XcjNwRTJycno1YldPNnNYdVBWdURlbkVha0JkNElORkZR?oc=5"
   }
  ],
  "stats": {
-  "descartados": 5,
-  "enviados": 0,
+  "descartados": 2,
+  "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 5,
+  "prefiltrados": 4,
   "recogidos": 211,
-  "unicos": 92
+  "unicos": 96
  },
  "telegram_offset": 958387804,
  "version": 1
