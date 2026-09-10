@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "fed4b46257dfd0e43b5caa30fcdc2f198109a794",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Artículos escritos por Luis Guillermo Vázquez",
-   "title_key": "81d7f07ef81c320a0e7da5aaad0d24e256a48c3f",
-   "title_norm": "articulos escritos luis guillermo vazquez",
-   "ts": "2026-08-27T01:03:24+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VbkxtSUhCalNYVm4tODhpRDBjbkFjSmFUTERPYmpINjVLSUR3QVZhUGNPTFhjUDM5aG5oVy12NkkyTnVfT191ZFZMVzA3QkVrWkwzXzBWRUZkYlpaNVJBUnJjbGVJZkl1elNIQnNuT1RmUUIxNTQxRkNB?oc=5"
-  },
-  {
-   "key": "6fb21d2f104125ee4ad026436a09199900bf2aee",
-   "score": null,
-   "sent": false,
-   "source": "El Rocktagono",
-   "title": "Sean Brady considera que Michael Morales es una amenaza mayor para Islam Makhachev que Carlos Prates",
-   "title_key": "b34558034967cc26c0469d90fcd52c4d0674780d",
-   "title_norm": "sean brady considera michael morales amenaza mayor islam makhachev carlos prates",
-   "ts": "2026-08-27T01:03:24+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEJVdk9pU0R0SXVmQV9UN21GWlQ4ZjZrc3gtQ054ZzFJbDBtS2tBRGlFQmZVYWR6N0cxYTFIbkZ6R3FTcy1DOFZjeURFWG9acjhvUmoxZGhjNU5XN2c0SE1sWGxGU1NVWG9YNFRJWnlyM05GbjZsX24zaEdsbTZ1YXB1SGNKWWhGVWpUbHA3YXl3X0Q0RlY1RmlmVWlWeW1MQ1M3Z2FWZEV3ODhkZTNqZjE4Rm45bV9UMWFNRHN3T0RvWEVNRlFHbWVB?oc=5"
-  },
-  {
-   "key": "54ffc21d14711efcd78358d50a340a142c6ea3a3",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "El agradecimiento de Pimblett a Gaethje por vencer a Topuria en la Casa Blanca: «Fue agradable verte darle una paliza»",
-   "title_key": "c4803cb3646bd847935ed5de21a53e935a077a9a",
-   "title_norm": "agradecimiento pimblett gaethje vencer topuria casa blanca fue agradable verte darle paliza",
-   "ts": "2026-08-27T01:03:24+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUduVkpibktUNkxGb3hQRHY1WVpXd0JuNmN0UXRQMUtBdXU3VVhsVHo1Q3dnVGJSNlE0TjdmcTFJUlF5aTZaQ09FbmMteVh5WnN3UkIyN3FKcmhMNC02czJaQWZ2TVQ1dW5WeDI1M3pwSF9OejY5THBVc2p1QVh4QWpvUWIxWmNHY0I0MWJydk1jSzJhY2I2NHpoQWxPeGhXNWo0OGlJMERtLURNS3FvTGpZNNIBuAFBVV95cUxPLWRqZFlLdzI3ZG43YVM4NzhIQXp6NjhrUzJqTk5objgtNmVOd3FfQUFFbXk4b00teFkyb3c2LWIxdUktLTBxczZDcE94eGdnSEo3MXM5QzY2dTBtU3JJcWZFSFdvSTZORWlmMDJyNGY4ZHlHNVotR0Z1RXpPb3NJZWY5WkZWa2FzdVBZc3hUUWc0RXpiM3JvRjkwcG4yRG1QSG9kckxQenViS2FfcjJReEpBUFBEdG1G?oc=5"
-  },
-  {
-   "key": "f7346c1347255f0e1ccdf16517a1a909b3ced3c5",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Bella Mir releases statement following disappointing Contender Series loss",
-   "title_key": "d3f06d987aecdb3ae5307cb634dcc490207d334b",
-   "title_norm": "bella mir releases statement following disappointing contender series loss",
-   "ts": "2026-08-27T01:03:33+00:00",
-   "url": "https://mmafighting.com/ufc/507278/bella-mir-releases-statement-following-disappointing-contender-series-loss"
-  },
-  {
-   "key": "9fff7897cff59c8afb62de7a78e2acec3acea743",
-   "score": 1,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Referee, judges selected for Ryan Garcia vs. Conor Benn fight in September",
-   "title_key": "a10e87b2eddd12af635a1d8c8a6884a6abebecef",
-   "title_norm": "referee judges selected ryan garcia vs conor benn fight september",
-   "ts": "2026-08-27T01:03:34+00:00",
-   "url": "https://mmafighting.com/boxing/507229/referee-judges-selected-for-ryan-garcia-vs-conor-benn-fight-in-september"
-  },
-  {
-   "key": "306394b037f13121cadf1b9322877184598c367e",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Tom Aspinall releases statement refuting UFC departure rumors: ‘I’m not leaving’",
-   "title_key": "baac07132022f6036135c929efe0ff40d0cebad1",
-   "title_norm": "tom aspinall releases statement refuting ufc departure rumors not leaving",
-   "ts": "2026-08-27T01:03:36+00:00",
-   "url": "https://mmafighting.com/ufc/507255/tom-aspinall-releases-statement-refuting-ufc-departure-rumors-im-not-leaving"
-  },
-  {
-   "key": "99cf2ad0a9f5837358ce84f25c309642ac125e82",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Former Bellator title challenger suspended for cocaine metabolite",
-   "title_key": "ce9becc8968a9dd3f118b68bdc5169ffab7a6ec0",
-   "title_norm": "former bellator title challenger suspended cocaine metabolite",
-   "ts": "2026-08-27T01:03:37+00:00",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU2UzaGhmYVdRZWJvUkVRSWY0YW5iVEhkOU5aRExva20wTG84SmU1djcyYVBHQlJLbExGa1ZHTkNZd0U1dUFpMWpleDE1S05mai1rU3FTdXlhd1FaU2VRbTUyRVVycWgwcUYxa3RLeGxQSXNNN1FnN0NXbHdOQm5LZ2tOYkUzNkUwbS1rdUVmVTVFQ0NaUC1iZXdoVlFlSG8wZU5KSmhaVW1RTXNqZk5rTnp6MWxJLWJHWjJOVHg1NWU2Y0JDRG94RkVTSDI?oc=5"
-  },
-  {
-   "key": "a29ac58a8ee24359dd882c9ba2488c5508f2bd53",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Dana White's claim of $11 million Contender Series fighter causes stir",
-   "title_key": "627bc1f8a318dc2839c8ebef3c9c34d51e152892",
-   "title_norm": "dana white claim 11 million contender series fighter causes stir",
-   "ts": "2026-08-27T01:03:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmFrWXg1VVpxY21GWHJLdzJkeUMtVVF3Wlg4TG0wN2JSZHgwMUpjaHI2R3ktY3VKVDVVRGg1UzdGZUxBdXA4dTYwdEVTQzZWU0Jpc0cyWm5QM05Dd0RXTWhBRERKV29HS2FlSzMxQ3VKcEo2S3pXeU8yc0hidm45Sm05S0JBOVI4WTdhcDAzT0czNVBfRFYxN0xVZDhHSkxvUEFEeE1HalctMGVjRXVfMGQ5MEdzUnBTY013YjNMTHNvckZKZUF5cGlTWVNMb3FXVHow?oc=5"
-  },
-  {
    "key": "b56c0c5ff8038f05b73b27f61d3a817ad8a56aaf",
    "score": null,
    "sent": false,
@@ -14993,15 +14905,224 @@
    "title_norm": "conor benn admits weight cut 147 pounds like going through pits hell but promises ll make",
    "ts": "2026-09-09T23:48:21+00:00",
    "url": "https://mmafighting.com/boxing/509409/conor-benn-admits-weight-cut-to-147-pounds-is-like-going-through-the-pits-of-hell-but-promises-hell-make-it"
+  },
+  {
+   "key": "3958d8240db441918d78500ef1ed8e065c88e99b",
+   "score": null,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "'Absolute circus': Jai Opetaia, Noel Mikaelian react to Don King's attempt to cancel fight",
+   "title_key": "d5cdc19fd973f4767cab85f8e45cbaa74e66b956",
+   "title_norm": "absolute circus jai opetaia noel mikaelian react don king attempt cancel fight",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0xMd05BeXV4Y1RLSVpOcmxaelVidXFveGpqNE1GaDZITG1XOEt2YjNyNmM3Z1B3V3lKUTR0bWxJUmUxZ1pkWE1LRnlmTmFkT3VxeFFSbzJSRTNhT2tqMExWR3BYMjdvZ09rbkx4OUtieFM2M0Y5ODE3WHdpSTdqZFBSSWJWem1GZzBzVERtU3BJcnZpQjVCbjlQb1U0THVmOGxLTERCOUdjYlU4TFJpLURPZDBNbHV1cUpON0lac21FWnRaNVdPeG1mY0lxRjZpSU1KVThiZzhwd0k?oc=5"
+  },
+  {
+   "key": "e3f1f8deb2aa2a2aae32b68d3c30c3e4478793c3",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Shamil Gaziev says Alex Pereira is his dream fight",
+   "title_key": "05151a998c8221dca21c637b0e12f13f0c4eec2f",
+   "title_norm": "shamil gaziev says alex pereira dream fight",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wc442f/shamil_gaziev_says_alex_pereira_is_his_dream_fight"
+  },
+  {
+   "key": "32b9ab3497a7b4cd9e51fc3643bfc7b6441c9ecf",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "ANATOMY OF SUPER RIZIN.5: Why Fighting in Japan Is Different 🇯🇵",
+   "title_key": "fd52d597c2f9421b0bd4902eb911ac4468f5f8af",
+   "title_norm": "anatomy super rizin why fighting japan different",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wc59hx/anatomy_of_super_rizin5_why_fighting_in_japan_is"
+  },
+  {
+   "key": "82f3ddfb48aabfcefc7c25515006569ca06b74c8",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Salahdine Parnasse: Dardo A Max Holloway",
+   "title_key": "d6f64121db692eb7a7ea98ceeeb86dd53586eeb9",
+   "title_norm": "salahdine parnasse dardo max holloway",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oa1NhX1F5M2Rma1RvUlY2VDlEeWVtY29raktXS0NwUDR2RldmUW1UZjVYXzBWcGFyZUhWeEhnZHdVUkM3aHpjRDVPZEdfbG1ZeVRsZUJiLXB4OXg0NWlsRDZHTVpMbGFmSHRPUko1ODVoYVhJU1dZUg?oc=5"
+  },
+  {
+   "key": "d29e046c64a0f48ea0ed6d7d856d0cd66b649141",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "“40 millones de dólares por mi silencio”: la ex de Elon Musk desafía al magnate en su nuevo documental",
+   "title_key": "4246bf006580fc9d8856e854dfe560f31bb0fe77",
+   "title_norm": "40 millones dolares mi silencio ex elon musk desafia magnate nuevo documental",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNldiM1JER1dralh0bDVHekNQMmd0dXFzZk1fZFpycUFqTzVsa2RoREJnM2ZVVktlQTY2eEc5OXhGVTAycmMwNXRKM1ZGa1RfOXkyR1lmenpVb0lXS3NfNkdfMXJGOXlkbkxSQlh1Qkt1bWItMG9kLTN0SWRHRG9RUDlpZEx4b3RmMnJFV20yaUExMUFFNzFBdUhuMlBXaDFpSFl3anhaTklxWHk0aG85Ql9IcmxacVhUYXVNMmFUX2hqUGPSAcgBQVVfeXFMTjlHTUdzTHFidDZDUU9tN0dDam5Ta2lER181NWt0MzNXLUU2Nld4Ql9fcnp5a3ZscU5KRTY2VXpiSVZVVHllZERkVFNDck9WRjE1aW1XM3pnM3JyeFREZ0x5eUtNZUVwYjN5Um1VaENVSF9fcWFVUklhMVJya0o5OVFFZWotN2tvRkU5Q0lpNDNIdzktRUZuRnZtbTBwYS1EaENyS29JbXdrbFMzZHpWYkwyLTF2RlFHOEk1cnBuVVhCMWQ5S2I0a1Y?oc=5"
+  },
+  {
+   "key": "3956bb207a2ae8fa034a9aa942a65e40ffe5ab86",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Sean Strickland sharpening his wrestling in new training footage",
+   "title_key": "11a2822410242ad72b5cf2a1a947c2c792a379b6",
+   "title_norm": "sean strickland sharpening wrestling new training footage",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wc2c2h/sean_strickland_sharpening_his_wrestling_in_new"
+  },
+  {
+   "key": "ef09504a903bcd34b7f422116a7b3ff11766f188",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Inside BKFC’s $20M tournament: Secret stars and one-round wars to find the ‘World’s Baddest Man’",
+   "title_key": "01340c00ce4d07025c3a474aea527c39ab40238f",
+   "title_norm": "inside bkfc 20m tournament secret stars one round wars find world baddest man",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://bloodyelbow.com/2026/09/09/inside-bkfcs-20m-tournament-secret-stars-and-one-round-wars-to-find-the-worlds-baddest-man"
+  },
+  {
+   "key": "6380bc1e6c0b411c8428322934d861d63e64c122",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "How much longer are we gonna let this go on?",
+   "title_key": "75f51861927d55130e53fe7a85b9c96f1673dff0",
+   "title_norm": "how much longer are we gonna let this go",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wc34vv/how_much_longer_are_we_gonna_let_this_go_on"
+  },
+  {
+   "key": "19ca1e2c1c65820485f1fc19e683ce5704ab78e2",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Justin Gaethje beat Ilia Topuria and Paddy Pimblett while suffering from injury he’s had since 2025",
+   "title_key": "f82de025f067e118a5d2c2ef577ef1c80ab6b692",
+   "title_norm": "justin gaethje beat ilia topuria paddy pimblett while suffering injury had since 2025",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://bloodyelbow.com/2026/09/09/justin-gaethje-beat-ilia-topuria-and-paddy-pimblett-while-suffering-from-injury-hes-had-since-2025"
+  },
+  {
+   "key": "43c302bd06f8cf912f799b5f0e34dab47cd791df",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Tommy McMillen 6ft, facing Marwin Rahiki 5’8",
+   "title_key": "0c26e61f64258c8170a0ba9c7335aaa5634098c7",
+   "title_norm": "tommy mcmillen 6ft facing marwin rahiki",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wc4p7m/tommy_mcmillen_6ft_facing_marwin_rahiki_58"
+  },
+  {
+   "key": "81539546abaeff3ece5d41883fdc424921d6bec3",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Fighters that will never be washed no matter how many times they lose",
+   "title_key": "3c5acacdc0b9563f075221b1d6c22f6d141377b9",
+   "title_norm": "fighters that will never be washed no matter how many times they lose",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wc4t16/fighters_that_will_never_be_washed_no_matter_how"
+  },
+  {
+   "key": "5fe7b7299d327435f43458f718e7a8f273469654",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Jean Silva said he thought about killing himself after his last fight… he’s so damn crazy I actually believe him",
+   "title_key": "8cedc39257ec467ddb124a80967064639ce0fbf0",
+   "title_norm": "jean silva said thought about killing himself after last fight so damn crazy actually believe him",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wc5kts/jean_silva_said_he_thought_about_killing_himself"
+  },
+  {
+   "key": "15bc5c4f50e14ec9e1a6c51c143e3f2e01165ce2",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Cold 🥶🥶🥶",
+   "title_key": "424fa43965bde21e1a972336f3c3bc0dcaafebf5",
+   "title_norm": "cold",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wc63b0/cold"
+  },
+  {
+   "key": "547b16eb546ffd10bf460b7129640466da6d6032",
+   "score": null,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "Justin Gaethje expone la gran falla de Ilia Topuria que le permitió destronarlo",
+   "title_key": "e58fde49dee3754587dd8701c7fc6e3f3193817f",
+   "title_norm": "justin gaethje expone gran falla ilia topuria le permitio destronarlo",
+   "ts": "2026-09-10T02:45:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDNZR1NZWkNvRE4yWFFKYXh0TVF4bHJfbUJ6RUtybXA0REhLTVBMREdWZXJOTVBIQ2ViWkFKRjY3dUlsbnRyUGMtcXA0UTcycG1CZG5zUnliYXNCUmVYQ0dFME5GN2lackhDVkl0VW55QnJaVlo0cHR1SHBKNExlT1lIb2FpMGZ5VDZBcUQ5elM2T2NPUXlEYkwwSVp2VHVSMnZwQUpUNVhkeW4tbVE?oc=5"
+  },
+  {
+   "key": "a2d6ce7425181611a5d1b62e9a32da2b8e7faf8c",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "SeokHyeon Ko will fight Wellington Turman at UFC Vegas 124 on November 7th",
+   "title_key": "814eded770879bbed597f75fe2c34885c5ea043c",
+   "title_norm": "seokhyeon ko will fight wellington turman ufc vegas 124 november 7th",
+   "ts": "2026-09-10T02:45:44+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wc5grv/seokhyeon_ko_will_fight_wellington_turman_at_ufc"
+  },
+  {
+   "key": "3de07f182337a9dd67aead3d5fafcbe70631ae00",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Justin Gaethje on Arman Tsarukyan's UFC title snub: 'We all make our own bed'",
+   "title_key": "f3c1cf6307be077125b56511d0920ce0dc1279d9",
+   "title_norm": "justin gaethje arman tsarukyan ufc title snub we all make our own bed",
+   "ts": "2026-09-10T02:45:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHlfV3kxUHBHeVhoYmh4Q1czbnlPZm1yMUY3aEliZjRYLXpWLW1Bb0ljNmh1Z0lpb3JWRnBqTXRIVlVzYlVqT0dYN3kwQUhQM0lGM2NZZ0l6a3UzNWk5dktsQUJDZzVmVEFXX1NXNWFXU1pjdVNaNjR5ZzdPWkZLeXhWdzBIdkUxUVVvRzQ4X2dNY1NzWW9ocExBTWRYc0xHWUZPNkxaazJTQTlPaDdwcXJpbjIyRDNy?oc=5"
+  },
+  {
+   "key": "c0703310012967fd509228d37f8b911937f3bc65",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "'I don’t see who else can fight for the belt': Manon Fiorot stakes UFC title claim ahead of Alexa Grasso clash",
+   "title_key": "8d8cd7ca48993eacfa85d74a124e0d2b67ffabb8",
+   "title_norm": "don see who else can fight belt manon fiorot stakes ufc title claim ahead alexa grasso clash",
+   "ts": "2026-09-10T02:45:47+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wc3s82/i_dont_see_who_else_can_fight_for_the_belt_manon"
+  },
+  {
+   "key": "82860b8064d2127627ed66a2c4b69a3125a7722f",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "IT'S SUPER RIZIN.5 FIGHT DAYY!!! 19-0 (all finishes) Razhabali Shaidulloev vs AJ McKee (25-2, never lost by finish) for BOTH the RIZIN and PFL featherweight tit",
+   "title_key": "42c18c51a006b7978198e46fe6f357e5fbbb5757",
+   "title_norm": "super rizin fight dayy 19 all finishes razhabali shaidulloev vs aj mckee 25 never lost finish both rizin pfl featherweight titles",
+   "ts": "2026-09-10T02:45:53+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wc374i/its_super_rizin5_fight_dayy_190_all_finishes"
+  },
+  {
+   "key": "6701bf43535240fcb8a87301659436361b660644",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Taylor Lapilus vs. Mitch McKee to crown bantamweight champion in last PFL event",
+   "title_key": "e011d08d443893b657ed2563f0dd4fe524548418",
+   "title_norm": "taylor lapilus vs mitch mckee crown bantamweight champion last pfl event",
+   "ts": "2026-09-10T02:45:56+00:00",
+   "url": "https://mmafighting.com/pfl/509360/taylor-lapilus-vs-mitch-mckee-to-crown-bantamweight-champion-in-last-pfl-event"
   }
  ],
  "stats": {
   "descartados": 3,
   "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 7,
-  "recogidos": 205,
-  "unicos": 103
+  "prefiltrados": 14,
+  "recogidos": 208,
+  "unicos": 102
  },
  "telegram_offset": 958387804,
  "version": 1
