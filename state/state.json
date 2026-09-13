@@ -2,116 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "e98b88f71954094cee283da05439d9b90d1e14c5",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Lester Martínez muestra su poder ante Luka Plantic",
-   "title_key": "031d3c6cde9333f2013bdde5edb31ae172643707",
-   "title_norm": "lester martinez muestra poder ante luka plantic",
-   "ts": "2026-08-30T11:07:27+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWNyd3FSVjNQaTF2bTFHSUJJWElrcVZtdlhVY0R0RnlzendBZzJLQndrb0ZkX2ZLMHhaUnpWTnBwTGNpRGduc2JVNm4wVmY0c3o2MmxaS0N4bHNhUWIxbUtQQ01Ka2tCNkJlU09qWU80QmZmYXJVaGNpUU8xMGtTbXZDMDFBdHU1Vi1QanBRX2JRVXdJVUx5LXdqT2l2eTNfaE9Vc21KU3fSAagBQVVfeXFMT0FjcndxUlYzUGkxdm0xR0lCSVhJa3FWbXZYVWNEdEZ5c3p3QWcyS0J3a29GZF9mSzB4WlJ6Vk5wcExjaURnbnNiVTZuMFZmNHN6NjJsWktDeGxzYVFiMW1LUENNSmtrQjZCZVNPallPNEJmZmFyVWhjaVFPMTBrU212QzAxQXR1NVYtUGpwUV9iUVV3SVVMeS13ak9pdnkzX2hPVXNtSlN3?oc=5"
-  },
-  {
-   "key": "108bd816bc90b3ee161a67166d8ce5cc0a17e3dd",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Referee sent tumbling in comical moment as boxing legend Yuriorkis Gamboa wins BKB Bare Knuckle debut",
-   "title_key": "4ea83c64d99acf7623d7bd61d0100f388ac8b296",
-   "title_norm": "referee sent tumbling comical moment boxing legend yuriorkis gamboa wins bkb bare knuckle debut",
-   "ts": "2026-08-30T11:07:27+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/referee-sent-tumbling-in-comical-moment-as-boxing-legend-yuriorkis-gamboa-wins-bkb-bare-knuckle-debut"
-  },
-  {
-   "key": "4ac2437d4ea7a757eb8165cb77ec53a1ecd2534c",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Robert Duran Jr stops Ryan Spivey in latest BKB Bare Knuckle Boxing outing",
-   "title_key": "15cf8752c0ffadaa89e16f6729fed584533d9840",
-   "title_norm": "robert duran jr stops ryan spivey latest bkb bare knuckle boxing outing",
-   "ts": "2026-08-30T11:07:27+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/robert-duran-jr-stops-ryan-spivey-in-latest-bkb-bare-knuckle-boxing-outing"
-  },
-  {
-   "key": "23c01a64631f5f18ea2b74b115c31cccf7216099",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Hero Song Yadong",
-   "title_key": "5f7204eaea5b48495aa583dbc86229ba4bd4a83a",
-   "title_norm": "hero song yadong",
-   "ts": "2026-08-30T11:07:27+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDdWV3QklNZ1IyeU1GbWxMN3RWRW1FdE51Yk95MGllWk53YWhzaTItZWlBS09vUlRQaV9ENHhQb2V3bjl0VUVkc3BNMmZiMVZyNHNVZ0sxX0g0MGpU?oc=5"
-  },
-  {
-   "key": "b7d755934e7be1e20b2b86e1a4ac634855ff2e6d",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Justin Gaethje vuelve a tumbar la revancha con Ilia Topuria",
-   "title_key": "cd373d98a113680aa98ae6b5f5b68eb41725535f",
-   "title_norm": "justin gaethje vuelve tumbar revancha ilia topuria",
-   "ts": "2026-08-30T11:07:27+00:00",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVBLeGdyeTVCTVVCSHJiX3d6NnYtQ29ZWnZiTkRtR0xNTVZVVk9DUlY4QzljWU9pNGFDZUZ1WUFxX1BvQktfcmczVnlaeFVGZ091d3RVUERMLXdUaGNFYVBzZHFsdTAwTDdIN0RseVhQUFE5V3h2SENvQmhDOVZ2bGxiVW9iQWFDVk1Uc29zUHIwSG5BQXJqY0RnYXVzeVpmUmxyREFTY1ZaTFZ2d1J30gG8AUFVX3lxTE1lWnRwNGJIUmFtQjVpdGdvQl9YVHVsNDZMQVpBaVZNR0RQWkt0bTUwSWdzNGE0XzRUOU8xY1BseWtGYTlIR1FRM25RaDA5X3lUaFFWdXpZbmoteWNmUjktek5HZ21wMk02RExxTTQ1OG50SEhxV0h6cnFNTVgzcFpMVFU0c056VWtmM2ZOaG9FR0YtS3YwaHFNX2txUVF3dV9GdU5QZkNSZ0EtdGkzdW1sSkljaW8zMFVqbWZq?oc=5"
-  },
-  {
-   "key": "fb04c31ec72c53a7d1734d5b58d95f175eae244e",
-   "score": 7,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "Glover Teixeira wins first fight since retirement in ‘brutal to watch’ beatdown of fellow UFC legend",
-   "title_key": "5db5a183f795a4acdf20bb4e0789c82e35688cc4",
-   "title_norm": "glover teixeira wins first fight since retirement brutal watch beatdown fellow ufc legend",
-   "ts": "2026-08-30T11:07:45+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/glover-teixeira-wins-first-fight-since-retirement-in-brutal-to-watch-beatdown-of-fellow-ufc-legend"
-  },
-  {
-   "key": "c74e94d5fc470e9e2bbcd50a9800d59087d7a1be",
-   "score": 9,
-   "sent": true,
-   "source": "AS — UFC/MMA",
-   "title": "Caos en UFC Shanghái: Song noquea a Umar y desata a los Nurmagomedov",
-   "title_key": "c4ebeba0d02d3bd0f3a24f62480f8a2d3d895aae",
-   "title_norm": "caos ufc shanghai song noquea umar desata nurmagomedov",
-   "ts": "2026-08-30T11:08:01+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWRiOHdtSDJVQ2FmX3dEMjNPeHV0QnZZOUVubURQeW43UDR2VzBlWk54U28wVWpSa0lUSTU2eE1pa01yZ1BQeTg2emZOQ05KZnk3bWtQYXYteVR1UFhTZFRKb3hSS3VUUl9hR3BYM3hWeWJqY2Naanhhdm1odS0wMU9xRjJ3clhsRllOS0ZqMEt6UUhVSWZ2NTJweFhlWnpIcE91VkRDdjE4Umt1U01sSUVVTDJtcVFvZnfSAc4BQVVfeXFMT2RuTFZmMDJtSFpfT3NBbXZQR0NXSUY2c3I1NVp4QVd5WHRzN2FYWHotREZrSVJRSWs1Z3ctMy1ObDY4WU0yZ1ZWRktlZzJJUHBwcy1TY3AzVkhWcVhNVi1hREtkZldTa2N3bl9CWHF2dGpSZGRpc0FGNnZoa0tWWVkwbDlIU2E1WXJqLW1qX0RqM0pmZlFKdV9sX1dfblJrdzlQNWVuZnRsM0NPZERjQjJLZXRLUV9MTTJmcVdwa2VoeGtRQzk1WG9wZC1DMmc?oc=5"
-  },
-  {
-   "key": "99d73e9cfe5f18870682fa678883f385d20e8aa8",
-   "score": 7,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "Usman Nurmagomedov denies throwing elbow at Song Yadong in statement after UFC Shanghai controversy",
-   "title_key": "38d1ca460b5e8522fb6bc907d150a0a349ad171b",
-   "title_norm": "usman nurmagomedov denies throwing elbow song yadong statement after ufc shanghai controversy",
-   "ts": "2026-08-30T11:08:17+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/usman-nurmagomedov-denies-throwing-elbow-at-song-yadong-in-statement-after-ufc-shanghai-controversy"
-  },
-  {
-   "key": "b650a2dd872e18a8595c1d6d7ec78a62500282e6",
-   "score": 3,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "‘Show me the money’… Tyson Fury teases BKB Bare Knuckle switch as he meets CEO David Tetreault",
-   "title_key": "fe682d35cf452d19e593e427308c5518368f2966",
-   "title_norm": "show me money tyson fury teases bkb bare knuckle switch meets ceo david tetreault",
-   "ts": "2026-08-30T11:08:47+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/show-me-the-money-tyson-fury-teases-bkb-bare-knuckle-switch-as-he-meets-ceo-david-tetreault"
-  },
-  {
-   "key": "fbc795266e2a2d55ed9b9918d718ada5b552d4de",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Gustavo Trujillo brutally knocks out Mick Terrill in front of Tyson Fury to defend BKB heavyweight title",
-   "title_key": "802d7cfcfae6b5bddb624cf830e8830ca0712f2e",
-   "title_norm": "gustavo trujillo brutally knocks out mick terrill front tyson fury defend bkb heavyweight title",
-   "ts": "2026-08-30T11:09:06+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/gustavo-trujillo-brutally-knocks-out-mick-terrill-in-front-of-tyson-fury-to-defend-bkb-heavyweight-title"
-  },
-  {
    "key": "d0ec1e44a85c2a36b37fafb8723a5f76ec8b5aed",
    "score": null,
    "sent": false,
@@ -16159,15 +16049,136 @@
    "title_norm": "jai opetaia delivers brutal standing knockout over noel mikaelian sets up future fight against david benavidez",
    "ts": "2026-09-13T06:16:48+00:00",
    "url": "https://mmafighting.com/boxing/510040/jai-opetaia-delivers-brutal-standing-knockout-over-noel-mikaelyan-sets-up-future-fight-against-david-benavidez"
+  },
+  {
+   "key": "a9f2d7cce68b428d3acf598a7f26cdb649aa64ed",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "David Martínez: Entrevista octágono",
+   "title_key": "eadd216c6f798d14222fb2f2ab7e68fd24c07c9a",
+   "title_norm": "david martinez entrevista octagono",
+   "ts": "2026-09-13T11:59:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Y09qZVlwUDVUalYyY3YtQk4zV2RFZEFzUFZtSVBCSjdaTHgxbkhpWkllUzBCU1BPREVyVVBmUUFkeWpma1ZXZ3BYUTl0M1huYm0tNktqcWFzcS1mOEpncTZNV1Q3UU80Z1lmZ0VCNldiV3htWFhJ?oc=5"
+  },
+  {
+   "key": "ad12354b2b5f8ebc6ae61dc7e79c839b2fff7349",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Chrisean Rock punches opponent in heated face-off ahead of pro boxing debut",
+   "title_key": "b25ebf0b4bb3f4f7c89969df02f1672b167c56b4",
+   "title_norm": "chrisean rock punches opponent heated face off ahead pro boxing debut",
+   "ts": "2026-09-13T11:59:30+00:00",
+   "url": "https://bloodyelbow.com/2026/09/13/chrisean-rock-punches-opponent-in-heated-face-off-ahead-of-pro-boxing-debut"
+  },
+  {
+   "key": "129c977af27cb02a447c453a79927962af466684",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "“Topuria está progresando increíblemente bien, pero no hemos comenzado ningún campamento”",
+   "title_key": "4a1a8ecd23d6c5c1093f127e05d8632669ccd3cd",
+   "title_norm": "topuria esta progresando increiblemente bien pero no hemos comenzado ningun campamento",
+   "ts": "2026-09-13T11:59:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVy1VM3h2VmJtMmRVeDhIRDZRNVFaUjZLdzhwOVNid2Y5a0FaVlFmNEtXMlJiUW9kQ2poYzJ5TF9MUW4xNUxJS2ZBYnFoNmVuejNHRlRTNHVHZkF2eklIdkRaOEVra1dzYUdWUktHY2ZzaWlGNGF2MEhDZ0U4amw2RnZENWxHUmNnLXZaSXN5aUU4REszMk4wZWw4YWZ2MFR3aGszRlBUcnpBMldIUFU0ZXBXNElKajZhTnpkU0ZjZUFKODFEVVZUa1BQS253bUtMOHVn0gHnAUFVX3lxTE9hN3BibVNmMmRsZm9EUjhJOE80WXloR3Jid1E1VmdqcW5yRnlVZ0V4T1hod19ZODNodzZ0RXNhRFg4dEV3cl9EMDhtdW43R0tETy1ncXJTXzVHV0xPSDNVX25yWGJIVEd4Yk1mdFdYbHRlQzRrSkNlWU0zTWVzQThyVnY5NXBKbkhGdFE4aTBCYk1oZnR3S1lIcmY5SXh6YWpWNGt1MDdwS0VJTEdEX1JidHc4TlZZNWhfd1loQzRWcU9NeVk5U1NZSjNtLXJ2ODlGYTNfWkI2WmpybFloUHpFYk5NOGtaSQ?oc=5"
+  },
+  {
+   "key": "459cac11c50ea8cd55cd60891fb902731126e324",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Conor Benn breaks his silence after being transported to hospital following brutal Ryan Garcia loss",
+   "title_key": "4c2aa0020a44fbff059ccadf2bbd209ed1e674e1",
+   "title_norm": "conor benn breaks silence after being transported hospital following brutal ryan garcia loss",
+   "ts": "2026-09-13T11:59:30+00:00",
+   "url": "https://bloodyelbow.com/2026/09/13/conor-benn-breaks-his-silence-after-being-transported-to-hospital-following-brutal-ryan-garcia-loss"
+  },
+  {
+   "key": "131ba8ac0b04d229c12195c102cad9931485b9fa",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "When Will Ryan Garcia Vs. Conor Benn Actually Start?",
+   "title_key": "3f90f6e3688f33ab0290c0a488776aab4a187d9e",
+   "title_norm": "when will ryan garcia vs conor benn actually start",
+   "ts": "2026-09-13T11:59:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGpjOXlLT1JucE45X0VVMWJWeHhtT1Q1MVZyZWJEcUd2eUR3MkJTTDZYdm5kdHo4U1pvYnV4eE9UWGJIV2JvUlRRR0N6SlBWNTdXWW1YYjhTemJYMUtNOGZldGJLUXF3dkxyZXlNM0llLUh6ZWNjLW1UTmJ3OU56a1FWSkdZdU9lN09xUDJjVDU2Mk9EQW5XTlhqWUpXamZhaXVOWlRUVnh5bzRhYXZOSWdVdzRXYlNOaW1sZGxJUQ?oc=5"
+  },
+  {
+   "key": "5e7bd26099e743bdacce5557229951f913050659",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "McMillen Vs. Rahiki: Pelea De La Noche",
+   "title_key": "c60632ef3b729f037cce5cd0c40c2b3b3e371ebe",
+   "title_norm": "mcmillen vs rahiki pelea noche",
+   "ts": "2026-09-13T11:59:30+00:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OSmczeGdONGxiM0pRNHd4TS1pZTZvWFlwQ1JHUnZjVXBHMmpoQV9TRE5qM0RNLWZhRGEzVFRLd0dYTUhYMll3ejBacVJWeHhVWlU4eFF4akVXRGsyYXFobGRhY1FzVHFFYVRxa2VtMTJ5bWhEZndR?oc=5"
+  },
+  {
+   "key": "03ca8a806c967d29e649d7a19b80f15a10c4fbcc",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Dana White denies shutting out Oscar de La Hoya from Garcia vs. Benn",
+   "title_key": "beb149713f3e020226a635370a518a2ea6a98e77",
+   "title_norm": "dana white denies shutting out oscar hoya garcia vs benn",
+   "ts": "2026-09-13T11:59:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEsxSzBLVmFRTTBaRnJxZ1BWSG9EazZIejUtSzAxdDJuRGNIWDBmZXM1OW0xVzRWVjFsekZFMlc4VXJMRlJKTy1ZNmJBUjVEODNQUE1fMnV4N0RhbE5DX29PbnJmcEFrRWZlSjAxdTNCNEhRcDYtWkdUSER2M0pUY3huQkNPSDhMbDh6U3VmOWRSSlp3cm1DSnVXdGVULTMxaEpwNkl6ay1mV0VWSm05Wm9FM1FqYi1DUjhkR0h3dEE1YjduTTRMSTBrUXd6RzFyQ0pWQWQ1VQ?oc=5"
+  },
+  {
+   "key": "d50e9f7f5b67f4ecf8dc19cf6b363e5b701134fb",
+   "score": 2,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Garcia vs. Benn video: Da&#8217;Mazion Vanhouter shakes off injury scare to flatten Raphael Akpejiori with 1st-round knockout",
+   "title_key": "86c61777b50060221f241bac2ae31c9a3400cde1",
+   "title_norm": "garcia vs benn video da 8217 mazion vanhouter shakes off injury scare flatten raphael akpejiori 1st round knockout",
+   "ts": "2026-09-13T11:59:50+00:00",
+   "url": "https://mmafighting.com/boxing/509992/garcia-vs-benn-video-damazion-vanhouter-shakes-off-injury-scare-to-flatten-raphael-akpejiori-with-1st-round-knockout"
+  },
+  {
+   "key": "5c6580347877c4532ffe342f4a9e599a810dddc5",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Alexa Grasso def. Manon Fiorot, Noche UFC: Best photos",
+   "title_key": "fa162b6b5bbb7dd9c41a190bb7e6eeb76f5bba19",
+   "title_norm": "alexa grasso def manon fiorot noche ufc best photos",
+   "ts": "2026-09-13T12:00:04+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX2tPbFZuSlRGRTVhVFZrS3dVWkplOUV2cms5QkJyS3Jsa0dNYTF4d2ZUc0ZmV1RJQV9ob01lQjdiVzE0cWE2M3JfYmlSSndnUkJzRG53dk9oV2NlV0xqX2ZvdDZhd3U4RnJKbGtCa01GMEpTMnVINFRfVlNwYTZHbDVNRDFxbzFxNjhHNDE1QnZBYXZYOS1WeEIzemZKWlY5YzBOZEp2eVJUcTNoMzRidTZSdXRxb0xGT20wSXF1dnVyYkcxdDZqRm9BMl9Fa21tT1E?oc=5"
+  },
+  {
+   "key": "8e0edd1f8a35df5076ab6dc9442c12b85a3a25cf",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Noche UFC results: Curtis Blaydes outpoints Waldo Cortes Acosta in lackluster outing",
+   "title_key": "46d4e702f1a52276bc632cf7ca88a0be97b35ecf",
+   "title_norm": "noche ufc results curtis blaydes outpoints waldo cortes acosta lackluster outing",
+   "ts": "2026-09-13T12:00:15+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYnJSVkgybExmVTVhU2hwaXMweFZuX3RQQzgtOXRHZnl4R29DZG1qSXZVeWJiLU9YYzhOeU4yS1RFczhCOXBERXRhWDF6NUV6em0zWnBodWhwWkdqT1ZkT3R2TWZ1cEpvNWdIMEQwZHhBMGRsak5WUmVua1prWkVGMTJXMmZRd3RRTjAyNmZEbU80akpOUDgyMGF1RTlidDZjWE5MbnRPUHdEd2NZdVFWYVpZbEZ6ODdJSWk2engxYUtoYW1xM2c?oc=5"
+  },
+  {
+   "key": "b46a365a7dc996665b8ace929cc57146a6736b3d",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Don Frye: \"The Dark Side of the Cage\" (Vice Studios) Season 2 Clip",
+   "title_key": "2766e6ebd4ea813161504a7a283951907af58066",
+   "title_norm": "don frye dark side cage vice studios season clip",
+   "ts": "2026-09-13T12:00:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTFMVXpiU3lPVzg3YmpJRU9MR19VaHVrWXRISE9DUm9JWVBQU2N5M2V1bDRBUFFrUUZuZ0Y2MmFERTZrYS1RUXhfZGZudDZnTmZ6aDVHcl9ZeHBLd3V2NkZNb2Rabmd5OW1URnY2eUVXdV82OVNEU1BETENvMkJCUVFoeFlZV1FGR3I3bF9UNGJQMjN5WDhCS05yWmQ2eTk0eHY3VEljT29xT19GME5XSzBJVDhsLThFMUFadWRpWlBiY3lPMGdCYkYycFdxRVE?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 14,
-  "recogidos": 200,
-  "unicos": 105
+  "prefiltrados": 6,
+  "recogidos": 157,
+  "unicos": 81
  },
  "telegram_offset": 958387804,
  "version": 1
