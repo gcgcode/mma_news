@@ -2,149 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "368d28cbeaa9b0e299893ef41dedda2c99a5c134",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Practice Gran Premio de Aragón en directo Moto2 2026 2026",
-   "title_key": "a1fb868d2b84bd153a80b19d1d91866c01aa8b3b",
-   "title_norm": "practice gran premio aragon directo moto2 2026 2026",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Y25xV0FFNzNDMGpvUF96TkdGOHlwRTJ5QlJ3YmN4R1k0eDBZa1dyOWVjOWowNkFjQ2JMZ3RBZmJZNnZYaUM1bHNYdnNYUjc4dHJVNnVWOS1uTmtxYXQ5eGRZRDdYWlZxMnE4YnpDc00tVE5qV3VIRU5HMnhxSmM?oc=5"
-  },
-  {
-   "key": "217d2861b6e408c2dc86765785d685150ce03e5c",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Mercadona lo confirma: este será el nuevo horario de sus supermercados a partir del 1 de septiembre",
-   "title_key": "09649492b12208ab4622880d30f750c2ab3463d5",
-   "title_norm": "mercadona lo confirma este sera nuevo horario supermercados partir septiembre",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUHRFN0NZdXdCMFhxSWhPUFhYWmozRHBtRG9sVHhWMnZ0Z2hzUktPNF81SWRNV1k4UEpELVJFVXFxcU5wRVlzN1RqdHpmcGdmNnZJWGdZRU1iRmhkbk9jQy1mVVVFM2hCVUNLb2lTc2N6ZkNwamFCeVdZcnNCSTVqLVd5Vklramh6VlQ0LS1JV244eVQ1d1JVOWd0b3o0RzFFNTJkamVuQ1Y3R1RMY3RrUm02b01yZ3ZaQjk0WWJacmd4V1BjaGR0Z1N0NzMzMUptVTkwb0hvZmZkVVVfNnAyUDFCemlYeEVHckQxME5SUmTSAfABQVVfeXFMTVB0RTdDWXV3QjBYcUloT1BYWFpqM0RwbURvbFR4VjJ2dGdoc1JLTzRfNUlkTVdZOFBKRC1SRVVxcXFOcEVZczdUanR6ZnBnZjZ2SVhnWUVNYkZoZG5PY0MtZlVVRTNoQlVDS29pU3NjemZDcGphQnlXWXJzQkk1ai1XeVZJa2poelZUNC0tSVduOHlUNXdSVTlndG96NEcxRTUyZGplbkNWN0dUTGN0a1JtNm9Ncmd2WkI5NFliWnJneFdQY2hkdGdTdDczMzFKbVU5MG9Ib2ZmZFVVXzZwMlAxQnppWHhFR3JEMTBOUlJk?oc=5"
-  },
-  {
-   "key": "23c68bee434fa51a8d956deaeb20beaa6dc0e811",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Gaethje just retire bro, because it’s gonna be bad if he runs into one of these young bulls like Tsarukyan or Ruffy. And these other two fighters I’m about to n",
-   "title_key": "3cad5f807733edc6934fd998f6fc0466bd577d6b",
-   "title_norm": "gaethje just retire bro because gonna be bad if runs into one these young bulls like tsarukyan or ruffy these other two fighters about name know beat them both already but rematch paddy topuria will definitely do better",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w2ldxk/gaethje_just_retire_bro_because_its_gonna_be_bad"
-  },
-  {
-   "key": "30f6e6eda98509f0e1f4381e74c3093d0fd831e0",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Just 1 word bestfighterintheworld",
-   "title_key": "e35e960baaeef1a6dd0ffd4d8a97d210f3cbabca",
-   "title_norm": "just word bestfighterintheworld",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w2onbb/just_1_word_bestfighterintheworld"
-  },
-  {
-   "key": "f57c142736ba29332a1ed164d3a0a25f6887af9e",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Fallece jugador Micah Jo Barnett tras anotar un touchdown de William Jewell College",
-   "title_key": "4ed62b1118aa5493bdf841b1bbcaf2bab27b2d6f",
-   "title_norm": "fallece jugador micah jo barnett tras anotar touchdown william jewell college",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGVfUGlSQlpueVVtdWNfcFR4YzFuenNHR3psMmZrRG16S2xuaFFYUEpxOHBXR2JDNks4bUtNV0lNajNsM001WjlzZGhYSzFXVENvMktkeWpKVzJseHpOQkxJVHZUaXR4LXA1Y29KNXRxZmJ5NHY5M0xMUWJSMG5ncWpnaFFjZ3VYME1IQ3VOUDFVaUhZRGxjSnRmVE90R3Z3UmJlQzA4emRvY2RtbHJETDg4T2tuTGNuckZpZHQ4M1ZhRzVfV19OVndqWGEzZXY5VGtLeNIB1AFBVV95cUxOMGVfUGlSQlpueVVtdWNfcFR4YzFuenNHR3psMmZrRG16S2xuaFFYUEpxOHBXR2JDNks4bUtNV0lNajNsM001WjlzZGhYSzFXVENvMktkeWpKVzJseHpOQkxJVHZUaXR4LXA1Y29KNXRxZmJ5NHY5M0xMUWJSMG5ncWpnaFFjZ3VYME1IQ3VOUDFVaUhZRGxjSnRmVE90R3Z3UmJlQzA4emRvY2RtbHJETDg4T2tuTGNuckZpZHQ4M1ZhRzVfV19OVndqWGEzZXY5VGtLeA?oc=5"
-  },
-  {
-   "key": "cbd77b720fc0c5d620f66a273675dae0445af551",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Jon Jones \"connecting\" with Chinese fans",
-   "title_key": "a2516e2bd1e21c1b6b655cbf0e03383f2430db7b",
-   "title_norm": "jon jones connecting chinese fans",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w2q3y7/jon_jones_connecting_with_chinese_fans"
-  },
-  {
-   "key": "c17bd49b74e1253574aa171e9edf5cb921ba6d65",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Merab reacts",
-   "title_key": "87f5fd4bc3ea95bc432ea4aad3a27c27a365f53f",
-   "title_norm": "merab reacts",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w2sox0/merab_reacts"
-  },
-  {
-   "key": "51c90e6d15d97d7138319e466d5ed798099a9139",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Minnesota Team News - Soccer",
-   "title_key": "1d96549d4abe2bb76695d1ba8e027a24c588bf2b",
-   "title_norm": "minnesota team news soccer",
-   "ts": "2026-08-30T21:50:33+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04WVZyWDN6MzhCbUdVQUZWSnZJLTlOWHp4OUk4Z1dXMmZhclh1X2ctZVhtWVhUcTVDREFCYm1hbWNncjNRZVJ4LVhJUUZMdEwtY3JzRVJSOVo5Z250enVnOGFKUGVVLUNH?oc=5"
-  },
-  {
-   "key": "e36066ca3de77f4df0c363ec6b7965467a5b9b64",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Song Yadong calls knocking out Umar Nurmagomedov at UFC Shanghai ‘the best moment of my life’",
-   "title_key": "c4998ede31bd60dd05df95e80b0745ad3cd3a0d1",
-   "title_norm": "song yadong calls knocking out umar nurmagomedov ufc shanghai best moment my life",
-   "ts": "2026-08-30T21:50:53+00:00",
-   "url": "https://mmafighting.com/ufc/507934/song-yadong-calls-knocking-out-umar-nurmagomedov-at-ufc-shanghai-the-best-moment-of-my-life"
-  },
-  {
-   "key": "3cb5381ace499153c0e7e7010f88eba627894bd8",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Fight Night 286 post-event facts: Denise Gomes ties knockout record",
-   "title_key": "73a8f375089a29597ec6ec20669ef83db81526fc",
-   "title_norm": "ufc fight night 286 post event facts denise gomes ties knockout record",
-   "ts": "2026-08-30T21:51:13+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHpQTTdVWmI1dEliQk5xbVpaTjhwZ0Vjd3JWTGhoTTN1N0tod3JWNW1pQ0g1OXdvWkJTV214c3pnRHVkZWpsZGxwVjRicFNtRjhtblBXeXFkTzVqYVAySGVISGl4ZEl1TExZZU1EMlRqZTFxczkxaE1fZGN2MnF5aTZ1NFFwQklfdzNpRXRGMS1udks0RVRZQnVETS1zMXBmMnZzNngzeWZieHM4bWEtUGVmRVpaaXJOSUdGUkhGdFZjRndDbUJGZnZaSnd5NmNzbzByRGVRbDU5dw?oc=5"
-  },
-  {
-   "key": "cd2878cdc693f6520c44774b99d40807189493d8",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Bilal Hasan won’t stop till he gets enough UFC Shanghai-like highlights",
-   "title_key": "0dcca647b1d06661be98cbf4998f78cf980b5d6e",
-   "title_norm": "bilal hasan won stop till gets enough ufc shanghai like highlights",
-   "ts": "2026-08-30T21:51:34+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjZocEtlNzBNVnJ3bVVwOHJqLVNOR2VQeXhRWEFMUGNTNTEzWDZVZUpBbldVUV9XVU5CbzhvMWJha0ZNNjhReXk5ZW9iaTBCUXJRZXNMQUh4eUw2WGxHaFB1WVlGeEhXM2Q2YURiQWFSNERmZEVFTk5ST0ZVS2JiS3RZTnI2bXFMVXpsR2pDXzV3WFJJWXBseTNDMVFsRU9CNFA2SWpMMHJ2Skd6OFVCYjlFZzZoWGZpRndSSTJYZVVpMGlCOTMxZ21SanR2STgySkFiSlRrTjR6QQ?oc=5"
-  },
-  {
-   "key": "ec3c538a0418a83b341e44fc2e6bb7d3d563fb2e",
-   "score": 8,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "Zabit Magomedsharipov beats top 10 UFC featherweight in first bout since 2019",
-   "title_key": "c6298bf949bd99c4c51daff1e1e12f03e41902e5",
-   "title_norm": "zabit magomedsharipov beats top 10 ufc featherweight first bout since 2019",
-   "ts": "2026-08-30T21:51:47+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/zabit-magomedsharipov-beats-top-10-ufc-featherweight-in-return-from-2019-retirement"
-  },
-  {
-   "key": "dc68facb343d8e5daaba1a794f54770b16b585bd",
-   "score": 7,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "Mike Perry’s opponent takes credit for ‘causing the dislocation’ with a shot most fans missed",
-   "title_key": "aee8961f04a87669989edb331471dbfdfb0261bf",
-   "title_norm": "mike perry opponent takes credit causing dislocation shot most fans missed",
-   "ts": "2026-08-30T21:52:12+00:00",
-   "url": "https://bloodyelbow.com/2026/08/30/mike-perrys-opponent-takes-credit-for-causing-the-dislocation-with-a-shot-most-fans-missed"
-  },
-  {
    "key": "ac98160c4280a03ff237114ed78a52320965ed73",
    "score": null,
    "sent": false,
@@ -16214,15 +16071,136 @@
    "title_norm": "garcia vs benn dana white reports oscar hoya attendance",
    "ts": "2026-09-13T21:08:05+00:00",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlZzanhlZEhNQkc1ZkZ0eFVvbGVjWHZQQTluRHVuZlFZVkRoMDFWaWhMSDhLbjg5RTQwZ19uS2ZlSDJBM3F5V3JLMDNrZmI1dV8yOEpRa2t4M2lpYU1fOGVoeVpyblBJclVnMmNSZlpwc29OZWwtTW9VSVpFYWpiQzNfb3NrNTNaVzlOOVptTFFCNzQwZHgxSjN2TW00UHZOU092NG56eGFTYk1hN3FfbjREQktqaG1EY1AyTkdQcHMtWk1iaFdHd0xQRTZud3F6QThHX1ZTdW0?oc=5"
+  },
+  {
+   "key": "f0beaca088224a96e2ad62d7b62c8fdb96bf6a66",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Pesadilla Gerrit Cole",
+   "title_key": "64ce0f392c5f4ae6c88b2ff03f79e2af5437d5f5",
+   "title_norm": "pesadilla gerrit cole",
+   "ts": "2026-09-13T23:12:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FY0MxZy04OU9jbUVhYkItWUdwUlNxWUdZUGhlMk45QjR4QzlGVktTdk43QXF3N1QtNVExYXhaVlBrRFRBWVVwNnZQTmFUNzhJeEtHaDdELXp5MkxLRHFtTUZoaGvSAXhBVV95cUxNXzA4YjZ2WjN2dGtGOS1SOFZXQ0QyX0lva0xnYUNfdEE4dFkyN1NUNVRMSHUxY2pxaUV0UXdKTHc1dXlPeVhhRUhfVGNlX2VoTVZkdnVxdVNVX3F6MFBWOVlkaUdJcnpSTVBySVBZVngwSDZhWmQ0VmU?oc=5"
+  },
+  {
+   "key": "8919b24b4fae0292035fdc472fb42228cee54292",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Arman’s striking against Dan Hooker",
+   "title_key": "29a1897273023bbf5b67588f39b30621fbf2b22f",
+   "title_norm": "arman striking against dan hooker",
+   "ts": "2026-09-13T23:12:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wffx13/armans_striking_against_dan_hooker"
+  },
+  {
+   "key": "76ba2f8f818230b6232429774215f517d278f79b",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Isaac del Toro conquista el GP de Montreal tras remontar a Paul Seixas",
+   "title_key": "c29a138df5f08370d52fe54f28e1a6957404e82a",
+   "title_norm": "isaac toro conquista gp montreal tras remontar paul seixas",
+   "ts": "2026-09-13T23:12:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYS1odFFlc3FqcDdMSkdqQXlsYmkzcXpKNDV0VXFVMkVuMGtEVTVTaHdPM3k0QlpFMmdrTHluUUdaMTZPQ1FUWTU1YTdWRl9DMU93ZGdDVjdlbWkwaTd6TVJhU21DU3pmTzFOQXQyOEt1WW8zWklUU2g5XzlFZ1RDOXc1WVBaNE5FTG1meE1CRXBER1ZJN3JZa20tc3FpejNRYzJySGFFT0pqemxuRk5RY1hta2xId9IBtgFBVV95cUxOZnNVSmV2VmNjVG1pSGpqVzZpbzhwTGtWX1NsZzl2NWM1M01fcVpkYjN0TVB0dGRmaUZHTy1HUUhVdU5BczZ3T19TVk1IZXV1R2xJcl9DVWlsZUdqLUY5RUkxdmlGS0xvazI1MVhTU2tMZVBaY2lIbDh4azRxbTIwdDEzUTFfLTE4NVNsQ29WcEw1dHg2REd6d25hcmxDMk1VcEd3Rm5ncnhIRVFieWpKYkZGN0NOZw?oc=5"
+  },
+  {
+   "key": "1227f72dfbe446df9f38456f554cd5bb0e224f5d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "islam says that he does not count usman winstreak because he popped for ped",
+   "title_key": "dddc2b57513258b8d5fa69690bf0e4d4d451e76d",
+   "title_norm": "islam says that does not count usman winstreak because popped ped",
+   "ts": "2026-09-13T23:12:45+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wflezf/islam_says_that_he_does_not_count_usman_winstreak"
+  },
+  {
+   "key": "741425c4507f7637d794376a77088196c80df431",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Results + Scorecards | Garcia vs Benn",
+   "title_key": "304c2bcd2848e2113fbe146978ece9f9a3810536",
+   "title_norm": "results scorecards garcia vs benn",
+   "ts": "2026-09-13T23:12:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZkhDbjkyTllncVIyVmxoV05aQ2hPVmpOTHl3WUdJZTVzMTZZcEdRYV9UU1ZnQ0FEQ3dneW1VMTI0ZDF0U2U1X2wxV3FidjgzMFUxc2FSNktpZw?oc=5"
+  },
+  {
+   "key": "77d509aec80cde56867f2a388fc14a3c53a31223",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Islam Makhachev claims cheater Jon Jones is excluded from GOAT conversation",
+   "title_key": "c40e1e6f844d9665de6ede4d9486396affcb1ed4",
+   "title_norm": "islam makhachev claims cheater jon jones excluded goat conversation",
+   "ts": "2026-09-13T23:12:45+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVmhCMmxtSUVpY3NDSXROQzFhMUh2WVpiWWVfOFppMHdPeEQxdUtjT29iVFVqMEhZcmhHUFU2bWhlZ2ZqeG01Wmd2eEFwMHFQazV2dlAwbTlKTGhGUHRuSXpMZXJsZmhaWlZFZF9rVGtzRl8zQXZGV1ZWaW9oU1Vlclhsd1dSWXdTUzYw?oc=5"
+  },
+  {
+   "key": "1ef2cbaa74e2e7f0e7a47bdc670ba03cc48dee8f",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Khamzat Chimaev says if he doesn’t get a fight by December, he’s taking time off: ‘I have a lot of injuries’",
+   "title_key": "59ea2021c080b6210bc340901483d6b05716b0b3",
+   "title_norm": "khamzat chimaev says if doesn get fight december taking time off have lot injuries",
+   "ts": "2026-09-13T23:13:06+00:00",
+   "url": "https://mmafighting.com/ufc/510184/khamzat-chimaev-says-if-he-doesnt-get-a-fight-by-december-hes-taking-time-off-i-have-a-lot-of-injuries"
+  },
+  {
+   "key": "1f7c5be0227e3e3dbc1012ac36a543fee98a64aa",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Will Movsar Evloev be the new featherweight champion?",
+   "title_key": "cfe7645be4b419c7ea8845f546ef0f19ca9fb81c",
+   "title_norm": "will movsar evloev be new featherweight champion",
+   "ts": "2026-09-13T23:13:07+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wflsq6/will_movsar_evloev_be_the_new_featherweight"
+  },
+  {
+   "key": "51d1de0b2bc57aa5230ca06476688515a86b511f",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "'Real-life Grand Theft Auto player' Tommy McMillen declares himself 'people's champ'",
+   "title_key": "dc4ec1f3dbea1ffe07098f9c35b8e3b8a2bc5336",
+   "title_norm": "real life grand theft auto player tommy mcmillen declares himself people champ",
+   "ts": "2026-09-13T23:13:21+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUxHOUhjR0Q5N0lyNVJKR0JGeHBuLVp5MXZmSnZvU29vbUlaVFRnWTdzeUpRYWE3TE16ZGdtUXFVUjRYeUcxVGN5UVkxaXA3cW9xeWZPazE0UEVNN0NMRk03WEVnOXNGNFFQbWRGdVJMazBWWC10cVQ2bUVaMHd2eGlVUTNFSlkwSThQQ3I4MUNJVENqdEUwQl9WZXdfeUxwZzh4d21ERExoQTJtajZVSUdrRllENXA0MzJaRzZkM3pGZHF6cGFtU1ZXdlZMN0E?oc=5"
+  },
+  {
+   "key": "0ce50c970f953846729743a1ca82fbc1dc4d7a2b",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 331: Alexander Volkanovski previews Ruffy vs. Tsarukyan",
+   "title_key": "0d60eb2e392d2fb9747d1daddb8ee7877ad611d5",
+   "title_norm": "ufc 331 alexander volkanovski previews ruffy vs tsarukyan",
+   "ts": "2026-09-13T23:13:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXltNmg0RGkzNjQ0X2ZmLVFieEdVSm5KUURvYV8tX0dQal9BNEpMemJXZGRsTzlQenJCdnF1aDgxUjF4UXU0QnhmTzQ2cDZteTBmTmYyWExZSVJmZEZ4RHRoT0VqV2ZQYUQ4Z3pLRmRfWlVjWjVSTG5PVC1OVDBwWFl4VHBUd3hfTnl4S0ZCUlFIbnF1eDhMc2JFM0xVTmNudWRCNmZxYUdJMUN6dzNlNXdPU0ZhV0ZIT2NZWG5HU283bV9lZlc0MUlB?oc=5"
+  },
+  {
+   "key": "bdd5cd8c11d27ad36151afea45a77e6c86f99ce8",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Brandon Moreno def. Joseph Morales, Noche UFC: Best photos",
+   "title_key": "3b3aa342cfbbf325950dceb6ffb3cec05a13fbe9",
+   "title_norm": "brandon moreno def joseph morales noche ufc best photos",
+   "ts": "2026-09-13T23:13:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMElfcmhfOFBfTEhNdzY0NzBnVkd6bHpKS1gwZ09tOXBqc24zaFdyQ0xzS3pSTGN1dm9tX3RqWHRvczhHLTZNcjE5Uy03d1k3NTJjcUw1N2dSMWNLd0FVWHZvNF9CN1NGN005OUJLVlJnNGNSeWNKVkRPbmJXV3NzSnN2SG1Zb19PblhxZkZJbXVvU1hyUHVYOGw4cG0yZFlkODVXX2RLcnRlQ2E3cnFFZlV0YlY0NFZlQkZ3YVg4STJlVTA0dHU3eXhYSDlmeWlNcFhaNnZmbw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 7,
+  "prefiltrados": 6,
   "recogidos": 202,
-  "unicos": 99
+  "unicos": 98
  },
  "telegram_offset": 958387804,
  "version": 1
