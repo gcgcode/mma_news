@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "8d97e2c690ccdf5e66ff0abbe1ec322c2059c473",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Rest in peace to Tony Ferguson’s mother, Vera Ferguson. My deepest condolences to Tony, his family, and all of his fans",
-   "title_key": "54ec0a376ea3dbce7f19b82997fb591c3ec463ee",
-   "title_norm": "rest peace tony ferguson mother vera ferguson my deepest condolences tony family all fans",
-   "ts": "2026-08-30T00:39:55+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w1zr21/rest_in_peace_to_tony_fergusons_mother_vera"
-  },
-  {
-   "key": "606412201478ab8944c157b50af1ee0eab2dfff9",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Dagibros...",
-   "title_key": "90e6b39481fbf22d47191aa189417f29d44fe9da",
-   "title_norm": "dagibros",
-   "ts": "2026-08-30T00:39:55+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w20nsb/dagibros"
-  },
-  {
-   "key": "52b75684592b9d934bb4ec55f709c6f7c302fbce",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Velveteen Dream disqualified for shoving Ryan Pownall out of the ring in boxing debut",
-   "title_key": "93b9ce14e4b916c990cbf1e4615cfc1f1857e2be",
-   "title_norm": "velveteen dream disqualified shoving ryan pownall out ring boxing debut",
-   "ts": "2026-08-30T00:39:55+00:00",
-   "url": "https://bloodyelbow.com/2026/08/29/velveteen-dream-disqualified-for-shoving-ryan-pownall-out-of-the-ring-in-boxing-debut"
-  },
-  {
-   "key": "8eff97b2bc87baca275e6b62565841d243e913aa",
-   "score": 2,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Moses Itauma vs. Filip Hrgovic full fight video highlights",
-   "title_key": "c0a05345b4bf0d63d729d77094bf2222492e4f60",
-   "title_norm": "moses itauma vs filip hrgovic full fight video highlights",
-   "ts": "2026-08-30T00:39:58+00:00",
-   "url": "https://mmafighting.com/boxing/507772/moses-itauma-vs-filip-hrgovic-full-fight-video-highlights-boxing"
-  },
-  {
-   "key": "7c1725ea972d4187a13bbe6087487fda140707f6",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Shanghai video: Rei Tsuruya dominates Kevin Borjas for submission",
-   "title_key": "ecfccc146db90c1354a30a615224959f4a1738d9",
-   "title_norm": "ufc shanghai video rei tsuruya dominates kevin borjas submission",
-   "ts": "2026-08-30T00:40:02+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnhReXcwdzB5Smw2RWkwaTRXbDJpam5LbllqNUN1UXVrSHZ3MDdGbWNCcGRoQ2Y3dkFVdmpJMk1NLTZWMXpmNFJkUEFvbjNIRUxwT01KUjZwTWVEbXgwSDVaRGV6YmQzb296amMtTmpuUnNwQllYbDl5aHROS3pKUDhtOGNtUGk4U2VEUHcwbmFHaW1vQnVLYzR1WlBCSDFwTGdTTG0yYU9UYzEwczBMTDc0VF9qeldLMEV3eEJxLVl0LWh0T1N5bHA3aUcwRFRka1hxSW1n?oc=5"
-  },
-  {
-   "key": "0c375841b7f21cf12693d97b83f22c0da0181284",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Daniel Cormier defends Usman Nurmagomedov’s UFC Shanghai actions when arguing Umar deserves credit",
-   "title_key": "a83e304139bc185dd164322c9ff270905d787304",
-   "title_norm": "daniel cormier defends usman nurmagomedov ufc shanghai actions when arguing umar deserves credit",
-   "ts": "2026-08-30T00:40:06+00:00",
-   "url": "https://bloodyelbow.com/2026/08/29/daniel-cormier-defends-usman-nurmagomedovs-ufc-shanghai-actions-when-arguing-umar-deserves-credit"
-  },
-  {
-   "key": "d308d1865d6174844d78a854766b5cd4d3693751",
-   "score": 3,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Moses Itauma LOSES: Filip Hrgovic forces towel to be thrown in by corner for IBF world heavyweight title",
-   "title_key": "4c7a32da17056f5c9a1e11649a27cde00f85d218",
-   "title_norm": "moses itauma loses filip hrgovic forces towel be thrown corner ibf world heavyweight title",
-   "ts": "2026-08-30T00:40:07+00:00",
-   "url": "https://bloodyelbow.com/2026/08/29/moses-itauma-loses-filip-hrgovic-stuns-london-to-make-history-as-ibf-world-heavyweight-champion"
-  },
-  {
-   "key": "2b41efacd3bab186c19601a05f4e6d696b8d8af3",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "MMA promoter explains real reason the likes of Dana White are against stadiums ahead of 60,000 event",
-   "title_key": "8880919bfac3aceb50b40160a9f6e13447d932a2",
-   "title_norm": "mma promoter explains real reason likes dana white are against stadiums ahead 60 000 event",
-   "ts": "2026-08-30T00:40:08+00:00",
-   "url": "https://bloodyelbow.com/2026/08/29/mma-promoter-explains-real-reason-the-likes-of-dana-white-are-against-stadiums-ahead-of-60000-event"
-  },
-  {
    "key": "8a3942d552178733e84790b3c6e62e846bec6a5c",
    "score": null,
    "sent": false,
@@ -16071,15 +15983,158 @@
    "title_norm": "din thomas noche ufc do or die type fight brandon moreno",
    "ts": "2026-09-12T23:19:24+00:00",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN2E3a0wwSmtXRGo2QjRDb0NENmp4b0VHOHFIeGkzZFJscTFnN1RsQkg0VkFIdWhDYW0xdWttYWJzNlRrempzRXZrcnhNamRhX21ISTB2ajgyTWlSUU1TRHFzTXJVRzBpLWZUcFFOTi10UWx2Z2U4Rkxrb0NwRWZiR2Vlc2RwbHlPVEpQOWk5QlhITmlKZDk3bXVDRTRJMTh1QzAyM0xvQjQ0LXZkVEM1bFFvVmd2cG1uWHAtLWpzekdqNVpxd1BIbS03Q2ZTY3RoUDdCQ3A1VnFPWGpjTk9sMXdfYUFHSWJrZHcyQmhBUHo2WXFSS3JF?oc=5"
+  },
+  {
+   "key": "de91ae79bf88edef0e18e10204c39b016811c238",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Jean Silva vs. Jose Delgado",
+   "title_key": "32b590e765ecd93a434a1f134fe6d8c7976da447",
+   "title_norm": "spoiler jean silva vs jose delgado",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1weswsy/spoiler_jean_silva_vs_jose_delgado"
+  },
+  {
+   "key": "574a70a57b1afd02502d16dc7425bfe5ce57a435",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "What do you think needs to be done to improve the HW division?",
+   "title_key": "338dc1b5dc28c51c19230340bf2748a348348e47",
+   "title_norm": "what do you think needs be done improve hw division",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wet5me/what_do_you_think_needs_to_be_done_to_improve_the"
+  },
+  {
+   "key": "52562819a958c53dffa98c3f8aeb5e1c2deaf8b2",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "Pereira vs. Ankalaev - ESPN Deportes",
+   "title_key": "103fa9b4a0d4dac933eacacd0b013d734dd11498",
+   "title_norm": "pereira vs ankalaev espn deportes",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDVOU2xKa25yTGp5dEJvdjNuSW51WEZQamtTcjFxWFBUY0l2NWpNaUNfY1JQYXdFYVpfaG9BNG0tSWRUcVJNSTdmNktwUFR5QTBsbU9QQ1BjX0tPeFJvZnp4ZVNpUlVlRXd0Y04zQzhMbGdWc01ETTFEa085aXpIZlIwNnFpVjlGSTZlMUI3c2VENGRSNnN2N1RMSy1KMTd5S1h5Z1IySDRabEdFMEhSeWl2MUxodzRrdEpB?oc=5"
+  },
+  {
+   "key": "52e34b087029b34e2c35743d61513d42972a6e53",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Always forget this dudes mom is Mexican",
+   "title_key": "86109a45a298767c7b19d72aaff4d7e00010b05b",
+   "title_norm": "always forget this dudes mom mexican",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wes76i/always_forget_this_dudes_mom_is_mexican"
+  },
+  {
+   "key": "7e3fb96cb590a2d4b7abe848e26b4f3025181e49",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I might never be able to predict a Silva fight",
+   "title_key": "79a027ed7526e24d1bf46d1acf8c409609f5d3b4",
+   "title_norm": "might never be able predict silva fight",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wesx3g/i_might_never_be_able_to_predict_a_silva_fight"
+  },
+  {
+   "key": "8d09762d25aa42b91d0c2b6725efd007fcdb077f",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Jean Silva is a clown. I’m glad Diego Lopes beat the shit out of him a year ago",
+   "title_key": "b5d64c083fa5f4267f82c15ead3a2a8111d87d60",
+   "title_norm": "jean silva clown glad diego lopes beat shit out him year ago",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wet0h8/jean_silva_is_a_clown_im_glad_diego_lopes_beat"
+  },
+  {
+   "key": "88f97a27fd49512300dd83510e142a64208a3a8d",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Dustin Poirier Makes Wild Challenge to Police in New Footage",
+   "title_key": "e173d30827dd776cea82fa3e0775ad16a6f50106",
+   "title_norm": "dustin poirier makes wild challenge police new footage",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2MyU2hxamFTT1V0TE93aEd2M2Jabk5RNE9FZUFlS3ZsbmpRMWo4b2FaNEQtNVcxUmQ2NjR2YzRFRXBfTUZOUFZTRThJMkN5MzZQZUlEQnFWQndKM3pyVHBuNWtia0liS2hhNlQ0a3BzVDZ1OHE2R2gzRF9qRFFKaVJSN3owNkh3ZFZTTg?oc=5"
+  },
+  {
+   "key": "e8a768af7d4b85050255ff69daab995f77ad47fa",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Brandon Moreno: Clase De Striking Y Festejo Mexicano",
+   "title_key": "f75a03ce7f8c1908adb1aa7f57297fd75c1511e6",
+   "title_norm": "brandon moreno clase striking festejo mexicano",
+   "ts": "2026-09-13T01:08:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHdpTDFmNHkxM2g0Mmw3djZrcC14alBUNm9NN19La0RiVENxcjJMZVlJdTY4VUItc0FSWUVzdnN1b0pUYlczclR3WmtIWXZuQnNYcnFTbm1NeF9yZEdXdWNJcUF1MjdTRWFQR0JTOW1PSklBWUZIb3JsSURrcThSVXdVV2hYYUNUOTRJ?oc=5"
+  },
+  {
+   "key": "045fd66fead46b51bed627963b58fc62b7dcf3a9",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC Noche Bonuses",
+   "title_key": "c5e176445303858a5378cb10415969912c1e0ccc",
+   "title_norm": "ufc noche bonuses",
+   "ts": "2026-09-13T01:08:44+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wetcms/ufc_noche_bonuses"
+  },
+  {
+   "key": "bb0dd46c02ac7a394df3ab19d525d216d6faa608",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Jean Silva taps out Jose Miguel Delgado with one-armed submission to cap off Noche UFC main event",
+   "title_key": "6e822440a5eda85f2bb3a74119d39091f7f823c2",
+   "title_norm": "jean silva taps out jose miguel delgado one armed submission cap off noche ufc main event",
+   "ts": "2026-09-13T01:08:51+00:00",
+   "url": "https://mmafighting.com/ufc/509931/jean-silva-taps-out-jose-miguel-delgado-with-one-armed-submission-to-cap-off-noche-ufc-main-event"
+  },
+  {
+   "key": "44aa3db8fc29f6258dc2c4fa381cfa7ceb8d5de4",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Noche UFC results: Brandon Moreno shows off slick striking and grappling to beat Joseph Morales",
+   "title_key": "0a41c0293f87d51fa5264a90d354c30378049b84",
+   "title_norm": "noche ufc results brandon moreno shows off slick striking grappling beat joseph morales",
+   "ts": "2026-09-13T01:08:53+00:00",
+   "url": "https://mmafighting.com/ufc/509906/noche-ufc-results-brandon-moreno-shows-off-slick-striking-and-grappling-to-beat-joseph-morales"
+  },
+  {
+   "key": "d43ba3ddfdd55c7e3e0d37b2639ae9a8a2a09c50",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Noche UFC live blog: Jean Silva vs. Jose Miguel Delgado",
+   "title_key": "ef08b7ea9615f20107b54eb955bc03bf346bf4d2",
+   "title_norm": "noche ufc live blog jean silva vs jose miguel delgado",
+   "ts": "2026-09-13T01:08:55+00:00",
+   "url": "https://mmafighting.com/ufc/509857/noche-ufc-live-blog-jean-silva-vs-jose-miguel-delgado"
+  },
+  {
+   "key": "1ee96a04fd8478e87e78480f6b9e34232baafd7f",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Noche UFC results: Tommy McMillen stays undefeated after back-and-forth war with Marwan Rahiki",
+   "title_key": "5b5fdea6d17bb0f9269e6def67e211343d7297c2",
+   "title_norm": "noche ufc results tommy mcmillen stays undefeated after back forth war marwan rahiki",
+   "ts": "2026-09-13T01:09:01+00:00",
+   "url": "https://mmafighting.com/ufc/509895/noche-ufc-results-tommy-mcmillen-stays-undefeated-after-back-and-forth-war-with-marwan-rahiki"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 2,
+  "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 26,
-  "recogidos": 205,
-  "unicos": 114
+  "prefiltrados": 8,
+  "recogidos": 202,
+  "unicos": 96
  },
  "telegram_offset": 958387804,
  "version": 1
