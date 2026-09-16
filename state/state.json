@@ -2,72 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "b0d21fae91e02fb39b84f4cfae1d1f93ed950972",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA breaking (EN)",
-   "title": "Chimaev Confirms Burns Rematch At RAF 13",
-   "title_key": "92169ae3bc8a03f77515c182d6658c74d7d65e28",
-   "title_norm": "chimaev confirms burns rematch raf 13",
-   "ts": "2026-09-02T20:06:25+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XREkxRFRYV240RGRxOWFlNjRuaGtZOUxsMWRWWDlwSy1ybzhjS0RXT2MzbU9sMHdfYkVlNldzdllYT2NCMENCNDk3OXNReUx3RnkyazZjOWkyV1hrbmR1Q0RuS0FZN1E?oc=5"
-  },
-  {
-   "key": "baadbaee5f1350c6282066d8244a34f93625f774",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Rankings Shakeup: Is Song Yadong beating Umar Nurmagomedov the upset of the year?",
-   "title_key": "128a4b0a1cbe2dc292d83235e8cca8e5dbdba49d",
-   "title_norm": "rankings shakeup song yadong beating umar nurmagomedov upset year",
-   "ts": "2026-09-02T20:06:32+00:00",
-   "url": "https://mmafighting.com/ufc/508080/rankings-shakeup-is-song-yadong-beating-umar-nurmagomedov-the-upset-of-the-year"
-  },
-  {
-   "key": "82a8c1b0c31ff77582b2047f7d9e7ceca7ad3d4d",
-   "score": 7,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Police bodycam footage of former UFC fighter turned cop, Marlon Moraes, taking a suspect down",
-   "title_key": "5a884fdcda804a2493fb1654c6c492081c188f26",
-   "title_norm": "police bodycam footage former ufc fighter turned cop marlon moraes taking suspect down",
-   "ts": "2026-09-02T20:06:40+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w5kvyz/police_bodycam_footage_of_former_ufc_fighter"
-  },
-  {
-   "key": "28ddf99707843a92f4087518993662d62eda8b00",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Anthony Smith’s next fight set in Gamebred FC, promotion releases statement explaining decision to book him",
-   "title_key": "e2e40e9b5001d92bd2129212cacd82d4b77695a0",
-   "title_norm": "anthony smith next fight set gamebred fc promotion releases statement explaining decision book him",
-   "ts": "2026-09-02T20:06:46+00:00",
-   "url": "https://mmafighting.com/ufc/508302/anthony-smiths-next-fight-set-in-gamebred-fc-promotion-releases-statement-explaining-decision-to-book-him"
-  },
-  {
-   "key": "58e0ef43884ac0600528192fde5dff638557d11e",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Updated UFC Night Card, September 12. Pick your three favorite fights.",
-   "title_key": "0d95079f5cacc360084754c7439273596bd5f51e",
-   "title_norm": "updated ufc night card september 12 pick your three favorite fights",
-   "ts": "2026-09-02T20:06:47+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w5iiys/updated_ufc_night_card_september_12_pick_your"
-  },
-  {
-   "key": "e390fe1c545f7264bb39c4413603e288bd67ebb6",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Justin Gaethje prefers Conor McGregor fight over avenging losses: ‘Fun to shut him up’",
-   "title_key": "a84d0d5747d18c3c92a6c32c9bcb3a6452dd151b",
-   "title_norm": "justin gaethje prefers conor mcgregor fight over avenging losses fun shut him up",
-   "ts": "2026-09-02T20:06:54+00:00",
-   "url": "https://mmafighting.com/ufc/508288/justin-gaethje-prefers-conor-mcgregor-fight-over-avenging-losses-fun-to-shut-him-up"
-  },
-  {
    "key": "05606774b5e04f2f533b6e33578196ada5318fac",
    "score": null,
    "sent": false,
@@ -15598,15 +15532,147 @@
    "title_norm": "oktagon 94 fight card 60k frankfurt stadium",
    "ts": "2026-09-16T18:38:39+00:00",
    "url": "https://reddit.com/r/MMA/comments/1whtpft/oktagon_94_fight_card_for_60k_frankfurt_stadium"
+  },
+  {
+   "key": "e57acdfa2044baee9318f20afb7b983b096632dd",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "NFL legend Ray Lewis could compete for RAF wrestling this year",
+   "title_key": "1ac94e6fad880bfe133016422e7ab4e977bf9414",
+   "title_norm": "nfl legend ray lewis could compete raf wrestling this year",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wi6n14/nfl_legend_ray_lewis_could_compete_for_raf"
+  },
+  {
+   "key": "30916e8d3604ab3f542364555b08bc6256dcbebf",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Ilia announces he’s officially back",
+   "title_key": "de43fcb00f4c46e472a2d88f359b9bb6b6908e99",
+   "title_norm": "ilia announces officially back",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wi883w/ilia_announces_hes_officially_back"
+  },
+  {
+   "key": "16081926690188f037cdde8d096f32b29d05e12e",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Ilia releases another statement",
+   "title_key": "d80eb37c93b48182ba8cf712fde3bddbbd8d33bd",
+   "title_norm": "ilia releases another statement",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wi8lb2/ilia_releases_another_statement"
+  },
+  {
+   "key": "98840825a034e687437823023c146265a4f6223a",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Alex Pereira mocks Ciryl Gane on Instagram",
+   "title_key": "7eed894c679a44d024b40d7ab616048909c5e7ce",
+   "title_norm": "alex pereira mocks ciryl gane instagram",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wi92qq/alex_pereira_mocks_ciryl_gane_on_instagram"
+  },
+  {
+   "key": "f303e2406c1d9d61e8e6000b0f3632317e3d7970",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Juan Guillermo Cuadrado: “Estoy muy contento de fichar por Millonarios”",
+   "title_key": "c1a95781ebb494c1d40dd6c59b84d54d8586e70d",
+   "title_norm": "juan guillermo cuadrado estoy muy contento fichar millonarios",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRTl6RHpXV3JvR3p1Vmd5SmVVZmR1X29WaDgzWjNCVmtfSVkzRWw4Q1VxeUN4d04wbkN2V3pOY0VzTUJDZkVZQllheUJhY1J2MHhBNnRMXzNtblNJTkctT1FWdG1KMmpwbENYWjVNM2MwLU1GSGJSRFE4bEVHOFlqU0hQV0hGTENCZmFuejlGMURDaXlHblZ3UW5oVko3bUVaazZ1QXpuRnBxSi1uUTZr0gHDAUFVX3lxTFBja0JVMlNLYTRIaGYwZ1gwbTZRZGhsbUFuZlhuWEwxU21LQTk3UExJdk55WHZKeTZKdHNIUjZnbVVjSkxrdUh1RklGa0ZtbjVSQXp6UkwyOEhwSVExelRQZlF2NUpiczFLMEJsU1h6TWMzR0tvOE9RU3BYQmE3SXRGdXlmWEVqNC0yVGQyY2RmZkR6azREYWJQSjZjcjA5UFc3YXpKTEFtUnJUUjFSTGlQRUFTcDNLLVRDZU9udXBBSDc1VQ?oc=5"
+  },
+  {
+   "key": "74e19f3da89e7a70f38c63166149a9438122a18a",
+   "score": null,
+   "sent": false,
+   "source": "TUDN MMA",
+   "title": "Redacción",
+   "title_key": "d08bffe7e0bf4797f7422cdda9eacf5baa020600",
+   "title_norm": "redaccion",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aGM4R0V5b1Nia2FkYjlPcjBLbGJid1JHMHhoTm5XLWY1ZU9abWxZVlVmdXFLQ1hUUTRPeVlLMDd1VElCd3dsWVlKZVhsYUEyREMxY2M2ZU1wUQ?oc=5"
+  },
+  {
+   "key": "caf5bcabc4ceb5aa91291bf307dd76d5cb343398",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Ilia Topuria vuelve con todo: \"La próxima vez me aseguraré de que revisen los guantes de Justin para que no les ponga nada raro\"",
+   "title_key": "ea8e94f1b427b404cb71d68043c9e75074c610b6",
+   "title_norm": "ilia topuria vuelve todo proxima vez me asegurare revisen guantes justin no les ponga nada raro",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRWZyYi1HVnR0WkVkZzlvSDhZUmktczhGS2J4eTJYQnpnU2U3Y0lVVDRUWENSMVZiazBZUG5jZ3hsblhDMHZiU3h0aEh3a1JlX3VVWmE4dzlnMU5janJ6TDIwNnMtVk55a0pfM0Zfc09BNzgxckNvcjJYYUd0eXFLZUtGNHRVdzRBc3R6WkxkRUQwb1FLRzZEZjBmWTZMUnU0NjdoRFlkWGRiYUJRX08zcW1VV2ZkYXVyR3g2T0tlQ3d5dkgxX3hXWVJiNDZmUdIBzgFBVV95cUxQeFhMSkV0OFludW1sSy1DRUsyc1VId1QxRWlhU1lEU1ZJbGljcVVBOERPNXlISjNXLWNCb3E2SXZGREdpUGt0NUlzakdUalRHckJNTElEZURPUzA1TE5GSEVUMUQ5QllCUFduRjNndTU0NEdoTDZya1RlTlowZ3VQQUFlZGgtRmllMTV1VTBzcXBtN0FrNjJiMVdtQTZSdEVqNEd4NjMyU0FZclVYaDU1MzZiNmJSRWl5TFdpSVJrd2JxZG1yRUcxaG42UmNNUQ?oc=5"
+  },
+  {
+   "key": "fe54fdd4598c6202bc32c22f76d72aad9366a415",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "College Football Predictions, Expert Picks, and Today's Best Bets",
+   "title_key": "40e47a4938974fb59a1153509916878d9548656f",
+   "title_norm": "college football predictions expert picks today best bets",
+   "ts": "2026-09-16T21:42:26+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hd3Jwb3VJSU9id2pwYzJtbkpTUlpKOEpfRmlXOE00bTE5d3JxTUt3ZGN3aERMTUtTRm1mVFVFV25sZzVQV0xKc0JqNEZvRlJQdmJkU251MG9zUW1JMFVZ?oc=5"
+  },
+  {
+   "key": "5480db140937b15238afb3413863048b914ee592",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "‘I’m back’: Ilia Topuria reveals he’s been cleared to return to action after brutal UFC White House loss",
+   "title_key": "9a8cd064c1ef78a546980460743b1799c6fe794a",
+   "title_norm": "back ilia topuria reveals been cleared return action after brutal ufc white house loss",
+   "ts": "2026-09-16T21:42:34+00:00",
+   "url": "https://mmafighting.com/ufc/510574/im-back-ilia-topuria-reveals-hes-been-cleared-to-return-to-action-after-brutal-ufc-white-house-loss"
+  },
+  {
+   "key": "ede4892d39aa51c4a86cc85ad41cb07d6b9f5e0c",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Alex Pereira laughs at Ciryl Gane’s promotion to undisputed UFC heavyweight champion",
+   "title_key": "c088633bf7c4f3c582f7e6c83aafaf5aa34f1c64",
+   "title_norm": "alex pereira laughs ciryl gane promotion undisputed ufc heavyweight champion",
+   "ts": "2026-09-16T21:42:45+00:00",
+   "url": "https://mmafighting.com/ufc/510561/alex-pereira-laughs-at-ciryl-ganes-promotion-to-undisputed-ufc-heavyweight-champion"
+  },
+  {
+   "key": "6faffce2578378383560512478f3387b79e60cf4",
+   "score": 2,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Eddie Hearn fires back at Dana White over Tyson Fury vs. Anthony Joshua debacle: A.J. ‘is not a sellout’",
+   "title_key": "5807487bb7b414b5984ce0dc05f4496e1d05817f",
+   "title_norm": "eddie hearn fires back dana white over tyson fury vs anthony joshua debacle not sellout",
+   "ts": "2026-09-16T21:43:06+00:00",
+   "url": "https://mmafighting.com/boxing/510538/eddie-hearn-fires-back-at-dana-white-over-tyson-fury-vs-anthony-joshua-debacle-a-j-is-not-a-sellout"
+  },
+  {
+   "key": "d11b7de75c268c93e9059da3b570219441c7b89d",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC on Paramount gives their top 4 fights of the year",
+   "title_key": "fb5099f75c2674d36d7106ad22bd3e812e043fe6",
+   "title_norm": "ufc paramount gives their top fights year",
+   "ts": "2026-09-16T21:43:07+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wi6ch8/ufc_on_paramount_gives_their_top_4_fights_of_the"
   }
  ],
  "stats": {
   "descartados": 2,
-  "enviados": 0,
-  "llamadas_llm": 2,
-  "prefiltrados": 14,
-  "recogidos": 195,
-  "unicos": 106
+  "enviados": 2,
+  "llamadas_llm": 4,
+  "prefiltrados": 8,
+  "recogidos": 177,
+  "unicos": 98
  },
  "telegram_offset": 958387804,
  "version": 1
