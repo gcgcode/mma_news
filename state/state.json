@@ -2,160 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "7871a19e0c1bc136cd139a68c604646f0f5e395b",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Henry y Reyes explotan: “El arbitraje fue un desastre”",
-   "title_key": "fcde934174eaae0ec8dfa92103a132ec18af2fa4",
-   "title_norm": "henry reyes explotan arbitraje fue desastre",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMTlRU2RaS2hWQTdLcU44ajdBS1N4aWs4R1Z2a2pLeldvaGpFMmgtOW5lLXFTZ0Z5YzZwSl9Kdm4zcDgzcEN4eFU1bGNKaUxzVm5veXo2Nml4N3dLLVByaElUdUN0cDlhdktaSnlDaTJBZVFOaTBiX1Z3aE1HSXdIRFhBamZWN1ptQ3RwLUpfOHgwMGxiNUdxN29XdEs3Yno0dVFPV9IBpAFBVV95cUxPMTlRU2RaS2hWQTdLcU44ajdBS1N4aWs4R1Z2a2pLeldvaGpFMmgtOW5lLXFTZ0Z5YzZwSl9Kdm4zcDgzcEN4eFU1bGNKaUxzVm5veXo2Nml4N3dLLVByaElUdUN0cDlhdktaSnlDaTJBZVFOaTBiX1Z3aE1HSXdIRFhBamZWN1ptQ3RwLUpfOHgwMGxiNUdxN29XdEs3Yno0dVFPVw?oc=5"
-  },
-  {
-   "key": "eb0823946eb9789385d1660799341f19dd4e1a08",
-   "score": null,
-   "sent": false,
-   "source": "TUDN MMA",
-   "title": "TUDN.mx",
-   "title_key": "c65f3d1036a3217e8e4ab26bb919e035baa918e0",
-   "title_norm": "tudn mx",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPV2tVN19BeUNQU1dIaVVlc1BJOTNZQnFhTHVoYzRmWkNGZXdKdjFhZ0laZmk1Tnk5dldmX0U3YmJMNFlMbXdCTk1LMEQ2TnEwc3BsdW93?oc=5"
-  },
-  {
-   "key": "dbbf099d958f9ba3ce23e810de081d6e49da8fc0",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Vanessa Demopoulos toying with Shakur Stevenson",
-   "title_key": "fe06f883b31c3a2c0b954590086836456c7ae956",
-   "title_norm": "vanessa demopoulos toying shakur stevenson",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w6jctt/vanessa_demopoulos_toying_with_shakur_stevenson"
-  },
-  {
-   "key": "9641dd52d3f765f14464448b177a788861a7bbe8",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Duality of the illegal knee",
-   "title_key": "9fa3cd283190c1bf754f0aba5a14255b774b9516",
-   "title_norm": "duality illegal knee",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w6l42k/duality_of_the_illegal_knee"
-  },
-  {
-   "key": "7a2c6a444d71c6f5442325a352c054b73774b6dd",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Otra Ronda en directo: análisis del recado de Mou a Asencio y entrevista a Maluma",
-   "title_key": "93bd839ce6aa944f99d55737b268025fb990938d",
-   "title_norm": "otra ronda directo analisis recado mou asencio entrevista maluma",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1MDNsNmdLd05KUXdDM0dDaHdnNHJuQm1EaUI5UExoSm56OC1vVHR6WUhDQkVCWDF1b1lyZ0JRcnFmRjdtTFp3Tm9WQlQ3LW1SdWh0Y3R0cnNYMjVjV3lVOWRFME9WVGM?oc=5"
-  },
-  {
-   "key": "13ad63ad3882eaafcb28b00e374413fa3b98fb18",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Do you guys think this body shot would've finished anyone other than Justin Gaethje?",
-   "title_key": "c9f005ac8e1a1274a0c0880d364656f165310f0b",
-   "title_norm": "do you guys think this body shot would ve finished anyone other than justin gaethje",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w6mdyg/do_you_guys_think_this_body_shot_wouldve_finished"
-  },
-  {
-   "key": "411c3d0c2727dcc3d507d1b8fc2ebec775c43d9c",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Islam Makhachev has just been caught in 4k UHD following OF model justcarrlyy on Instagram 🥴",
-   "title_key": "39ca722d9861d452dbcefdc79bbf2071fcfa80c4",
-   "title_norm": "islam makhachev has just been caught 4k uhd following model justcarrlyy instagram",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w6n4h5/islam_makhachev_has_just_been_caught_in_4k_uhd"
-  },
-  {
-   "key": "bcd5d615abc3085dc60c1e364ba2846ff476b1b1",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Saudi Arabia Team News - Soccer",
-   "title_key": "02200b02a5d54a946e3586e64132fcf85bdcbd29",
-   "title_norm": "saudi arabia team news soccer",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHczBJajBoemM5V2xNQmJHZTljaV9TR1R6Mm82bGluXzBEaDlQc3I5RV80QWRMNlhRaEZON0R0TnJrM1NvSkRodGIzV05ZWHVVM1NlTEY3S3lsVEpONVZlcUs4dWI?oc=5"
-  },
-  {
-   "key": "01ce2e0e06a7cb7247b9650e5109016587072f7f",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "After his first victory in 8 years, Tyron Woodley doubling down against Khamzat Chimaev at RAF 13",
-   "title_key": "9d67c30eca0a1c13ddb3804a0bec3b6ddbd234be",
-   "title_norm": "after first victory years tyron woodley doubling down against khamzat chimaev raf 13",
-   "ts": "2026-09-03T23:20:47+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOelVZYXl0azViXzY1SDNhTThUYmJBSGdQQ2pWeG5tRUlOQWxmTFA0ZjNpclBWNUd4M0VZcGJibXRSUXhJTG5NdGsxZkM0enFqdjZ3SmEyZFh2a3ZPbUV5NnhDaEJhcmQ4M0RSSndCaExDSUpfZDRNZlpWcVUxZHZlNFdzTy1UbmM2Z3RDNlk4cTdVNnJQTk5VeWRNR2RTTndHeFdxaGpmcm1TVmpyMHlsUGlUWGdGWl92QmpleEJlR3JfanpFTEhTNXpTSWpVajN1NWpULXUxbWVHbEd2bHR1NmlMRWZrQkFMbmc?oc=5"
-  },
-  {
-   "key": "6a9a19d7d32ab7d6e8c9c868c4b47b9b33aa406e",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Michael ‘Venom’ Page wants ‘to remind the UFC why they brought me to this organization’ at UFC Paris",
-   "title_key": "f38f6b3926de7ca8402392c6dcddb31945352433",
-   "title_norm": "michael venom page wants remind ufc why they brought me this organization ufc paris",
-   "ts": "2026-09-03T23:20:52+00:00",
-   "url": "https://mmafighting.com/ufc/508383/michael-venom-page-wants-to-remind-the-ufc-why-they-brought-me-to-this-organization-at-ufc-paris"
-  },
-  {
-   "key": "7036cc2f5a32b98f3384d05faaed92cc41238e99",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Top UFC featherweight holds one thing against Jose Aldo in GOAT debate",
-   "title_key": "68e17a8667b9440e005f5f15170eb2e2add17c95",
-   "title_norm": "top ufc featherweight holds one thing against jose aldo goat debate",
-   "ts": "2026-09-03T23:20:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOUdwbUhNZG5OZmlSc3c5TlRtMmFJN0p1aVZSVUR2dy1peURzM2NkM0JDbVhkX21Mc2tGeF9MWFRKRUtQMzdNZVpjcGVQQXRKX0RFZ2ZUVzlpTUNFZDFLZkltdnhJNmtXeW50bHpvWlhxU0NJNEhTdDJyUlczV2V6MUFJMHgtNi04bVlWMGlHaTFfZ0d0bnJlWkVsOFRmZ2plbU9TVWRfcmw2eEU0MjRBMFpaUDBJM2luV0lkdFhraTVkVlJaMGZWa0NxM2JDSlJ0V3FsYm40VFpiR1JFeG02ZQ?oc=5"
-  },
-  {
-   "key": "fa29416b1b2ba3f71ca16414c8dd776dc13c215e",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Belal Muhammad out to make 'soft' Colby Covington cry at RAF 13",
-   "title_key": "59ace5dd1a622134dbda13ee4e12dae3e67d359e",
-   "title_norm": "belal muhammad out make soft colby covington cry raf 13",
-   "ts": "2026-09-03T23:21:08+00:00",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTWo5RkhJbDNlZG9NRHZMWVFUVUs4WWcyYTAwczVxNGtjYmRuYTIzbm5ocHdFZEIyNDQ4dnFCemdjbTFUWlVFeHVQM09RdDJXVTZWM1hTaDlfTkU4OVg5dUlyWVpFSlJQcFBDcUkyMXB6V1E3YUw1ZVlIWlU2ckFRRF9NTTZCdmRpV1Z4d1RUM1Y2U05meXFHRTR2WFptWEMwVnU5dGlCNERTeHhVRW9meHNMcXZMS2ZrTGItaDB4dzJVZ1RPaG9GNHJTWU51QQ?oc=5"
-  },
-  {
-   "key": "beaacf3f6fcf9023a367d2cdd315077ff8966516",
-   "score": 2,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Tyson Fury moving on from Anthony Joshua fight, trashes Eddie Hearn: ‘I can’t make a coward fight’",
-   "title_key": "43775397c664f5b327d7da0829e5060a9f46c0c6",
-   "title_norm": "tyson fury moving anthony joshua fight trashes eddie hearn can make coward fight",
-   "ts": "2026-09-03T23:21:09+00:00",
-   "url": "https://mmafighting.com/boxing/508371/tyson-fury-moving-on-from-anthony-joshua-fight-trashes-eddie-hearn-i-cant-make-a-coward-fight"
-  },
-  {
-   "key": "8e0b1120c5af20651ad47cf9cede12b4a19f1838",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Morgan Charriere lost the love, but knew it'd be back for UFC Paris",
-   "title_key": "c8b99938628807ccca26883ac3519a488425baee",
-   "title_norm": "morgan charriere lost love but knew be back ufc paris",
-   "ts": "2026-09-03T23:21:35+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXN2QkNwLTFfOE1lT3UxeHJLV0o2d3k3OTdYS1lmVDZiVjlHaUpGOWFwZ1M4VzNjeVdqVkhZdFpROUlvcktKc2dRaG9vYXRaSE5zS05vOUtEajZHaHd5U2R0alhINk9xeEZvbDl0bllTRDdvOExObTFKdF91MUZkNG5VRG1lS3hhWW9vc2xBMXY2ZzNXXzNnNmd5SGFvQjJETG11X0p6Q3RpVFBicml2Y2dZNEo3bGo4eHNoSmdxQUlzcHN4MFhxUEI1MmZNQ1BsbURQS1p0NVM?oc=5"
-  },
-  {
    "key": "e5dd5f95ca1a7e11a9f2f499b41b30ff7402f83e",
    "score": null,
    "sent": false,
@@ -15499,15 +15345,136 @@
    "title_norm": "brian ortega responds backlash over pulling out ufc 331 you guys rightfully so have earned that anger towards me",
    "ts": "2026-09-17T21:44:46+00:00",
    "url": "https://mmafighting.com/ufc/510571/brian-ortega-responds-to-backlash-over-pulling-out-of-ufc-331-you-guys-rightfully-so-have-earned-that-anger-towards-me"
+  },
+  {
+   "key": "75fbc12872daac0608a9d186e94a17a2532269b2",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Kudos to Adnan \"Gladiator Of Sandzak\" Alić, who on 7/30 acquired his first win on Tapology since 2022! Alić (14-46) had lost 15 straight, including to a 49-yo J",
+   "title_key": "4c41c9a87e2cf061b3276f991af1e4dc3e9d97ff",
+   "title_norm": "kudos adnan gladiator sandzak alic who 30 acquired first win tapology since 2022 alic 14 46 had lost 15 straight including 49 yo jerome lebanner career opp record alic 14 wins 101",
+   "ts": "2026-09-17T23:52:32+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wj79rr/kudos_to_adnan_gladiator_of_sandzak_alić_who_on"
+  },
+  {
+   "key": "94c2f9b8385b0b87eed60f3a5abe3578b088bf6c",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Raquel Pennington, who hasn't fought in almost 2 years, moves up the womens p4p rankings to #12",
+   "title_key": "1f549539da48b7090d1dd9a7ea21554bf64a932f",
+   "title_norm": "raquel pennington who hasn fought almost years moves up womens p4p rankings 12",
+   "ts": "2026-09-17T23:52:32+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wj9fyy/raquel_pennington_who_hasnt_fought_in_almost_2"
+  },
+  {
+   "key": "e891758ff535c803f7b9b952be8c99cf14d9f50f",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Los vecinos de Ceuta multiplican su interés por los talleres de defensa personal: \"Intentamos que no se queden en blanco\"",
+   "title_key": "560bb38f142eed891e4a2f88c49fe6b34a611bad",
+   "title_norm": "vecinos ceuta multiplican interes talleres defensa personal intentamos no queden blanco",
+   "ts": "2026-09-17T23:52:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmw0MHY0RE1XSXFUb29tVEhHUFM0dkFHMXE0d2tuc1daZkY2c1E2VlptLW9fYTV0bFZINkg2LVJnZXYwNlpwd2NlVmhEVWQ1aVdweWN1SUtBeDA2UzJzMmNpbHBmU0s3TV8yS05LOUVLaEYwVGo5TWtKOHFYRThOS0IzQXZpU3ZiR0pNcWFhdWdkclpMSzNZMTRGUGVaUjZGb3BEdExDWklwazFFMHAtdHVwcno1OTR1a3IzaHZJWW03MEhR0gHEAUFVX3lxTE9rVlZUWGxlOFBlaWNETG5IQWpGaUd1b0drTkJBNlJmOVdkT19PeDJERzlxT01laENEQXB0UGIxR1VfejJ5YXBKV2lxb1dtUEdZSFVTU3FqSWRiUVZUdTNjU2FISHVFTkRxWTVHTDZUVEdUVnVGSG9KbTVsQTBzNlVjNGp0OUM3VFFLQjh4WjRlQWdwXzRtaVE3ZlJ5UkJESkEzQ0h6M3pLLTQ1aGtHMjh2MlpITkFUb2tRU2lIczVYVWlfOVU?oc=5"
+  },
+  {
+   "key": "2aa1a2a63df61522af10285f65e95df7869ffd76",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Henry Cejudo targets ‘Deen the Duck’ and Adrien Broner in reaction to new Misfits Boxing matchup",
+   "title_key": "3bdc2feba60cdee33782c6300452fd1fda5b2340",
+   "title_norm": "henry cejudo targets deen duck adrien broner reaction new misfits boxing matchup",
+   "ts": "2026-09-17T23:52:32+00:00",
+   "url": "https://bloodyelbow.com/2026/09/17/henry-cejudo-targets-deen-the-duck-and-adrien-broner-in-reaction-to-new-misfits-boxing-matchup"
+  },
+  {
+   "key": "874bf93d42d7238d29ecf57520bd4faf5d911e6a",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "2026-27 Fantasy Basketball Rankings: Shooting Guards (9-Category)",
+   "title_key": "87b0315a24b31bfda3c03d0493355de29c2bbf0f",
+   "title_norm": "2026 27 fantasy basketball rankings shooting guards category",
+   "ts": "2026-09-17T23:52:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSm1ITWEzNXBlbGF1RGZBMDVQZzh5Y0w5Nk4tQ1dYMlNSWjVRR3cteFQ3S2tfanFVZktxR01jUXM4Ty1ncExXbXZuckFFZkk1ZXlIdmNudkI1VGc3V1RvUjU0NzV2NkNESldxVDA5N1JfZmp3bHZWTWxHeVk1RnVFeU5Ub1I2TXBVSHQxR2hzMXVhX2dqVHdfX0hwdnBrRllLSUZsVUJJTE92WEgzTUVUSGtEeTROUUowZmc?oc=5"
+  },
+  {
+   "key": "4c2567880be669c0eda39d0730d047a2668b915d",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "¡Sextete! Selección de Artes Marciales Mixtas se adueña del medallero en el Panamericano de Monterrey",
+   "title_key": "721ba7d9fd8286a354883bf82696c2f77b829350",
+   "title_norm": "sextete seleccion artes marciales mixtas aduena medallero panamericano monterrey",
+   "ts": "2026-09-17T23:52:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS19yN1phUzBhMFFsbVV3YVRfRGVuSEQ4NW9QSm05WXlsNVIzcFlTVDZBVU5qcGUwV256d0V3WmtkR0s0RXpYRHFfamJpM1VJaWxxZkZxekZPQUItUHhHU1puTGE5UW9fcmpwbWUyWkpVMVNPS3ptb2w1YXNlV1BZX3FZOHdkM2d6Sk9na1BVQ1k1WC1OYkNKd1BNNFlrNFh4X0dEN1IzMno3cktTb3FIcDNhaGpYalFER3pKNEFFdWtjNE0?oc=5"
+  },
+  {
+   "key": "afffe1710a79d788d13a0f1ac8b459eb786932ec",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC returns to Qatar in November",
+   "title_key": "97c5a4a3090d485019c266a7dba7c6c55d681650",
+   "title_norm": "ufc returns qatar november",
+   "ts": "2026-09-17T23:52:48+00:00",
+   "url": "https://mmafighting.com/ufc/510719/ufc-returns-to-qatar-in-november"
+  },
+  {
+   "key": "de36b1886d9f3896a7609962e49908b253412c82",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Cris Cyborg unsure of next move post-PFL, but certain it's not UFC",
+   "title_key": "fba5e928a8197807615dc5d8142c8773e88a5fd6",
+   "title_norm": "cris cyborg unsure next move post pfl but certain not ufc",
+   "ts": "2026-09-17T23:53:04+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wj8w1f/cris_cyborg_unsure_of_next_move_postpfl_but"
+  },
+  {
+   "key": "678fa256aab51901de3faca975609a6e57021414",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Anything but fighting: Charles Jourdain lists his favorite anime",
+   "title_key": "f85574d14fb16a1e9fb0fea7342d71c65ff2f774",
+   "title_norm": "anything but fighting charles jourdain lists favorite anime",
+   "ts": "2026-09-17T23:53:05+00:00",
+   "url": "https://mmafighting.com/videos/504608/anything-but-fighting-charles-jourdain-lists-his-favorite-anime"
+  },
+  {
+   "key": "572a143cd0547181413b8090cf080b24ffb47460",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Carlos Prates or Michael Morales? Ex-UFC champ forecasts Islam Makhachev's next fight",
+   "title_key": "bf24ca493abb7cfd9966e2acd244164444e567f5",
+   "title_norm": "carlos prates or michael morales ex ufc champ forecasts islam makhachev next fight",
+   "ts": "2026-09-17T23:53:06+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUjVyYTVSQi1PRV9JYVVpbGtLS19yRjRSeXZtUVBsV2pBMC0ySGNYVjVOSHVoTksxUk1SZ3A4ZUY4aFp4cnVQMHRpX3VyTGtOWFZmeUtOT1ZvOFpTcUllTW9lc2V3cUNyZGdFd1dUUFZvZFBzMTNuQVdUOG42MC1XTkJQNUkxUXY5djl5TXVIM0VZc01iNlVyVThYZjRyZlpjS3c1Qzluamp6M0Vta0FELWVXZExGVkcxcWdPTDRranpza3Niaml2QWZYMVJ5ODVXT2ZjdXAxd0Q0VEplZWt5bTduOA?oc=5"
+  },
+  {
+   "key": "d79cd4cfd708cc272edf2488c3ad570272bcd203",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Mauricio Ruffy: UFC 331 prep for Arman Tsarukyan 'made me a different person'",
+   "title_key": "36982391df64480a734bcb991d99b0b3885fefea",
+   "title_norm": "mauricio ruffy ufc 331 prep arman tsarukyan made me different person",
+   "ts": "2026-09-17T23:53:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcTAwWW8tVG1QN0YxejFmYkRTdFZPSklBNnFGSk15ZkdHeHN0aTdIZTh6SXlUd1VOeHJlOHYwVGx1RkF0dnM0SXdiLWowOURSamg1WVhvLTNVRm1mU2MxTFdHdzVCSVlNVWIwbW4ybUtrcXlMWWpFeWo4NkxpTVJUdXBFWVBwc2tEWjFGSUVVUmJyZmlNTWpmQnJ6QURYOHppc0Jqblk3cUw1dTJ1bVJBOWQ3M2Rma3Z0ZTVRaE9OZDh2SVBZckVRNWgxV010THJQUUk0SjAzYw?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 10,
-  "recogidos": 201,
-  "unicos": 95
+  "prefiltrados": 6,
+  "recogidos": 182,
+  "unicos": 85
  },
  "telegram_offset": 958387804,
  "version": 1
