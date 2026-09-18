@@ -2,149 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "7f049375190041e01f71db6b2597bceecc7b08a4",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Pavel Andrusca",
-   "title_key": "e1262239ecac86946a6ce6b6533997b929e33f83",
-   "title_norm": "pavel andrusca",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EWFpIbGpTSzlzazVWaFItcXJ5UnJJRDhuamJNZGRZS0E1TU1fSzFVRHVLVHdUdGRDMUdhNXhrbFViOFFORklNYjN1elJsY1hubkFta1lzc3ZZSGQyTkE?oc=5"
-  },
-  {
-   "key": "a626a484de75ac0ca2a8098f92f0587709506fe4",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Is there a chance this man would see the light again, or do you see him officially washed?",
-   "title_key": "0a9c3c8b369ae7105f785dd2c0a7aa13a22460c9",
-   "title_norm": "there chance this man would see light again or do you see him officially washed",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w7b6gw/is_there_a_chance_this_man_would_see_the_light"
-  },
-  {
-   "key": "7a58ff1a8dd4ada212d4a50399b84723b8ef6c4c",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "The lines have spoken for the final face off of Hooker vs. Parnasse. Hooker wins both face offs, I smell an upset…",
-   "title_key": "8bec5baf65060c6df1d2c7db27851e91f6a193d0",
-   "title_norm": "lines have spoken final face off hooker vs parnasse hooker wins both face offs smell upset",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w7btek/the_lines_have_spoken_for_the_final_face_off_of"
-  },
-  {
-   "key": "eb57bf1798e0975b5a762748e9994eb5d27e37c9",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Arman will never get a shot again",
-   "title_key": "6ce8f6645399d7873cad207f5b3587d76df38276",
-   "title_norm": "arman will never get shot again",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w7chib/arman_will_never_get_a_shot_again"
-  },
-  {
-   "key": "504ab0d6332425fde6481bdf52db6a1f4624f674",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "First Things First: OT",
-   "title_key": "f3f25b4803860dd9615631b09e5ea09d482ae907",
-   "title_norm": "first things first ot",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85Z0huYTRBWmg5anhld0NuVmktckJ5TFNuUFJhSFNPaDBkQVI5dWxJZGhpZDYzLURZRHFSMjIyQnREQ2V0QmtVRnZkTmpRSXp6UGs2RTFlWlhwcnFRQTBiZUNn?oc=5"
-  },
-  {
-   "key": "aaf5899ea5c880903170723d9f90b50df725d58f",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "How does Dan Hooker keep getting away with it?",
-   "title_key": "d802fa8a0a6da08f7358e1efd63f98415e6dd073",
-   "title_norm": "how does dan hooker keep getting away",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXRRS3VCRnl1TmhobWNNOFFiX3F1bGRRMWQ2cnUtM2lvUTRxMHNFbWgzZUJnaHRabF9ldFFhdHFYdklEMTM4T0I3U0I4ajVLUTBHc1Y2OXRZMWc1RkNJYVV2bTZZenFlMUNCQ2RlSkJWNmVJdFp6bG5yQzBHNFJUVEJRQUozNjc0ZEpmbGV3SVFpbEowel9FdnFPeEs1X21JSUt4SzVFYkV3NmYwSE9ZdENWdkM3WVA1bDRiVGdEbWd5Z05M?oc=5"
-  },
-  {
-   "key": "0d5b55d02fcabc0970461c0fa332a07baf9abde3",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Sharif Ben Mabrouk Says Hunger Will Drive SENSHI 33 Grand Prix Run",
-   "title_key": "3b83cd97a1dc946fda58b834bccc058657879f5c",
-   "title_norm": "sharif ben mabrouk says hunger will drive senshi 33 grand prix run",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://lowkickmma.com/sharif-ben-mabrouk-says-hunger-will-drive-senshi-33-grand-prix-run"
-  },
-  {
-   "key": "fc5f381319f3eab8ee68703b61f1fabc11dd9c5a",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "“The Only Way to Get That Fight” Ray Sefo Breaks Down Sean Strickland’s Khamzat Chimaev Trash Talk",
-   "title_key": "61c55b07eff865cf63b779cc45ef26f5d97a2106",
-   "title_norm": "only way get that fight ray sefo breaks down sean strickland khamzat chimaev trash talk",
-   "ts": "2026-09-04T20:41:51+00:00",
-   "url": "https://lowkickmma.com/the-only-way-to-get-that-fight-ray-sefo-breaks-down-sean-stricklands-khamzat-chimaev-trash-talk"
-  },
-  {
-   "key": "601738b1b5e4a13279b3173f9284897c954295b5",
-   "score": 8,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Former KSW double champ Roberto Soldić has signed with the UFC",
-   "title_key": "1d6df63270fef06fc66b703d667137a18df704e3",
-   "title_norm": "former ksw double champ roberto soldic has signed ufc",
-   "ts": "2026-09-04T20:41:59+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w7fa4e/former_ksw_double_champ_roberto_soldić_has_signed"
-  },
-  {
-   "key": "34ed3879a90bf071e6c2af1457ac609726424067",
-   "score": 6,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Dana White hesitant to call Arman Tsarukyan vs Mauricio Ruffy a #1 contender fight: \"I hate to say that until the fight is over... Arman says a lot of things. L",
-   "title_key": "0ac0e707d4725c62b5cbd64638ce4a19a83074ce",
-   "title_norm": "dana white hesitant call arman tsarukyan vs mauricio ruffy contender fight hate say that until fight over arman says lot things listen let see how this fight plays out",
-   "ts": "2026-09-04T20:42:03+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w7duic/dana_white_hesitant_to_call_arman_tsarukyan_vs"
-  },
-  {
-   "key": "61e8f1ae877662e5746b4f56b9b05da879294f62",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Taylor vs. Pili weigh-in results: Katie Taylor on point for farewell fight at Croke Park",
-   "title_key": "2122c0826d226d7998ee87b38b09715181325678",
-   "title_norm": "taylor vs pili weigh results katie taylor point farewell fight croke park",
-   "ts": "2026-09-04T20:42:07+00:00",
-   "url": "https://mmafighting.com/boxing/508520/taylor-vs-pili-weigh-in-results-katie-taylor-on-point-for-farewell-fight-at-croke-park"
-  },
-  {
-   "key": "56f158e06e6d5615bb0ac2da1fdf6d8531794395",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Video: UFC Fight Night 287 full card faceoffs with Hooker vs. Parnasse",
-   "title_key": "1feb5267dc3bd85aaf58baeeac05eeed3d5ead9b",
-   "title_norm": "ufc fight night 287 full card faceoffs hooker vs parnasse",
-   "ts": "2026-09-04T20:42:14+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbG91aVBuUC03QUpSSzlFQmVncDlaU3dMTFI3NW1JN1dqUlFJNk4yZXlxNlFRX2tROE5CajFuT2NralZBa0E0S1FjWXhpMEZKZFZLb0V5aUFHYXcwTGdKTWllZUs0OFh4M1BQNVVLU2RwenYtZmNxSG43c0E1VWxCUFotUDhPcnlLS1RxbHQ1RXFoSks1cXB2azFRSEI2SEJVLVk4N3pERWxhZFJ4SGVBS3NoRlVTb2FFUnJPb3BfZmNicUhyYU9kT25ySmhQcHp6Z25sRkhn?oc=5"
-  },
-  {
-   "key": "13dbfddd305ef7bf06b5f062d0803a83fb2faca9",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Paris full card final faceoffs: Dan Hooker vs. Salahdine Parnasse",
-   "title_key": "43bc9fd7c3dcd41b6db06e0f82a8c77fb6310d12",
-   "title_norm": "ufc paris full card final faceoffs dan hooker vs salahdine parnasse",
-   "ts": "2026-09-04T20:42:20+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGw4Y0hXZDh2MU94eUp0d1FqNlpudkYzM1hOeE4tZkFXeThWN0lJUG5YOF81SDAwYi02dE9mUWlYNWZMcjkxUXhUemoweVlsMExJblNJeUlqdGRmcjhVZ3dhSi1sQ1BLYnl5SURKVEhteTE3Ym0zcVZKeFJEUEYxUEdpWUg4dTUtdTEyQ29QSTg1NnpuRktNcjJCMHhUQmR6M0g1OVFDeGxLOWpOa243REk5V2xudnhCcnZZX1F2eVY1VXRBcnl2YnNRUDdrTTRQWHhJMWVmYw?oc=5"
-  },
-  {
    "key": "03904368e9c1c50e1a1246aea9a59c9e2bdd47ec",
    "score": null,
    "sent": false,
@@ -15323,15 +15180,158 @@
    "title_norm": "fighting back fresh entrants mma space could create competition ufc options fighters",
    "ts": "2026-09-18T19:24:55+00:00",
    "url": "https://reddit.com/r/MMA/comments/1wjvlx3/fighting_back_fresh_entrants_in_mma_space_could"
+  },
+  {
+   "key": "effbe186c601e33b7cb0f5f12772bcf28afc3a57",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Arman Tsarukyan makes weight",
+   "title_key": "41fe4d9dd9fb103af15962397c3f918cd8c0ebe4",
+   "title_norm": "arman tsarukyan makes weight",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wk08fj/arman_tsarukyan_makes_weight"
+  },
+  {
+   "key": "711f7b64d510c4b356b24280027edb3249fd4d52",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Luis Enrique revela la estrategia para ganar el Balón de Oro",
+   "title_key": "87f5cc0ea68c8f033f27a82f96fc6864c3afc48a",
+   "title_norm": "luis enrique revela estrategia ganar balon oro",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLW9SU3lySlpnX2U2MjZDdzlyaEpIcGpLQW9mNkRsN0Y4SEFibXYwU29tWl9pMTF1U28wdHlCMEdmN1JkV0hpYWI2MmJ6X2ZHSWUxeTJ4Y25fc1huQWtsVmVtNE1TR0NCWERDNk4yeVdKVkJGWkRvMU82aWRIZTd5RlV4eWM1dnd0d2g2dFI0NWx4dlhmVGRyZzBtc1BPZmFpNGI0M9IBuAFBVV95cUxPTHFYdE1zWEF3aF9WLXRzQkZicHZLaE9sbC1MMVJna2ozMHliUzVOWEtkSy1wSXVsY1RCN05yQUwySXZvX2I5QzFqdzVwYlFoUGltRzdzeUt4RlJXUHg4V1pWNHRsdmc3azh5Z3ZYU2lhTnZCVGtXM09DOEN2cXRPWTBNbzdSZWQ0VHF0Z3kxUmpLR21NUWlRUVd2S3lSMzB0OE9jdzh0SzA5Y2ZPMHFXUWllcWV6aXhS?oc=5"
+  },
+  {
+   "key": "420e94670e02ffa26909b2e398d3f478e6368bba",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Joshua Van 3 weight cuts in 10 months - Lots of talk about him looking whooped and weighing in late",
+   "title_key": "d21f1026b1cb7c7413a2d18f38b745909e07209b",
+   "title_norm": "joshua van weight cuts 10 months lots talk about him looking whooped weighing late",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wjx9ot/joshua_van_3_weight_cuts_in_10_months_lots_of"
+  },
+  {
+   "key": "52acc6c2b567012dbff3f0c83374717565d17bd1",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "New link looks like he has hands",
+   "title_key": "c1448e5a7c654a2c2d64d1db4008efb4b6c8167a",
+   "title_norm": "new link looks like has hands",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wjzngd/new_link_looks_like_he_has_hands"
+  },
+  {
+   "key": "6c5e7e2014bb0fde0e6aa94a67be4182e03bbc8e",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Why Gable looking at Nina like that?",
+   "title_key": "7aff30f44305c6054c526a1374c49881273cc40c",
+   "title_norm": "why gable looking nina like that",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wk15i9/why_gable_looking_at_nina_like_that"
+  },
+  {
+   "key": "1242f83fa9360787572bfc7554dedc38bfe018d7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Valter Walkers newest instagram post about Gable 😂",
+   "title_key": "d44c991f4cfb7f7cf5b7ee5d703853289c9477f0",
+   "title_norm": "valter walkers newest instagram post about gable",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wk1cmn/valter_walkers_newest_instagram_post_about_gable"
+  },
+  {
+   "key": "6ea59b30bbfd5bd05e5b5ea5f36d4f6c4846a6c8",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Kayla Harrison’s coach reveals expected date and location of Amanda Nunes clash in positive update",
+   "title_key": "c925813b0dff159a6c71fc76bf5a5e9c25217d7a",
+   "title_norm": "kayla harrison coach reveals expected date location amanda nunes clash positive update",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://bloodyelbow.com/2026/09/18/kayla-harrisons-coach-reveals-expected-date-and-location-of-amanda-nunes-clash-in-positive-update"
+  },
+  {
+   "key": "c3f49482e12e7c68ecd8531fe26bf5018b15ae69",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "Julian Fernandez Is “Keeping That Belt in Tijuana” to Inspire Future Mexican Bare-Knuckle Champs at BKB 59",
+   "title_key": "80e6469348a2fc43568e39cad348a9fa8417cc48",
+   "title_norm": "julian fernandez keeping that belt tijuana inspire future mexican bare knuckle champs bkb 59",
+   "ts": "2026-09-18T21:50:49+00:00",
+   "url": "https://lowkickmma.com/julian-fernandez-is-keeping-that-belt-in-tijuana-to-inspire-future-mexican-bare-knuckle-champs-at-bkb-59"
+  },
+  {
+   "key": "70218fb479821c22cabf1c5ef20c07b5a8e173f1",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] LFA 242: Lozej vs. Bittencourt - Live Discussion Thread",
+   "title_key": "41bdb6b3cb17f19dc9ea23e0c2e8359a3f823bad",
+   "title_norm": "official lfa 242 lozej vs bittencourt live discussion thread",
+   "ts": "2026-09-18T21:50:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wk32p2/official_lfa_242_lozej_vs_bittencourt_live"
+  },
+  {
+   "key": "015a1f261d367b7f930d6d67433b5a0f5484d95f",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "No Bets Barred: Can Alexandre Pantoja reclaim his belt against Joshua Van, or is VanLife here to stay?",
+   "title_key": "7f3cd249ef1c31b41451d1ac66c48f29ad86b97a",
+   "title_norm": "no bets barred can alexandre pantoja reclaim belt against joshua van or vanlife here stay",
+   "ts": "2026-09-18T21:51:00+00:00",
+   "url": "https://mmafighting.com/ufc/510723/no-bets-barred-can-alexandre-pantoja-reclaim-his-belt-against-joshua-van-or-is-vanlife-here-to-stay"
+  },
+  {
+   "key": "908c18e65792fa276549b533b831cd015be53877",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC's Michael Chandler plans to keep fighting despite KOs, skid",
+   "title_key": "d53049b57e27218ecd234efb5581919ff7e8c829",
+   "title_norm": "ufc michael chandler plans keep fighting despite kos skid",
+   "ts": "2026-09-18T21:51:18+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSHVrVXU2ekZmb25IcF8wWEpXaDBqNW05VlFma3BOZkkwcWZTTlBPbm0tWjBkRkFRY2R2UzVCd1I2cG94MmN1STUwT3VvYlBNNmlfU1NtYzlHSE5xT2xzWVd3WFRkSGVBcFM3R0d2VXJVYzUyWGRreDhkNWpaemZGRTJNUzR1QWQ3TTFfWFBPT2czRlNnNGVRQjdIUjZWcndiMmU2UzJKV28wdmpiWWxURlpHR2h4aU05aTRxX3RiX1RYQzg4aTdWVUJBeHpGWGFOUmRoWExDVUdUV004eFVSd2M5RnAwTzlGVUtEVEx3?oc=5"
+  },
+  {
+   "key": "d102b9944fb54590929227c092680879c76577eb",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Alexandre Pantoja promises Joshua Van is ‘going to suffer’ at UFC 331",
+   "title_key": "baf6c1ba229bdbba5541e42c49e58e77514a8736",
+   "title_norm": "alexandre pantoja promises joshua van going suffer ufc 331",
+   "ts": "2026-09-18T21:51:33+00:00",
+   "url": "https://mmafighting.com/ufc/510868/alexandre-pantoja-promises-joshua-van-is-going-to-suffer-at-ufc-331"
+  },
+  {
+   "key": "a9fe74fca3124502a322d5a88996c3f894194c26",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "RKENA will welcome PFL in GEORGIA on October 17! 🇬🇪",
+   "title_key": "b4ceeb40d0ab90976eb00e70cc92b5e265b6b396",
+   "title_norm": "rkena will welcome pfl georgia october 17",
+   "ts": "2026-09-18T21:51:35+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wjyikk/rkena_will_welcome_pfl_in_georgia_on_october_17"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 1,
-  "llamadas_llm": 3,
-  "prefiltrados": 16,
+  "descartados": 3,
+  "enviados": 2,
+  "llamadas_llm": 5,
+  "prefiltrados": 8,
   "recogidos": 203,
-  "unicos": 110
+  "unicos": 103
  },
  "telegram_offset": 958387804,
  "version": 1
