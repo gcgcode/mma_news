@@ -2,105 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "ae4abf310857153546143e7269d4b2cc8e425e71",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Oh no, poor Joe Lauzon FORCED to fight in front of all his friends and family in another field",
-   "title_key": "f069af1d4c52bc4a0aaf04fa9902f17a769c5adc",
-   "title_norm": "oh no poor joe lauzon forced fight front all friends family another field",
-   "ts": "2026-09-04T14:44:24+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w751ga/oh_no_poor_joe_lauzon_forced_to_fight_in_front_of"
-  },
-  {
-   "key": "484bff5e571af3348c81c6853bafc8eb78982a90",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Buen camino para Barça y Madrid",
-   "title_key": "16c69ed2121df5cc523da61d7c0ccb6273b29f68",
-   "title_norm": "buen camino barca madrid",
-   "ts": "2026-09-04T14:44:24+00:00",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWNNbkxRSHhaQVFNdGIyWnd2S011c2VRa3owZmFYVFhYM1dvYnBSc3Y5SHkxa3VfZ3NrLXg4X3ZiOWFNOTN3eEVabjlOcjVwdjkySlIzaENsb01QWU5hbU1uMklYdmtIYzU2endMMHp3V1gxdE9hQ1BCdnpzTjdXZlktNjh1WVB3X3JUNmZBUUN3Z9IBkgFBVV95cUxPcWNNbkxRSHhaQVFNdGIyWnd2S011c2VRa3owZmFYVFhYM1dvYnBSc3Y5SHkxa3VfZ3NrLXg4X3ZiOWFNOTN3eEVabjlOcjVwdjkySlIzaENsb01QWU5hbU1uMklYdmtIYzU2endMMHp3V1gxdE9hQ1BCdnpzTjdXZlktNjh1WVB3X3JUNmZBUUN3Zw?oc=5"
-  },
-  {
-   "key": "641f4e7d42a5848a1cfb06c901ca64fa22b4541d",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "‘La Revuelta’ cambia de teatro: ¿dónde se graba ahora el programa de David Broncano?",
-   "title_key": "7d1c56f9b4e01391964e6fab73ccc1d76ec5374f",
-   "title_norm": "revuelta cambia teatro donde graba ahora programa david broncano",
-   "ts": "2026-09-04T14:44:24+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXJMSWRnSXJTVFhwLVZaU2R1aWJJdTdFYm5wWldTNFBtZmtYSmtFTVNSTjRCd3RFZWtMNkNWSTlQMlRoRnRDM2g2ckpEbUd3VzRyTFJfY24xbjN3amV4VHlQNlotcGRrOG1PQnVTNnNUM3h6OEM2R0ota3VDbk1tSVk0OWQwdnZ0RzhxcU81VHJuM2VHZWZ5ZmJqSDVkdS02R3VfVndMTUx6RTdvWTlxTVVhOGxIc2JMR0JtUEljS3lkTWpaRGhodHdmWS1BS2VRMkpoVm5BQ0zSAdgBQVVfeXFMUFlyTElkZ0lyU1RYcC1WWlNkdWliSXU3RWJucFpXUzRQbWZrWEprRU1TUk40Qnd0RWVrTDZDVkk5UDJUaEZ0QzNoNnJKRG1Hd1c0ckxSX2NuMW4zd2pleFR5UDZaLXBkazhtT0J1UzZzVDN4ejhDNkdKLWt1Q25NbUlZNDlkMHZ2dEc4cXFPNVRybjNlR2VmeWZiakg1ZHUtNkd1X1Z3TE1MekU3b1k5cU1VYThsSHNiTEdCbVBJY0t5ZE1qWkRoaHR3ZlktQUtlUTJKaFZuQUNM?oc=5"
-  },
-  {
-   "key": "0e3f29883eb6098de61535466dcf1bd548c46f9a",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Rajadón de Briatore por el podio perdido: \"Uno de los jueces está muy vinculado con McLaren\"",
-   "title_key": "fafe90f144f64e3c9eb2472095a4d6905ee00679",
-   "title_norm": "rajadon briatore podio perdido uno jueces esta muy vinculado mclaren",
-   "ts": "2026-09-04T14:44:24+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3NFRzVjeTJGVm1YZU9sSzcxaVR1QTVsLXhPV1R3bVJXMXpmOGNQN2hTS3BmNnB6Q2JnQmFueFR3Y2ZPeVpScFlJMWFQMEJhaldRSWZvN2VPMmtTR0xmSEhsUWMyaVdyd2dHZUdjcGVSaFJFZUlsUVFqYlZvam82czdhNGJRb1dGMFdiZzY2c0xJTWlHMVBzTFpSR2loZFRRQTVfZDY5TE5OMGNVRHJZM2dhWUJ6SkZKdXfSAboBQVVfeXFMUHVHMlYxQWJxOE9xSjNtLU1BQnVTYjdJSGlYRXo2RFFjQkMwbEFsUUJnRlNOTEhza3FON2tidi1faERkV3NhVVlKajYzNldxOVBhMkdrMW5IN3c1Qmh4bjk0Zk5KcVRsUDB0NzRmT0FLRy04c0l1anhBaVdza3oyckdUd2ItNTlUaGJlcXJxWVJYRnJobGpyMG1NbVluajBwakRNbXg4ZWkzU044VUJodzZKa2N6b2dzTEx3?oc=5"
-  },
-  {
-   "key": "832f66a6fad118d56bfaa9977720ae2fa86345bd",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Salahdine Parnasse: Usman Nurmagomedov fight ‘a possibility’ with UFC Paris win",
-   "title_key": "6604d7e275e2c2b8e4fbf285d8f7817fddc1b140",
-   "title_norm": "salahdine parnasse usman nurmagomedov fight possibility ufc paris win",
-   "ts": "2026-09-04T14:44:38+00:00",
-   "url": "https://mmafighting.com/ufc/508370/salahdine-parnasse-usman-nurmagomedov-fight-a-possibility-for-sure-with-ufc-paris-win"
-  },
-  {
-   "key": "fe3cb895b9a54aedbaa022dbfce9a10102e29fa1",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "UFC Paris weigh-in results: Salahdine Parnasse official for debut duel with Dan Hooker",
-   "title_key": "73fb145c49295b0fee0d0f0f575c6eebd7d29f08",
-   "title_norm": "ufc paris weigh results salahdine parnasse official debut duel dan hooker",
-   "ts": "2026-09-04T14:44:53+00:00",
-   "url": "https://mmafighting.com/ufc/508448/ufc-paris-weigh-in-results-salahdine-parnasse-official-for-debut-duel-with-dan-hooker"
-  },
-  {
-   "key": "d3e3277d3842029742760609b1716764e58c40ce",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Morning Report &#124; Henry Cejudo: ‘The PFL is finished’ if they don’t re-sign Usman Nurmagomedov",
-   "title_key": "c80ae4f072163c0aaee855515c3b825cb9c202a6",
-   "title_norm": "morning report 124 henry cejudo pfl finished if they don re sign usman nurmagomedov",
-   "ts": "2026-09-04T14:45:10+00:00",
-   "url": "https://mmafighting.com/ufc/507343/morning-report-henry-cejudo-the-pfl-is-finished-if-they-dont-re-sign-usman-nurmagomedov"
-  },
-  {
-   "key": "38164f69ef6b453197df84ae4dd228151fb9d033",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[Official] ONE Friday Fights 169 - Live Discussion Thread",
-   "title_key": "4fc538f0ff68eaa3798ca07a54a35eff4cce8d23",
-   "title_norm": "official one friday fights 169 live discussion thread",
-   "ts": "2026-09-04T14:45:20+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w718mx/official_one_friday_fights_169_live_discussion"
-  },
-  {
-   "key": "2215769fc9d6a38b9e5797127cfcade6ab646150",
-   "score": 2,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "How would Israel Adesanya have gone down if he pulled a khabib and retired after his remarch with alex pereira?",
-   "title_key": "8756c54aca8e634c62a4c85c020956256ee2cbb2",
-   "title_norm": "how would israel adesanya have gone down if pulled khabib retired after remarch alex pereira",
-   "ts": "2026-09-04T14:45:31+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w715fo/how_would_israel_adesanya_have_gone_down_if_he"
-  },
-  {
    "key": "d9158d393f61c78465724f5fcf6ceac7d48fd544",
    "score": null,
    "sent": false,
@@ -15345,15 +15246,136 @@
    "title_norm": "ufc 331 weigh video van vs pantoja",
    "ts": "2026-09-18T12:40:24+00:00",
    "url": "https://mmafighting.com/ufc/510707/ufc-331-weigh-in-video-van-vs-pantoja-2"
+  },
+  {
+   "key": "948f53eaefe4d47049bc9f154cef0e433bf1c95d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Joshua Van attempts to submit Tatsuro Taira",
+   "title_key": "782322a0a8bbe69b963c4d4a6c36c27f40acd733",
+   "title_norm": "joshua van attempts submit tatsuro taira",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wjrhxp/joshua_van_attempts_to_submit_tatsuro_taira"
+  },
+  {
+   "key": "53153d41322c372b64bd32e1776313f360a0a57a",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Real American Freestyle wrestling property sizing up Times Square outdoor event for 2027",
+   "title_key": "3c845af8f90a6656141fb240506e76166e4d9716",
+   "title_norm": "real american freestyle wrestling property sizing up times square outdoor event 2027",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wju792/real_american_freestyle_wrestling_property_sizing"
+  },
+  {
+   "key": "3ca5e755b723b96314c5c82a4cd24db5fd804901",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Unión Santa Fe vs Independiente: estadísticas previas y datos en directo | Liga Profesional Argentina 2026",
+   "title_key": "539441d0c3d8c6c38d6146a3fb964f62aa9a9595",
+   "title_norm": "union santa fe vs independiente estadisticas previas datos directo liga profesional argentina 2026",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPREFmcFo5ZFBBcUZOTVIyZW5iVTUzZ1BIQVpiUkZmN0ZGWlVHUXZ3d2s5bndlMjFGOXduUFcyT3VmMXFqSS1SZkF5WkZmOUstUWJOY1BGTnROUVVfMS1Od0szaVNBUzgybXBsal9hNUxoUXZUOXF4R2JOa19OUnBoa3V6eHpjc3NhVUZ6Q1RB?oc=5"
+  },
+  {
+   "key": "28c6b81f834be4c1bf6189142881a2a484953ca7",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Comparador: Getafe vs Lugano",
+   "title_key": "5df04a7c3fcf83130dd3e17c60d167fc4bf9e84f",
+   "title_norm": "comparador getafe vs lugano",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMTW9hZ0N1cmN5NU9IYjBqaUdRNEpkOEpkQ0NDWkZmNGlfMnpvSEZaMDd1S29WTjBSYUYzZ2pmeUhER3lhdlBEcW1NZXFldTVUZjlvMnkxWDZ1NTV3Y09VSHFFa0lsQ0haSmhGdUw1c01kaEh4VlE?oc=5"
+  },
+  {
+   "key": "c980272129bccc88432c1135fe57ec80b82ae9cf",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Arman “The Batman” Tsarukyan",
+   "title_key": "59b9e8eb08f50ece8a8970fbd3b6a0a9b1d75dbc",
+   "title_norm": "arman batman tsarukyan",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wjjwe9/arman_the_batman_tsarukyan"
+  },
+  {
+   "key": "e6452df33fdb97d709aee6ee2fcb528913bdcb16",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "I have a feeling Sean might throwing a Looping hook that puts a Hole in Gable’s head",
+   "title_key": "5f260c08ed6a9c7dba5b0d7595eba3f22054f9f6",
+   "title_norm": "have feeling sean might throwing looping hook that puts hole gable head",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wjqxyx/i_have_a_feeling_sean_might_throwing_a_looping"
+  },
+  {
+   "key": "64001dbdd240566d747c08cfdeecb6b3f7973136",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Check me dih too!",
+   "title_key": "682f6168e9500bfd5d5cc5389d11f2caa2a23d57",
+   "title_norm": "check me dih too",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wjsien/check_me_dih_too"
+  },
+  {
+   "key": "3426406108c19c1b7bac0d03c0ce40dc56b6de0e",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Stop pretending this bag of milk has any chance of beating Gable",
+   "title_key": "cc00654fbcfe926e960aa0f388a6434064d397cf",
+   "title_norm": "stop pretending this bag milk has any chance beating gable",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wjt0e1/stop_pretending_this_bag_of_milk_has_any_chance"
+  },
+  {
+   "key": "a8f10b7af7a95b1fbd7189f12707dcd5b391d828",
+   "score": null,
+   "sent": false,
+   "source": "LowKick MMA",
+   "title": "How Central Asia’s combat sports scene is evolving, and the role regional tournaments play",
+   "title_key": "080c2924917d6ac5bc1671fecc22863ca4cf666c",
+   "title_norm": "how central asia combat sports scene evolving role regional tournaments play",
+   "ts": "2026-09-18T16:43:51+00:00",
+   "url": "https://lowkickmma.com/how-central-asias-combat-sports-scene-is-evolving-and-the-role-regional-tournaments-play"
+  },
+  {
+   "key": "861b6fdca3c82a404fc374ef698fc97c6a93c5b6",
+   "score": 8,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Losene Keita steps in to replace Arnold Allen against Aaron Pico at UFC 333",
+   "title_key": "592801ebe77ea509d6d101aa8172eb30d1593413",
+   "title_norm": "losene keita steps replace arnold allen against aaron pico ufc 333",
+   "ts": "2026-09-18T16:44:03+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wjq2vg/losene_keita_steps_in_to_replace_arnold_allen"
+  },
+  {
+   "key": "35af7bfd840dfb2189fda750929422229d3642be",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Khamzat Chimaev reveals details about injuries requiring time off, plans to challenge for UFC middleweight title again",
+   "title_key": "29664781965d3f3d17539287e0bcfb66f05cdf98",
+   "title_norm": "khamzat chimaev reveals details about injuries requiring time off plans challenge ufc middleweight title again",
+   "ts": "2026-09-18T16:44:08+00:00",
+   "url": "https://mmafighting.com/ufc/510770/khamzat-chimaev-reveals-details-about-injuries-requiring-time-off-plans-to-challenge-for-ufc-middleweight-title-again"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 0,
   "enviados": 2,
-  "llamadas_llm": 5,
-  "prefiltrados": 13,
-  "recogidos": 203,
-  "unicos": 106
+  "llamadas_llm": 2,
+  "prefiltrados": 9,
+  "recogidos": 202,
+  "unicos": 99
  },
  "telegram_offset": 958387804,
  "version": 1
