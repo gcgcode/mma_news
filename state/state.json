@@ -2,116 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "e5dd5f95ca1a7e11a9f2f499b41b30ff7402f83e",
-   "score": null,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "NYC to fortify Legionnaires' response policies after deadly outbreak",
-   "title_key": "446784a960e4768e54fafa5bd8557618fc30b327",
-   "title_norm": "nyc fortify legionnaires response policies after deadly outbreak",
-   "ts": "2026-09-04T01:05:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQm5FRjV0dk1pLTEtLUVMb3o3eXBWVXRwZFNuVzJkNlc0aFZlcjU4ek04WXpobDJpQk5SVDAycWRnWEdFVFNSUnFRamJfYU0yOXVyaGhJeFY4XzB0S25hTDlhSTRoMmpsTmEwOVA2UnE3QVV5NFZ1ZkhleThRWi1lY0w2cWlQSUk3VEpEOXM1U2s2ZG91TTVCblNSbVZYNi11Ulo4bU1SN2lxQTlOSkJaU19EUXVLbG1PV3lKc1FuaHNpZHJKTnp3M1FoVHdNMUNOOXJLLUk2b3UzOXVNQ3p2bWs4RzFjaEU?oc=5"
-  },
-  {
-   "key": "5871e3a5788c3235f6bad69293906e48ab96445a",
-   "score": null,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Eddie Hearn hopes Tom Aspinall cleared to fight in 2026 – but he's unsure",
-   "title_key": "028d6269eea7835ee2e83a39117818c181c67bfc",
-   "title_norm": "eddie hearn hopes tom aspinall cleared fight 2026 but unsure",
-   "ts": "2026-09-04T01:05:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT2RicXpNV2ZCNmxXR25HcEYwMW8wSTY1blRzZGJUX1FONWthMWw0X0F5dWFoNm1hUkp1T2t4eWo2ejNvdWdSUTVuMEx0ZGx4NkVrbV90b0FVWjluWFplNjFqWkdJLXpBdk9FaExUNWdIa19YeWVoUjJqV2dmMi1qQW1fRTJValRValBBTWFrU0V5TFFEY2p5UFh1Vm9Yb0NYMkViYWJxVFAtTDdKT05zcXRJMmNQQmRPWXBORUFmbHUxTHJKaWktaExvRTI3andr?oc=5"
-  },
-  {
-   "key": "d62b812029a89514a12f2fb8ee2c50c78f31ebc1",
-   "score": null,
-   "sent": false,
-   "source": "TUDN MMA",
-   "title": "Futbol Internacional",
-   "title_key": "94754274d7b57ad48ed3d7d6b59d9439de149e72",
-   "title_norm": "futbol internacional",
-   "ts": "2026-09-04T01:05:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EeGJyVXRPVlhTWTRyV083b3hoRVpUbjNVV04wbEJ1OUNYQ2lrNlMtX3B1cm1vWUlYNXBhUUFzT1o2aHctbm84Nm9SbHlibkt0TW1uM05DQlFaQmFBcUR2SjluNU0yQQ?oc=5"
-  },
-  {
-   "key": "0b5ad7d25eba1248a26a55052770508384d825e7",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA breaking (EN)",
-   "title": "New camp revealed? Israel Adesanya arrives in Australia to train with Alexander Volkanovski",
-   "title_key": "cca73c447d3d7ff30d676fdcccf9619e549b9983",
-   "title_norm": "new camp revealed israel adesanya arrives australia train alexander volkanovski",
-   "ts": "2026-09-04T01:05:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTFZQbklsblJQclBIVzQyc1V5YzdOeGJEYUV3X2JoRDZRZURvSkE3SS1lRUsyVkFEdkpFV3dNS2NyUEJxR0ljX0xjTG9WOVp4RFlIUEdfMVlGSGowQ2YzWUpDbHduTDBrQ2lLUWhsaUp2aXVDT0IwNGRlVHQtalRKcDYwNk5LWkZYc2RhRHJtVWFtdmdyM0JJNDdHMjJsZm9YNkVYMGZSOFp6UHJJVDBzbXA5Zy1WSmtGME5iS0RRSnZEMERWcE1zb2NjSQ?oc=5"
-  },
-  {
-   "key": "34bc791274211d0412460687967ee080771d226e",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA breaking (EN)",
-   "title": "After ‘concerning’ losses, Air Force pushes to replace Reaper faster",
-   "title_key": "291d6353f9ab519a992562eb36a34536cf951be6",
-   "title_norm": "after concerning losses air force pushes replace reaper faster",
-   "ts": "2026-09-04T01:05:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV29RMTZ5MFBZZy1qQ193ZUk1Y2RJWUdUVEhFQWdRNkNsbHUxM0Q2S1BuMG5DMzBNUFJ2MW1VTGFpUm1ZMDk4TEpsaXptX1dJeFZBQmRKc2tyeHh6NVJnZnd4VXpfYklHS3R5Vk5fRGlwVUYyNGF5WmdBX3ZHY2dtSVBpUHRqTXJmSzFrMmlsVk8tN2NwWm80dnl3dTN4TTZpRF93WQ?oc=5"
-  },
-  {
-   "key": "31d64fb129a30eb272521b3a18e07ce2f0a4cd8c",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Henry Cejudo Names The Toughest Matchup For Justin Gaethje And It’s Not Arman Tsarukyan",
-   "title_key": "e9b5c98a4bac0d7ee00ee77a849b53f1511d0b89",
-   "title_norm": "henry cejudo names toughest matchup justin gaethje not arman tsarukyan",
-   "ts": "2026-09-04T01:05:29+00:00",
-   "url": "https://lowkickmma.com/justin-gaethje-cejudo-tough-usman-nurmagomedov"
-  },
-  {
-   "key": "cc4d1ea149bbcb3071526f9aaa32c32e86d4bf4b",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Michael Page wants to gift UFC a moment – even if it's his final fight",
-   "title_key": "d541ddf5dbc681dacb30be04dbf35425afe5dfb1",
-   "title_norm": "michael page wants gift ufc moment even if final fight",
-   "ts": "2026-09-04T01:05:44+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYndlbnFXQ0puZF9HZU5BN0hQSHRWUmVIU0ZQUEVzTmRzTU5rWDh2R2x0ZjE3YUFmNVBYRDhCcGxmbVo3U0tqbThOWkhQZkNOTkVzUHZOQVp6aXBWNWZyS2plUGtSLVp1ZWdZczg3RlhOdlB0QV9ya2prYm00bzUxN3A2cy1IWnBMODdZTWFqX2RLZFktaTZHWEhkV1R4TnV4QmxhSGdGMzZxNEllR05COFNpeTJiNk5ldUVpcE9NZmpQZlpnNUVFMkJfbGFZUWo2clI1Vg?oc=5"
-  },
-  {
-   "key": "4a07c55bf87f6986303a1b83cab6b57131ccc675",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Michael ‘Venom’ Page still feels stifled by ‘difficult’ UFC: ‘They need to allow me to do my thing’",
-   "title_key": "1b7273e842bf0b7edf7c0e3cb6153c2bf7eb7b6a",
-   "title_norm": "michael venom page still feels stifled difficult ufc they need allow me do my thing",
-   "ts": "2026-09-04T01:05:45+00:00",
-   "url": "https://bloodyelbow.com/2026/09/03/michael-venom-page-still-feels-stifled-by-difficult-ufc-they-need-to-allow-me-to-do-my-thing"
-  },
-  {
-   "key": "6483b06af0ce6321450693dcc279fd380cb87a31",
-   "score": 4,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Shannon Clark vs. Lucero Acosta booked for PFL Chicago on Oct. 16",
-   "title_key": "9cf9b56b4906145480f4d4bc8255a8008778594c",
-   "title_norm": "shannon clark vs lucero acosta booked pfl chicago oct 16",
-   "ts": "2026-09-04T01:05:50+00:00",
-   "url": "https://sherdog.com/news/news/Shannon-Clark-vs-Lucero-Acosta-booked-for-PFL-Chicago-on-Oct-16-202649"
-  },
-  {
-   "key": "bd5dabd46db544c00a83c86bdc3c10d24c425ade",
-   "score": 4,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Song Yadong’s coach wants him to avenge the KO loss that ended his legendary UFC career next",
-   "title_key": "a0c8d7cd0665586fbf4b9c911c1b9734d1c2841a",
-   "title_norm": "song yadong coach wants him avenge ko loss that ended legendary ufc career next",
-   "ts": "2026-09-04T01:05:51+00:00",
-   "url": "https://bloodyelbow.com/2026/09/03/song-yadongs-coach-wants-him-to-avenge-the-ko-loss-that-ended-his-legendary-ufc-career-next"
-  },
-  {
    "key": "bf4ee1f3c9f2d1d0b81348cdc3bd9b67d60966db",
    "score": null,
    "sent": false,
@@ -15466,15 +15356,147 @@
    "title_norm": "mauricio ruffy ufc 331 prep arman tsarukyan made me different person",
    "ts": "2026-09-17T23:53:33+00:00",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcTAwWW8tVG1QN0YxejFmYkRTdFZPSklBNnFGSk15ZkdHeHN0aTdIZTh6SXlUd1VOeHJlOHYwVGx1RkF0dnM0SXdiLWowOURSamg1WVhvLTNVRm1mU2MxTFdHdzVCSVlNVWIwbW4ybUtrcXlMWWpFeWo4NkxpTVJUdXBFWVBwc2tEWjFGSUVVUmJyZmlNTWpmQnJ6QURYOHppc0Jqblk3cUw1dTJ1bVJBOWQ3M2Rma3Z0ZTVRaE9OZDh2SVBZckVRNWgxV010THJQUUk0SjAzYw?oc=5"
+  },
+  {
+   "key": "3904c14a992d87002b66fa8718b3de88d673290b",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Gable Stevenson and Sean Sharaf press conference exchange",
+   "title_key": "12d1edc51fca60819f4070a8a0de690212c9f3c6",
+   "title_norm": "gable stevenson sean sharaf press conference exchange",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wjb1h2/gable_stevenson_and_sean_sharaf_press_conference"
+  },
+  {
+   "key": "407828ef8680fd93022c8f8bc44f5cf9c1de1e3d",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "El Larguero, en directo: show del Barça, goleada rojiblanca y Mbappé se explica",
+   "title_key": "81b95800893faff4e22b73aeee1b288b6286ac62",
+   "title_norm": "larguero directo show barca goleada rojiblanca mbappe explica",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlM3SG9yRDlTYXNoZHFhMWwxQzUzWVBENXBpWWxjR2xVMGJVS3JHYThLeWFYMXJHak9VQ3JkV251aFZFWHBkMzlRcHhLMkg1QllfR0lFM3BMb19kQmJTajhlSHVpZ0toN2pFLUdIMEI4VG9NWFBhcDNvREQ0LXF5X2UtblJfaEZHNFhzdW1Na1FMYzAybzRQcWkweXNYODZob2drWVlaXy1zYUQycmFoTlJQMG5zWVY5ZENHY9IB0AFBVV95cUxOTHk1RkpId2pwa0xQNXVCODhGUmJQdVd5MnU4enRkQkE2RlE2MVVSX09tM0RwdHUyR3pqeUJBM2FBZndJcDRrUXpPNXFoVHNIdWRPejd5eDQ4RE4wS2xuZDJibVJ4RVdtaEI5cGhycnp2aklSSTlKYVFMeVQxYkYwLW4xa1RNNVdFcDA0TVpzbWxQeEt2eDhqRVl3MkpPbVduZHE1S1l5MmRoNW5Wd3Y1WEZ5M3g3YXRuTUFXcjdxT3pzTEJBTjU0b1JMTFhmN1Nq?oc=5"
+  },
+  {
+   "key": "4e3e8440692c9f9109675e51e52102b7fab1298c",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Khamzat Chimaev breaks down Arman Tsarukyan vs Mauricio Ruffy ahead of sharing corner with N3on",
+   "title_key": "0c5aef9bed1b9c9f789deaeae368785d23cdf147",
+   "title_norm": "khamzat chimaev breaks down arman tsarukyan vs mauricio ruffy ahead sharing corner n3on",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://bloodyelbow.com/2026/09/17/khamzat-chimaev-breaks-down-arman-tsarukyan-vs-mauricio-ruffy-ahead-of-sharing-corner-with-n3on"
+  },
+  {
+   "key": "b2feb07ca1260c5d8708f6379c4fbe15563a9c4c",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "¿Joshua Van podrá noquear a Pantoja?",
+   "title_key": "ed86a68dfbf57740e3e6d8a669260c521943026d",
+   "title_norm": "joshua van podra noquear pantoja",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHVwdUN2S1VySmY4MVNyQ1NCVFhfZ0Q4Y2l4N2VQcjRreWFBYnp0dHRSTmpTbUwxTGlWUzJsbUNhdTlXczZnRXZFQ0J5V2EtQzBTV0E0cTUwQWZXSVlQM0JLLXdHQnBQT2VSUjhWaFNVMERUTXRYTTRBc1MzencxdTRvaG12dEFDa2ow?oc=5"
+  },
+  {
+   "key": "c834827fc9342854483f32fef26b2128ab3bb24e",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "DWCS Luis Hernández: Conferencia Posterior",
+   "title_key": "c7ebc74832efb307a7b73a8b78958c6ff00e5083",
+   "title_norm": "dwcs luis hernandez conferencia posterior",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xeTJ6YWhfTThVUlR1VnJJcUI5ZGR3YU9SV2NLQU9UcU5LSGhLcWxsUDhYTEZDWndlM2hsaWVsS2l0YVdST29Gdk1Ja1k2YkxO?oc=5"
+  },
+  {
+   "key": "2a41394ed42a3f1623724aa70ec55a972177c8ad",
+   "score": null,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "Islam Makhachev lanza un duro mensaje contra Jon Jones: “Toda tu vida parece estar ligada a romper las reglas”",
+   "title_key": "079613ffd257768c475bab968400aa4800eac648",
+   "title_norm": "islam makhachev lanza duro mensaje contra jon jones toda tu vida parece estar ligada romper reglas",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2lGOWhiWU0xYlJxLWhEVlU3SXNuZ05PaktfalBrdjZYWU1uTUVmdVRzSV96MkEyS2FQcFNDek5EdG1XSFdqdElzOTc2eUtRWUhSemZkWkJEUER1ZlVHY0k2ODRJbDJGRUl1dVY1bW1NVlh0Y212ZUx6WkdGSTRsY2VyZkFOLXg0a3NuVkk2X2tEY0Z6RzNZS0poeE4zZ0JXUGNyYTRjVnNuSzBfRlFDeXRvOExQaFRKdjRTX05JbTN5VnFQcE1NeWR6ZVpEWkl6N2FR?oc=5"
+  },
+  {
+   "key": "987987f4caa91edbadbb1596b951f53c091e7991",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Mexico arrasa con 70 medallas en Panamericano de Artes Marciales Mixtas",
+   "title_key": "1fb495de9743c7961a0562e6569bd2cc92150dc7",
+   "title_norm": "mexico arrasa 70 medallas panamericano artes marciales mixtas",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbl9UNkhGcW9vRU9NZm83NTNiSlVsUmdYUDloVzJRemVyN3VzZlZiYWlaSmNZMDNPdHdZSGhmVVJ5VjI3Q0I1SWhUUktVdkNBRi1qbGZYZEdBWXR3aGpOZG1yY216VTY1UjdieTMxeWlKekY5X2ktT1E5Ym5zQnZYYXNjWjF3VHhzeE9CdzF3QnROdXdRdnFyVEhuX2xZTHdrMXpqTXdCdGJ0Q3puR3FnNXpROTdBcTBCLUVR?oc=5"
+  },
+  {
+   "key": "b4b21f757dd4e7b32801f5d409c0a1584fc88218",
+   "score": null,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "La rivalidad entre Belal Muhammad y Colby Covington escala antes de RAF 13",
+   "title_key": "0f8b3e8a1f7621ef852cf2c8df93c0f5b108babe",
+   "title_norm": "rivalidad entre belal muhammad colby covington escala antes raf 13",
+   "ts": "2026-09-18T02:51:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2FmYkl3U3RqNktSSFBieDJGajZsaTNtbFgyVXlGdTV1Y0ZFNk53MnhBdmdZSmk4YnFGTHdpbFhfY184Rjl4WjE1eUNPOFZyRHNOekd3RE55aDlNM1BRSnhkTHhzMlVwWGxBTnJBZ09oNm1mQnV1Nm5ZakYtRjA2TGdmRGxPMjZfczlzTGxrbWh0Sk9aTWltQ21OampzRDJNSzhpM1JCcw?oc=5"
+  },
+  {
+   "key": "d5c84e348a35d276798537903c5792e758e2a74d",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Fun fact, Doo-ho Choi has been posting his own embedded series for his UFC 331 fight against Pitbull",
+   "title_key": "fc4fe51dc4c77e4fc2ad8a94611db676bcbeb515",
+   "title_norm": "fun fact doo ho choi has been posting own embedded series ufc 331 fight against pitbull",
+   "ts": "2026-09-18T02:51:57+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wjcf5w/fun_fact_dooho_choi_has_been_posting_his_own"
+  },
+  {
+   "key": "4d1899f78a7d1f982f98a2159a44942de1bd6ce9",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 331 press conference video",
+   "title_key": "034862127052847c9e6e741562bcb87a03ffa68e",
+   "title_norm": "ufc 331 press conference video",
+   "ts": "2026-09-18T02:52:44+00:00",
+   "url": "https://mmafighting.com/ufc/510758/ufc-331-press-conference-video"
+  },
+  {
+   "key": "a0e47759432df03d69f5f36176e687105b356b77",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Khamzat Chimaev rips judges, calls for UFC title shot in return fight",
+   "title_key": "ffe8f3929bd881b666d70821326395c535514380",
+   "title_norm": "khamzat chimaev rips judges calls ufc title shot return fight",
+   "ts": "2026-09-18T02:53:20+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQazJERlg1enZibGE2VEJ1bmgzX1ZFTVpNUm9SSXVpcEFlR2g1SnZYVDhSbnhBT01MMlRQNGw1NFFZQ2hrWGszRnplMk1mbU93R3EycjZYWG9DUEg2XzBBM2hBcEc0UGdtU0h1Y24zaG5FRDdhdkxlRzk0Q2dzTmZzSXZrQXVRV0JIZ3hvZ2oxQjN4YXlxUWdBUlU2Z0oxcXNCUXhiQW12c3NCaldGeXJRNHBMNWhzQ0dQOGRpeklUVXM5Szl0ek9NOUJ6VW9kb01pTDFsd19sdw?oc=5"
+  },
+  {
+   "key": "85a721ed0aa38010715735bf0e831bc44c354c0a",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Ex-UFC champ Luke Rockhold names 'only two people' he'd fight in MMA",
+   "title_key": "683ddbd525c16c42c5ec3528f5a515545bf7d053",
+   "title_norm": "ex ufc champ luke rockhold names only two people fight mma",
+   "ts": "2026-09-18T02:53:21+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSjBxX040bkFENUJTR05Ha2VTRzFJVlpjQjVubHhLRlRlUHdMd3pCR1NveF8zY24xV2xsUHlZSVM2WDlTYktIMlNSVjltT29xMVNZM3diRmwtOGpEanowTEZ4TTNJOGpsRXF2ZzBlYVdqZ29EUDFDVTB6cHgxZzNFZEdXX01xbGJSLVBwMi00eTVvR0tUVVNyUTFDTzlNT1dMTDJaektabnpZZ3lVdjdmUUdwNi1lQ0FkUlBPNTVfdV9pMTY3c1JYZ3pfcFp1MkFIVFE?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
-  "llamadas_llm": 5,
-  "prefiltrados": 6,
-  "recogidos": 182,
-  "unicos": 85
+  "descartados": 2,
+  "enviados": 2,
+  "llamadas_llm": 4,
+  "prefiltrados": 8,
+  "recogidos": 186,
+  "unicos": 93
  },
  "telegram_offset": 958387804,
  "version": 1
