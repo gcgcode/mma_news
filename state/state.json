@@ -2,83 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "e613e6538d9c8bbc92367e616396336e16a05494",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Los influencers se ponen los guantes",
-   "title_key": "d2edfe337988f422fc4ee5471b88d7b5c7b2c271",
-   "title_norm": "influencers ponen guantes",
-   "ts": "2026-09-06T01:05:28+00:00",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm44RGQ4eFBPNEJzazJIbTdtZXp4REd2clpPSEpKZmozMXBSclYxT2Q1YmJPZ1c0UXQxaXJDdFNoZnlURHZ3dTVBcFNOUGJTcnNiNWRtVDA3bEtXZnZkdDBBdEZkOE5oQU01ZGF2U2hRaEtvd3BnTGthMUJwbHlRWWM2WWExaE45QVlaT1paRHbSAaQBQVVfeXFMTUVFNnJmOFZIUHY5anctcUxwQjg0dkxQVXhPaDFMak9lYVZDNGRkQ2E5V0Z3cU54eV9uQk5VLS1xM0ZWbUFTazNEYVBValZtbFlBZEJ6RHVSd1NYQWRhUlo2WTY4REo3RDBvTllVREVFSV9pNW9Wcm9LbWNIenJJUnMzQ3ZLZFdjNUJmUVRCMHk4OGYxdTZZUFZoUXd4SWpNSndFQk8?oc=5"
-  },
-  {
-   "key": "9f87897df8e3ad7f664a6b62d59de6514359d90d",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Salahdine Parnasse calls for ‘dream’ Max Holloway fight after stopping Dan Hooker in his debut",
-   "title_key": "3801c0ff79ee88a782b3532967f97076276d38b6",
-   "title_norm": "salahdine parnasse calls dream max holloway fight after stopping dan hooker debut",
-   "ts": "2026-09-06T01:05:28+00:00",
-   "url": "https://bloodyelbow.com/2026/09/05/salahdine-parnasse-calls-for-dream-max-holloway-fight-after-stopping-dan-hooker-in-his-debut"
-  },
-  {
-   "key": "63a12a1b529f2e9fd5f26f9d75b070aba47559ec",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "UFC Paris Post Show: Reaction to Salahdine Parnasse’s quick win over Dan Hooker, and where he goes next",
-   "title_key": "cbbae2d8547adf4cd10eb04bc4e66c2f3a681cbb",
-   "title_norm": "ufc paris post show reaction salahdine parnasse quick win over dan hooker where goes next",
-   "ts": "2026-09-06T01:06:45+00:00",
-   "url": "https://mmafighting.com/ufc/508931/ufc-paris-post-show-reaction-to-salahdine-parnasses-quick-win-over-dan-hooker-and-where-he-goes-next"
-  },
-  {
-   "key": "b709afe103824550d04dfef5104416695f03f3da",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Paris bonuses: Salahdine Parnasse scores big in debut",
-   "title_key": "796fd9724c0e1ec301fd5301394cd5f2b35fe8ff",
-   "title_norm": "ufc paris bonuses salahdine parnasse scores big debut",
-   "ts": "2026-09-06T01:06:46+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ2Zldjd2S2s0elB2SjAwRUR6Rm9DdkhwZl9sSGxyb3loelZRMzd4cmFrNkFSRjJ0YVlsMVVkb0FQcnRPUjc2WnJ4LVBneU9qNFI5NEpBTHRmOUM4ZU5ZTDNPV1RkdUMwZ1pKX2hHSkNjSF9wS2o3LS1yM2wwek1YUl9JaUREOTdKVXhGanJORkh2djhfazdZdUhmTFFwTjF1WEtaMmc2ZmJxU0VneVU0bHFka2NvRWJDbHI4SWYxeDQ2M0JZLUZlNzFUVE90OE1ObVlUc25ORXozQnc5aUNNMzRwdkxwZFc5WGRfLUxHNEF0MEUtOVVGcUprRDY5WXM?oc=5"
-  },
-  {
-   "key": "889d71afda521ed88810044d76191aaccea03951",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Paris results: Salahdine Parnasse sparks Dan Hooker, ready for Max Holloway",
-   "title_key": "fb39adc3f043d5a445d4f586c0d6358a0f6eac23",
-   "title_norm": "ufc paris results salahdine parnasse sparks dan hooker ready max holloway",
-   "ts": "2026-09-06T01:06:49+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYkxuVndhVm9fSHJIWjF1VllScWpFSm9WUF9zNWNNTUlsbElLVmNPRWdiSVQ3Ti1qc19mYXJXTlUwSVc5eXZ2T1p4NnZlLUVoVWlYSWo4clN6cWt5UjA4Q0JBWjk2d25IZWNqOXlTeE9GSzVXMTRXaDZ5SXEwLTQ4RlRJMU14RHRsX2N6ZXFIUHZhbzJmOFRoR2s5a29YYi1OU2REQ21nNEM2dUZqZVo2RFM4aHc0VDlkekE0UGFyaWxCSUJsQjBFUlo2TGE1MUpMbnc?oc=5"
-  },
-  {
-   "key": "ec59a093c1e3ec6db8a4d83637972c4efaa0ecf5",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Michael ‘Venom’ Page doubts re-signing with UFC by putting himself in their shoes after UFC Paris win",
-   "title_key": "ae2efdc79a2e9fe7bb53b14ba8f0f356800759f2",
-   "title_norm": "michael venom page doubts re signing ufc putting himself their shoes after ufc paris win",
-   "ts": "2026-09-06T01:06:50+00:00",
-   "url": "https://bloodyelbow.com/2026/09/05/michael-venom-page-doubts-re-signing-with-ufc-by-putting-himself-in-their-shoes-after-ufc-paris-win"
-  },
-  {
-   "key": "034475b014891a0a62d8af8de9409a19cefd4d17",
-   "score": 8,
-   "sent": true,
-   "source": "Marca — UFC/MMA",
-   "title": "Salahdine Parnasse debuta a lo grande en la UFC París con K.O. ante Hooker",
-   "title_key": "44001189bc7f1e5d6ed69ee73dbdf646b0b852b8",
-   "title_norm": "salahdine parnasse debuta lo grande ufc paris ante hooker",
-   "ts": "2026-09-06T01:07:07+00:00",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWtmU2xMZThXT2ZabGlkTXlpV0hUOW55OW9zakhrRzN2YTF5ZVBTOEFDWkpBMTNCcE5xSnVmMXRuOVpkZWVIWUlHRnJCWFBwWmxieGxsSng3QTRKdV9zNGxNdlBHZkVzdkpRUkNOekM0TzJLbzlWd0VwN082NWdRaU1ReDVjeVY0UFpWUDkxUk1kOGdkd21SenFQZm5QV2dyZkJxM9IBpAFBVV95cUxNbnFTQVFNV2xhQWFEakJzQUh5d1R3Y0lrdDRzbWhKbUFGSmVmRGFJSEZGUXczQ1FldG5iSmhSSXNWcENqcm5XSUZ6MmE4MFpmNk9oeHZWU1YwQzF5cVhnN0s0SHZoUmplVkpFMDR6X3BEUTYyTDJZekp6LWF3STh4Y0NpTkNEZVVSSENSTTVRcy1Ld3c2bF8wNzFmZENHVUhsa0ZYTQ?oc=5"
-  },
-  {
    "key": "e912c0e3e9663ba269fcd4be4d9fd31180c19830",
    "score": null,
    "sent": false,
@@ -15213,15 +15136,213 @@
    "title_norm": "arman tsarukyan ilia topuria making excuses claiming justin gaethje cheated",
    "ts": "2026-09-20T00:37:27+00:00",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRGIzdHRKZGtIclhZYVVSR2FjZW1JLUMyamVMS2FkcHRqXzRPUmt1YXRWajFiWFUxTllWaXlNZjdNeEFkaERfZzRtUnpMWEc4UkF4T0tocWdFRS1iTEYtYUNUV05Obm9HWENuS0FJYkJjcFFibEZ3SWJtaEFiRk1DN0FLOERKeTlqbUFXdGhtMGRYTThSSzNPblh2a3ozWmpneUpJY0E3b0dPRzBQMy1ibjdEb2FySXlzYzJEU0pqa0hhMXN4LXUyNERVVDhPaUxDSERpQUtxLXVPNjY3ZFVPcHZmbzkwQ2hpTUpOVXBBdzdsZnhuOW9WaUdEdnNnZE0?oc=5"
+  },
+  {
+   "key": "26528f45c216f8814451969b5eef4c53674e4a96",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "CHITO HAS WON. I REPEAT, CHITO HAS WON.",
+   "title_key": "cdf4b2b6def9c2420d2aaae2ead2a601a20a081e",
+   "title_norm": "chito has won repeat chito has won",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl2vk0/chito_has_won_i_repeat_chito_has_won"
+  },
+  {
+   "key": "96700a2d768e349245305a8081228443d2eea558",
+   "score": null,
+   "sent": false,
+   "source": "TUDN MMA",
+   "title": "¡GOL! anota para Monterrey. Óliver Torres",
+   "title_key": "eaca4e2f758e8eaadea101e473abd4a0e68f28e6",
+   "title_norm": "gol anota monterrey oliver torres",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTlmMFVMMG9IS0dla0lvYVU2MzhSWkw1azdIMkdiN3djZHdkVWJsbk9OQlRpNnhJRkJYRWgtM1ZrNUQ4VFdOS2Z4dHZTSkc0UHpiR3JLX1NlODdiN0M2Zm91ODlsYmpiVEtRU2Z0VXdUb2Rab3RzaFJoOXpNcmxaZnhEOXE4REQtUGlB?oc=5"
+  },
+  {
+   "key": "d1c81a5b520b0ace4a9be71e83975660cf247fd0",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "WE WON, THE LOOPHOLE IS DEAD",
+   "title_key": "fc13a1160b05e5d484176b64c6254f71ebe100c4",
+   "title_norm": "we won loophole dead",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl4bcr/we_won_the_loophole_is_dead"
+  },
+  {
+   "key": "19aab8ae50bcc3537916eb6c202269fc6b693ab0",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Sometimes good things happen to good people",
+   "title_key": "6c47e6d9e1485d76b1ca7c26417e680891f2c8cf",
+   "title_norm": "sometimes good things happen good people",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl4ce7/sometimes_good_things_happen_to_good_people"
+  },
+  {
+   "key": "0890c3533a0a1ae3cd996f346034763227c9a975",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Even the Ref is Happy that Gable got Colded",
+   "title_key": "ab894d66cf8f05c8958a9a7470a37ac0a2fa5e93",
+   "title_norm": "even ref happy that gable got colded",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl4fs0/even_the_ref_is_happy_that_gable_got_colded"
+  },
+  {
+   "key": "312ff00c197cfc5ed3a1a70e1a4ce414e2a283a1",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "GABLE RAPENSON IS NO LONGER",
+   "title_key": "a15a6e4193269ce569f7750b45ab1b85e7c2b508",
+   "title_norm": "gable rapenson no longer",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl4hk6/gable_rapenson_is_no_longer"
+  },
+  {
+   "key": "fde3b81412c07b2ebaee1e927540ad3a4d78b053",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Jon Jones reaction to Gable getting knocked out",
+   "title_key": "7201c44a8e4c8531ee018ab4d7c55bed22ab7e16",
+   "title_norm": "jon jones reaction gable getting knocked out",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl4iv3/jon_jones_reaction_to_gable_getting_knocked_out"
+  },
+  {
+   "key": "2f33051781261169825f034ac4988444274fc013",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Literally just a picture of Sean Sharaf",
+   "title_key": "c0a8be748c2155cfae3e8e8b713918c8da605c32",
+   "title_norm": "literally just picture sean sharaf",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl4mg2/literally_just_a_picture_of_sean_sharaf"
+  },
+  {
+   "key": "6924bc5f8b589d273dddb4e6cf16154b0ee2832c",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Codazos De Arman Tsarukyan Noquean A Ruffy En 1er Round",
+   "title_key": "556b67b2f4d32f49efd14dabf765494714f9c554",
+   "title_norm": "codazos arman tsarukyan noquean ruffy 1er round",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWTRZOVRmUmhwODBrZ0ttMHp1dkUwU1V2QVdvZU9VU3Z5aGtXNWtSWEo4NVJxWUs2NkRDNkU5VFJXWGRxd0VzNFhCUTlxNUhUYlVheWRWWnJpb1JQSk8zUTFmbl9YWktLOGtZRFh1WUdVRk52VDRRaEV6OTZuS25PaG5RZW5tZy1mSHh5VTJR?oc=5"
+  },
+  {
+   "key": "8e45a8dff4f239bcf0f1fdb50cc0e94e54c14637",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Holyyy smoke, what was this bruhhh",
+   "title_key": "89e234253bb4291a65f64d1e4bdbb3a36c0f66ff",
+   "title_norm": "holyyy smoke what this bruhhh",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl5l42/holyyy_smoke_what_was_this_bruhhh"
+  },
+  {
+   "key": "fc1df2d2bbcf339def525b1e173632602464dee0",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What a dog.",
+   "title_key": "10da391f8baf904a9abddac4bd94701e81e12361",
+   "title_norm": "what dog",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl6iao/what_a_dog"
+  },
+  {
+   "key": "4b3c7cb301fb44d49994c7ce630d8d7a7b507654",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Are you not entertained? But 50-45 was BS",
+   "title_key": "4861422fc416dfa8e47a152bf9174c6713995f08",
+   "title_norm": "are you not entertained but 50 45 bs",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl6klc/are_you_not_entertained_but_5045_was_bs"
+  },
+  {
+   "key": "0de32b89fce611d192b9176d86ea1499ac7d50dd",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Here’s How to Watch Isaac Cruz vs. Nestor Bravo Boxing Live Online",
+   "title_key": "7267e8c464832586420bed76ab279fc23025f38e",
+   "title_norm": "here how watch isaac cruz vs nestor bravo boxing live online",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmZ4YXhmdERlYXpsbW92QkcwdGZSank2UWhMUS1xWHVSazAxWk1Tc1RyZWladlhwQU02MEh1SFp1a21FVml2Ynp1YTEwTlIwLWpBNU5wWWRudG1NUHpwYzg5UDV6dFRUaHlMMUpOUFRJU3FZMF9vNnlFVXlLY2xKWg?oc=5"
+  },
+  {
+   "key": "941329345c887eaf9aef3301b114e0d940f305be",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Joshua Van Defiende Cinturón Mosca En Épica Batalla",
+   "title_key": "1408e650c2a8e93f25cc968aab74bce88e69fd0e",
+   "title_norm": "joshua van defiende cinturon mosca epica batalla",
+   "ts": "2026-09-20T05:22:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1M2TENvU0p3UUl3ZnBxcnQxN2tDSXlkNnJWYlNPbFZtZUY1U0JhdnE2NGctOURLaFZidUduNmE3a0JLLVdYT0tIWVJRNFFtRkc3SWc5ZUlYaU01NHRKeDFOcFl6ZmdJSHVicUVuOThtaVBpN2Jla2w2VmVYTVdrLVpmbnV5c193NGgw?oc=5"
+  },
+  {
+   "key": "b923a2228b8ba26c857dc07006f30d2cedbe5238",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Joshua Van defends title with brilliant 5-round performance over Alexandre Pantoja in UFC 331 main event",
+   "title_key": "2ae71b0390dda18d701c2b07b91c2bd3442839d1",
+   "title_norm": "joshua van defends title brilliant round performance over alexandre pantoja ufc 331 main event",
+   "ts": "2026-09-20T05:22:53+00:00",
+   "url": "https://mmafighting.com/ufc/511356/joshua-van-defends-title-with-brilliant-5-round-performance-over-alexandre-pantoja-in-ufc-311-main-event"
+  },
+  {
+   "key": "c4ba45ff6235492831220824eb2372cd30bdeed1",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC 331 salaries revealed: Alexandre Pantoja, Joshua Van lead all fighters",
+   "title_key": "1148bb0bb97c76ddb536ea7a2203fb81da79103c",
+   "title_norm": "ufc 331 salaries revealed alexandre pantoja joshua van lead all fighters",
+   "ts": "2026-09-20T05:22:54+00:00",
+   "url": "https://mmafighting.com/ufc/511404/ufc-331-salaries-revealed-alexandre-pantoja-joshua-van-lead-all-fighters"
+  },
+  {
+   "key": "66110c68816d1390ec01701bac77d32e4f9596fd",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Joshua Van vs. Alexandre Pantoja 2 full fight video highlights",
+   "title_key": "4ff0571661a0b864a739e154ce2db1eda37e79f0",
+   "title_norm": "joshua van vs alexandre pantoja full fight video highlights",
+   "ts": "2026-09-20T05:22:57+00:00",
+   "url": "https://mmafighting.com/ufc/511352/joshua-van-vs-alexandre-pantoja-full-fight-video-highlights-ufc-331"
+  },
+  {
+   "key": "7d3d2623c7cf0e903598cf0348648466107c27dd",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 331 results: Arman Tsarukyan makes statement with hellacious elbow KO of Mauricio Ruffy",
+   "title_key": "86b715c5e3a1df16d6192360d1de02f17f113833",
+   "title_norm": "ufc 331 results arman tsarukyan makes statement hellacious elbow ko mauricio ruffy",
+   "ts": "2026-09-20T05:22:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2FfVDM5Q2xzNXBEclRReUs1U0ZNd0FMbFJXZUhiOXlhWDdjeGRrTzE3eFliTjIySGdfTW9YNzFHYXhDUTJlYzhtUkg2ZDI3MWwwRkZwY3BlNVQzMGJvOEw0Y3ZXN0dTRjZsQThpUjFRbmRPNUpkZVg1dXZlSGdtek5rZHAwdkNJNUcwU2tVV2hwTXhrazhtUExZalFRR3QxQ0lLSWJrLXNLNDYyZWZISjNVc3NnWEtrb2ZraGUzZy1WendIWEFyY20tdUJDUQ?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
+  "descartados": 1,
   "enviados": 3,
-  "llamadas_llm": 5,
-  "prefiltrados": 10,
-  "recogidos": 209,
-  "unicos": 94
+  "llamadas_llm": 4,
+  "prefiltrados": 14,
+  "recogidos": 182,
+  "unicos": 121
  },
  "telegram_offset": 958387804,
  "version": 1
