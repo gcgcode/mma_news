@@ -2,105 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "b06eefd5c22530b6ab26af00f99d52a7baf30ae3",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "New meme format?",
-   "title_key": "ecbc37cd7a44a938a5b790ce2bfbaba2be136b0a",
-   "title_norm": "new meme format",
-   "ts": "2026-09-06T16:41:39+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w8ytso/new_meme_format"
-  },
-  {
-   "key": "2adb13b16bb0022ad97112923f6666dbc29a8fc1",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Shavkat says he's Islam's toughest opponent, reacts to Ian Garry saying he ended his career: \"I had health problems 2 weeks before fighting Ian, my leg was swol",
-   "title_key": "98a54f6cf44a822d02c6e0be9e940709af3c0f0e",
-   "title_norm": "shavkat says islam toughest opponent reacts ian garry saying ended career had health problems weeks before fighting ian my leg swollen shouldn have fought him all interview recorded months ago",
-   "ts": "2026-09-06T16:41:39+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w8zu4m/shavkat_says_hes_islams_toughest_opponent_reacts"
-  },
-  {
-   "key": "e6eecf7216ef9cbbd2032a4dd17a06512b53726a",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "It’s gon be bad amigo",
-   "title_key": "24ae038a0ba43d9c95239db8fece5e64025f53f8",
-   "title_norm": "gon be bad amigo",
-   "ts": "2026-09-06T16:41:39+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w8vzgl/its_gon_be_bad_amigo"
-  },
-  {
-   "key": "335bee02f5c50ced1c2e3157913e83fdf2a6f33b",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Israel Adesanya drops his first name",
-   "title_key": "befb033c61b3be04b02cbc823afc3b5364106ec5",
-   "title_norm": "israel adesanya drops first name",
-   "ts": "2026-09-06T16:41:39+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w8yo9s/israel_adesanya_drops_his_first_name"
-  },
-  {
-   "key": "eb5a38a04af87888eadc9bb69a40d0b11aed060a",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Shavkat Rakhmonov on fighting Ian Machado Garry injured: ‘Khabib or Islam Makhachev, they definitely would’ve refused’",
-   "title_key": "1db0b702b2059281720c2769b2b51347af26a466",
-   "title_norm": "shavkat rakhmonov fighting ian machado garry injured khabib or islam makhachev they definitely would ve refused",
-   "ts": "2026-09-06T16:41:53+00:00",
-   "url": "https://mmafighting.com/ufc/509003/shavkat-rakhmonov-on-fighting-ian-machado-garry-injured-khabib-or-islam-makhachev-they-definitely-wouldve-refused"
-  },
-  {
-   "key": "7b92db388d80760772ecae1c2b24bd13f868beaa",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "In six fights in the UFC Michael Venom Page fought 18 rounds and had a total of 173 significant strikes",
-   "title_key": "fa351233158e7d2e96c045aad33cbef3b3c097d5",
-   "title_norm": "six fights ufc michael venom page fought 18 rounds had total 173 significant strikes",
-   "ts": "2026-09-06T16:42:04+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w8zq42/in_six_fights_in_the_ufc_michael_venom_page"
-  },
-  {
-   "key": "0bfe45ee83678da31d755c7a47b44b37c038ada6",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "‘If I fight him right now, I beat him’: Ian Machado Garry on loss to Islam Makhachev, when he wants to return",
-   "title_key": "1b7c73022eab066aa95b21b73904ffe081ed8bf3",
-   "title_norm": "if fight him right now beat him ian machado garry loss islam makhachev when wants return",
-   "ts": "2026-09-06T16:42:15+00:00",
-   "url": "https://mmafighting.com/ufc/508946/if-i-fight-him-right-now-i-beat-him-ian-machado-garry-on-loss-to-islam-makhachev-when-he-wants-to-return"
-  },
-  {
-   "key": "3ff2ca0c429b46acc2180055a5aeaf548f3904bb",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "UFC Paris main event winner Salahdine Parnasse calls Max Holloway ‘my dream fight’",
-   "title_key": "a107f62e324bbb6db51b25c9adeea6709e9be7cb",
-   "title_norm": "ufc paris main event winner salahdine parnasse calls max holloway my dream fight",
-   "ts": "2026-09-06T16:42:27+00:00",
-   "url": "https://mmafighting.com/ufc/508977/ufc-paris-main-event-winner-salahdine-parnasse-calls-max-holloway-my-dream-fight"
-  },
-  {
-   "key": "47b0edb9c2494188047f0a1888cacafafec1a9b7",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Fight Night 287 Promotional Guidelines Compliance pay: Dan Hooker leads card",
-   "title_key": "1a47e0659859fdcbd308b67aef6e49a63319e123",
-   "title_norm": "ufc fight night 287 promotional guidelines compliance pay dan hooker leads card",
-   "ts": "2026-09-06T16:43:28+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSFY1cmFBcVRCYWwxY1hOcnhoQnhxN3IyQjVrRGRZNHRtTE9WbkdrVm9hbDAwRlZyNDFyVFpERFQ3Ykg1OGhFazRXVld4VUJ1TlQwVHhmaU10MXNiRnJ0dGhrVjd5ZTVkMUUyRjVUaFpXcXN0cGJpamdURDVnMGlNYjR1bWVDcFZFcG1XRDF0enRtU2Zyay1RMzJoTnlCYm1lOUk5LUtmNlhxSmt5dUdCTVVod2hReExsV3dIam1XcjNwRTJycno1YldPNnNYdVBWdURlbkVha0JkNElORkZR?oc=5"
-  },
-  {
    "key": "f8f8ac9de47c11ec05c80984a90acf6c344af533",
    "score": null,
    "sent": false,
@@ -15301,15 +15202,125 @@
    "title_norm": "joshua van had shoulder injury during fight camp ufc 331",
    "ts": "2026-09-20T14:18:40+00:00",
    "url": "https://reddit.com/r/MMA/comments/1wlcn09/joshua_van_had_a_shoulder_injury_during_his_fight"
+  },
+  {
+   "key": "365e985d579f25638291569e1e6d5e7d1717852a",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Explanation from loser of Jourdain vs. Vera",
+   "title_key": "9da42dfea3b787b2b421045b7a543ff665cf2529",
+   "title_norm": "explanation loser jourdain vs vera",
+   "ts": "2026-09-20T17:31:33+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wljith/explanation_from_loser_of_jourdain_vs_vera"
+  },
+  {
+   "key": "a4b09a01309abb879b1e66ef78be63e7cc7cf355",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Artículos escritos por Jonathan Dilan López",
+   "title_key": "5edab0695cc190ad60e8d9c4d475dce238a219f2",
+   "title_norm": "articulos escritos jonathan dilan lopez",
+   "ts": "2026-09-20T17:31:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mbzlod3Y5RUMyVEwwVENsUi01UmVxREJyTTFvSmtUQUlCa09OMUpqT1ZOeWFSbXpxN1pkaWVyWnFYQXNGLXU5Z1F6Q2VRakhvSUlDTkpQZzlDTGVIN1RFTU1kdWE?oc=5"
+  },
+  {
+   "key": "368558bbef4129ab4a4dacf8c59b0e6390c316ff",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "¡Doping para tu pelo! El champú anticaída que arrasa en Amazon y que causa furor entre los usuarios",
+   "title_key": "02dc36e2be5323eaf48700a9556b84ca0bac2e3f",
+   "title_norm": "doping tu pelo champu anticaida arrasa amazon causa furor entre usuarios",
+   "ts": "2026-09-20T17:31:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KNmhJZ3JUMXdMZUU0OVFjMUdBbEhxaTBhLUp3dXlsLTZpWFdqbjFGaktnQllOTzZGbENSNW03cGhEc2xfWTFQTjRkWkVUTFZYYzIwdVVFc1F3RkMyei1yUEtfMmtwUDA?oc=5"
+  },
+  {
+   "key": "88181335314a4bff32e9e0aecb8454f90f35c804",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Tsarukyan, sobre Gaethje: “Intenta evitarme y va a llamar a Topuria”",
+   "title_key": "a515127175d2b6582e966680a7718133269f821e",
+   "title_norm": "tsarukyan sobre gaethje intenta evitarme va llamar topuria",
+   "ts": "2026-09-20T17:31:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWpyanktcWQ0TEd4RC10NTdHV0pFcnBnZGt1bFRZWFVzWnlFcVJ5dUJSb01ta0hxUkZWcWtweU5sWW9zYUZnaFJxcjUxRGdHVzVYUGpFVk5hbkFVc215cGpINVlpckhpVTZuSXdkbkpvQlBpQ2FZclNPTG43WkhuQW1BWVV4eXdoaHVhVU5OMWxudmVoTkNienhzNGJzOUlTWGRDaWpYLXI4NEt4ZHFvenI5NUFBUdIBygFBVV95cUxQR2JGcUVINUk0dzhtdHF5dUFETm1GTHhHWmxKNVlRQ21oUzZMekxoWi03a1lySmtZcVY3aDhrc1JOeHY2aFdUN0ZHN1FRdWJIWGJwd2k4S09EcFhQdlA4UFhkSnVZcVZ3Y2dLSDM5MjZDb2xSVUZKMWFSWUVkY1gxWTdHTndKYVdpNHpZQTA5RzBLdmlTQjF3T3h6akoyUThFNlgzNkpOdUYxTXJITDJwTm1vUFA0aXFvc01VeldNZW80S2hSR1BvZ2t3?oc=5"
+  },
+  {
+   "key": "b20b2731ef98bddd8797bc89ab5676c979b99f05",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Imágenes sensibles: Alonzo Menifield sufre escalofrinate herida",
+   "title_key": "632ee23117020d728c768f4096284ff9ced3bd3a",
+   "title_norm": "imagenes sensibles alonzo menifield sufre escalofrinate herida",
+   "ts": "2026-09-20T17:31:33+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWZUbVVDT3FjallSS2NLTS13OGhqblNscFRRTW80VFJEVlBfR3VsWngwOTlKV2dCNWt1R2VZemZaaG5qMjREajZyTlNTdnVzaWFiZ1poMnBwV1BoZ2NyUnMwTS1DM1lDWUJLZzh5TXJ4bnZyMkpZTzhjeVVKY2lFaGw5ZUVWTmJTbGh0Rm1B?oc=5"
+  },
+  {
+   "key": "bfe0a4e7ac219e87ed829421c6b622aa7c312e83",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 334 full fight card announced",
+   "title_key": "726512ddec339e31867e5d90cd7c31c2f92baa8d",
+   "title_norm": "ufc 334 full fight card announced",
+   "ts": "2026-09-20T17:31:53+00:00",
+   "url": "https://mmafighting.com/ufc/511552/ufc-334-full-fight-card-announced"
+  },
+  {
+   "key": "43e17aa6994b6c622cd21580d00a472ac8e8560e",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Main Event fighter sets new flyweight record",
+   "title_key": "8d49ab70ffecbf41fcadc645679ac12e3c859307",
+   "title_norm": "spoiler main event fighter sets new flyweight record",
+   "ts": "2026-09-20T17:32:16+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wll0h5/spoiler_main_event_fighter_sets_new_flyweight"
+  },
+  {
+   "key": "7ed0331b1529c84187a70da09ccff2f749c3866a",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "We gotta do a GoFundme for Sean after allowing us to enjoy this generational hate watch",
+   "title_key": "53f100102a34477f9767415f72c1fd41031e917f",
+   "title_norm": "we gotta do gofundme sean after allowing us enjoy this generational hate watch",
+   "ts": "2026-09-20T17:32:28+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wlkwyc/we_gotta_do_a_gofundme_for_sean_after_allowing_us"
+  },
+  {
+   "key": "7526e7c7243bce76517231d3d9c92901d6bd23ec",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Gruesome photo of Alonzo Menifield’s UFC 331 thumb injury",
+   "title_key": "53fb0092afb83b5dd15bb46ba1a5ef2731199a70",
+   "title_norm": "gruesome photo alonzo menifield ufc 331 thumb injury",
+   "ts": "2026-09-20T17:32:53+00:00",
+   "url": "https://mmafighting.com/ufc/511529/gruesome-photo-of-alonzo-menifields-ufc-331-thumb-injury"
+  },
+  {
+   "key": "0d719fa6e8462d3f8637ce86e0df6b9bd8c1ef68",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Fight Nights Global has posted that their former Heavyweight Champion Grigoriy Ponomarev (6-3) has passed away at 31 years old.",
+   "title_key": "47edb44b6b5375a5b39f9552f467945f3d5c12cf",
+   "title_norm": "fight nights global has posted that their former heavyweight champion grigoriy ponomarev has passed away 31 years old",
+   "ts": "2026-09-20T17:34:25+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wlk74c/fight_nights_global_has_posted_that_their_former"
   }
  ],
  "stats": {
   "descartados": 2,
   "enviados": 3,
   "llamadas_llm": 5,
-  "prefiltrados": 10,
-  "recogidos": 207,
-  "unicos": 124
+  "prefiltrados": 5,
+  "recogidos": 187,
+  "unicos": 107
  },
  "telegram_offset": 958387804,
  "version": 1
