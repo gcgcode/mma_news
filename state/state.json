@@ -2,72 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "078c967181b9f36daa743e4db4ec099add121fce",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Shara Magomedov signs new deal with RAF Wrestling after scoring victory in his debut",
-   "title_key": "365fb14c097ce6067e7c8d1e7100e39435d5a2fd",
-   "title_norm": "shara magomedov signs new deal raf wrestling after scoring victory debut",
-   "ts": "2026-09-06T21:02:24+00:00",
-   "url": "https://bloodyelbow.com/2026/09/06/shara-magomedov-signs-new-deal-with-raf-wrestling-after-scoring-victory-in-his-debut"
-  },
-  {
-   "key": "13b6b492d9e7301c97c1f34244faf7461731ef61",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Jon Anik thinks UFC is considering Justin Gaethje vs. Ilia Topuria rematch: ‘That’s what I think is going to happen’",
-   "title_key": "ac072cc94256866e152411a64640ff32f3510aa6",
-   "title_norm": "jon anik thinks ufc considering justin gaethje vs ilia topuria rematch that what think going happen",
-   "ts": "2026-09-06T21:02:32+00:00",
-   "url": "https://mmafighting.com/ufc/509024/jon-anik-thinks-ufc-is-considering-justin-gaethje-vs-ilia-topuria-rematch-thats-what-i-think-is-going-to-happen"
-  },
-  {
-   "key": "cbd54b336702aadb5cfc943310e03ec99c5206ab",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Tony Ferguson books Misfits Boxing title defense",
-   "title_key": "0fc8bcb5a141169f77d49f03a56cb1d3bcf9339a",
-   "title_norm": "tony ferguson books misfits boxing title defense",
-   "ts": "2026-09-06T21:02:37+00:00",
-   "url": "https://mmafighting.com/boxing/508679/tony-ferguson-books-misfits-boxing-title-defense"
-  },
-  {
-   "key": "9a80a01971b8f4c82c595d57351f6f6b4968bd71",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Mario Pinto explains difference between him and other UFC heavyweights after Paris win",
-   "title_key": "30cde9b5e31142e0650c009b2066df6a40390034",
-   "title_norm": "mario pinto explains difference between him other ufc heavyweights after paris win",
-   "ts": "2026-09-06T21:02:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaW9EU0VyellqVjd1RTVad1g3Vnh1WUNvUHVPYWJMLXg1WFpLUlZZcWwtX1JXMmdLaDRuNVpfOW9aVE1xemdLeEg5UGl2OTRyVG50LXpIS1VhSk5jZHF2OGJUUFp2Q2pnYzA4LVBFaEVEU2NWRWQyTVBmOS1TWVF4Wko5TkpiVjM5RDkxYTZBVm1qMnBPWHhWclhZVWZ2RkNkX0E5ZGtodXczRzR3amU5ZXBVaUQ?oc=5"
-  },
-  {
-   "key": "bcdf5668c4dc5d1e5468ca17d928cec81ec864b2",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Paris: Salahdine Parnasse calls out Max Holloway after debut win",
-   "title_key": "d4a7d1f540bf1e01ddaa45c110ceac0089b4a7c3",
-   "title_norm": "ufc paris salahdine parnasse calls out max holloway after debut win",
-   "ts": "2026-09-06T21:02:55+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR1ZoQXMwMkcyYUlpT0ZBdmZnY0pWeHpvbklrQkVoLTRIdndLYU5BYzk2Nk05cURLWEFYX2ZFRFAtSS1DSkllcmhSaW1NRWU5bHduVV9JN1IxN2c1RmlzSEFSLWhjaGY4SFVIXzR4MW5aLVVwejRXNHRsTUZJLXZpSTk3azAwOGRZZ3dKbktEWnlzU2VLekdhNzZkWlUyU1pOR0JZNzQzSXZlVkYtWk1xUWlja29qWEdmNWMzSk9ucjdZc2NWcTNhSGFxQ1Y4OG85eGZHOEIzbw?oc=5"
-  },
-  {
-   "key": "e004fedfe587fd330c9be215d589c6331962570a",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Michael 'Venom' Page plans to change his style to introduce more volume, and hopes the UFC will re-sign him",
-   "title_key": "474e97786910c74d9bb6a8b2760db4c2e8e2c0b8",
-   "title_norm": "michael venom page plans change style introduce more volume hopes ufc will re sign him",
-   "ts": "2026-09-06T21:02:59+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1w8f8kb/michael_venom_page_plans_to_change_his_style_to"
-  },
-  {
    "key": "ecf7203d608cde9afaa2106aeb62d6823981081a",
    "score": null,
    "sent": false,
@@ -15400,15 +15334,136 @@
    "title_norm": "dana white reacts gable steveson ufc 331 loss early cage exit",
    "ts": "2026-09-20T19:44:24+00:00",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkxPb3hnZ2JsbnF3NngwZENEVGxQUTI5WmUxdFkyX2xwbkFMQWVwZkxDUFZieW1tbUIwRm45eURRSU1qaE5pSzdEajlybTBGcmZDZGtrSTdndXlQN0pWZ3BZVnRJNDljckJuVF82WThpZGNyQlRDUlNnUHN5NkdGdzNrUFp1ajhtdW5hWHpKUzQ4NHpJLWxYczZ1czJwTmhZbHR3ak1zSmVwZ3NRbGJtbDJxVHd5cW1fRjVV?oc=5"
+  },
+  {
+   "key": "3fb6387f402d1c4d4b716138e6616ee1ba608a22",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Bought an old advertisement",
+   "title_key": "92f4826afb1165a8b825564b3d8ea2881b2d0f33",
+   "title_norm": "bought old advertisement",
+   "ts": "2026-09-20T22:08:41+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wlpgg0/bought_an_old_advertisement"
+  },
+  {
+   "key": "675530edb45adfd08cd8935abc885f5f054aa9e6",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Javier Aguirre llega a un acuerdo con el Valencia: ultima los detalles y la firma",
+   "title_key": "49e03153e83dd3f4a37ca289cee1b66b13b205e2",
+   "title_norm": "javier aguirre llega acuerdo valencia ultima detalles firma",
+   "ts": "2026-09-20T22:08:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHpwMXE4bWN1dHQxNzB1aU4xNmdXTWMxSDRFQTVzcnNid1d3cXdNeHRBTUp2X0plZ2ZPNVM4R19OQTFFWkxfZFlzQnQxTXowdnZrX1M0RzE1WlVObmhuVWJHN0pFT2NCWWJNUGx0bThLenRSV0JicjBIRmVQUlJpMjhkcVhRZkN6akt5bTN2T0EzSVhwQi1nYVNzbGVBd3llVmFwS0oyMGh2SGstRURqd0JBYkt4TGlIZ3dINnpMM2I3RVF2YmEyUzgzYXJPOUVoSGRDUEM1V3B3bEN40gHcAUFVX3lxTFBOQ0hXQ3E0Z0RBNnRzYWxVTkFpanFyV1BEdVloY1QzaXZnSnJFTTZzSkxESGpGbi1ZcF92djd5X2Z1WDlXNGNMTFhmMWNJMGpIdEtJdUNrRnB3TDF3VXU4Zm0wOU56M3BIQjVkU1BpTXQtZEkzX3FPWXBQRnp2TXIyWV9XTWx1ZFRnQ0dRVzVWM2pxTmlqNDRsdGlsQ3ppUzVaOGZYdHZGYzVJVWZhaFdXRXdqa0M5eEhxak85Y2puSnNWX0lUUU9OaW0yNXRBYm9weXI3VEhpRWVERWs?oc=5"
+  },
+  {
+   "key": "082054b3bb913c3e0e5595a063cc425a10325a1f",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Ryan García responde al reto del ‘Pitbull’ Cruz: “Hagámoslo en diciembre”",
+   "title_key": "760bf48b6f06a4ccf74b30d61aaed107629ea0a9",
+   "title_norm": "ryan garcia responde reto pitbull cruz hagamoslo diciembre",
+   "ts": "2026-09-20T22:08:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3FHN3k0YzhSOWx5blNuUWFiNW9Na0RZUTY3NXFnLUV5ODJMcEZFS055ZnhMOEkwNk5ZNnNqNS1obndDQlNrdUptSnVmYjRVU3lSWnloLWI1MjVlenlMdms3X3drVHBVMjlteTNCYVk4M2R2QTdwUXNlSW9iMkZxSEhMUFVPMTd2VDViRW9ta1pENnBDV2NPNUFLNzVyRFNKNDg1LTlmazhmcEozbUZWMzNkNFFnMWdjOUFON0F5RVfSAcABQVVfeXFMUGNxRzd5NGM4UjlseW5TblFhYjVvTWtEWVE2NzVxZy1FeTgyTHBGRUtOeWZ4TDhJMDZOWTZzajUtaG53Q0JTa3VKbUp1ZmI0VVN5Ulp5aC1iNTI1ZXp5THZrN193a1RwVTI5bXkzQmFZODNkdkE3cFFzZUlvYjJGcUhITFBVTzE3dlQ1YkVvbWtaRDZwQ1djTzVBSzc1ckRTSjQ4NS05Zms4ZnBKM21GVjMzZDRRZzFnYzlBTjdBeUVX?oc=5"
+  },
+  {
+   "key": "27901fd5b3c77c8da425fcaaae692e08cf07e0a0",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "América no puede en los clásicos y Guillermo Almada sigue con malas noticias",
+   "title_key": "d8fb1be6d0ed0d8a15f15f72900bec9406950988",
+   "title_norm": "america no puede clasicos guillermo almada sigue malas noticias",
+   "ts": "2026-09-20T22:08:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWF3blcyQXk3LVV1WWhXQ1cyTjBRMlpxMUgzSkM4b1RhM29ZUDZvdlRhaUV5allDM1FGVDZ5TmJGUE9xcEZFSUVKQjBQMlJYNVprNDBDTzlLczlabjhBU21xNWIzdXA5bmJtYkNqZ2laejhQa0FRZHNiTUh4dFJDR0ZFbkpiMlh2ZlNvQlZJYjNmLTU5c1liUHphMVkzc0xxWlcxYW05TVB3Wm9nMXU00gGvAUFVX3lxTE9LMEttbmt3MWtjZkk3YVFDTm54dU0zVldPUzBpdk1xaWVIcGo0djhSQWMwNkd6LXR1RDJsNnhrcTZLQzN6aGYxbzhIX1dQSFVlTnAzSE9yTmpPUl9UTTJmZDRQZ3c2S0lFdTVGLTFJdnBvbzRlLTlBWlN0Rmg2Q2FfcUNMMGlsZktkNE5MemZ2Yzd6bEdteTFHVmx6RzR6VjRtMUJpQndoRHFHaDlDejg?oc=5"
+  },
+  {
+   "key": "e09f1244221e3f93d0f24f4bcce20c664bfbb57e",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Lmao GSP himself posted this 🤣",
+   "title_key": "e1e95d41accaba3c19e10b2b77fb152e521bd5de",
+   "title_norm": "lmao gsp himself posted this",
+   "ts": "2026-09-20T22:08:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wlqa2r/lmao_gsp_himself_posted_this"
+  },
+  {
+   "key": "b7113f5dcf557dd6d0a34cffcd9597cd204fbcca",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "It's gross that this is what finally wiped the smile off his face",
+   "title_key": "897469933b7f8bafa71b6b3435a710a484d9a925",
+   "title_norm": "gross that this what finally wiped smile off face",
+   "ts": "2026-09-20T22:08:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wlrcmg/its_gross_that_this_is_what_finally_wiped_the"
+  },
+  {
+   "key": "a1cc8a693df4b58a664d35570cd03f6554451342",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 331 post-event facts: 'Chito' Vera sets unique knockdown record",
+   "title_key": "63201731d27ec167572e4ecf22535914672da339",
+   "title_norm": "ufc 331 post event facts chito vera sets unique knockdown record",
+   "ts": "2026-09-20T22:08:57+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSGxiclFCMkNQTGpmUlp1S1VpM3NqajVJU0NST3BMNE9rb1VJZlhsTDZRc3dkbmRpRm5jeTVwVWlNMzg3d3dqQkNyTzFFakwzeXJCM0NNbHEtRVlqZ3lsS3RpUE1TRkk0ME1YczFBd2R0UldEUHVPTHYwOEVCZ0lLMzdhMlV4UHJ5S3ZwZ3lCNnRPOHNONkoySENWVzFVbUNzWkNVY1RIekV3c08wYW5aeVVBN2Mzb2UzWVhjbjhqbm9UN1NXekVLYjRwWXNVTnVZMXRKWQ?oc=5"
+  },
+  {
+   "key": "be17dfb6455cdfc75d9f1d520ed59d781085114c",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Dana White: Joshua Van 'greatest thing ever' for flyweight after UFC 331",
+   "title_key": "e8e72ce3368b1a9a6a45402d8121e749f3b785ed",
+   "title_norm": "dana white joshua van greatest thing ever flyweight after ufc 331",
+   "ts": "2026-09-20T22:09:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNi1lQ2p4ZmpZbEZxR2s1a25xazNud2trMlBxS0h6cjFqTl9uMlBVdXZmWHF4M3ViekxiOV80ZmlEWEE4WWxXdWpOTHdVcURHTGJya1phc0dnZ2FQb3ptOEROcm5jSXNZQ2RKQ3FkbHdUNkUwSDlXNFJBRjFsMzhCVFl2c3hDMFRfTll5UTRIeHBtRmlCOHhUek9OUzFuYUd6YWtJWmo4YVd6WUotV1ZpQzVNQmt1MnE5RHI5VHlTMWRXY3ZPZ0wwWUZmTQ?oc=5"
+  },
+  {
+   "key": "1be257ca595843ffc75a35dd89055fdbd66b28b2",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Corner reaction of co-main event loser",
+   "title_key": "cbea3f96bac5492f824eb3c65a1589a97be75b31",
+   "title_norm": "corner reaction co main event loser",
+   "ts": "2026-09-20T22:09:26+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wljy8t/corner_reaction_of_comain_event_loser"
+  },
+  {
+   "key": "6787bfbf0834aa46ef1aeee7fbeb3326cb4d8a99",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Daniel Cormier, Joe Rogan critical of how Gable Steveson handled UFC 331 KO loss",
+   "title_key": "0b2dbb70ea30eef023af7bba65f33ded1b03cdbb",
+   "title_norm": "daniel cormier joe rogan critical how gable steveson handled ufc 331 ko loss",
+   "ts": "2026-09-20T22:09:40+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNal9JWGNhNzREaEZ6eFJmRmRQdUMyQXR3U3NzbFQ2blZxZUlGdl8tcHNPNWNjZHVVN2NMTE1KR3c3cmF2dV9RSFROTWZuUTZEOWRFV0JGN3NmUGxUc0l1SmVMMUI4RmNJUExsS3NnQm9rS3IzSEhqRzlFRzNKTnVkaDBnT2h6dWFXMUxobFE2R3E0Y2FYY0o3QktFTmhKU0dtVFNpQ29pSnRkSGxSa2h1cmxMM2cwQjFzSXRUTmhSZmlGUHhONTJhQzROZDNXV1ZaQ0c2WEN3?oc=5"
+  },
+  {
+   "key": "dba7961e505971ee152bdabfbe696aef869f20f6",
+   "score": 10,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Dana White insists no beef with Tom Aspinall, says Eddie Hearn is ‘f*cking drowning’ in boxing business",
+   "title_key": "ae5aed40b81a8e3a4ecb109686ab283eddaaa316",
+   "title_norm": "dana white insists no beef tom aspinall says eddie hearn cking drowning boxing business",
+   "ts": "2026-09-20T22:09:43+00:00",
+   "url": "https://mmafighting.com/ufc/511558/dana-white-insists-no-beef-with-tom-aspinall-says-eddie-hearn-is-fcking-drowning-in-boxing-business"
   }
  ],
  "stats": {
   "descartados": 3,
   "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 11,
+  "prefiltrados": 6,
   "recogidos": 208,
-  "unicos": 117
+  "unicos": 107
  },
  "telegram_offset": 958387804,
  "version": 1
