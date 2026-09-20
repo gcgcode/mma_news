@@ -2,127 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "e912c0e3e9663ba269fcd4be4d9fd31180c19830",
-   "score": null,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Rankings",
-   "title_key": "2c59b53b1e7696e7ad409bec4a7b4257eec03b07",
-   "title_norm": "rankings",
-   "ts": "2026-09-06T06:00:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SckZDR1ZGSklSRndwWkQzOGFvLTN2cmtzWnpkM18tTDFxcVdVSFFHVVRCVWl1bDQ3VGJDODFUVzFVWHpsQWJob1ZFbmRTVzhycmtpbm94NkhycEdnM3Bmb0xPLU9Lc05EdVJmSXFOTTdJY2dCbm1V?oc=5"
-  },
-  {
-   "key": "d8b480379d089e2330638d48e26ef1b484ed273c",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Michael Aljarouj",
-   "title_key": "17632ee506255cab51edd87df082c56b35dabffa",
-   "title_norm": "michael aljarouj",
-   "ts": "2026-09-06T06:00:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NS3JseE1xRWJReUpqWHBiTE16bVo1RVFWQ2swZzI3UVB4WlFMWG1FbXNSeXg3cW9xWXQ4b2dteWljbDJKQnpjT2JYXzhwb0JqWlhremlYTUdiMXhOdmdsQg?oc=5"
-  },
-  {
-   "key": "460d7adf94dd8be7a5c4b0d187332dfba1fbea4e",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "It’s time to retire.",
-   "title_key": "9f9bc092e73393a77bbefa243443f106f253209a",
-   "title_norm": "time retire",
-   "ts": "2026-09-06T06:00:50+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w8dm7m/its_time_to_retire"
-  },
-  {
-   "key": "03c379f5489b98ec37e96fbf1efd9580266c2469",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Parnasse got two belts in KSW(no testing) fighting steroid ridden monsters, while being tested by the French commissions the entire time. Dude is a monster and ",
-   "title_key": "db447344bd8f5461fbefb871353514f15275bca9",
-   "title_norm": "parnasse got two belts ksw no testing fighting steroid ridden monsters while being tested french commissions entire time dude monster no shame losing him",
-   "ts": "2026-09-06T06:00:50+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w8dr4p/parnasse_got_two_belts_in_kswno_testing_fighting"
-  },
-  {
-   "key": "1841d21b5468ed28c00d87b1bbd64fdb04a64036",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "This guy never getting CTE",
-   "title_key": "f7200f1368bd4759beb13305e8cecddb75dc9442",
-   "title_norm": "this guy never getting cte",
-   "ts": "2026-09-06T06:00:50+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1w8kmv8/this_guy_never_getting_cte"
-  },
-  {
-   "key": "825e94a8c03b0cbafcdb7065fbf0cace458c7134",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "United States News - World Baseball Classic",
-   "title_key": "f8763be874fba77ccfcf09f5caca64fdb6d420c2",
-   "title_norm": "united states news world baseball classic",
-   "ts": "2026-09-06T06:00:50+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RcHVTWF9KTFExMTVGdGsxbGY3U3lsWk54eVluYWtaYWJTSlcyYzlkM2NEZ2gyXy05NXlZQkxjVTdTbHd6bWxtUVA1VXl3ZDk2b1QtazQ5YlpTSGk3UUlnanZxQUEyU1FL?oc=5"
-  },
-  {
-   "key": "a2445b4cfc82207f520d5482c62d264f7107a84b",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Salahdine Parnasse def. Dan Hooker, UFC Paris: Best photos",
-   "title_key": "698322fcfdfc1aac739306de52eebbbd9dd5fddc",
-   "title_norm": "salahdine parnasse def dan hooker ufc paris best photos",
-   "ts": "2026-09-06T06:00:58+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHJTUW8yYnExazhZUGZLMWVneDZ6WUttSHVMNUd5N2RlbW5FaS0zem5jbG1PTG5NblNYOG90VDNpdk1TZ3lWUDlxRzlRODg5SWQ5SW1ja2hlVFYwT2ExMWtET052aW9IcXlOSnliU1p6NV9KSmZtZ2FGQUxJWWtlODZLdHJsSHR5eVdabldfcjBMYmpXM0tBQWxBbXhTUFZ4UWZKSlpQR3JGb2RnRV9tWmhnOThqUExCdWltek1OMHBKWTh5Y0tjUDBYM3h5OWRzcUg0b0FtWnU2dw?oc=5"
-  },
-  {
-   "key": "786b44034a9ab707a8b6bfe0dd2656e08d2c7c47",
-   "score": 1,
-   "sent": false,
-   "source": "ESPN Argentina MMA",
-   "title": "UFC - ESPN Deportes",
-   "title_key": "287174b9b3894ee9aaa6c47a72d01b8337256fee",
-   "title_norm": "ufc espn deportes",
-   "ts": "2026-09-06T06:01:01+00:00",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdXpuQTQwcnpKb2RoMExqM1ZkZGpEd25XMzlSR1E3UWRsdkV4bDMwT2Z4OFB1VmVPUWJyQVpZdGFOTDlOczRCNEFsMkVwaG5YNzE5cUdpOElmYUlmUHkyREo0ZlBWVEpxU29YZ3VTUTBhNDFsT2ZTSl9CSF9JdzNRM0Y5Wlg4VDFkRVhnN0FZY3MwMXVtQUVRWkV5RkFfUTFhd3Qwc3ktczZzVU9OS1Q1OHQ5ZzVON29zLTI4TV9UQQ?oc=5"
-  },
-  {
-   "key": "7a954cb01c5bc47c5d277b3d8a5c1671a5f09b0b",
-   "score": 5,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Islam Makhachev offers UFC title fight to wrestling ‘legend’ with zero MMA bouts",
-   "title_key": "cc4ad8619056fe6d8c6e300e6b08f03075abc444",
-   "title_norm": "islam makhachev offers ufc title fight wrestling legend zero mma bouts",
-   "ts": "2026-09-06T06:01:02+00:00",
-   "url": "https://bloodyelbow.com/2026/09/05/islam-makhachev-offers-ufc-title-fight-to-wrestling-legend-with-zero-mma-bouts"
-  },
-  {
-   "key": "2d2968095b667a821ef002dd9f29504fe2bf49d1",
-   "score": 8,
-   "sent": true,
-   "source": "Bloody Elbow",
-   "title": "Dan Hooker vs Salahdine Parnasse result: New UFC star’s arrival ends inside the first round",
-   "title_key": "013e8e0912520739b6aef4d36476aec87314b017",
-   "title_norm": "dan hooker vs salahdine parnasse result new ufc star arrival ends inside first round",
-   "ts": "2026-09-06T06:01:05+00:00",
-   "url": "https://bloodyelbow.com/2026/09/05/dan-hooker-vs-salahdine-parnasse-result-new-ufc-stars-arrival-ends-inside-the-first-round"
-  },
-  {
-   "key": "723354360b111edbe82ba6b9f24e5c6040a1afc0",
-   "score": 2,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Katie Taylor vs Flora Pili result: Boxing legend retires undisputed in front of 83,000 at Croke Park",
-   "title_key": "398c9f73e9ce1c2dc23da9c4dadd232e5cb71442",
-   "title_norm": "katie taylor vs flora pili result boxing legend retires undisputed front 83 000 croke park",
-   "ts": "2026-09-06T06:01:05+00:00",
-   "url": "https://bloodyelbow.com/2026/09/05/katie-taylor-vs-flora-pili-result-boxing-legend-retires-undisputed-in-front-of-83000-at-croke-park"
-  },
-  {
    "key": "f6d723a05dda3f1e2e1da655dbe71d57c74f9404",
    "score": null,
    "sent": false,
@@ -15334,15 +15213,125 @@
    "title_norm": "ufc 331 results arman tsarukyan makes statement hellacious elbow ko mauricio ruffy",
    "ts": "2026-09-20T05:22:59+00:00",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2FfVDM5Q2xzNXBEclRReUs1U0ZNd0FMbFJXZUhiOXlhWDdjeGRrTzE3eFliTjIySGdfTW9YNzFHYXhDUTJlYzhtUkg2ZDI3MWwwRkZwY3BlNVQzMGJvOEw0Y3ZXN0dTRjZsQThpUjFRbmRPNUpkZVg1dXZlSGdtek5rZHAwdkNJNUcwU2tVV2hwTXhrazhtUExZalFRR3QxQ0lLSWJrLXNLNDYyZWZISjNVc3NnWEtrb2ZraGUzZy1WendIWEFyY20tdUJDUQ?oc=5"
+  },
+  {
+   "key": "98ea9ee54c866afdacc271153783fd8f6dd6414d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "So Van Just Catching Punches Now?",
+   "title_key": "13c0d11e00d441f585174d4b7c9acb5f36dfec3d",
+   "title_norm": "so van just catching punches now",
+   "ts": "2026-09-20T10:04:53+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wl7prl/so_van_just_catching_punches_now"
+  },
+  {
+   "key": "df8ad655d7d56b62a964f542fd636c7974b6c4c3",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC 334 - ESPN",
+   "title_key": "23c83f1c7baa22cb408a7e5d73b9230c8cf53b4c",
+   "title_norm": "ufc 334 espn",
+   "ts": "2026-09-20T10:04:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkx2MnpJYnJBTkRGRnZnTE84UU55bkYtZWx5LWF1QkZENG9aRnlqcXpCOXRNUWNkTXpfWGhYYXM4eDVRQVp6c196ZUFFNXQxWXpndmc2XzRyS1RPUUVsRnd3MTQ0MHVmY0pHSzhKWU9FN2JkWGI5Z1ZsYkpjWUtaODd6c2NUMk5kVDlUR3k2emVmNUJ2RkFyZmppa093SDR4SkhIZzlrNlVidHJ0UDE0?oc=5"
+  },
+  {
+   "key": "b853808e558d116f4c615fdd9aeef0de6e11fb2f",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "UFC 331 - ESPN",
+   "title_key": "d1935142ff8e202fbb8a0717e210d8f25ccbdaef",
+   "title_norm": "ufc 331 espn",
+   "ts": "2026-09-20T10:04:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY3pjcmtoZmRMalNyOVI4aWdEUUVWb25hSUNjT2NMWFBkU1l1R3VySXRXMzZZdFlCOGR1MldEdm5paGxzZm5FR1VTeVd4RFMxZzhRZmtpcnkwSm1ET1cwNk5vcHFYRGpMdjc2MDhyVWdTOW1PdzBseVV2Nk5HTmRDWG5yNFRWMVRpaUhYLVpNdURTM2RrM2YwSk5Qcm5zUVNXR0xsZ241WlFXTDdpQ0prUnprMFlBYkN5ejhCWkFMTkI?oc=5"
+  },
+  {
+   "key": "5fe2e91792f774dd5926651205548c7a108710f0",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "California zanja el caso de los guantes de Gaethje",
+   "title_key": "56457c2ab5effa4d079c1418ee223851765177a5",
+   "title_norm": "california zanja caso guantes gaethje",
+   "ts": "2026-09-20T10:04:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmtOVHZ1WkY5VERfeV85eEctY0FTZlNlY0tlX0pvMVRHNkhhX1FFWTZJRHM1NDlaMElFc3NPd0RiaGxWYlJpRDM0ZW5nR3pPdGh0WjVMUm1BcjNPb0VHbE1lSWhfR1duQXNZZi1Xek9zSHBfR2tTYzktOXl5SHdKMmk5TU9EeG1oTjV1aFVxTlllWEU3b2RhSnpHbGxacG16Uy000gG3AUFVX3lxTFBMWmpFZFhPMFpKMFRabnFEcmUwbERBay1ySlVYUEE0OXZ4Zm04dkJuTldmS2VXcWVlVGhzbzVIVm0wejl1VjFBbGNNNWZxQWdVQ09ublNlVGhpeUZKaVdPdGFKTzluNUpmbWVYVVVneDVrSk9CYlp1TWJkV09KXy00eEwtel9FdWM1QUxnYjRtdFRfRXFkeVJNT3ktOWpjMVpULVlCb1lWSzZuc2huak1zTmFZVW1WVQ?oc=5"
+  },
+  {
+   "key": "d845a885c355e4f26b0f0469d4904df57b45e148",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Van Vs. Pantoja: Pelea de la Noche",
+   "title_key": "daa52ee1fe6b503163b583421f37a073eab9c9d1",
+   "title_norm": "van vs pantoja pelea noche",
+   "ts": "2026-09-20T10:04:53+00:00",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpOUczSTRsVEg2eHkyZno2d19HRGsxc0Y1aGI1cmZybkJkdHE3X2xRVHRNeGkyYUF0OUV5M0tNODFfSGxLWjE2ZHYzZGIzYjE0S0k2Rm9OTnQ1a3JSc21GUTZ0Vm5OeGVpRUFvSkFMZE5xdw?oc=5"
+  },
+  {
+   "key": "4e97c5c251f788a35df4136712d987b09b303458",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 331 post-fight show: Reaction to Joshua Van and Arman Tsarukyan’s big wins, Gable Steveson’s brutal knockout loss",
+   "title_key": "dad927aa1422c02f070c430ec928389f37e9973a",
+   "title_norm": "ufc 331 post fight show reaction joshua van arman tsarukyan big wins gable steveson brutal knockout loss",
+   "ts": "2026-09-20T10:05:08+00:00",
+   "url": "https://mmafighting.com/ufc/511535/ufc-331-post-fight-show-reaction-to-joshua-van-and-arman-tsarukyans-big-wins-gable-stevesons-brutal-knockout-loss"
+  },
+  {
+   "key": "e777079af39b00c7ff7b483e47a4c135f6832d9a",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC 331 video: Jon Jones left stunned cageside watching protege Gable Steveson knocked out cold",
+   "title_key": "5a58c749ac5a044fa89d942175ec9b9d6a71f22c",
+   "title_norm": "ufc 331 video jon jones left stunned cageside watching protege gable steveson knocked out cold",
+   "ts": "2026-09-20T10:05:19+00:00",
+   "url": "https://mmafighting.com/ufc/511486/ufc-331-video-jon-jones-left-stunned-cageside-watching-protege-gable-steveson-knocked-out-cold"
+  },
+  {
+   "key": "6150a652b008f6e5b782c035289ebb36167d83f7",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "‘Van is on another level’: Pros react to Joshua Van winning rollicking UFC 331 main event over Alexandre Pantoja",
+   "title_key": "f3fdf610ebb36bedcf5129bb3e0f72bbda1345b9",
+   "title_norm": "van another level pros react joshua van winning rollicking ufc 331 main event over alexandre pantoja",
+   "ts": "2026-09-20T10:05:41+00:00",
+   "url": "https://mmafighting.com/ufc/511454/van-is-on-another-level-pros-react-to-joshua-van-winning-rollicking-ufc-331-main-event-over-alexandre-pantoja"
+  },
+  {
+   "key": "815a3d55fa6d49987fa17450d1afb8b5aaf48662",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC 331 video: Jon Jones in disbelief as Gable Steveson KO'd in 12 seconds",
+   "title_key": "d6410ee60f27c1b974f7c434441e507f14635d95",
+   "title_norm": "ufc 331 video jon jones disbelief gable steveson ko 12 seconds",
+   "ts": "2026-09-20T10:05:51+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUnRHWkdyYXV1eDJZeWtaTU5fYnBKWUFESlFmNmJIVkdLS3piNVBRdzZLY21OMFo2ODRWX0FGeEU5NXNORXJob1ZkQWE4d0hfNkp0aERPSjdLQzZXeF92bHJIaXFnTTJUNGVxT1pkVlRwams0NTNYMWd2T2g5UE5lLXFSRE9QaXNlZnBLOE8wYk9HTVY5RFF2VFI4LUtJX09OeWd0emIzOTRSWVZKOEgxUFpYTmR6OG1na2U0WFNRc2pDdWFIZ0lhMlIzZUFURVBfQ2dJdGxIMDh3bFlfYktKX2s3MkI?oc=5"
+  },
+  {
+   "key": "37329cbaab45eb1e2aa3f28a45b1f5481ab6e11b",
+   "score": 9,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "‘The next champion’: Pros react to Arman Tsarukyan’s UFC 331 statement knockout",
+   "title_key": "3a06eeadfc1551e91fc695469fb89bee4437cf85",
+   "title_norm": "next champion pros react arman tsarukyan ufc 331 statement knockout",
+   "ts": "2026-09-20T10:06:03+00:00",
+   "url": "https://mmafighting.com/ufc/511349/the-next-champion-pros-react-to-arman-tsarukyans-ufc-331-statement-knockout"
   }
  ],
  "stats": {
-  "descartados": 1,
-  "enviados": 3,
-  "llamadas_llm": 4,
-  "prefiltrados": 14,
+  "descartados": 0,
+  "enviados": 5,
+  "llamadas_llm": 5,
+  "prefiltrados": 5,
   "recogidos": 182,
-  "unicos": 121
+  "unicos": 109
  },
  "telegram_offset": 958387804,
  "version": 1
