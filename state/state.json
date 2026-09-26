@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "7a1e4f96be23dacc7c79ddcb574ad9479e4943d9",
-   "score": null,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "New bodycam footage shows more of Dustin Poirier’s airport arrest, continued belligerent behavior",
-   "title_key": "497ae8a8fd00d11e23e192afefac6bf7aa1e8c8e",
-   "title_norm": "new bodycam footage shows more dustin poirier airport arrest continued belligerent behavior",
-   "ts": "2026-09-11T23:31:48+00:00",
-   "url": "https://mmafighting.com/ufc/509704/new-bodycam-footage-shows-more-of-dustin-poiriers-airport-arrest-continued-belligerent-behavior"
-  },
-  {
-   "key": "81020d4a78283c6062ad5b717310648507edb087",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "New footage from when Dustin Poirier was arrested",
-   "title_key": "6961ebcdca4eec50726461a49ec41a6fe2b965ab",
-   "title_norm": "new footage when dustin poirier arrested",
-   "ts": "2026-09-11T23:31:48+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wdvys8/new_footage_from_when_dustin_poirier_was_arrested"
-  },
-  {
-   "key": "25b1d4445b82e39441be6f1bbf016552a8228499",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Bro has a wife...💀",
-   "title_key": "d979db4aab7b4ffe15fe038c4a2037a183a498b2",
-   "title_norm": "bro has wife",
-   "ts": "2026-09-11T23:31:48+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wdussj/bro_has_a_wife"
-  },
-  {
-   "key": "cdda5006f0c89f72af5f7e95fe00a8d0917d1bf5",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Bryan Battle vs. Boris Atangana set for PFL Lyon clash in December",
-   "title_key": "3565a0a8210571a1f5c0f8873faabd0d4b0cdbbb",
-   "title_norm": "bryan battle vs boris atangana set pfl lyon clash december",
-   "ts": "2026-09-11T23:31:58+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wdvlgs/bryan_battle_vs_boris_atangana_set_for_pfl_lyon"
-  },
-  {
-   "key": "96fe7d63b02c018ca0889184d0e77904504019d7",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Collection of some of the greatest lightweights throughout MMA history. Who were your favorites to watch?",
-   "title_key": "8a3fd5c58defd72c681c30de089a2490475c204b",
-   "title_norm": "collection some greatest lightweights throughout mma history who were your favorites watch",
-   "ts": "2026-09-11T23:32:08+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wdvdt5/collection_of_some_of_the_greatest_lightweights"
-  },
-  {
-   "key": "6e3f5303bb5f61d6b80da663d0105af2d10b6268",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Noche UFC’s Regina Tarin open to WWE move in the future or doing ‘both at the same time’",
-   "title_key": "cb80dcd87e982982f0a9656204c4b4f8a389c454",
-   "title_norm": "noche ufc regina tarin open wwe move future or doing both same time",
-   "ts": "2026-09-11T23:32:10+00:00",
-   "url": "https://mmafighting.com/ufc/509374/noche-ufcs-regina-tarin-open-to-wwe-move-in-the-future-or-doing-both-at-the-same-time"
-  },
-  {
-   "key": "931f594338a9d8babf83284b702944c37d141c55",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC rapidly books Bilal Hasan again, this time for marquee event",
-   "title_key": "232e1c1de83dca5fe5f476710338c160dc0f4a78",
-   "title_norm": "ufc rapidly books bilal hasan again this time marquee event",
-   "ts": "2026-09-11T23:32:11+00:00",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2JnNklueWk2T2RlOWFDWC1WZHcta211N2daNUR4VHAyOEhPSW9mQktVWUpJNjhUeVUzSlBPY0ZXZE1HVlBFQmZiQnNLNjVZcTRIYVZpaE4xbldnRWFycTZkWVhsa0ozVHQ1OE9Ma1RNUF9KNWlUWlVCNnlXYVlkYy1hc2hEVlZZb1dfTjdWODQzM3c3VktEdk9uRk9kcmMwM2J6S3FHZVlLcUVZbm1lMENDZDRLRUd4NVNzUUpDSQ?oc=5"
-  },
-  {
-   "key": "43b63c3798a0fd8ccf07e278e00350530e59f6f5",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Rising light heavyweights Lucas Fernando, Billy Elekana booked for UFC Vegas 124 fight",
-   "title_key": "7c495964ff79845b8a67586d5b4ffd38867870c9",
-   "title_norm": "rising light heavyweights lucas fernando billy elekana booked ufc vegas 124 fight",
-   "ts": "2026-09-11T23:32:22+00:00",
-   "url": "https://mmafighting.com/ufc/509674/rising-light-heavyweights-lucas-fernando-billy-elekana-booked-for-ufc-vegas-124-fight"
-  },
-  {
    "key": "7d77ba7706468be51f65843b77226e2aa100ed97",
    "score": null,
    "sent": false,
@@ -14278,15 +14190,169 @@
    "title_norm": "ufc vegas 121 weigh results luis hernandez seven pounds heavier than sedriques dumas short notice fight",
    "ts": "2026-09-25T21:58:25+00:00",
    "url": "https://mmafighting.com/ufc/512425/ufc-vegas-121-weigh-in-results-luis-hernandez-seven-pounds-heavier-than-sedriques-dumas-for-short-notice-fight"
+  },
+  {
+   "key": "77862e29255bc32a1ba75c0f69693dd8aba500c7",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Ateba Gautier's only pro loss came against Glenn Williams in 2022. Williams won by split decision and never fought again. What a legend.",
+   "title_key": "0a4b49649b5a06aef2b6d2cf1fe271a7191d335f",
+   "title_norm": "ateba gautier only pro loss came against glenn williams 2022 williams won split decision never fought again what legend",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wqbqj7/ateba_gautiers_only_pro_loss_came_against_glenn"
+  },
+  {
+   "key": "b707e33391b32b19b02a9b639a62f9fc339b547d",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Found old PRIDE ref cam footage on YouTube",
+   "title_key": "f062b629596a04c34d43c39326d861fde9261d3a",
+   "title_norm": "found old pride ref cam footage youtube",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wqc3fq/found_old_pride_ref_cam_footage_on_youtube"
+  },
+  {
+   "key": "ea43499d43ac8b3bcbf8b4ff001a6716e87ddc14",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Kuzmenko, de los Pittsburgh Penguins de la NHL, vuelve a Rusia tras la muerte de su padre por un oso",
+   "title_key": "0dbcfc93617475ce2b78930fd3963a3a6d29c67d",
+   "title_norm": "kuzmenko pittsburgh penguins nhl vuelve rusia tras muerte padre oso",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaEFnUHI1NjNYVFJfbmJRazI2T1pYTkVxVlY2ZkF0cFYxUmhDQjNEY2Y0WUdqTUtwbEppOWhPTnFMY2lROUh3eDBQTjBUMnh6RGVab3ZoOENJQkpWQXdfV1p3dEV3MzIyYzNwY1hfMTRKTUNueWhLUkE3cUtnekFraU1DT1pUTkhJaXlWVmQ3dy1FQUl4NUtCT1gxY2ZzTWFLRGN0RUFCLUV3TjdUaDhOOGplaElMc0tJQl9WU09IMTdOaEVPZmZQeVBzM0ZwM3RqQVVTOXhLQ0d1cmI2SlR4eNIB5gFBVV95cUxOR2Y1NGFMRTNDbTNBTTFZWmRMd3RqWGdnYmhjYkFnQjl1aE84T1c5Y0ZDdW9TVnlCWC11UHV5SndCNGE2a294NzVyQW5DUmxDUUZmU1BiUFI4amg1VXRRbzJmNUtxU3poNFNtYXNrajE5SGdCc0JQbnhxcDhnTGljMkVQcHE4U3Z2SHd2eGlIWEZjMmpEdzhfRXZ1cVF3dE9XX3RkeUFMR1ZXVFQzLWNWMUUzQWJWOXdnWmhsaTUtdS1kNl90VGU0U0thZk5lb0pCTzNsS1dYckNVVGNxaV8wZEZsYzFtQQ?oc=5"
+  },
+  {
+   "key": "73d48c3921b3e77a4d4b3482cf19a178bb6c2858",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Literally just a picture of Charles Oliveira 11 years ago",
+   "title_key": "d06e50018e9487b20089cb8f9fcd06b9f4a212d7",
+   "title_norm": "literally just picture charles oliveira 11 years ago",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wq6nnj/literally_just_a_picture_of_charles_oliveira_11"
+  },
+  {
+   "key": "6911cd479188ef9062c6934a07981ce10107661d",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Tyson Fury vs. Anthony Joshua already in jeopardy with replacement fights now being explored",
+   "title_key": "b79cfbffb328920730dce99be0626f17894c5049",
+   "title_norm": "tyson fury vs anthony joshua already jeopardy replacement fights now being explored",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://bloodyelbow.com/2026/09/25/tyson-fury-vs-anthony-joshua-already-in-jeopardy-with-replacement-fights-now-being-explored"
+  },
+  {
+   "key": "6ae97eee4d2ffa315122eb1c4b0fe61aeb722a3e",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "The laughing in synergy is actually diabolical lmfao.",
+   "title_key": "43ea7af2fb1e29e8e8c7b9b0f5f12feff12bf92d",
+   "title_norm": "laughing synergy actually diabolical lmfao",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wqbo9w/the_laughing_in_synergy_is_actually_diabolical"
+  },
+  {
+   "key": "48f64bab30aad7262d78118f5bc286299b8b207e",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Scores",
+   "title_key": "b534c5bb1c8e2bd7957bdbfaac8c01f5bca0ca1c",
+   "title_norm": "scores",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnJwck5PNHBfZUEzemRoR2Q3bTNWWkl4Q0lYQ2xqOG1lcG4tcHFxNnFUbTJCTEp6eElkaGE4ZHZLMUtSTkxkM1c5WE4zNTRkdDBnOEdqTGdVYzZHbHYtUmpPYW9qNzFuNG1IZU4zLTBmWlh4STk4TVlqY2VCZlNIa2VvSnJIVl9YbzU1ZUxxZGlFRzVVV2dfdQ?oc=5"
+  },
+  {
+   "key": "fc574cf2225788326fa1e253819d30735d389814",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Scores",
+   "title_key": "b534c5bb1c8e2bd7957bdbfaac8c01f5bca0ca1c",
+   "title_norm": "scores",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hemVMV1pCblBGb1p3ZFIzMTJlcFBkck9FWVRqRE9GMGhCOXVmUVVlZW9VS0FmYzY2aDg0NHdURk1ET08zcXVXWm5zMzhjVzJhZGxtQVJNbnJxN01OYWQxbUd1VUJ5TTJqcjB1OTZ3MU5ubTNkNUlRU25JSVY5UQ?oc=5"
+  },
+  {
+   "key": "a78bbd449977d4453c3df36b125b845c722def9c",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Una peleadora de artes marciales mixtas capacita a alumnas de la UAT sobre autodefensa",
+   "title_key": "cae755ed0280957cfa3881c46de153987362e78c",
+   "title_norm": "peleadora artes marciales mixtas capacita alumnas uat sobre autodefensa",
+   "ts": "2026-09-26T00:23:46+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREdhdE5fZjFvWXdyVDhCeWRVSW1ra1JCdWR6ZDczb3pLQm9yRGtmVVEwdGtSZnVhLXJlb0E1ZzZLM2w1bUttQm5fZHdMTEZKaHluc08tc2ZaLXM2T3BGN2E1VlVOdjYwYnpfV0plVTlfbjIyZnJCREIzbk9QeGJaWWstc0c3S0dmbzJ1S3R6Z1Q?oc=5"
+  },
+  {
+   "key": "6c492ebd754e1ca41cf277382ff42202cde749f0",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Tyson Fury vs. Anthony Joshua reportedly in jeopardy, Fury responds to ‘s***house cowards’ Anthony Joshua and Eddie Hearn",
+   "title_key": "b6af31878975c20e33b28956b0d6ee62b1e0b80c",
+   "title_norm": "tyson fury vs anthony joshua reportedly jeopardy fury responds house cowards anthony joshua eddie hearn",
+   "ts": "2026-09-26T00:24:02+00:00",
+   "url": "https://mmafighting.com/boxing/512517/tyson-fury-vs-anthony-joshua-reportedly-in-jeopardy-fury-responds-to-shouse-cowards-anthony-joshua-and-eddie-hearn"
+  },
+  {
+   "key": "9d6a4673ab8aadfd8f8739d5300ffb552d1d2b01",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC Vegas 124 adds Nina Milosevic vs. Priscila Cachoeira",
+   "title_key": "e61f3d4b817ecf875af97c570fe8045a58b8e07b",
+   "title_norm": "ufc vegas 124 adds nina milosevic vs priscila cachoeira",
+   "ts": "2026-09-26T00:24:03+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wqb84p/ufc_vegas_124_adds_nina_milosevic_vs_priscila"
+  },
+  {
+   "key": "ba32c69bc67f4058eb8a315c22c6e460ea5644c8",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Raoni Barcelos vows to finish Raul Rosas Jr. in UFC main event: ‘He’s never fought someone like me’",
+   "title_key": "9d072a34c8eeb9ef718b5622ba2916bc5d2164a0",
+   "title_norm": "raoni barcelos vows finish raul rosas jr ufc main event never fought someone like me",
+   "ts": "2026-09-26T00:24:07+00:00",
+   "url": "https://mmafighting.com/ufc/511776/raoni-barcelos-vows-to-finish-raul-rosas-jr-in-ufc-main-event-hes-never-fought-someone-like-me"
+  },
+  {
+   "key": "83dc76c261f72e640f663d9df5ba2c29b3c92742",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC Vegas 121 preview show: What’s at stake in Raul Rosas Jr. vs. Raoni Barcelos headliner?",
+   "title_key": "efb2155d0eabad2c8cbb3c0c40fb304bd8a6f87f",
+   "title_norm": "ufc vegas 121 preview show what stake raul rosas jr vs raoni barcelos headliner",
+   "ts": "2026-09-26T00:24:09+00:00",
+   "url": "https://mmafighting.com/ufc/512391/ufc-vegas-121-preview-show-whats-at-stake-in-raul-rosas-jr-vs-raoni-barcelos-headliner"
+  },
+  {
+   "key": "6f4db95c9f6fa5cd7d27e976f325208cde28a823",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "What are some of the darkest stories in MMA history?",
+   "title_key": "09de6a2a8bde81fc5666dba82bc35c23383ba835",
+   "title_norm": "what are some darkest stories mma history",
+   "ts": "2026-09-26T00:24:10+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wq31uo/what_are_some_of_the_darkest_stories_in_mma"
   }
  ],
  "stats": {
   "descartados": 4,
   "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 11,
+  "prefiltrados": 9,
   "recogidos": 185,
-  "unicos": 106
+  "unicos": 97
  },
  "telegram_offset": 958387804,
  "version": 1
