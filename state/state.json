@@ -2,116 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "7d77ba7706468be51f65843b77226e2aa100ed97",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Los expertos coinciden: si tu mascota se parece a ti no es por casualidad, el temperamento humano influye en l",
-   "title_key": "ebeabc513ed19431ca29c1dab983583ce9924a07",
-   "title_norm": "expertos coinciden si tu mascota parece ti no casualidad temperamento humano influye",
-   "ts": "2026-09-12T01:31:48+00:00",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdGhLOUswaG9WTlNLdkIwVDM5Nmw0Z1prTGo0LXJRMnhlVFk5ZWIyeVBrdUJZdy1iWUprLVdOR1JFd1h1QTVHQ3lWdGN5a1A2dTNKTmg1MVROYTZnZGc4OUV0Ti00eEpGM0VsY241bHJZNVpUSGFSRV9LcVdxcGNVdHItWUlQNno5elByOUNkMXdMY2JPY3B5QzVqVjhZVEdEQXpTWVZQQ0RabVRsaHpVSk0tUlV5dXFNRHY0TUZxQXR1YzZXdVFyTGFuQzZPdlFycDltNWhpa1hxc3Y0VDJwcGpneklJX2Y1MkJ1ZDRZQzdaWjE2YnFyUjVMWXJ0QTNyN1RoMXZta2FDX2ROS3NLNWZGb9IBkwJBVV95cUxQdGhLOUswaG9WTlNLdkIwVDM5Nmw0Z1prTGo0LXJRMnhlVFk5ZWIyeVBrdUJZdy1iWUprLVdOR1JFd1h1QTVHQ3lWdGN5a1A2dTNKTmg1MVROYTZnZGc4OUV0Ti00eEpGM0VsY241bHJZNVpUSGFSRV9LcVdxcGNVdHItWUlQNno5elByOUNkMXdMY2JPY3B5QzVqVjhZVEdEQXpTWVZQQ0RabVRsaHpVSk0tUlV5dXFNRHY0TUZxQXR1YzZXdVFyTGFuQzZPdlFycDltNWhpa1hxc3Y0VDJwcGpneklJX2Y1MkJ1ZDRZQzdaWjE2YnFyUjVMWXJ0QTNyN1RoMXZta2FDX2ROS3NLNWZGbw?oc=5"
-  },
-  {
-   "key": "e9eed0a92c2eea5c8443c50a280377cbed00075d",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "How good was randy couture actually?",
-   "title_key": "e9ec01afeab4c1dd75b0ebf87abd67eeefd99058",
-   "title_norm": "how good randy couture actually",
-   "ts": "2026-09-12T01:31:48+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wdvzbz/how_good_was_randy_couture_actually"
-  },
-  {
-   "key": "882314b05fea984d924c67a6da15964d0774670f",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "I hurt someone's feelings with this one",
-   "title_key": "5a37ea66afe1f26c893143085f18d3d3ef871086",
-   "title_norm": "hurt someone feelings this one",
-   "ts": "2026-09-12T01:31:48+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wdxmnk/i_hurt_someones_feelings_with_this_one"
-  },
-  {
-   "key": "0a8abe43a46da6046f9c338eb3d77bc7fcb98d30",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Bobby Green THREATENS to KILL streamer after losing in sparring 😯",
-   "title_key": "458284bdd8088e14f157f1c78aaf6bd7767c68a7",
-   "title_norm": "bobby green threatens kill streamer after losing sparring",
-   "ts": "2026-09-12T01:31:48+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wdxp4t/bobby_green_threatens_to_kill_streamer_after"
-  },
-  {
-   "key": "7d03b80a3b39a6650b8712bf63439461d395d256",
-   "score": null,
-   "sent": false,
-   "source": "LowKick MMA",
-   "title": "Ilia Topuria’s Manager Confirms The Team Has Only One Fight In Mind",
-   "title_key": "488e96ddb60c595acbdd98b6e57092b4ec674ce8",
-   "title_norm": "ilia topuria manager confirms team has only one fight mind",
-   "ts": "2026-09-12T01:31:48+00:00",
-   "url": "https://lowkickmma.com/ilia-topuria-manager-malki-kawa-gaethje-rematch"
-  },
-  {
-   "key": "88616f1ad3a2edb49a9025ae2392c986d472ba30",
-   "score": 7,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Virna Jandiroba vs. Tatiana Suarez booked (again) for UFC Vegas 124",
-   "title_key": "5a9273ba2edaee0d33af0aefd4e3bc633ba107c6",
-   "title_norm": "virna jandiroba vs tatiana suarez booked again ufc vegas 124",
-   "ts": "2026-09-12T01:31:54+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wdypon/virna_jandiroba_vs_tatiana_suarez_booked_again"
-  },
-  {
-   "key": "616e41f19dc4cd67e347daa5144b35fb41ca8f1d",
-   "score": 2,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Ryan Garcia walks out with Rey Mysterio for final faceoff with Conor Benn",
-   "title_key": "c16320807f493f5db520a72885cad6bc6a8a8511",
-   "title_norm": "ryan garcia walks out rey mysterio final faceoff conor benn",
-   "ts": "2026-09-12T01:31:54+00:00",
-   "url": "https://mmafighting.com/boxing/509738/ryan-garcia-walks-out-with-rey-mysterio-for-final-faceoff-with-conor-benn"
-  },
-  {
-   "key": "97c3e31b295de281fc22f977b18106724de0f99f",
-   "score": 2,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Razhabali Shaydullaev might be the best FW outside of the ufc",
-   "title_key": "5736a7bad732912db6a10fa1a86dbde1bc8ec180",
-   "title_norm": "razhabali shaydullaev might be best fw outside ufc",
-   "ts": "2026-09-12T01:31:55+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wdxlgm/razhabali_shaydullaev_might_be_the_best_fw"
-  },
-  {
-   "key": "4dff7b41e2aa17fe008fb50f47a4bd8c5be7e68e",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Jean Silva dons sugar skull face paint for Jose Miguel Delgado faceoff at Noche UFC ceremonial weigh-ins",
-   "title_key": "c3a6073fb0f2876fb8b51c21fc31c2f246433167",
-   "title_norm": "jean silva dons sugar skull face paint jose miguel delgado faceoff noche ufc ceremonial weigh ins",
-   "ts": "2026-09-12T01:31:56+00:00",
-   "url": "https://mmafighting.com/ufc/509721/jean-silva-dons-sugar-skull-face-paint-for-jose-miguel-delgado-faceoff-at-noche-ufc-ceremonial-weigh-ins"
-  },
-  {
-   "key": "ba3d150d8d0a88beb542d1fa10f6dff44dac1535",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Tommy McMillen and Marwan Rahiki UFC Noche ceremonial weigh in face off",
-   "title_key": "2ee54e197c5441eff14022807d3c2f92a27670de",
-   "title_norm": "tommy mcmillen marwan rahiki ufc noche ceremonial weigh face off",
-   "ts": "2026-09-12T01:31:58+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wdwdtq/tommy_mcmillen_and_marwan_rahiki_ufc_noche"
-  },
-  {
    "key": "c7515bf56c3c939843258313c91641afb1e67c45",
    "score": null,
    "sent": false,
@@ -14344,6 +14234,160 @@
    "title_norm": "what are some darkest stories mma history",
    "ts": "2026-09-26T00:24:10+00:00",
    "url": "https://reddit.com/r/MMA/comments/1wq31uo/what_are_some_of_the_darkest_stories_in_mma"
+  },
+  {
+   "key": "411c5bb2be74bfb88ce66493c9371b4bd931d753",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "BKFC 94 sets arena record ahead of anticipated clash between Darren Till and Yoel Romero",
+   "title_key": "98fefec40eb42dea58b5cdbbf96965358d2abdf2",
+   "title_norm": "bkfc 94 sets arena record ahead anticipated clash between darren till yoel romero",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://bloodyelbow.com/2026/09/25/bkfc-94-sets-arena-record-ahead-of-anticipated-clash-between-darren-till-and-yoel-romero"
+  },
+  {
+   "key": "d3dbd973abfd3c13b7f45fa0db42c6e29a3e2527",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Daniel Cormier gives Jon Jones surprise credit as he commends him for ‘lying’ about Gable Steveson exit",
+   "title_key": "5a4cb9734e8c71ac9cbe8d5618b0af5c5d08b19b",
+   "title_norm": "daniel cormier gives jon jones surprise credit commends him lying about gable steveson exit",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://bloodyelbow.com/2026/09/25/daniel-cormier-gives-jon-jones-surprise-credit-as-he-commends-him-for-lying-about-gable-steveson-exit"
+  },
+  {
+   "key": "658c28cd2aad212a6b20afbf88e9df9c41beccc8",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "What is the genuine path to victory for Patrick Pimblett against Topuria?",
+   "title_key": "affd44e72074ed4626474cdecc7ade32d3277bb7",
+   "title_norm": "what genuine path victory patrick pimblett against topuria",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wqd8r4/what_is_the_genuine_path_to_victory_for_patrick"
+  },
+  {
+   "key": "3f720231d5f2eb294c0ddd9a6d5232ff4779f70a",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Chama!",
+   "title_key": "71a826f2b186af85f7d6f99061a669064ed6712d",
+   "title_norm": "chama",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wqdbw2/chama"
+  },
+  {
+   "key": "206155afcbd0c664f3e1f699e55d6974b4d73663",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Curtis Blaydes without beard",
+   "title_key": "1591a4a710a991fa65aede1b33ce4f72d9bab41a",
+   "title_norm": "curtis blaydes without beard",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wqflnx/curtis_blaydes_without_beard"
+  },
+  {
+   "key": "137b4680bd90adc55e5055f5644b5fdca89df6ea",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Josh Hokit hog-mogging Ciryl Gane",
+   "title_key": "360c600d7094bc1b41f4ae89210ccca6fc074d7a",
+   "title_norm": "josh hokit hog mogging ciryl gane",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wqgyxv/josh_hokit_hogmogging_ciryl_gane"
+  },
+  {
+   "key": "81f2ca3866154a5af55e0b95ea3cfa443a7dcf3a",
+   "score": null,
+   "sent": false,
+   "source": "TUDN MMA",
+   "title": "¡TIRO ATAJADO! disparo por Ryan Mmaee.",
+   "title_key": "463c10558c4b2363a3127f58e3748ca44d387b2f",
+   "title_norm": "tiro atajado disparo ryan mmaee",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkxVQmdGMnVrTGNtVGlZWEtzQ3EzU1ExYmNYcU80OHRfWXhQWXF3UkI4SFYzN2ptVDduRGUweU5BdkF4US1zQTRaa0JOVnphU0Z4OW96WkIxeVBzY1ppaHlCUWlaUmJ4TzA2bmlzVTFpeFg1WE13QS1qb0ZQbGE0cHowWmhIdw?oc=5"
+  },
+  {
+   "key": "75c21252fb892f56f55c60401aae20be3ab647ac",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Inside BKFC's big bet on Britain: How David Feldman turned bare knuckle from bar fight to box office",
+   "title_key": "6a7a3bfafaa6f60dede3cc23bbae40fd70bad3de",
+   "title_norm": "inside bkfc big bet britain how david feldman turned bare knuckle bar fight box office",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDJwSGpid2NGZ1RGbUROZVJpX0tMNVZMSHVTX0ZUWGNjNG9DbUpnQlowTHpqcXJzc1c1SGstbC10dndfQnBPVXdhdHNtUWZQN3NhZ01VUVd5aEx0cXZMMURIVjg4MFhyZnpnSkczeTZwdE16eEkyMkxrdlhWV3FTbUNlWXBBRWxGZF9tRzZza25qajlzUDhsbVpGQmVmOGltR1RLZVFQZU5peUtQLWFxSVVneTU3UlYzc2k2cENRdlBteXh1TnJ5WVc2Z0lMRzRpanZyakJ0djc0Y0FjamhkWW56eDM?oc=5"
+  },
+  {
+   "key": "dceb9f18a0f6404a475ac0a7c6cfcca697d059d8",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Trump to attend Texas-Tennessee game as ticket prices fall",
+   "title_key": "2f58b9540ccd160d8b3864a0fde50700eee8729a",
+   "title_norm": "trump attend texas tennessee game ticket prices fall",
+   "ts": "2026-09-26T05:25:32+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXM1TXUzTEV6T3U2d1BDOTBvTmlyaTBwdVlzYVZkU0ZTcUxvNmNIT1BUX3lQLTJLZzVGbTRkZDlKRTRqWEtvb1FQaG5YdV9QNXJUNXcwTm1ySkdTZ2I4bTNEMjBuQzI4SnNqaVprUjVWa2xWeUk5STR3Tk5XS25qZGxLbkotQ19wb0E?oc=5"
+  },
+  {
+   "key": "8bacb31bcc7479a2ceddcab7d3eedc1af7ef2514",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "BKFC 94 Results: Till vs. Romero",
+   "title_key": "a84e51bcfc9c1b73df8d7443e73bdf9a0a2d9e98",
+   "title_norm": "bkfc 94 results till vs romero",
+   "ts": "2026-09-26T05:25:59+00:00",
+   "url": "https://mmafighting.com/bkfc/512484/bkfc-94-results-till-vs-romero"
+  },
+  {
+   "key": "c6ef91ca622b6cc17e6124e8b277153af5aa543e",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "‘Living in some alternative reality’: Frederic Vosgrone admits ‘I don’t even know’ what makes him an MMA star",
+   "title_key": "3187643a0a82ecd4dc660e16792044e86b13fe8b",
+   "title_norm": "living some alternative reality frederic vosgrone admits don even know what makes him mma star",
+   "ts": "2026-09-26T05:26:01+00:00",
+   "url": "https://mmafighting.com/latest-news/511671/living-in-some-alternative-reality-frederic-vosgrone-admits-i-dont-even-know-what-makes-him-an-mma-star"
+  },
+  {
+   "key": "3a53ef5bdcc66f96754973a1e1a62356031f0f7f",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Sean O'Malley: Joshua Van will 'go down as the greatest flyweight of all time'",
+   "title_key": "46c1917a71e24aed828703ea6607d7934486677b",
+   "title_norm": "sean malley joshua van will go down greatest flyweight all time",
+   "ts": "2026-09-26T05:26:19+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT3pMMmZUdVJ1ZnM1UGxtaktpYVFncXdjU29PcDVnVVg4ZGV2STR5ZnhSb0kxUHdXWFBrOC1uUjNmU1QwLVdYSnFnSnItaXkyajVpOUt6c2JnRVBqVHpFeEViTHRVVHl2RFN2NE1DbnY1TDZ1OS1lNXJkRVZnOFRYLV84dWNKSGxRaE95eW5Ub0thOWoxZkVwVzlNMndFRFpzOVdQUnFTWVNLSGVJWDI4aHhNN2thT2dZTXdJVGJOM1U3M2o2dk4zZldyNTh5eU5vTXJrZGhvZE56ZVVRR2oxTHg2Q25Zc3lvWHRTV3hOd0pYSEViOVZ1cw?oc=5"
+  },
+  {
+   "key": "32bee94a335195c5ec24c16b0dc70a98bb5abdee",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Daniel Cormier: Gable Steveson's time will come, but 'he's got to reset his mind'",
+   "title_key": "7a94780e214d81ad434ed96560722dab9035332d",
+   "title_norm": "daniel cormier gable steveson time will come but got reset mind",
+   "ts": "2026-09-26T05:26:19+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMlhiVmRwZkZDRG9Bd2pvSUZoaUtGNEhoUHV3LWxDbUJiMFlvdWZ0SEFKeDByTTk1eHRHeWEzV2dQbFctYWdlZm1oSTlRMzZsdzRsUUZWZUpYOXZQRTdPb3Fxam1peXZfYXBoa1k4QmI0ZlJFWEk2YUFiOGh1b0xCT2Rvak80d3FDZ2E5VkxNSGJidW9Od0NvTXIyZzRzTVdWUTVrMk5PQndlcDBEZ2JJLVhod3VKWFNBVU9tUzFaX3VsNnNvcU5vV1JQVjhLTUU?oc=5"
+  },
+  {
+   "key": "65f620e7f87180da3067436cafc31eca6dcfccd2",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Tyson Fury makes stunning reveal on Dana White promoting Anthony Joshua fight",
+   "title_key": "510f9b32762e605d1f6aa8f3818b4f0898b26b16",
+   "title_norm": "tyson fury makes stunning reveal dana white promoting anthony joshua fight",
+   "ts": "2026-09-26T05:26:20+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDBiejhSQThQMWY2N2p6Y0NwRjJUUmg3TU5oNnNlSHZNQTFJMXdKTlYzQUdNT2NpdkJXOGJ0dTVlSk9ldkZMbkpPcHFacEw2S2dDcUhlWjFBQm9INVd2TzB4b202YmJ3MGVkQTYybjdDbUpwRE9ya2UxMGJ1enNQZmlDV0QtanpYcGVxV2FxQWxnZ1VodUs2ME5qZl9vT1FMc3Mzb01ldFlaV1ozZkpNeVAwOUNOZXdyeDlHeDFYTU5Cc1ZYLU5xbDU5U2cwdjRWZ09iN2pkSWN2Y0Js?oc=5"
   }
  ],
  "stats": {
@@ -14351,8 +14395,8 @@
   "enviados": 1,
   "llamadas_llm": 5,
   "prefiltrados": 9,
-  "recogidos": 185,
-  "unicos": 97
+  "recogidos": 187,
+  "unicos": 96
  },
  "telegram_offset": 958387804,
  "version": 1
