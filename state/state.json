@@ -2,215 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "b05840ee9617f647951cc5be85f73275b0a18a7b",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[SPOILER] JJ Aldrich vs. Regina Tarin",
-   "title_key": "2ade73f7315ce62f1b4fd5328001052a5698ca8c",
-   "title_norm": "spoiler jj aldrich vs regina tarin",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wekcyv/spoiler_jj_aldrich_vs_regina_tarin"
-  },
-  {
-   "key": "0a6332ddcee8f738d27c886bd6d4c6baeb7c055a",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[Spoiler] Gamebred FC: Luis Pena vs. Rafael Alves",
-   "title_key": "eac83c340a8b56cf416c99f210a331b131b4c951",
-   "title_norm": "spoiler gamebred fc luis pena vs rafael alves",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1weke92/spoiler_gamebred_fc_luis_pena_vs_rafael_alves"
-  },
-  {
-   "key": "de90ae1e88a24aa3583b7fb2440d50b6287e6491",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[SPOILER] Jessie Rosas vs. Sean King III",
-   "title_key": "213ec90a9c0df6b82a2e779c046c161ae09650fb",
-   "title_norm": "spoiler jessie rosas vs sean king iii",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wekllk/spoiler_jessie_rosas_vs_sean_king_iii"
-  },
-  {
-   "key": "5c5e079a07322ce75a5474b8f2f3368e5182c25c",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[SPOILER] Rafa García vs. Rongzhu",
-   "title_key": "702b4e68afa042a43662ec962923e9bcd35f5c13",
-   "title_norm": "spoiler rafa garcia vs rongzhu",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1weljne/spoiler_rafa_garcía_vs_rongzhu"
-  },
-  {
-   "key": "74e73470f11210fc406b69ca6de89f4fdde57299",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Messi e Inter Miami preparan el encuentro contra Nashville",
-   "title_key": "26961c3d406a25966afb0e140f61997b76f46eb9",
-   "title_norm": "messi inter miami preparan encuentro contra nashville",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOURPUExxeU5CM3Y5WEY2SzNLUVlLWHVzeWpyMnJDclVyejJPTGUyV3E3TmtXcktHS1MwQTB3RXljeEk3eVdJc1pCS2ZTSkFzdTA0LTA2Z1NjaWY1WVpKTVdhb1JwNGtWcUVILVZzQjkzQ2cyMGs0aHBXRkYwdU9TaE5SR1lZMTNtVF9nREdiaVNZTEFkSl9kcE5R0gGuAUFVX3lxTE5XYXZ0MHRSdzVTVFo2amxQTkt5QWJseno4NjlzNkhEWkw0d2pmQUEteTJYd1dSR0tjNFRkOXdlOUdyRVhWY2stVkI3YVpHdkZxZWNkRVE0cXRReEFUUTc4ZW9iME02QTQtTFEyVGFvemZBd08zaDJpQ1Q4YTlLT0pMNG5GU2NnbW8teHdhVGpkMDY4UjZGLTEtTzdRUUY4VmNZSVhmMFEwbnI5VmJvQQ?oc=5"
-  },
-  {
-   "key": "beac049f4cc5b338966145363c18c5a5ff408794",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "9/11: el video que estremeció al mundo y captó el primer impacto en las Torres Gemelas",
-   "title_key": "f6984a264d46d7a8b8f347875388a5025a7af140",
-   "title_norm": "11 video estremecio mundo capto primer impacto torres gemelas",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWpXcmhoN2lTdTc0N3pVV040b0JqT0N0azF2ZlFwOXotaWtrNUk2UUEyNmpMRklhUlNaYV9XRk41RlJxUnBwZ2x1M2RfTktrMnF2cWVMNFVMNjZVa2V6aHFhamg5VHF4R0hQVmNlblpWNUdLNDBwa0FOMDQ1c01WMFJscU9YTEo5dFhSazdfQ0hYSXI0YWZOZlVUSXp2cE84a2ZTNEN5WGttVXhiSTV6ZlBac3c3blhHeEpRctIB0AFBVV95cUxOOUJFVzZvV2ZiNG03QmJsMExYMXFSRS1ObGdoT0luZ3BSV25VUTVNRnhJbVBua2JHb0FJMjBURE5CTUJFcmNVeXpTSU4yRUlPSGVpOGtiUDNJTk5pZnZLdGZXLWtvSjZIY2VPbHV4QXNCd1FjWnhQRVNLTXFXWkpsM3QtZS1HXzc2T2tBWXpKUUtVazRDOHFVdFgxVlY3dXRTTHUxWjFZcEU2UEJXaURUVGJJdlZWNTFlTDQxdHM2dmdIWHJuU2lIaHp6ZTdnbHB5?oc=5"
-  },
-  {
-   "key": "fe7efe54844b54d1975e23fd58912387b7660bd7",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Dallas Cowboys: mejor, imposible",
-   "title_key": "026ffa7c7f7489b47a7ba21b2a4439b809929564",
-   "title_norm": "dallas cowboys mejor imposible",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VRG5vaVBMc1hKblBLSFE2MW1aZFBzQXNJUlVsWFBscDRhUEY3TmVHYjVrMi1aMTA2cWFJX3JxcDZkS25BS2c5aDRwRFpiNGJkV2g5LUNVdE1LaFBwTjFQRW9CcGZTM1Z0SXlnbXpYYVbSAYQBQVVfeXFMTUlZbHpXa0wzdlBrR1loczk2TW9BMTVkVU53ZVI2YkRKbnJyQ0JrOUlSb1JSYkg3aDNZNVl1SllPclR3U3JDNHZoa1hoTGdhUjR5ajRyYlhSM1oyYXFEOWpOTkt0aVNWd0tlc1RVNVRvdnRaMXVDM19vMFh5Z0NTT0E5UTVa?oc=5"
-  },
-  {
-   "key": "a1779704ba95e4419c734ad725a127047696b662",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "The Mac went off on Max Holloway for calling the ref to stop the fight instead of going for the finish: He backed away. It wasn't me calling for the finish of t",
-   "title_key": "75da81c80ecb15d702f9c4f130307510aec23c49",
-   "title_norm": "mac went off max holloway calling ref stop fight instead going finish backed away wasn me calling finish fight don stop fight finish fight you re man calling fight be stopped fight has only began",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wedwxd/the_mac_went_off_on_max_holloway_for_calling_the"
-  },
-  {
-   "key": "a97231010e274897d299c7e4e42bada5d480f6f1",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Dana, make it happen.",
-   "title_key": "230e57ae50d7f528a1ba37f4ecd0995488b602a1",
-   "title_norm": "dana make happen",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wefv50/dana_make_it_happen"
-  },
-  {
-   "key": "ee62a3d9b94dc5d04b97c79e5a861046636085b3",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Gordon Ryan es atacado por tres hombres mientras estalla el caos tras la victoria de un estadounidense en ADCC",
-   "title_key": "1c92447be501c71f18ffa5d03ee897852f19e5fe",
-   "title_norm": "gordon ryan atacado tres hombres mientras estalla caos tras victoria estadounidense adcc",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcEh0aEEyZWpMZ0w3b0VDVHlUNUszZGhGQmdEZFg0ZHdscGRpckZvU2hFbHNvT1FIVDdfODJQNE1Wa0dvR2wwTHRIb0djMzNRVFctU1pmSktPMXJMRVZGTmh1RXNDNUFPcDJJcUhpalBaUjJidmk4NVVpMnJKY0lNMk9NdGMxUEpJSjRYbVZFU3lUR1VQZGt0LUh5S2JsM0tpS0UzdVJPWkt6TjRYSHhOeHFsek1qQdIBuwFBVV95cUxPaHZXSkVvSnRsalpaR0xqSGZaRHZfV180RlotWUVMcDlnSWpnY3QtaV9QbFhUdklDaWEycy1aMG5hMnRSNVROc2RuVFd0clpJMi14MzZ4c2s0R3pBS2ExaXhMa29iUXVxWTVIckp6LUpSUXlaNDQ4RC1MRnI0NmJnY2tJQnpUTUNFeXJMcjZHQlNPYmVFUEJRMTBWbXc4QWhGWllFak5uT1Z2OTc3MF80aVE0NHAzTHJSZmZz?oc=5"
-  },
-  {
-   "key": "124e62260e2c39f7d7367e8d7cacae034a76f8da",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Ryan García vs Conor Benn: a qué hora inicia la pelea y dónde ver la función de box 2026, hoy",
-   "title_key": "642071e977dd42873a2ea7c4ea6b964d848d5a2f",
-   "title_norm": "ryan garcia vs conor benn hora inicia pelea donde ver funcion box 2026 hoy",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTRGbWJVOXc5ZEx5NE1fUTMwekZPX2NUSEx0UW9tZ1dDVWtQdFloeEhnNHZDMk5RMndUNFdYY0tFdU9MYWtDWFktUU9xYnRKZ1hqdUNvOWpiNnJkb0ZNbWpPUWladVo5RVltNkdKYjZ0QksxdVZHR09ZWFQ1NE9NYXE0cjdJZFJURGROTnBzS2VQTjZ5NlJxM1dzQmdkUjdYdEE3WXdLTEZUZ0RFSlZESmdRZGhOeHVtOHBKYjhwVkI4Z0xYSU13Z3EzZ9IB3wFBVV95cUxOcURMSndCWWlwWEVYZ3NLaDhXamFNVDdVRTlIUExFU09TbnQ1Qnlhb3IxTnZXTWZRODU0NDdqX19aY3dDZTQtR014RHdiQmRyTWJvdDVZWW83U3IyV29WV19EVmdPdkp5SXNCWGEzWGRiRENYSWxjakFMQnRyUmdXaEJOdDdnNkNaaVVUQ1I5VnEtelI3T0hIRDZaUGN2dURhOXdIVy1xRjF1M1FrSmVqWFVhYmxubFIwd1lyaTQycXZmMWZkOWRWN0hwOWZfWkNZRmtheVA0d2V5a29hVmJF?oc=5"
-  },
-  {
-   "key": "a5c960b7b08c0dc7be5b09f1a873d734fd5ad779",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Is this an effective strike ?",
-   "title_key": "f8e5570ffc887c8d3008e2866c6a11291f5af26b",
-   "title_norm": "this effective strike",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wejnqc/is_this_an_effective_strike"
-  },
-  {
-   "key": "46e69131e71c14da931907d3304f1bb6c14ed76f",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Okay that’s just homicide",
-   "title_key": "bba4da2fed14d483e2dc10fa8edc971fe765fbdb",
-   "title_norm": "okay that just homicide",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1weknqd/okay_thats_just_homicide"
-  },
-  {
-   "key": "209f92e7d7396a78d9f614e762e0413e90a20516",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "THAT WAS GENUINE MURDER WTF",
-   "title_key": "0827aed75e92fcfa2f60af905e38a94707b0cfc4",
-   "title_norm": "that genuine murder wtf",
-   "ts": "2026-09-12T19:25:44+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wekoho/that_was_genuine_murder_wtf"
-  },
-  {
-   "key": "45c368ecf987ee4ab32965ca20465c5aab0d93ba",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Video: Sean King slams Raul Rosas’ brother unconscious at Noche UFC",
-   "title_key": "06a34d1f077e6fd263a60ba3a175f640a582432a",
-   "title_norm": "sean king slams raul rosas brother unconscious noche ufc",
-   "ts": "2026-09-12T19:25:52+00:00",
-   "url": "https://mmafighting.com/ufc/509808/video-sean-king-slams-raul-rosas-brother-unconscious-at-noche-ufc"
-  },
-  {
-   "key": "8a38dd687d4bd5402cd6a36bbe0e225e1160235e",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Video: Gordon Ryan involved in huge brawl at ADCC: ‘Thanks to the Kazakh guys for the scrap’",
-   "title_key": "1a94489e75b058d788a5694a7b0ba2ecfe38aa17",
-   "title_norm": "gordon ryan involved huge brawl adcc thanks kazakh guys scrap",
-   "ts": "2026-09-12T19:25:59+00:00",
-   "url": "https://mmafighting.com/videos/509790/video-gordon-ryan-involved-in-huge-brawl-at-adcc-thanks-to-the-kazakh-guys-for-the-scrap"
-  },
-  {
-   "key": "96c1da827ef2732e0aec8b8ff6a49d319b525ae3",
-   "score": 8,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Ilia Topuria’s physical trainer, Jesus Gallo, says Ilia is NOT ready to fight despite Dana White’s recent comments",
-   "title_key": "555563be445c2c3faf8eb4227cde1cc5d23062f3",
-   "title_norm": "ilia topuria physical trainer jesus gallo says ilia not ready fight despite dana white recent comments",
-   "ts": "2026-09-12T19:26:06+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wejxgv/ilia_topurias_physical_trainer_jesus_gallo_says"
-  },
-  {
-   "key": "da55874b8aa68d406d8a00d2eb5770edf74b61ec",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Joseph Morales vs. Brandon Moreno prediction, pick, time for Noche UFC",
-   "title_key": "97e03a9f5b84136779ffb1196d6399b7c2f93134",
-   "title_norm": "joseph morales vs brandon moreno prediction pick time noche ufc",
-   "ts": "2026-09-12T19:26:11+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWoxZ0ZKSVNrUUNDeTh4WmUtckRwNlJfd2ZJZ2tEUzg0dTFQM0dXMmZUOE94Wk5TNlNEejI4ZXY1X3FpMDlYMnlscGtxcHc2VlF3MjFtSy1OUXU5ek1SZGpVQUJ2V1dCbklJcVFRTjJfanlCUUwtUlZWVE12SUEtMGZ4aVBJWnpFdVZwZjUxODREcXFvREV2dnFMVklVbmdIMXYxOWx6Ukk1R1A4OVJCU1pNdG9CaXNRV0p5MXdEZ3F3UGlSQnc4anBIamd3MDQ4cEhQVHhicHg4OUlLMm9Wd2ktTGxwcl9PX1p4VVRQd3A?oc=5"
-  },
-  {
-   "key": "2ae6448195e7dc46237a47248d7db23ea7770c82",
-   "score": 7,
-   "sent": true,
-   "source": "Sherdog",
-   "title": "UFC Noche 4 ‘Silva vs. Delgado’ play-by-play, results & round scoring",
-   "title_key": "2062e2e35760233954a08977f6203b57f9907d3a",
-   "title_norm": "ufc noche silva vs delgado play play results round scoring",
-   "ts": "2026-09-12T19:26:18+00:00",
-   "url": "https://sherdog.com/news/news/UFC-Noche-4-Silva-vs-Delgado-playbyplay-results-round-scoring-202770"
-  },
-  {
    "key": "03f40cf65f6e66a6d1657465d83e29331889fb36",
    "score": null,
    "sent": false,
@@ -14124,6 +13915,127 @@
    "title_norm": "germany biggest combat sports influencer ringlife fighting dominic schober under stand bang rules boxing mma gloves elbows main card oktagon 94 what your opinion influencer fights main cards",
    "ts": "2026-09-26T18:01:19+00:00",
    "url": "https://reddit.com/r/MMA/comments/1wqrnoz/germany_biggest_combat_sports_influencer_ringlife"
+  },
+  {
+   "key": "74cde70355885d6f2c416c784ad9a8254e5d562b",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Oktagon 94: Deniz Ilbay vs. Hugo Vach",
+   "title_key": "fdc1302c2a6fa8499808cc271aace9562783a65a",
+   "title_norm": "oktagon 94 deniz ilbay vs hugo vach",
+   "ts": "2026-09-26T20:53:50+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wqy9uz/oktagon_94_deniz_ilbay_vs_hugo_vach"
+  },
+  {
+   "key": "9467600cb05379bd3a6aaf8a17fa9d1a449db9fd",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Oktagon 94: Michael Obodozie vs. Oskar Staszczak (with a major fuckup by the staff)",
+   "title_key": "b0551a76b0a250bb9f740fb0aa684cb1cc40f2bd",
+   "title_norm": "oktagon 94 michael obodozie vs oskar staszczak major fuckup staff",
+   "ts": "2026-09-26T20:53:50+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wqyjom/oktagon_94_michael_obodozie_vs_oskar_staszczak"
+  },
+  {
+   "key": "5dba9a2e658260e0481edc4287e942511a5e8145",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Bit of an issue considering he's fighting at LHW",
+   "title_key": "ac66a7d52f52f86d70710b72e72ce97863ae9790",
+   "title_norm": "bit issue considering fighting lhw",
+   "ts": "2026-09-26T20:53:50+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wqzrwg/bit_of_an_issue_considering_hes_fighting_at_lhw"
+  },
+  {
+   "key": "cdf7bc53e32c9d0269b683691202537eb5287392",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Man pulls a prank on Khalil",
+   "title_key": "d55530ef4967ea5103f398de7eec9123c113462d",
+   "title_norm": "man pulls prank khalil",
+   "ts": "2026-09-26T20:53:50+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wqyt4t/man_pulls_a_prank_on_khalil"
+  },
+  {
+   "key": "547c47359998792237675ae704790e5b2ddec035",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "WNBA Odds, Picks, Predictions, Betting News",
+   "title_key": "c99424e1a7ee97b3b9016fc5a9222b57459f16ad",
+   "title_norm": "wnba odds picks predictions betting news",
+   "ts": "2026-09-26T20:53:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDRUYxc2ttNEFDNEVNSnJkUnVNdzFLeDRDV2k2MWtldng2blpzMkxkU1dLNzhHZXRPVVRBYXRnSURYZE1kcUlOdEwzX1A5cDQ?oc=5"
+  },
+  {
+   "key": "030040e599c05ea96b4539429a4d22bcdc27a40f",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Raúl Rosas Jr.: cuando ser el más joven ya no es suficiente",
+   "title_key": "efe382b56fc40ebba8c96430b887201224b654e7",
+   "title_norm": "raul rosas jr cuando ser mas joven ya no suficiente",
+   "ts": "2026-09-26T20:53:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1dXZm5tQlEyelhBVVBmalAwZmc1eXB1LXZIZG1yNm1tYU56dUx1THdBcXAyVHVkQjh1ZmlVS282dmF0SHZYdHY5YnlGQ3lyMjVONk9TZloxbUgyWlBTT0dhWGxaOU5nSzFEY2MzQ2d1ZmoxZkdSSmxVSTJoaFFfam9YdDZEb0NkVklIWDAwRUZ4Vzg?oc=5"
+  },
+  {
+   "key": "f78fa99f3b925748029f0d3351dbcc4c76ccdc74",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "[Official] UFC Fight Night: Rosas Jr. vs. Barcelos - Live Discussion Thread",
+   "title_key": "1e8d9884c14b55e6f4080b79ab98d7cd5fa35e0f",
+   "title_norm": "official ufc fight night rosas jr vs barcelos live discussion thread",
+   "ts": "2026-09-26T20:54:08+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wr0s7i/official_ufc_fight_night_rosas_jr_vs_barcelos"
+  },
+  {
+   "key": "077a91d571dc51995a33b94502a2bb0dc8823c6e",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Levi Rigters (Former GLORY Heavyweight Title Challenger) vs. Luis Carlos de Brito",
+   "title_key": "2ddff3f7ecfa514f0fa3163aa4a29fa3bc837154",
+   "title_norm": "spoiler levi rigters former glory heavyweight title challenger vs luis carlos brito",
+   "ts": "2026-09-26T20:54:22+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wr0h33/spoiler_levi_rigters_former_glory_heavyweight"
+  },
+  {
+   "key": "80f800f449222e88cf5ac01718839b3da994f369",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "‘It’s definitely a curveball’: Lauren Blake reacts to Henry Cejudo now facing Wanna Walton in Misfits Boxing headliner",
+   "title_key": "c982f4e0483b580bfd2892b08f8d8b1ad6b0c643",
+   "title_norm": "definitely curveball lauren blake reacts henry cejudo now facing wanna walton misfits boxing headliner",
+   "ts": "2026-09-26T20:54:23+00:00",
+   "url": "https://mmafighting.com/boxing/512617/its-definitely-a-curveball-lauren-blake-reacts-to-henry-cejudo-now-facing-wanna-walton-in-misfits-boxing-headliner"
+  },
+  {
+   "key": "5c0d993e5ff36fbc9cad5c63c78664079e200be1",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Fight Night 289 live updates: Raul Rosas Jr. vs. Raoni Barcelos",
+   "title_key": "7d579d80993597205dc43133bfb3142a980a7422",
+   "title_norm": "ufc fight night 289 live updates raul rosas jr vs raoni barcelos",
+   "ts": "2026-09-26T20:54:24+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWU94ZU5KLXd5M0FVMnc1czN1NlMxQ1oxREhvUHk3NGRhRDRjakxNel8wV0Z6ZDhtZkFxel9LOHdOdHl4NFlVQUZWeXRnWmhaY2FpazhibUdkNlZyVU5HRWxBTjRpOXVUNE4wYUxBRDQtdXc5anRSekVUVzhnLV9uaHlhNGN1RGZCWHRhLWMwOThMTG8yN0QwVFFxeFR2YmZXbkdUNTUxOTdsa2U0UkNWcTN1Y1YtYy1Sd1RGaXhxVTlpdEY2RXhwOUNGRkJRRXRoSTJSdWRHTEd4LThva3Y3WFYzQnVURGNkSVV6WEhfQTRUOTVNWDFsVTNLZ0lmOWJyUGc?oc=5"
+  },
+  {
+   "key": "18f94945c821670a91bad7e82faa535327e45612",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Endy Semeleer (Former GLORY Champion) vs. Henrique Melo",
+   "title_key": "96a3c9fa861984fcea4c0209e5386f6ff1f7f77c",
+   "title_norm": "spoiler endy semeleer former glory champion vs henrique melo",
+   "ts": "2026-09-26T20:54:25+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wr003k/spoiler_endy_semeleer_former_glory_champion_vs"
   }
  ],
  "stats": {
@@ -14132,7 +14044,7 @@
   "llamadas_llm": 5,
   "prefiltrados": 6,
   "recogidos": 187,
-  "unicos": 87
+  "unicos": 85
  },
  "telegram_offset": 958387804,
  "version": 1
