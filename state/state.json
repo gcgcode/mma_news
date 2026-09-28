@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "506be498dbe428b339f03b77b9390db48b22fe2f",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "David Martínez: Show Y Victoria",
-   "title_key": "1a04715b4aaa94410c9e06d738935962908650f7",
-   "title_norm": "david martinez show victoria",
-   "ts": "2026-09-14T01:11:40+00:00",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSy0xc3RDaHltNkVjUlRBVDd2X1RkdGZKRTk4eVlCN1BpNFJ6VTA5RWc2MGhhb0FIeUx4Ym5ZdHJfbFo0MXNkTVhEbHRUVTgtNnRNRkhDMVRhcTVteVZ3RFkzRU9VTEFWZHF6NTZJMA?oc=5"
-  },
-  {
-   "key": "cac5c738c56993c38a4f6873048dcd7868c42b28",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "MARCA - Diario online líder en información deportiva",
-   "title_key": "e425ec1cfdaa9bc0e90e28ef055b1ddef122dde8",
-   "title_norm": "marca diario online lider informacion deportiva",
-   "ts": "2026-09-14T01:11:40+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1EbW5YZ0pxUVpqLWJUTnB6TExIcVJNT2ROcDRnVmk5eDhrMFVMdE8xMUQwYTF2MVREaUE?oc=5"
-  },
-  {
-   "key": "01d4e76c9b327cd4cbbf80dc4e763c8d6d9abbaf",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Unpopular opinion: Cant stand this little weasel.",
-   "title_key": "1320ddd9d3bcc274ae81d5a6a5c25ba9e5d751dd",
-   "title_norm": "unpopular opinion cant stand this little weasel",
-   "ts": "2026-09-14T01:11:40+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wfn37q/unpopular_opinion_cant_stand_this_little_weasel"
-  },
-  {
-   "key": "4ef2758d5d29ab127a7bee5a1b3ce5a90ada7ca5",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Alexa Grasso’s UFC Aura Summarized in One Picture.",
-   "title_key": "545e11311ee2b674601c7ae9637627bab7b1cbc9",
-   "title_norm": "alexa grasso ufc aura summarized one picture",
-   "ts": "2026-09-14T01:11:45+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wfoid0/alexa_grassos_ufc_aura_summarized_in_one_picture"
-  },
-  {
-   "key": "10741b33e86340151672dbb4f6937dd00c8d9fdb",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Lerone Murphy: Alexander Volkanovski tempting fate, 'best years are behind him'",
-   "title_key": "4222353ee4e97abfa879464eb6ee2fcf41459a6c",
-   "title_norm": "lerone murphy alexander volkanovski tempting fate best years are behind him",
-   "ts": "2026-09-14T01:11:47+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdlpHcTZuSmpVYWdOREhwamlUUFJ6NnlDdU1BSnVuMXo4VlBqN2U3VC04RDFmeEwxMnVrcUFQeDFPREQtQXlvaHBqNTk4RVFDbmh6NlJyNmR3TEFaZU1TU3BPZTBoZlJHaENVLXNpZ214M2xod21hZ0RseXktRXFRYXJOOUNOYWhiVzZ6UkpVUW9EdkRBNnItSEhnSldDZXpWd0M1V3Y5YVE2UFNzbnVfX2JWbFVjdjA3TWtjYTFfb183R3ZuRmtpNTNLeFY4RUtVWWhsZTJnektaV3dXZ3prclpvREFTWFF6Um10eGFxNDZjY0J0b0E?oc=5"
-  },
-  {
-   "key": "5e644026303064439df72a617a46fcd5894f2de2",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Curtis Blaydes def. Waldo Cortes-Acosta, Noche UFC: Best photos",
-   "title_key": "e4f95b345e9ed294c5062c76c2a1b7c8d6823693",
-   "title_norm": "curtis blaydes def waldo cortes acosta noche ufc best photos",
-   "ts": "2026-09-14T01:11:48+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMDBNa1oyX3Rrc3J4YW9UbWdrdlNaQUo3WjNYR3hqdDI0ZFJ5S1NhNWNDWm9xeGh5WkdGbGMzM2ZQUzk1TnhxT19FVFlyOEtYS2pmMFNpZGR1VTZRMWRHbUNQaFdhTkF4Yk9Sd1RZY0J6aGpkNEhzdW5YbWVtUVNudHM4dzhidS0zN2hfMkhMMExmNUJLNlBYa1AtZW5EeGgzcTdLUkc2VkdSb1B6YlRXamtieEc5ZUR3MWhYdk1LR09zc2hyZ0k4LThXZXNwQXpRU0NtZEF2U0pkQU9GRWc?oc=5"
-  },
-  {
-   "key": "ae3958ac75c020da8374fb36b44480a9ac5bd21a",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Manon Fiorot vs. Alexa Grasso prediction, pick, time for Noche UFC",
-   "title_key": "ff2c03f0162487dafec687360574940d02cf36ab",
-   "title_norm": "manon fiorot vs alexa grasso prediction pick time noche ufc",
-   "ts": "2026-09-14T01:11:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSEhscFdXc0FZdVhudzdzb1hfODFJd19hS2RNLWljOEwwZWg4VmthYmo3MEJyT1poQzdDWjdDY2NoRGxzVTZVY0xUcS1KMFZJRjNBaWlFb2d0aTRqRGNqcHlFYWJ3V0tyMVBOYWN4bVF1RVB1UExOdGlMWkJLVEo0Sk1jdG43OWZtcDVNbGVuclR3Y2ppYXh5c0J3OW1kbVNUdzZwbHptZWdzb2gtQkx1WjVfcHpoemJPX0RUQ1hHWVVWbDRpSlhzSE9JUW0zMmpwSTBDTWdsNEVjUFFwZ19kaHNKXzB5eXdla3BF?oc=5"
-  },
-  {
-   "key": "749480b2e24e955e6710e699f13d1116a8de8ffc",
-   "score": 6,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Islam Makhachev dismisses ‘nightmare’ matchup when naming who will be the next welterweight champion",
-   "title_key": "6b8598b523da2c1bbfbdcfc7e7545f55faf57b92",
-   "title_norm": "islam makhachev dismisses nightmare matchup when naming who will be next welterweight champion",
-   "ts": "2026-09-14T01:11:54+00:00",
-   "url": "https://bloodyelbow.com/2026/09/13/islam-makhachev-dismisses-nightmare-matchup-when-naming-who-will-be-the-next-welterweight-champion"
-  },
-  {
    "key": "6074380c34115c917d643f0b8eefee9618aa10d2",
    "score": null,
    "sent": false,
@@ -14135,15 +14047,158 @@
    "title_norm": "ufc bonuses raul rosas jr vs raoni barcelos easy fight night",
    "ts": "2026-09-27T23:35:57+00:00",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOHFyc3R5YXM2cE15QjNXbnRJbWdKRTJ4YkJyazRSOHlKZGtoOWhzM3NDX0NrVUNZMlE0b3pPUVUwSC15OTlRNGhyMm9OQzU0VWlOYXQzb1ZXNmFtZWZuZ1FCWFEtT196YTI0S1JHWnExZ1Z6V3Y2dy1JN2hOTFVLNlZoNWVMZ0VwdklsOW9ldjczNUhGZmc3Vi1HS0FBOXV3d1BNNTBKTWpOTzhHbi11U0dWRVh4STN4QlVyc1ZPaC0yeEsyMEs0dEM2QXdKcFNVc3U1UllMNnZVUE1NREFZTEhqYVM4Q1JycVlub0YwY0sycEw2?oc=5"
+  },
+  {
+   "key": "3bf4da1483a3b6f0b47e922a4b424fd53ec8c485",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Artículos escritos por AS Fotografía",
+   "title_key": "b80cb40c2110eea1976a80ca61928a7b696d4bfb",
+   "title_norm": "articulos escritos fotografia",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWFZneS02RnIxQTNYdHhYUlFyaHhUcFB2UmxWN1c1OTY2WnJIemkxbkVkT3dHZnZKOWgzSWx3QWJDT09KajZrc3ZWZ0VaSzJCZVBlUElYVGw4MFRtclZ4akZvUXBxQQ?oc=5"
+  },
+  {
+   "key": "dc8272bbb8d152c53785d7ef06d04f4d3e78d8b6",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Gilberto Mora, en la mira del mundo",
+   "title_key": "5ff7dfc1e9053fcca152bce6a960465de3bbf51e",
+   "title_norm": "gilberto mora mira mundo",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YXzBPZUhwM0twV1B6TElBNFNJVDRQMzZ2UmJwNWJBdHBqQUFhNjZIVy0zLXR4enZ5c0NDdjlOUG1LWFdudVVWcmEwVTI4Qlh3R2NOWlhMTkF3ZW52aF9NQzhyMXRuRThTVW1XODI2LTJvRzI1Rk5wUFpjTmNYTGfSAZMBQVVfeXFMUHl5bFNKZHNtN0g0RHRBVGFuaWkxUlZlLVNmQzROSWVKXzg0TUlFUk1oSkJmNGtFeTZFZzc0OFJNaV9UWndDb1Fnc1p3dUdrcEUtaHZKSW16RHZRV01kRGVaNl9BdEtMMHpsaE1ibVFjVlZLZDhrdjRSNnhsV2ZEYXlicjdaemViT3ZCcWdrUHIxQ2JZ?oc=5"
+  },
+  {
+   "key": "56b3c5f0426fabd81e79864c1445967eeeded076",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Payton Talbott says he was supposed to fight Sean O'Malley earlier this year",
+   "title_key": "c3d44c23a17431b4d3f4a192e1ffebede913f6e9",
+   "title_norm": "payton talbott says supposed fight sean malley earlier this year",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wrybdb/payton_talbott_says_he_was_supposed_to_fight_sean"
+  },
+  {
+   "key": "d257d62f004b3ca1fa4aa1d81ea3562bec7f0951",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Sean Strickland confirms he’s fighting Nassourdine Imavov next",
+   "title_key": "b74caa615f5dd0e94c81fda47efdc28938ae7bb3",
+   "title_norm": "sean strickland confirms fighting nassourdine imavov next",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wrym20/sean_strickland_confirms_hes_fighting_nassourdine"
+  },
+  {
+   "key": "65596d119fb037acd9f40562c579a6cbaebb553d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Update on Raoni Barcelos per Ariel Helwani",
+   "title_key": "3ac904a42b37a9b604c01d31aaa1002ea0fcd8f8",
+   "title_norm": "update raoni barcelos per ariel helwani",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wrzjnp/update_on_raoni_barcelos_per_ariel_helwani"
+  },
+  {
+   "key": "5e77a88c6e5c356fde739bd83f15a7aa43f8c257",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Josh Hokit TED Talk leaked",
+   "title_key": "c9e616c77fc8540a7e9425b9c8c64eb397a4ccc3",
+   "title_norm": "josh hokit ted talk leaked",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wrzk3e/josh_hokit_ted_talk_leaked"
+  },
+  {
+   "key": "599a9b118ba5b98ff3742d58c8b06c6fd64d27b9",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Keep going",
+   "title_key": "5a86f322ea7b0eace291c66af0ba5ec974c64b2f",
+   "title_norm": "keep going",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1wrzvxv/keep_going"
+  },
+  {
+   "key": "ea711af0326c46807cd1de525d611812c2dfd7dd",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Mr. Olympia results 2026: Full list of winners for every men's, women's competition",
+   "title_key": "467fea119057d1b975992dd1a07603778efda6da",
+   "title_norm": "mr olympia results 2026 full list winners every men women competition",
+   "ts": "2026-09-28T01:58:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0phazVySk9tT3lqcnpobjJoNHFZNWJ4ZjM4d25PdC1BNVFpVzVRV3hpUUYxek5QQTV1NTZIN3dDck1iTXJEZnZWRHB2cW11Y3ZIZGQzNGVGclpqMVJURmZ3TTIzVUxSYUZ5VVVhYlh2ZUtGdUNEdFFkbVJjY2JhcEt5dw?oc=5"
+  },
+  {
+   "key": "5175a0cfa542c2c491264ed6d7d11cbb63cf0260",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Chael Sonnen explains why he's still high on Gable Steveson, even after KO loss",
+   "title_key": "fe0990ad3a88dc02201d1c9ecf9c67fa81cdfaac",
+   "title_norm": "chael sonnen explains why still high gable steveson even after ko loss",
+   "ts": "2026-09-28T01:59:03+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2FGcllxT0tXZ3d6X3FiNDdXQlhnTDRMbWhIRDc4UDlOLVVpdDZha0pQakVZcXcybXJuWFJIVTYzdmZtNWw3ZzhGdFZGSWlqYkEySzZSQ1lIb1lBMW1FTjdjcEY0UkFQc183X1NkMWZ5UTFHQ1dpRzlja2swbnVIazR6akM2QUlESzFoNDh5QlRJSjh2ekZfay1nLTJKb2FiNEVMb0NSUC16MzNCZ2Ftb3JLLWVWZ09xZlYzaGwwU21aYmtOY0xvRmxINzVtX0lvby1sZ2VpOA?oc=5"
+  },
+  {
+   "key": "050f584cd93cbd157260780ab6e7f6c5d0f160d4",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Mailbag: Banning oblique kicks would be extremely silly",
+   "title_key": "de6be385c7d55b6680a8917c359118802d712e41",
+   "title_norm": "mailbag banning oblique kicks would be extremely silly",
+   "ts": "2026-09-28T01:59:14+00:00",
+   "url": "https://mmafighting.com/ufc/512943/mailbag-banning-oblique-kicks-would-be-extremely-silly"
+  },
+  {
+   "key": "90470dbac52757c74141b50a1bf787e342dc0e2b",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Vegas 121: Ailin Perez fires X-rated shots at Norma Dumont after controversial win",
+   "title_key": "78885510dc49fbdca6eb07eb395595342c90252c",
+   "title_norm": "ufc vegas 121 ailin perez fires rated shots norma dumont after controversial win",
+   "ts": "2026-09-28T01:59:31+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM1E1dE9RaGNFd0FkWTFHQ3VpUU55enoyRll2eHRvMkJHdUduZnBSUDdfbHJ6QXJkSXZ1c0F2UHJ1TXZxYzJmYkk3TWc1TkMzTEdvODBodnRRYmdzX2ltdDdURU00ODNQZ2tZUWRoakpjeER0NjdWQ2JmSmhlQUJhY1JGeF9aVHNWcUEzRXJSWHMzV2dGeUZnaXZFTlcwYXM1bTVQaUpLT19kOWtTSkFtQVRqS0hrdWxzWTYwRlBHejZkYmwxUnJYOGtzNUFTb0tWQ3QxY0ZWckV4ejdfZFQtZXJQOEZOZzVpZmc?oc=5"
+  },
+  {
+   "key": "b391e8f0c59bd11b84f5c425683a16324b32fcd9",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC Vegas 121 video: Security intervenes following Ailin Perez’s controversial win over Norma Dumont",
+   "title_key": "36a91684da27acee27e0b68a926d65883f5e0b49",
+   "title_norm": "ufc vegas 121 video security intervenes following ailin perez controversial win over norma dumont",
+   "ts": "2026-09-28T01:59:33+00:00",
+   "url": "https://mmafighting.com/ufc/512837/ufc-vegas-121-video-security-intervenes-following-ailin-perezs-controversial-win-over-norma-dumont"
+  },
+  {
+   "key": "d081e8743ff8f8b9b23c4e4aa6d289529e93e06d",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Misfits Boxing results: Henry Cejudo edges out split decision in pro debut",
+   "title_key": "b921defe3118b46d64da4103a8f1a89ee5d9af73",
+   "title_norm": "misfits boxing results henry cejudo edges out split decision pro debut",
+   "ts": "2026-09-28T01:59:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVFYyTnhmcm1iOUp2VjZvc0ZoMDNMYUE1Mm0zc0lrYjJOel9GbWlYTWx4V1BjSjVNY3k1NUFaQkYwQkJHaVM0MlJZbEhPWVp6dEZaSzRGY0thQV91Y2Z6enp4Q3ByMzRNU3JHSjlaNDBTamhVYm03cllRLU5nV0xEQ3pyUG1HUUY3MXNJOU1MOEJ2b2wzVVlDMmdtc3FFa2gxb1pVY1dIT2Q2VVBvZko0MUUyTGFYY1JRcjNuZnVncDE0OGV6REVQblZXb2haZ0lmem1qQTJsV0ZkQ3VPdlhaMW1ZX2QwMDA?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 4,
   "enviados": 1,
-  "llamadas_llm": 4,
-  "prefiltrados": 9,
-  "recogidos": 187,
-  "unicos": 89
+  "llamadas_llm": 5,
+  "prefiltrados": 8,
+  "recogidos": 162,
+  "unicos": 86
  },
  "telegram_offset": 958387804,
  "version": 1
