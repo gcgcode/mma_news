@@ -2,182 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "64cd542aec4d98682e5d30305e96d92cafc19205",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[SPOILER] Tsarukyan vs Ruffy winner says Justin Gaethje is avoiding him",
-   "title_key": "4566c132d1298570a415be7753263ad2a45490b8",
-   "title_norm": "spoiler tsarukyan vs ruffy winner says justin gaethje avoiding him",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wlyor0/spoiler_tsarukyan_vs_ruffy_winner_says_justin"
-  },
-  {
-   "key": "1d37428405eb4ca387a8ecbefb680a61775c5e8a",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Javier Aguirre tendrá un premio especial con el Valencia si consigue una misión... ¿imposible?",
-   "title_key": "f873f013b9671e06b800de03f8789a9e31527012",
-   "title_norm": "javier aguirre tendra premio especial valencia si consigue mision imposible",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUlVM2NzTFdXZHJDbHBLdWp4S1dXLWpyeURHY0tmUHlSVEU3dEdrRGI4NkRlekVxQVVwcHdOaER6c1dIOGZ1cTFRdFVrODV3TUZaMUdEU3gzQTJzU0w3Z1N6RDhnYVZtLXdiNk5adVoxXy1CenV1UkNhT1JYelItMFZ6eDhiT3hLaThsRkdMdmhYcWRuLXhyR2JMWV9udWUwSGhHYnBrMDRCRFBHcHVKVVhMS18xMG13V2c3YXJxR3JrcVNndVM4NXpzaW1rcHRpd3paX2FtUi1uSXB1ZmNDeFRraDlTTUt30gHoAUFVX3lxTFB3S1gwbHdPRldSdU10NHVySDZKbnRIVXFMUVZrd0tfbFNsLWFVajVyWTk1Ylh1cEhQdEU5U09JZExVVXI5ajhOaWFYdnhsZ0VZak9XYms5RWdWSHJPaU1jQWJlUDgtaEdyX0Zhczk1ZW1HRzUwZFhsVU1KWlFfU2hDeEZFNzNxbmJqUnk1MWJ0TWdkdWVaYmJKTUZDMjlxQ3QtejUxRnI4bHc1V01SRExEaDlCbU00ek9SaFRmeFR2R09nQm5Tbk55UGhvczQ3cFFnQU4tbzcyLTc2YTBxMlRZNTNmMVVWXzE?oc=5"
-  },
-  {
-   "key": "c6276f4921499c66975a1afb68324f039256796f",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Paulinho suma golazo de taquito en el Toluca - Santos Laguna",
-   "title_key": "88e5be80fe17dcf4f7588f0a466825b4753fc37f",
-   "title_norm": "paulinho suma golazo taquito toluca santos laguna",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZVWnNpTzhkLXF2ZVVfR1ltWE44dE5Hb1l3UWhRbW9rVlZ3Vk9lZC00d2xGSWJwMENsczk0QVowb1ZGUVhKa29CUUxhY09jS05KQkZybk1XXzl2R2R5Y3NqZlI1NnNqdjBIU3o1Y013VXlsTjQ1ZEVIX0JRZmw4bGY3Nk1kbVlhSXlPTUdzbkNZRkQzTzVFSlRrSzhCa1ZaX3RSblUyMHfSAagBQVVfeXFMT0hkNWhSNUNXSjRSN3dIUmtQNkc0LTMzdmZFQl9HNmpyNmlNMVpfeUVZVm50MEhBck5lUGtVYXNlV1BUOWdmZUlzb3NqNi1SdllSbEFmQ1Njd1ltZUlWMVNEN3pzbTZBTlZDVUtlSmY1LXBWLTRxcDBPWEMwdkYwYkU4ZXM3WF9jRTVOYzQwUHNUVk00Z2V4cy1DbUJDN3M3alhkakFFdzZx?oc=5"
-  },
-  {
-   "key": "a594ed5768f14941eee9c158ad5b27d74b658732",
-   "score": null,
-   "sent": false,
-   "source": "ESPN Argentina MMA",
-   "title": "UFC 318 - ESPN",
-   "title_key": "18502db7ccd9426336d75f288fa361e4d1773519",
-   "title_norm": "ufc 318 espn",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVFwMjlkMHY1dE01U1Zhd2Z2czFPcUFkekppOGRvOWNuWFVxMjVKVU1leGZoZjhZMHU3YnhQSW5WYy16MmRYVXY2ajZsSXg0QlZwZWhPR1NoWmJ1cXVGbjdqMHRKQkFHakp1WVNOVGk5am81OWdQNlUzamJQYkF3VHlOUW9BU3dLQ0xVd2liXzRKMjl1MjVzT1EzRGtMRDFQbjBBUDgxclVXclBXSExyMHREbml6dk1FOXNzNjRpVzV1N29Gb3lKYjRNbw?oc=5"
-  },
-  {
-   "key": "2c56c0fb6f1f20cc5a7bcc05072efe99690a5488",
-   "score": null,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Justin Gaethje has brutal warning for whoever fights Ilia Topuria next",
-   "title_key": "6b07eb5d10066a59e6323e2846de26a068b55229",
-   "title_norm": "justin gaethje has brutal warning whoever fights ilia topuria next",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://sherdog.com/news/news/Justin-Gaethje-has-brutal-warning-for-whoever-fights-Ilia-Topuria-next-202879"
-  },
-  {
-   "key": "3c957e884175f91d60c40d60ef25bd5dbdf77e58",
-   "score": null,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Iwo Baraniewski reacts to first pro loss: ‘Not my first in life’",
-   "title_key": "1db7c8b95f45e867667884746bc9389d69df64e5",
-   "title_norm": "iwo baraniewski reacts first pro loss not my first life",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://sherdog.com/news/news/Iwo-Baraniewski-reacts-to-first-pro-loss-Not-my-first-in-life-202887"
-  },
-  {
-   "key": "ab6c4cebed9e437bcff4f7d006f93c07cab61506",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Former WWE Star Suffers Gruesome Eye Injury in Power Slap Fight",
-   "title_key": "9e5b255ddd2faa40adc59162562a27dc6f61977b",
-   "title_norm": "former wwe star suffers gruesome eye injury power slap fight",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDFaSGVzR2ViTkdCTmtveGt5ekhBbDdkdjRMSDcyX1FpVkhhaTlrMlRySnkwNmw4d05hOTVjbHRfeV9GUkpfMmFweHgza3RMZmJtMXZ3eGNJOTF2YjZEZ3Q2ZDNDSV82QzY1Vm5JbUpMMWNXaGFRYTZpbUMydmpNWUNRUHp1RnZX?oc=5"
-  },
-  {
-   "key": "9d2750d63599206b7a6767f0c94e4b30ab026527",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA breaking (EN)",
-   "title": "UFC 334 Betting Odds Revealed for 2 Title Fights",
-   "title_key": "a27f0dd042de821acab8e57470a107c0024778e1",
-   "title_norm": "ufc 334 betting odds revealed title fights",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSZXRtaEpsaDhTLUUwR0ZTb1BWU3dKWTF3ZUNMMkRpN2R3amowZEVKZXlubFlYUDJ3VWtKVDEtU2dveGtmbHpNd2d3ZnZUM25NTGhjUF90ZktPTkhzZTVFQ0d2RktBXzM2RHRCSnVEZmc?oc=5"
-  },
-  {
-   "key": "3cc1e437ed58d6fa605f4de26f71ec5f2a75fdae",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA breaking (EN)",
-   "title": "How Much Money Did Arman Tsarukyan Win After His Fight With Mauricio Ruffy?",
-   "title_key": "7924893e32472e1a079b63eecefcc8ea0bbda226",
-   "title_norm": "how much money did arman tsarukyan win after fight mauricio ruffy",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXZoSGk3VG1WRVlxcFNHeUg4XzVFOHZKMkMwOWtaYVE1QXhMSUt5aHp2STB3djJVa2Q3cU5XdjVZNEs5S2tzMkJRSmxoNXlMRlktZXFxM21CeDd5VGxWTVJ5TlRCdEZ0RTVmLXhDQTZvOFZNOHJ5WWdfbzlleDlRT2d4cUVZV0M4YUIycmt1WUJkbVZOb3JGbzZ2WlJDeDIzTUhtcWNCV3ptVnZKckpEMXB4Y1U?oc=5"
-  },
-  {
-   "key": "78e2801076fbab1170038d42c84d9da17c3da57f",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Dallas Turner Seals Vikings’ 9-3 Win Over Bears with MONSTER Sack | NFL Highlights",
-   "title_key": "069a31346a5bcc91095d2bd98b705e7c165f07b8",
-   "title_norm": "dallas turner seals vikings win over bears monster sack nfl highlights",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRS1mWl8zN05RMlp6Vm1ORTVKTVhucU54Sndid2ZCZ1BObWdqQzNVYUNHblgzd25xaUFNT3ZvWGNiSFlSbkgtRldSRmZBT0dVQWFoVDdQNU4wLWJVSGxvR3Zn?oc=5"
-  },
-  {
-   "key": "c8a64240c42c537838d81367b17939a26320d26c",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Drew Lock and more react to Seahawks’ dominant victory over Cardinals | Postgame Press Conference",
-   "title_key": "d812af71aff115488ec548e1e674b3c6e06d6381",
-   "title_norm": "drew lock more react seahawks dominant victory over cardinals postgame press conference",
-   "ts": "2026-09-21T05:08:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UUzhCNnloZ1Ruemw2a2RpV2dNQlRNeVBUUzJ3QTFaOGNZSnBSVXROWnNNaGF5R3U4X1NaWW1vNmU3am9TanVUOU9QaHBkTzI3YkxDSjRnV1JqYXZRYlg4UTdR?oc=5"
-  },
-  {
-   "key": "c040708fb763591995d25802f13f2ed4da993623",
-   "score": 1,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[Official] Technique & Training Thread - Week of September 21, 2026",
-   "title_key": "e60afd32116dd2dd1ed37a58cbe5376478846bbb",
-   "title_norm": "official technique training thread week september 21 2026",
-   "ts": "2026-09-21T05:09:08+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wm24il/official_technique_training_thread_week_of"
-  },
-  {
-   "key": "967417153abc07f02e86c09a5316c7e551536ba4",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Potential fight odds after UFC 331",
-   "title_key": "50e1811a3529fcdca4d8fecd4ef1d266455cc1a2",
-   "title_norm": "potential fight odds after ufc 331",
-   "ts": "2026-09-21T05:09:16+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wm1m6f/potential_fight_odds_after_ufc_331"
-  },
-  {
-   "key": "06b7196774dc7db158c84346616c2d978e1e2e6f",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Dana White already dreading possible Josh Hokit UFC reign: 'That's a me issue'",
-   "title_key": "9f2bee0048a2139717755adde2aac895e05c431e",
-   "title_norm": "dana white already dreading possible josh hokit ufc reign that me issue",
-   "ts": "2026-09-21T05:09:27+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRXdERFdtSUkzNUdnMlR5X1l2ZzlEVDZ0Z2psVm9ka2ktbnNJVlZPWjNqSmlHRjdkVkk3cVg0endSeExNSUlBTDFjQUY2RFYzNGdGbWhtUkxPY0ZhU2hub1RXbHo0SjBNZ3l5bk9pcG81Tjc4Yk5MQzFnZlRfWjlGNWRoOUxrNW1lRWdWUnp1b2JaQUluTGRKUG1GUjBOTmlFdmJPTnFlTzlvVGFYLUYtWXJ3Q1N3X1BpS09ZVkE2bWpYV0lSbm1JZ0JxMnFfcVp6R3FNU1ZSUjNEa1pjaC1jYjBrdFI?oc=5"
-  },
-  {
-   "key": "0028bf9907ab1447b2191d92ea01d30429f807e3",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC 334: Ciryl Gane vs. Josh Hokit odds, what to know for title clash",
-   "title_key": "baec2c7b6a618ba8176202f5aa5689a22f0af7bd",
-   "title_norm": "ufc 334 ciryl gane vs josh hokit odds what know title clash",
-   "ts": "2026-09-21T05:09:28+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQczVlTkpuMmd6X2d0eGZLYVZIMm5oZU1qVlFuWC02VGtQb21QU24ydGRnRThaNzg1YnVvSGQtT0xkelFLZkJ0bU5ZTExWaTRjTFRoSjFkS25SalFIT2Vpdkk2ajNCWkowTjV1eERYblI3NkVHaVEtRUQ5TF9La3VkMXpYSlFPT3JjZnc3enlMbzlQVzVhZmJKc2NCY0lOQ0JZMlA5czltQnk5WlBjMFU2MjdhQUtXVm8wNzN5Sm5McE9NYXZE?oc=5"
-  },
-  {
-   "key": "453c92a520f8cd1a8fd2797769a4e62b405d6a9a",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Joe Rogan backs Arman Tsarukyan title shot after UFC 331: 'No ifs, ands or buts'",
-   "title_key": "fab0ff7e4a9d8bfd1b3f61794524103e1440f3bc",
-   "title_norm": "joe rogan backs arman tsarukyan title shot after ufc 331 no ifs ands or buts",
-   "ts": "2026-09-21T05:09:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQmp6UlBweVFQWjQzUkVPVkJ0VnltVFF2TTlWQWViYnR2M2hqQmRqSElHUVZITUxjRXk3azA0cWpEOVNsYm4zWHlvMUZLOXVoQjhVRkFMUW5Oei1TcGF0UFowWEViYnpadjYtOW85d3c1eWlaemNiUWk2QU9LbXlGcmRURDZNMTlPSk5JYVVCWENCLXZyNVJEdFg1bk9ub05GQ1ZhcVplZnJKSmxyMENQZVVURllzd2M3eXUxS3B4cmFpYzdIUXpqeHdTTzc4RDlGbGk4NQ?oc=5"
-  },
-  {
    "key": "6ddc9cccdc7e04356fea37d54aa60a16db7004d6",
    "score": null,
    "sent": false,
@@ -12969,15 +12793,125 @@
    "title_norm": "payton talbott sean malley fight no brainer if petr yan loses ufc belt",
    "ts": "2026-10-05T00:25:13+00:00",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN25LMnNEdUZqWmZ3VHBZdlNfOVNwcF9JZjFueF96cGhqZHNqcFhHaFppTHNUOHdOaUpkdnl3ZGotNXRlT3NYZG9tS3p5eC1ocHpGYmVaem41WGFqVnhXdXBfRWx4RGFJOVd5dGs0ZmlDeFdLN2NobEpmTUhsc2tGaFpUalVzbjJ5bFIwY1R6Tm5wZWxFWlFsV1Z1Tk1IN0FWZzN2RVVva1ozVE91a0xfTWtWSkhKVGJ3dWRuX2h2MkZ0eHlIMnN5eWEwTWtoT3BmYk9PMzN6eUZ2amVoTGI2Rnk0bW5xRXF2UkZGeE1hNA?oc=5"
+  },
+  {
+   "key": "31804ca41e198a515ffc5c414783a79ffd8ecad1",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[SPOILER] Deiveson Figueiredo vs. Payton Talbott",
+   "title_key": "3ced73ecfa822208cad50c749b495a1c13dce9a1",
+   "title_norm": "spoiler deiveson figueiredo vs payton talbott",
+   "ts": "2026-10-05T06:16:56+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wx3ycr/spoiler_deiveson_figueiredo_vs_payton_talbott"
+  },
+  {
+   "key": "5820ce042da834ef824dabda83b27ccbfd04ab03",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "In the last 10 years Marvin Vettori has only had one fight not go to the Judges-Karl Roberson who he submitted in mid 2020.",
+   "title_key": "3c597bf7d62dd290dcca50042b74bc18b7087899",
+   "title_norm": "last 10 years marvin vettori has only had one fight not go judges karl roberson who submitted mid 2020",
+   "ts": "2026-10-05T06:16:56+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wxyfcm/in_the_last_10_years_marvin_vettori_has_only_had"
+  },
+  {
+   "key": "f7e35e5bda808c759f96d56a0f6a890affed79c4",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "RDA: Unfortunately, I couldn’t win, but I’m just blessed to compete again after a rough 2 years, 3 surgeries. A little bit of ring rust, but everything was goin",
+   "title_key": "d806288ab36cbf447be601160db29490b79449bb",
+   "title_norm": "rda unfortunately couldn win but just blessed compete again after rough years surgeries little bit ring rust but everything going according plan until last seconds first round when got caught lead hook kind messed me up",
+   "ts": "2026-10-05T06:16:56+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wxyk33/rda_unfortunately_i_couldnt_win_but_im_just"
+  },
+  {
+   "key": "f8347eca3483e706bf1fa12dffb003f465c63838",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Robbie Lawler vs Rory MacDonald 2 | FULL FIGHT",
+   "title_key": "c84164ffc99c2a929e521dfa0e11557e282f8e40",
+   "title_norm": "robbie lawler vs rory macdonald full fight",
+   "ts": "2026-10-05T06:16:56+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wxz6dr/robbie_lawler_vs_rory_macdonald_2_full_fight"
+  },
+  {
+   "key": "241f7ce27f2e92f9ba881a72ba386e6009bfeb8b",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Michael Morales calls Carlos Prates an ‘easy’ fight for Islam Makhachev",
+   "title_key": "c3f9528983c86690118eb91a3700fbd65b3596d2",
+   "title_norm": "michael morales calls carlos prates easy fight islam makhachev",
+   "ts": "2026-10-05T06:16:56+00:00",
+   "url": "https://sherdog.com/news/news/Michael-Morales-calls-Carlos-Prates-an-easy-fight-for-Islam-Makhachev-203064"
+  },
+  {
+   "key": "64afe85bc61dab6380aa227ea5e5e33a737aa3d8",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "What’s up with the match making at the top of the UFC’s Middleweight division recently?",
+   "title_key": "c5e4a3880b3b59dc28245c7a3e5d8e44fab1a0d6",
+   "title_norm": "what up match making top ufc middleweight division recently",
+   "ts": "2026-10-05T06:17:16+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wy0i3h/whats_up_with_the_match_making_at_the_top_of_the"
+  },
+  {
+   "key": "3a236fea65691c3d3f78d0310ab589a0d490f710",
+   "score": 1,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] Technique & Training Thread - Week of October 05, 2026",
+   "title_key": "ad3aa9e6dc97f1e54e8e21e367c35296fc508552",
+   "title_norm": "official technique training thread week october 05 2026",
+   "ts": "2026-10-05T06:17:17+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wxyym0/official_technique_training_thread_week_of"
+  },
+  {
+   "key": "29f9f89f2c31373a3bbab51e7469a08d23c78ec6",
+   "score": 3,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "4 fighters from 322's main card will not make a single appearance in 2026 and Brady and Saint Denis will be the only ones to fight more than 1x this year.",
+   "title_key": "20c8c723660c3e647917689934ae933b93dd5cb1",
+   "title_norm": "fighters 322 main card will not make single appearance 2026 brady saint denis will be only ones fight more than 1x this year",
+   "ts": "2026-10-05T06:17:18+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wxxrxf/4_fighters_from_322s_main_card_will_not_make_a"
+  },
+  {
+   "key": "69d1eb1b6f5787bc033a084df664d964d2fd2ee4",
+   "score": 8,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Dana White down for Paddy vs. Ilia season of The Ultimate Fighter: ‘I love the idea’",
+   "title_key": "0fa5bd141b950b70c3d460ce4b5a37cd15b8294d",
+   "title_norm": "dana white down paddy vs ilia season ultimate fighter love idea",
+   "ts": "2026-10-05T06:17:20+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1wxvy7m/dana_white_down_for_paddy_vs_ilia_season_of_the"
+  },
+  {
+   "key": "0f7f2da664488927c5781551468752d935680088",
+   "score": 7,
+   "sent": true,
+   "source": "Sherdog",
+   "title": "Glover Teixeira: Raoni Barcelos had brain swelling after UFC Vegas 121",
+   "title_key": "6735ce82d7b05caf4e5dec2bd4e9c5d43d275872",
+   "title_norm": "glover teixeira raoni barcelos had brain swelling after ufc vegas 121",
+   "ts": "2026-10-05T06:17:39+00:00",
+   "url": "https://sherdog.com/news/news/Glover-Teixeira-Raoni-Barcelos-had-brain-swelling-after-UFC-Vegas-121-203063"
   }
  ],
  "stats": {
-  "descartados": 4,
-  "enviados": 1,
+  "descartados": 3,
+  "enviados": 2,
   "llamadas_llm": 5,
-  "prefiltrados": 4,
-  "recogidos": 187,
-  "unicos": 89
+  "prefiltrados": 5,
+  "recogidos": 62,
+  "unicos": 33
  },
  "telegram_offset": 958387804,
  "version": 1
