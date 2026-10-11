@@ -2,149 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "1e03daaf76df3be4d3b60e8277d774413a1933e6",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Petr Yan throwing body shots against Merab Dvalishvili in their rematch",
-   "title_key": "2a7720405332b05d01b99309502a82927cb4e7da",
-   "title_norm": "petr yan throwing body shots against merab dvalishvili their rematch",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wruxce/petr_yan_throwing_body_shots_against_merab"
-  },
-  {
-   "key": "0cb8d19d077aaa66ed87f3fca027c8f6c8185fc6",
-   "score": null,
-   "sent": false,
-   "source": "ESPN Argentina MMA",
-   "title": "UFC 284 - ESPN",
-   "title_key": "4446ab656b1590a691c2ac69ad3ae4324f0614ef",
-   "title_norm": "ufc 284 espn",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnRfVlI3SjJmLUJQUWMybDFTbGtjaDFxSUhIY3d4TDhKMlA2SmNSMTB2Qk8yWFk5dUpWSEN5X2h2cFlMNDdacGFHZno0Q0JjLVdjcmRKWHRlOW1xdlZyMktESDVNcHlyR3dia2xLdk1RNTVFSzlBbVgxMlVHdE83ODlvTTRHNVgtYV9GcXNZUmtjYVdXaHU3dXBjZUxTUHZTRjhpOHNYa1pWaDJCbTRNLXJSN1ZpbW1wZ1dQcWl4NTF4OGNTOWc?oc=5"
-  },
-  {
-   "key": "bcebf829c195ead32df53d2eb1cf8d78fbecc75f",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "¿Quién es Nick Walker, el ganador de Mr. Olympia 2026?",
-   "title_key": "2d77e82077dbc506a43e97927f1389765889a938",
-   "title_norm": "quien nick walker ganador mr olympia 2026",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYm50SFpYMzF5RDYzNmY4TXNtNXFBbk4xMUNxTVRTVENFSlBnLWYyTFBVTkYwanoyaW1hcTNScWFaeWUwbUVqalRfd3pCQUt4TmZIckNtZFBHc3FDSURCUTNPZndIOXRKXzA0Z1ZxSHFlVG50ODJVaGp3d1hnS3R1bXR4VlZpdWhFcThNRGduOVVBamRnM1HSAZYBQVVfeXFMUEM5Tm9CS0F4aUsxM203cnBBWmpGUDhEbk9lVDJnMnM5STlHdElQeUJRWklDNzFIYVVTdl9UeDg2eHlVRWJxV2NkZExiSm41emdmeUNpQ0hrenF0cnkwSVpyR0k1d3hWME1mOVFKNGRjamFDbEVwRlRBS2l6eVVYTThiWVBNLWY3UWljMmI1SlhHeUhfVUpB?oc=5"
-  },
-  {
-   "key": "b9d600da6d1f7ed371c1168a94098ec6cabf5b10",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "A week ago today, this sub became united in harmony while watching this dude get his ass handed to him",
-   "title_key": "99675d29b7663cc50f2dd837f66c656149600cb7",
-   "title_norm": "week ago today this sub became united harmony while watching this dude get ass handed him",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wrlpn4/a_week_ago_today_this_sub_became_united_in"
-  },
-  {
-   "key": "9d5663ec7e6713cd2c4309c132374f1a50f3936c",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Alis head",
-   "title_key": "0390def440b27984fd17f7984928b4d008fccac9",
-   "title_norm": "alis head",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wrohw8/alis_head"
-  },
-  {
-   "key": "118e6face8eb099f88319d8226b2bfbc51040309",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Never sell the bear's skin before you have caught the bear.",
-   "title_key": "89bcff4984ef64cfd92633864f75bd9b2896e72f",
-   "title_norm": "never sell bear skin before you have caught bear",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wrphoa/never_sell_the_bears_skin_before_you_have_caught"
-  },
-  {
-   "key": "baeae8ca77f4551c65a2f1db19dc9fb7da1c9b30",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "I think grounded knees should be legal",
-   "title_key": "77391634ec2d4527b0eb7b56bf555407df6fc2ee",
-   "title_norm": "think grounded knees should be legal",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wrrpu9/i_think_grounded_knees_should_be_legal"
-  },
-  {
-   "key": "385c960d93b9f0ea4ec9651484a226c423d1c0b1",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Josh Hokit put this fan to sleep at a meet-and-greet yesterday",
-   "title_key": "6dfea1bc3447e64897d486e3386d8349edb3232e",
-   "title_norm": "josh hokit put this fan sleep meet greet yesterday",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wrsdbp/josh_hokit_put_this_fan_to_sleep_at_a"
-  },
-  {
-   "key": "e9548b44548c566a8210ce6f74f77d5ff5081515",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "New photo of Topuria with a Brazilian fan who ran into him in Miami",
-   "title_key": "0fe565deb1cc99a585077d2f76b6fffa8ff98d65",
-   "title_norm": "new photo topuria brazilian fan who ran into him miami",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wru3m4/new_photo_of_topuria_with_a_brazilian_fan_who_ran"
-  },
-  {
-   "key": "924d8a6f036886b0bf2f3a45087642d2c03b2601",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Finn Bálor - WWE News, Rumors, & Updates",
-   "title_key": "4e5ae04550442f1e76529717ef6cf08819d3c2fc",
-   "title_norm": "finn balor wwe news rumors updates",
-   "ts": "2026-09-27T20:45:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UkQxSkJDUUU4LWo3WVU3emZFRjZhY0pnR210T3VjOEtHX0c3eElueHJ1ZVdZbzNLNUJJRG8tMXljR1RPQWc4Qzc5bXhVYVA4OHZtM2t3OFV3cVRxRFZn?oc=5"
-  },
-  {
-   "key": "df3d616b668cbf5db587421234f206556d1a3989",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Tony Ferguson emotional over Misfits Boxing win after mother's death",
-   "title_key": "a64bfa9b171f1db6162c3716c61076b40ee133d2",
-   "title_norm": "tony ferguson emotional over misfits boxing win after mother death",
-   "ts": "2026-09-27T20:45:48+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS3RaaUpRRS1jOE1HQzU3akFnMjJaUU9zUlRxdWQtODhtQi1vdS0waVg5SDQxWkdaSnhVeU8ya2hiMVNYMTl1SEYyV2JzXzBaWGJQOUtpWEhkdWg2NFlvbV9CNTgzQXd6ZVlDYkY0VnQzZlRWNHl6bVFUS0FLb1k5bkJrMUo2SGw5NHlIeU9WaXNXMmZnVldiTjcySnluN0VMdjJNU3M5aEpTQVhzS0RkUEpFTFEtMjZqaUZWbXFQWDZtZWFsZGIyVW0wc1NaYTdndmJIYlAtSFI?oc=5"
-  },
-  {
-   "key": "95ad152375f34ce206236087f002cc70cc0e98f0",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Aaron Pico embracing UFC 333 changes as he eyes championship opportunity",
-   "title_key": "799a785e12f0edad86d6c9dbf7fff654efb1a705",
-   "title_norm": "aaron pico embracing ufc 333 changes eyes championship opportunity",
-   "ts": "2026-09-27T20:45:51+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORnRvWGJuaVh0WUFzbm9peHN6eG5uMVZ3d2gzYTdHblZVamZ2WUdTNGJWTkg3NnlVdWw3eW5taVJQS0szZkRuUXRaSEpNZXNaRlY3OVNqclpWbkR5Z0xlVmI4dWhmZFdycTJ0ZTdKYTFUdGxxMmNEckxCejZZX20wWEdwSXR4YWpsUHF5UDY4ZWg1ZGdQcXBqcmc1aVFlZk9KYWZUUnMxUUk2b0RYRXpSLXZxNHNneEZTN0FCOXU4T3d4VV9GcW5LOUJid29RVmdiNnNhSmV3M2JNaksw?oc=5"
-  },
-  {
-   "key": "0e04282c6241ed0b49cad9311a1ae84de911db85",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC: Raoni Barcelos coach gives medical update after KO loss to Raul Rosas Jr.",
-   "title_key": "ba271b864637b8bd294d1a2b1f37f73617427b11",
-   "title_norm": "ufc raoni barcelos coach gives medical update after ko loss raul rosas jr",
-   "ts": "2026-09-27T20:45:58+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWXlFb0NoemxFZVBpWUNSYUhMZEZaZTRjNVFTT1VhRm82anAzUzZJT0FWT1RYcmFZak02R05jQ3NLQ2pHdHZnT2c4RU1uWWFkcXJkbm1YbVBiaHE0dFgzRi1lcUhUZ2ZBVE1LdngzS01hVlFVWWhzWkNFazE4VUdZQVlfd0pJZlpVd012OEZJN0lnZTdQRjVqX25FYnFBamRCaEFUaGpHbU0yd082Mmp2YmRPN0xmX3ZPNk9pdE9rcG1hdG1SVjllVTNjTF9EMHRsSFpHMkFkQ1dRaFQ0TkRLanVPa084ckV4Q0NSM21fNlAtaFltbmJzVEpoUQ?oc=5"
-  },
-  {
    "key": "7cd73946fe712d29a49332efe712a62e4e5c1304",
    "score": null,
    "sent": false,
@@ -12815,15 +12672,114 @@
    "title_norm": "jon jones says missing ufc white house one biggest regrets life should have been there",
    "ts": "2026-10-11T18:36:16+00:00",
    "url": "https://mmafighting.com/ufc/515277/jon-jones-says-missing-ufc-white-house-is-one-of-the-biggest-regrets-of-his-life-i-should-have-been-there"
+  },
+  {
+   "key": "048c2f97408a48575cde4b7afcbf92607e0c8642",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "That’s where the fighters pay goes!",
+   "title_key": "76b24013b387981a7e8b0844cf534a7c61171223",
+   "title_norm": "that where fighters pay goes",
+   "ts": "2026-10-11T22:26:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x3gb6l/thats_where_the_fighters_pay_goes"
+  },
+  {
+   "key": "4c56551bcbed8d6e786c74441d91cf2e40a1cba9",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Is Max the only skinny Poly/Samoan in history?",
+   "title_key": "86f04c5e9b3d09682b789ea573463200b877ece7",
+   "title_norm": "max only skinny poly samoan history",
+   "ts": "2026-10-11T22:26:39+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x3kzx2/is_max_the_only_skinny_polysamoan_in_history"
+  },
+  {
+   "key": "5dba0b7ca2c4fd2ba9af5539b98b4619f13ac73f",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Nick Sirianni takes blame for Eagles' kickoff strategy in final minute: 'I cost us that game'",
+   "title_key": "f07b6fa6701999ae33285f813995cf36ee80414b",
+   "title_norm": "nick sirianni takes blame eagles kickoff strategy final minute cost us that game",
+   "ts": "2026-10-11T22:26:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTEhudUJyNXBEZkFUNjhWZGFHeHpXV0Y4Ukt3RENZcmEwMWpKdTNMa2lIYTBpREVicTNXM0JraHVxeDFIQmxJdkhCNUJoNW40SDFOeG1SaXc0WVBwQ3A3UHU0QmJtQ2VFMWd6cF90TVZaYVpSYk54b3QtRnFXOEdDX2Y1NkRjVlNnSUFIYmZsYXFqSjNIQ3h1ajd6b0xoN2dBU1BMZUVOUHhLY09TdWpJdDBoV3BoRWFWWHF2eEdEZkhsM19faTRnR2ZtLS1FSktEdlVGVFBpbGQ?oc=5"
+  },
+  {
+   "key": "af55257a5ee1693406272f2b888dffa0b740b2e4",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "'I lost us that game': The Eagles botched a game they had to win. What happens to Nick Sirianni now?",
+   "title_key": "dfa4bf91b30f1ff2ea6b666f669d81ac276d1aee",
+   "title_norm": "lost us that game eagles botched game they had win what happens nick sirianni now",
+   "ts": "2026-10-11T22:26:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdWZIczVJa3JHVGxMQjJVVmJLT2RHRktod3hKNkN6V0ZDLWlFeUp2dXNZS2pCTUdJZEpVdnFMMkNJMk9hd0Zsb1FUdlBiX0JieWcwTXMyUlpOUUpuYzRzV3ZkR2tyMHRyQjhHLUFKa25VOVdZYXNWS0ZNNDZxY1l0RDNHcktzOTJXTjdtbDFLNGQ2OHFwMDB3Rm13SGJ1ZklSM3VuY0xFZk1hVjFXUWgwUGdDWXo4a2hERXptdXRrYWRPb0F6YUtHUUt6Zi1hNEgtUXBoRG1qMlc0WGZyMDFRZA?oc=5"
+  },
+  {
+   "key": "cb264ac00acc4a66ab601b543dff29b065172487",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Drake Maye is back with 5 total TDs in blowout Patriots win over Raiders",
+   "title_key": "75b04acc647855918d2d69535f9e582d2668455f",
+   "title_norm": "drake maye back total tds blowout patriots win over raiders",
+   "ts": "2026-10-11T22:26:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNml2cDIxRVpxRVlFbWxLam41X3VPM09iaHQyYUUzZ1hmN3RtMVUyV0ZWUThWeEZnb3B1Zng0NnM0alhtMUhlZ0l0dTZEYWRGVUttSVYtZnlEaHc1c0lhaDNPX2ROMldUSVZSLVNjTGVqYmNBZG13NVQ1b0dHSUFYSVVxNmNMY0VEd3RUcXNSZ3JyNnR4TWpjV3NFOFEyanJybkFtenFJRzMzU3cyWGdwQTZ6S1N1eTE3clV4UlZjbmlzYVRNY2t6N0h1dmRmVkRqSV9Uaw?oc=5"
+  },
+  {
+   "key": "003d5f9b46e6eb68cb5161c2d7ad03de2a2a03da",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "NFL Week 5 Winners and Losers: Commanders have game-management gaffe for the ages in tie to Giants",
+   "title_key": "080a2a90f00db1bf41e8e3b5df00d8d899524bf4",
+   "title_norm": "nfl week winners losers commanders have game management gaffe ages tie giants",
+   "ts": "2026-10-11T22:26:39+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSmpQNllNQVdDNkNaUUJTM0tHNGFGNGktWmJpT09pNG5mdGZZMnp5N0FiWFMxNDhUMmlBc0NyM3Etc1VLSWNXZElLUGYwZ3M5Ykd3dWVjRGRYN3ZrdHBHVFhDY0ZrcWN0ZThBcXotSFVDR1JGUlRZaUFPdlk4bkpCcjgxcWdOd2lYazN4cTdzSTJrc0prd25BV3dIVU90ZHZZWDFuYV9IZUZhbVZiZ3BiYkdSWTY1dmtvWkdGZEdzUk5uY1ZFRlNqd3JmVTVNb1pKVS1BQzJVSFAtejBSc193bG1Vbw?oc=5"
+  },
+  {
+   "key": "d7faa760213e0c79bfbae48c25734bb384035527",
+   "score": 5,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Belal Muhammad shares nasty image of Brendan Allen’s staph infection prior to UFC Vegas 122 win",
+   "title_key": "f43a43cef7d7e057a23fce0b454fc8e9dd3730f0",
+   "title_norm": "belal muhammad shares nasty image brendan allen staph infection prior ufc vegas 122 win",
+   "ts": "2026-10-11T22:26:55+00:00",
+   "url": "https://mmafighting.com/ufc/515298/belal-muhammad-shares-nasty-image-of-brendan-allens-staph-infection-prior-to-ufc-vegas-122-win"
+  },
+  {
+   "key": "c364a93a622be08e03ac5cefb7e9764aa8de24d8",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Spoiler] Allen/Duncan winner: Dricus du Plessis 'only one that makes sense' after UFC Vegas 122 win",
+   "title_key": "a8d88d42b310930194e952a0a199b11cdc6e6387",
+   "title_norm": "spoiler allen duncan winner dricus du plessis only one that makes sense after ufc vegas 122 win",
+   "ts": "2026-10-11T22:26:59+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x3fv6x/spoiler_allenduncan_winner_dricus_du_plessis_only"
+  },
+  {
+   "key": "4a626a7292c9005c63383c9e9e47774441e36431",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Christian Leroy Duncan not deterred by UFC Vegas 122 loss: 'Nothing changes'",
+   "title_key": "e88c0d7ea3681e128ada8f925a160c55454396c1",
+   "title_norm": "christian leroy duncan not deterred ufc vegas 122 loss nothing changes",
+   "ts": "2026-10-11T22:27:11+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdlZ6Q2IxaTlBZm5HU3hjR0Vodml2TjZIcEtTLWZfYkk2ZU9rUmExQVo5SlIyLW5VNkpsVmJsemtVY09SZ2lPd2U2cXp4WTlzY0Z1UXFVc0oxbHBWMmlrLVBKZkE3eU9Ndm16WGpYR3BlQmkxSHc1RGNFbTFPNUpIZFFNZVhuOU0wRHNVRmw2TWZTQlBWRlN6OHBVSFBnY3BSR1hhNmVlYU92QVh0Smdnb2hoNURmaURZVHRKYjdzdFA2eUdRbHRoVHdqYmJLd0Nub3huQ2lhd1Rja3c?oc=5"
   }
  ],
  "stats": {
-  "descartados": 4,
+  "descartados": 3,
   "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 17,
+  "llamadas_llm": 3,
+  "prefiltrados": 6,
   "recogidos": 191,
-  "unicos": 94
+  "unicos": 86
  },
  "telegram_offset": 958387804,
  "version": 1
