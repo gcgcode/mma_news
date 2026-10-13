@@ -2,171 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "787a8a385ab130724f7fe28965724ee1ba92be64",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Raoni Barcelos first statement on video since the Rosas fight",
-   "title_key": "8e4b3a1c5e46ba1627959aebaab9ac0670c3718b",
-   "title_norm": "raoni barcelos first statement video since rosas fight",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wsvyyg/raoni_barcelos_first_statement_on_video_since_the"
-  },
-  {
-   "key": "76d6f3446619cbe52200bfac3255cc9e94861a8e",
-   "score": null,
-   "sent": false,
-   "source": "ESPN Argentina MMA",
-   "title": "Bio - ESPN",
-   "title_key": "9413c19c036a7494a72d5bc49684eafe62e09ae7",
-   "title_norm": "bio espn",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pUDFSNXNaa2tqMVNvd0pPdk92TjVId21oMnB2c09NYTVvNE9RWEpsbFNWaHp4Nl9fTERtVW1Md0RaMkFYX0F3ZUR1NjNMRUM2eHZxVG9QWTJTSWp5SUtQRzltLUd3MVIyTHVhaGVOTWhqV28?oc=5"
-  },
-  {
-   "key": "d792e2baea3faf2872eff9c21e482c0b91c6b9e7",
-   "score": null,
-   "sent": false,
-   "source": "ESPN Argentina MMA",
-   "title": "Bio - ESPN",
-   "title_key": "9413c19c036a7494a72d5bc49684eafe62e09ae7",
-   "title_norm": "bio espn",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93MmhCcG04X05DXzVqT0dqYnczT1ZUdzkxbm9mbEhwRmV2MXdCQTc1anZZbUxVM040dzhZeDJfU3JqQzhmVDhHZDhfb09xRUcwdXRzQm1lLUFZRkV1Z3JULWVlVHh2NzRjYWtjS094UXVXems?oc=5"
-  },
-  {
-   "key": "f6388e5727eaf662efaeb7e0ebbf3832d61edb2f",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Fights we need to see next year",
-   "title_key": "c98d939a2c3603eb6f879a346f1c4be9e4eb57b8",
-   "title_norm": "fights we need see next year",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wsu8ev/fights_we_need_to_see_next_year"
-  },
-  {
-   "key": "e95a9a70b5acef80fb35d100bf95a0eb61dc459c",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "🚨 Raoni Barcelos speaks for the first time following the scary ending to the Raul Rosas Jr. fight.",
-   "title_key": "3596b13551c6cd24cf4c7c60d67725b51ed0e552",
-   "title_norm": "raoni barcelos speaks first time following scary ending raul rosas jr fight",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wsv49o/raoni_barcelos_speaks_for_the_first_time"
-  },
-  {
-   "key": "b61540c716fae9d9d2124f3e29befdf42dc48353",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Gaethje Explains How he Cuts Most of his Opponent’s Faces Open",
-   "title_key": "e2e754e0f6ce990570ec9003b8a993932e214dd2",
-   "title_norm": "gaethje explains how cuts most opponent faces open",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wsvrd2/gaethje_explains_how_he_cuts_most_of_his"
-  },
-  {
-   "key": "72fc9d666a588fa26db183cef6fb0c887829b91f",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Floyd Mayweather vs Terence Crawford fantasy fight predicted by current boxing superstar",
-   "title_key": "aaef8abbaab46020b81bc24f3b99f1309a8d5fd4",
-   "title_norm": "floyd mayweather vs terence crawford fantasy fight predicted current boxing superstar",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://bloodyelbow.com/2026/09/28/prime-floyd-mayweathers-mindset-would-be-difference-maker-vs-undefeated-boxing-legend-says-teofimo-lopez"
-  },
-  {
-   "key": "9b6ceea78cfb45386d1c97ca2e9a9921dd2113a3",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA breaking (EN)",
-   "title": "Justin Gaethje Has A Cold Response After Ilia Topuria Claims He Tampered With His Gloves",
-   "title_key": "51e8fa39ece7b1d7c828828b5d8a25f16d1a3a94",
-   "title_norm": "justin gaethje has cold response after ilia topuria claims tampered gloves",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVYzSHVmbzZ6MklBeV9KWGVnS21mTmJxYWdaNFpqNldGcmV4aGZKalplcXJWR0RNMkpqeDlFSVlOeVhtcmVrdG5lZXItX3FMWUZRem9sclFDNmtQVUZUMy1lR0RTcTZkNnQ5a2xkdi1wUkNlZU5scnpsRlRBUlNsQjA5RlM2VnBJZlZXUXV2a1cxMmlMREpvN2J1YVk1U0p4UmR0MkZPSmhJZjRWVDZUaVpuRFpra0tzMDBIQ0pfYUcxN25Dc0J3?oc=5"
-  },
-  {
-   "key": "257b8003d40c95ab66506a5b3d6c7cc7b23682bd",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Raúl Rosas Jr, pensó que Raoni Barcelos había muerto tras quedar inconsciente",
-   "title_key": "c102eebce06ace8f400ce0c785d8825db4da18a5",
-   "title_norm": "raul rosas jr penso raoni barcelos habia muerto tras quedar inconsciente",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdVFTSFdkQlI5aHpvdjdUUDdwVks0NTdiWjFNcnNhSExoNEZQZ25NYlE3WUUyYlliaFJFSXc5ZmVWMEJHSndQdjQ2ZWNGdVcwbml3R0ZqTW9leldsUHhtYmNBdFgtbG5paXhCUVF2Qk0zc3R5Mjg4aWxIN09yQ3ZNZW1fR2x1VUhQd0hpWjNBdW5MZ0k3WGlNT2JDTDBvRVR3amhSRW1YNFFIdDN3WmVhWS1PMGVaS0xhcGNvcTZzVGd3ekhZbDBxYVNjcw?oc=5"
-  },
-  {
-   "key": "a9c44a7c91d492fb7bdee9c4a4125b2fb5311bba",
-   "score": null,
-   "sent": false,
-   "source": "El Rocktagono",
-   "title": "Heather Hardy demanda a Jake Paul y MVP por más de 10 millones de dólares tras su pelea con Amanda Serrano",
-   "title_key": "56b21d212a6d86bfc074d4b090042f3405e1c6a3",
-   "title_norm": "heather hardy demanda jake paul mvp mas 10 millones dolares tras pelea amanda serrano",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaXhKWk95dk1RdHgwd2dRd3lJMnpXTXZZYjBadm84WHpUNGF3R0czVXJOZmE2YzV2YlAzZzNReTVuWUpsY0FTa1MyaHNPNVBKd3J4czF4TDVnaGE0MVVZbVVwQnhmbjFMd0pfS2otSVB6MkZZdHpibGQtc1Y1RlMtSlFlT1dkamdJRmltU3FuSHJ6M0lwdktuVHJXdkl6SGxsbzgzenNwMHU0TGJZcVBNd1RXZHUwNHJ6VHRWbmVJZExNc0F1bnlFbmdJbVlXUXFnTnc?oc=5"
-  },
-  {
-   "key": "e5baf66ef179cf20937683193c068c2f859eca5c",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Eagles QB Jalen Hurts leaves game vs. Bears briefly after hard hit out of bounds, evaluated for concussion",
-   "title_key": "ba8561074314038c19046ea88b214a7e99b74c80",
-   "title_norm": "eagles qb jalen hurts leaves game vs bears briefly after hard hit out bounds evaluated concussion",
-   "ts": "2026-09-29T02:17:36+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNajRGbzhXU1JZZmJPc1lPYW5wRFlNMnpuNkNNdkYtWGlDWWlkY0Z2eFlzdE5ZN01ZZlVfcGp5c2lXZ1UyS3o4NUdnYUVaNC0tZVdUcFpHT0dBSHZTWGwzcTFDOVRhOXdCT1A3anpRTjhDME9KTG1rMjRNaHk2eC1OdXpRWlprLWE1amVJZnlPQ1dka1ZzdndSeGdERjdkZFJDX20xeURlbzJ5WEEtMTlmOEpKS2RFSjZVbkJVRWQxRTZjQjRwT2hNSTBCUkhyRHVXTV9uMHhyeUdsb3NnYnJMQ3hBYjZfZ2dhTmR6R0JmVklxX2VfelBVTUpwTDdjNjg?oc=5"
-  },
-  {
-   "key": "c08ee6532acea38303a4a0c2a881fb8169a0cd1b",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Raoni Barcelos shares video from hospital bed, vows to ‘come back stronger’ after terrifying UFC Vegas 121 loss",
-   "title_key": "e6db9ad8fb5e675e96fe0ecbca7ecb4ff7c89939",
-   "title_norm": "raoni barcelos shares video hospital bed vows come back stronger after terrifying ufc vegas 121 loss",
-   "ts": "2026-09-29T02:17:52+00:00",
-   "url": "https://mmafighting.com/ufc/513107/raoni-barcelos-shares-video-from-hospital-bed-vows-to-come-back-stronger-after-terrifying-ufc-vegas-121-loss"
-  },
-  {
-   "key": "3a0b16384ba05a87748486e724375bca9b8f7020",
-   "score": 5,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Paul Felder calls Raoni Barcelos situation ‘by far the scariest’ moment of his career and encourages Barcelos to retire from the UFC: \"Hey, your body gave out o",
-   "title_key": "c064e857c7a56cf1072a215ed6c5286882d3cbbc",
-   "title_norm": "paul felder calls raoni barcelos situation far scariest moment career encourages barcelos retire ufc hey your body gave out you some degree unless comes back that just some fluke thing but get rushed trauma center you re 39",
-   "ts": "2026-09-29T02:18:02+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wsuiew/paul_felder_calls_raoni_barcelos_situation_by_far"
-  },
-  {
-   "key": "c697df4d601cff1650be854cf6361e38c552f010",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "On To the Next One: Matches to make after UFC Vegas 121",
-   "title_key": "665e4a3b40b68ce57093e6f08ad9d140646433eb",
-   "title_norm": "next one matches make after ufc vegas 121",
-   "ts": "2026-09-29T02:18:03+00:00",
-   "url": "https://mmafighting.com/ufc/512957/on-to-the-next-one-matches-to-make-after-ufc-vegas-121"
-  },
-  {
-   "key": "1337521f2b86d1a015702654b94dda6d153fc2d9",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Alexander Volkanovski, Movsar Evloev recount past training session ahead of UFC 333 title fight",
-   "title_key": "2040e08b8e3300626f022f58dca2bdfdfd7e509b",
-   "title_norm": "alexander volkanovski movsar evloev recount past training session ahead ufc 333 title fight",
-   "ts": "2026-09-29T02:18:06+00:00",
-   "url": "https://mmafighting.com/ufc/511770/alexander-volkanovski-movsar-evloev-recount-past-training-session-ahead-of-ufc-333-title-fight"
-  },
-  {
    "key": "52fab3230d2252c32a16d4e025522053394fb8c7",
    "score": null,
    "sent": false,
@@ -12881,15 +12716,136 @@
    "title_norm": "julianna pena set combat sports return after 17 month layoff",
    "ts": "2026-10-13T00:48:20+00:00",
    "url": "https://mmafighting.com/ufc/515342/julianna-pena-set-for-combat-sports-return-after-17-month-layoff"
+  },
+  {
+   "key": "a668a37aef85a4afbeb02972842dac5b4b96bc93",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Alex Pereira has publicly challenged Valter Walker to come spar him after Valter said he wants to fight him, and has said he will give him his entire fight purs",
+   "title_key": "84a5bd4db7836eedf17048fa3e8a2fa976396892",
+   "title_norm": "alex pereira has publicly challenged valter walker come spar him after valter said wants fight him has said will give him entire fight purse if can win spar",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x4lhxe/alex_pereira_has_publicly_challenged_valter"
+  },
+  {
+   "key": "c7aa2d8a02c3e8b07ebef6f28b8ea3f77f7772c7",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Brendan Allen: ¿Choque En Puerta vs. Du Plessis?",
+   "title_key": "2b2dbb9ecbbf96c4019d08f38e8f766fb2898af9",
+   "title_norm": "brendan allen choque puerta vs du plessis",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNFJyVlo1WUxEZVRNQlMzRkdmR2E4aUxtX0xoY2ZqSnU4ZWgtVkx5U0VaaWFrM0xrODVaLTVSanBiNTVrNG1zdlNuUlgxelBCREMxMEVpVGQ2LWV2X1h3RkZUcEp4U2pLTF9MTVFtdVc2Zm9SU19BSDRIZG5JQmNQR21n?oc=5"
+  },
+  {
+   "key": "23db1ad555849233a0ab2b37826d556c261f61b5",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "DJ Moore es descartado por los Bills para el partido ante los Rams del Monday Night",
+   "title_key": "6fb1e8c5a2a0cba5274cd5ddf0fcef2dbebd7ddd",
+   "title_norm": "dj moore descartado bills partido ante rams monday night",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdHhCLU05LWdWcnBvTGxqVzZKUU94S1VNZGo0ZmpkeXJVdEtEVXRuRG5xcjB0YkN1Nlh5UklNaDRmVzNIRmlsSXc1ejAxSHdOVUZMVVUxMFBfOEFQNjVlLV9pb3ZnUEFQbVRaZWU1NndXa2dZMHYzVUxLM3RTSmdrWVhLbGRUemswODBPbHlVU01IZ0l4WE53bU1VZzI1MThtUFMtdm92eDJWTWZ0VS1DSVhpcGIyd2pfNHpxMEdEc1JLQjRaa3lqN216eFd0alY2eGJqdnB2SmQwbjRpWWZvUllTMGpsVUthVGlUQVY5UzhWbzl1U2fSAfYBQVVfeXFMUHR4Qi1NOS1nVnJwb0xsalc2SlFPeEtVTWRqNGZqZHlyVXRLRFV0bkRucXIwdGJDdTZYeVJJTWg0ZlczSEZpbEl3NXowMUh3TlVGTFVVMTBQXzhBUDY1ZS1faW92Z1BBUG1UWmVlNTZ3V2tnWTB2M1VMSzN0U0pna1lYS2xkVHprMDgwT2x5VVNNSGdJeFhOd21NVWcyNTE4bVBTLXZvdngyVk1mdFUtQ0lYaXBiMndqXzR6cTBHRHNSS0I0Wmt5ajdtenhXdGpWNnhianZwdkpkMG40aVlmb1JZUzBqbFVLYVRpVEFWOVM4Vm85dVNn?oc=5"
+  },
+  {
+   "key": "522763e489ab1234ca149beaa894c0c607a74191",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Arch Manning y Texas salen del grupo de los 5 principales candidatos al campeonato nacional",
+   "title_key": "e64f285a7c121b7c75fff63e44470d7ff2476956",
+   "title_norm": "arch manning texas salen grupo principales candidatos campeonato nacional",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWJ6a2VyRkNWdm94ckFjNzRKY0pFWXhJUkZmRkhLU21Tb21HYUxyeUl0aFZjRnJ3ek04cFhUMmlJd3VZWFFRS1hKZVkxT1lncFNycEdiN2d0QmRFaVBvM3BCTndUeEgtVV9rQjk1d3VIc2Ftc0U5VzM3M1BpMUdPM1lYanBPcnhQdVhWMmhDcDJNeVZheE0wQ292RURGdmRQN3hLMko1M0t0dm9Oc2E0VnVobGdTcG1jWFdRYnV2a3Y5Z9IBxwFBVV95cUxPZWJxZ0w5dlNyRVdyam85anFIcTRCMHZKazJGdWhrTUJabVVlRXRWUDVKRmFTbTBiaVZTMnBjVTE0SzQyOG9nTnpVUjg2OFNBdEZVbEh5ZHhWR3dGY1liR3FzekprVFlHTEM4bVdxbzlnTkxQVDVTZVhUTV95NHhOUWNOQTgxTzA1VE9YUDNIZTNGcGRrUi1FbE9uVFgyOVlTcXU3Q2NfbXJVN0ZJQjlXVnB5ZXM0N1NHbVMtVm5jRkd2LWZyU09z?oc=5"
+  },
+  {
+   "key": "ec1269cbd393384007e31166507b62921b248e6a",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Alex Pereira backs Paulo Costa to beat Magomed Ankalaev with pressure",
+   "title_key": "dbab193ab7d36bc1548d752bd3226a228ce3aa09",
+   "title_norm": "alex pereira backs paulo costa beat magomed ankalaev pressure",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://sherdog.com/news/news/Alex-Pereira-backs-Paulo-Costa-to-beat-Magomed-Ankalaev-with-pressure-203183"
+  },
+  {
+   "key": "40037b9100e7fdb7a3b593e7425c90c8c710c486",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Jorge Masvidal says famous fighters sang & brought Kayla Harrison flowers",
+   "title_key": "4ff618e32d66cb921c8099d69f6019f332ae213b",
+   "title_norm": "jorge masvidal says famous fighters sang brought kayla harrison flowers",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://sherdog.com/news/news/Jorge-Masvidal-says-famous-fighters-sang-brought-Kayla-Harrison-flowers-203182"
+  },
+  {
+   "key": "c01424fb3d1a8aab31bb53f8c480d57e448670be",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Kayla Harrison questioned her recovery after neck surgery: ‘But I'm back’",
+   "title_key": "95adbdf7e80a7c21670efff9e33b40562baf0c2e",
+   "title_norm": "kayla harrison questioned recovery after neck surgery but back",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://sherdog.com/news/news/Kayla-Harrison-questioned-her-recovery-after-neck-surgery-But-Im-back-203188"
+  },
+  {
+   "key": "1da669537ec7785a045c73d7357b308f6ab0e5bf",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Buffalo Bills derrotan en tiempo extra a Los Angeles Rams, en auténtico juego de ‘Super Bowl anticipado’",
+   "title_key": "e93876f7ff3737fee4ba271fc933b7598e1f5381",
+   "title_norm": "buffalo bills derrotan tiempo extra angeles rams autentico juego super bowl anticipado",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa0xBakFQanowWlN3VEpJTEgwY2o3NkVrMkQ5T1JaT2xnQldpOF9lWXFvYV9oWVlfUHotUmFnd0lUc0J5YXA0c1Q2bFFQVXY1TnNXQTlGak5rMzhBMDVfREFPTnN6U0gtdnp4UEJkaExWendvTFFWZEJWcm5hXzgxZnVmMEZNQVM0dFRZbFhOZVp0cjliTjBoMFF0emx1dTlVdE05dWFJREZEX0Y1dTVoTWdubXU2ZlpvR1pkRFdldzZDdWtLMHNsTlJBeHI5NjBpaXJsNHZUOHhya1hYcnNrT3N2c9IB4wFBVV95cUxPa0xBakFQanowWlN3VEpJTEgwY2o3NkVrMkQ5T1JaT2xnQldpOF9lWXFvYV9oWVlfUHotUmFnd0lUc0J5YXA0c1Q2bFFQVXY1TnNXQTlGak5rMzhBMDVfREFPTnN6U0gtdnp4UEJkaExWendvTFFWZEJWcm5hXzgxZnVmMEZNQVM0dFRZbFhOZVp0cjliTjBoMFF0emx1dTlVdE05dWFJREZEX0Y1dTVoTWdubXU2ZlpvR1pkRFdldzZDdWtLMHNsTlJBeHI5NjBpaXJsNHZUOHhya1hYcnNrT3N2cw?oc=5"
+  },
+  {
+   "key": "937548987a149e1dd49e4ea55411fa65dc8dcb17",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "David Mora: \"Voy a ir a arrollar\"",
+   "title_key": "f8db85bd117ba23eb04280cb4d588844d5e30862",
+   "title_norm": "david mora voy ir arrollar",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vTG1TNUJuYkRJNTI1TXI1Y0Qxa3EySy1qWXNmNGhVVUhZVmdjV3lJbDgySEtKblp3UzlNTV8xcllCUUt5WVI0dGF4TTJCU1NXR3VtZlREYW5oeWJGODRIMXVESnFFcWtpbUIzcnIzTXJyZmhvcG83RGNR0gF6QVVfeXFMUHpBa0ZuVklxb0lkeGZtOGRXOV9lRHpZZ3pWQzRpZ1czQjk1aTA1ckFsY20xZ0JKTldCMWRQVkJmdTBPQ1BHT1QtVUJJNmxjcVN0Y0FVYzFQRWlaUWw3RzRsUnVISVRaa2V2ZWY0d0xWd25PNUhJTjJCRmc?oc=5"
+  },
+  {
+   "key": "9a345af0993b77fb17cec5e05d5a57ebf7890f29",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Exclusive: Ketlen Vieira suspended 6 months after positive test following Cyborg fight",
+   "title_key": "119d8165274dfa2776c6c4a23b5bdb1679a5d459",
+   "title_norm": "ketlen vieira suspended months after positive test following cyborg fight",
+   "ts": "2026-10-13T07:19:27+00:00",
+   "url": "https://sherdog.com/news/news/Exclusive-Ketlen-Vieira-suspended-6-months-after-positive-test-following-Cyborg-fight-203196"
+  },
+  {
+   "key": "40c2d95be427d6cf5931291e645dc0cd577cf83f",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Ismael Bonfim removed from UFC roster after 3rd weight miss, knockout loss to Francisco Prado",
+   "title_key": "d4376d267ba69eca05fb5456e219fbc1fa4aec4c",
+   "title_norm": "ismael bonfim removed ufc roster after 3rd weight miss knockout loss francisco prado",
+   "ts": "2026-10-13T07:19:59+00:00",
+   "url": "https://mmafighting.com/ufc/515413/ismael-bonfim-removed-from-ufc-roster-after-3rd-weight-miss-knockout-loss-to-francisco-prado"
   }
  ],
  "stats": {
-  "descartados": 3,
+  "descartados": 0,
   "enviados": 1,
-  "llamadas_llm": 4,
-  "prefiltrados": 29,
-  "recogidos": 190,
-  "unicos": 108
+  "llamadas_llm": 1,
+  "prefiltrados": 10,
+  "recogidos": 171,
+  "unicos": 87
  },
  "telegram_offset": 958387804,
  "version": 1
