@@ -2,50 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "cdf8e4da1bd24c2e46ad1073ea5fa5d98622e5e5",
-   "score": 1,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Could someone with a FloCombat subscription access this event for me?",
-   "title_key": "3b5996c1e724e73f10e2ad1743ed8f7720ff1e42",
-   "title_norm": "could someone flocombat subscription access this event me",
-   "ts": "2026-10-01T19:14:37+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wv7geh/could_someone_with_a_flocombat_subscription"
-  },
-  {
-   "key": "7e268e18c917136ba8bbdcc9c9584db0c9804f70",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "How will Joshua Van continue to grow?",
-   "title_key": "b9f0d9b8597a7ffdf675934604efb8ca5e729479",
-   "title_norm": "how will joshua van continue grow",
-   "ts": "2026-10-01T19:14:47+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wv72f1/how_will_joshua_van_continue_to_grow"
-  },
-  {
-   "key": "255ebf3b313775f9bf91cf7c15be200942581c9e",
-   "score": 8,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Brandon Moreno vs Charles Johnson Announced for UFC 335",
-   "title_key": "4abc3ad012303b177a0b2d9dfd052012a07ea1fc",
-   "title_norm": "brandon moreno vs charles johnson announced ufc 335",
-   "ts": "2026-10-01T19:15:21+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wv6uhc/brandon_moreno_vs_charles_johnson_announced_for"
-  },
-  {
-   "key": "4afe3660dd3fa2f7fae5c1fd29e8b95eca247a77",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "JRE MMA Show #186 with Sean Sharaf",
-   "title_key": "38516a971b2f690a4e61e5fc1f6be8843672470f",
-   "title_norm": "jre mma show 186 sean sharaf",
-   "ts": "2026-10-01T19:16:38+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wv5bo3/jre_mma_show_186_with_sean_sharaf"
-  },
-  {
    "key": "8c68573f2686537d243fd6289b197b7333cfdb77",
    "score": null,
    "sent": false,
@@ -12320,15 +12276,191 @@
    "title_norm": "farid basharat release ufc unfortunately organisation just isn what used be they re heading different direction what we all grew up loving",
    "ts": "2026-10-15T19:14:20+00:00",
    "url": "https://reddit.com/r/MMA/comments/1x6oxt5/farid_basharat_on_his_release_by_the_ufc"
+  },
+  {
+   "key": "ac68b14c2473a29fd4b36f46e271ff0c062ad86d",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "El agente de Dieng, tajante: “Se quedará en el Valencia”",
+   "title_key": "96dd81cf98bcad5222c3f791267ef4934025e551",
+   "title_norm": "agente dieng tajante quedara valencia",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHJIeDFHWHUzQmhfVUVjOFpNZjF0d19yemNfeFdJV1cwTE4wVVRBdGRrX3Fnem5TcFBEYXgzbm5reEtUX3NDWFJDRGVRUjVGbDMwcTBPdXJobE0wZnVXTllNNGR4SmRHUUZtV0tnMk9xRXFES2EzM1FrWXNIT0l5c1dzbHRlNVg2TnFIUUNSVUtWT2VCaHdBaG11YlhZMGFVZFNCaDJTai1vTzkt0gGsAUFVX3lxTFBQckh4MUdYdTNCaF9VRWM4Wk1mMXR3X3J6Y194V0lXVzBMTjBVVEF0ZGtfcWd6blNwUERheDNubmt4S1Rfc0NYUkNEZVFSNUZsMzBxME91cmhsTTBmdVdOWU00ZHhKZEdRRm1XS2cyT3FFcURLYTMzUWtZc0hPSXlzV3NsdGU1WDZOcUhRQ1JVS1ZPZUJod0FobXViWFkwYVVkU0JoMlNqLW9POS0?oc=5"
+  },
+  {
+   "key": "79214407ffef1768c96c67d50c9c50adefaf1f41",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "De 22 días sin fútbol, a seis partidos en 20 días",
+   "title_key": "fa3f213149ef1f5e72ddecf4e388e6c71778f0be",
+   "title_norm": "22 dias sin futbol seis partidos 20 dias",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1BMQ0RtY1hmOE5fX0tuZkFCWDZHVHlRTFRTaVd2dGRMMUJUam85Q0MxSFgwc201d2pwbTJyNkpMRERNMFJRd21SMmhUa2pDUnd6QmhfVUJGRWtobjhpQ1RYV1Mzd1g1bDRab1d4STdvSFVDOUUyYTdfdzVYUlN1UTdWZUlaRjNQdXc4OXFYNFd2aFdGdmdSUnN5LVU1c3JVRDVtXzFsTdIBpwFBVV95cUxOZ1BMQ0RtY1hmOE5fX0tuZkFCWDZHVHlRTFRTaVd2dGRMMUJUam85Q0MxSFgwc201d2pwbTJyNkpMRERNMFJRd21SMmhUa2pDUnd6QmhfVUJGRWtobjhpQ1RYV1Mzd1g1bDRab1d4STdvSFVDOUUyYTdfdzVYUlN1UTdWZUlaRjNQdXc4OXFYNFd2aFdGdmdSUnN5LVU1c3JVRDVtXzFsTQ?oc=5"
+  },
+  {
+   "key": "52562819a958c53dffa98c3f8aeb5e1c2deaf8b2",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "Pereira vs. Ankalaev - ESPN",
+   "title_key": "029050a630aa1fd026209a00e7f946c9a48f5dc8",
+   "title_norm": "pereira vs ankalaev espn",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDVOU2xKa25yTGp5dEJvdjNuSW51WEZQamtTcjFxWFBUY0l2NWpNaUNfY1JQYXdFYVpfaG9BNG0tSWRUcVJNSTdmNktwUFR5QTBsbU9QQ1BjX0tPeFJvZnp4ZVNpUlVlRXd0Y04zQzhMbGdWc01ETTFEa085aXpIZlIwNnFpVjlGSTZlMUI3c2VENGRSNnN2N1RMSy1KMTd5S1h5Z1IySDRabEdFMEhSeWl2MUxodzRrdEpB?oc=5"
+  },
+  {
+   "key": "071bd98fe1c8ee9363affd6a22d268677dc6316b",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Atención al golazo de la “Maga” Ovalle ante Jamaica digno de un Puskas",
+   "title_key": "c7fa861bed130754b562a9c616b04cf907dac73b",
+   "title_norm": "atencion golazo maga ovalle ante jamaica digno puskas",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDB4VTlNRDYtamhGVUJtNnRlMnZQaFRwSGUxWDBtRTlieVp5OE03TnVtb1J6Q24tSUdYcGw2MGFDY1BVZWwyZjZCSzVwTFF3V2FBRVFQbjkwQm9qaU9KdTNoLXVISkhkcEl5QTJUcUsyU01vV2JiM2F0NWVOc2llTl82OXZZYXo1NWtiWjM2WWlYVHd5TGcxWDhKRVNidDBfNXZOT0ZnM3FZQ2JB?oc=5"
+  },
+  {
+   "key": "c9cbf96efd77abbbd8492a0553b907d289a15913",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Did him dirty 😭",
+   "title_key": "99f7283e5bbbb764ce2c6354cef928bf59053eef",
+   "title_norm": "did him dirty",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x6u47u/did_him_dirty"
+  },
+  {
+   "key": "509b1080d9bf901a8fe1079b558f342c6bb326ba",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Paddy Pimblett provoca a Topuria: \"No creo que vuelva a ser el mismo\"",
+   "title_key": "1f1f65535a98ed687b4e9676b23544c2938fa996",
+   "title_norm": "paddy pimblett provoca topuria no creo vuelva ser mismo",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmZnZm15ZGZmZjFIRURnRXpZUnJjdmtBVTJjaW9uODl0QU9OQWNub0FmU1RNRWxuelVSajVGSTFIdGdqak8zdkc4ZkdnNkg0bHlmaHBYV0g1eUprRHpCYUZKQmhjRUZkOXVhZXR3MERvaUQtSkJzWlNmRnJrTXhweFQ2OE5ocUtieEhfRnRjLUdETmgzYWpYbtIBmAFBVV95cUxQTFR6MTNfZU9mX1BPeGd4SXQzMjFBM2lTS1pIWncyUTlhanZZSVRGbWk0Z0lVU1otQjd6QmZ1YmJJckpsZk5SWEZOWXBUYy1VQU1ScFB5RFVGSnk2SHBPTGNYS21sUkZKb0hSbnpKaVUzcTI5Q2U4UjE5ejh6TnlNTUUwYnV6MUQxalNhVkhEeEI5eU42bnd5bA?oc=5"
+  },
+  {
+   "key": "954483aab57288c420154655360d9a1d28757203",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Payton Talbott and Farid Basharat back and forth on X",
+   "title_key": "1c12dc0f8b64b2e63dc146d8ef2dc91abcf889ff",
+   "title_norm": "payton talbott farid basharat back forth",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x6xp80/payton_talbott_and_farid_basharat_back_and_forth"
+  },
+  {
+   "key": "8cb7d5aa93b71cd14723b83f3d7f1efac656c49d",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Sean Sharaf calls out Jon Jones and believes he would knock him out.",
+   "title_key": "99d81f518e1859cc1cb83de4d6fbf485bc9f6815",
+   "title_norm": "sean sharaf calls out jon jones believes would knock him out",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x6z0m3/sean_sharaf_calls_out_jon_jones_and_believes_he"
+  },
+  {
+   "key": "0be94e68a070cdbbae7e47e0dc50ee804baafcdf",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Ilia Topuria calienta su regreso tras perder el invicto y ya está más cerca de su primer combate: “Seré yo quien lo haga bajar de división”",
+   "title_key": "3ea6044c53396029a9d697a43a129d90bbfd4fe5",
+   "title_norm": "ilia topuria calienta regreso tras perder invicto ya esta mas cerca primer combate sere yo quien lo haga bajar division",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcjhvZjl4VDlGbTBlek9tQmFSQi05UjNka0NiZmZIMkNLYjNMWk9zX1ZTSlo2dHJWbUlLRlU5THFrVmx2cG1DY1phcmlvSkRoNUw4cDlLbmFwYVJnaUgzT3c1ZWxsdDkzdTRHSGhWNnBtMWdxMktsSHJoQ2d5YnB3eG9ILXN0TElDNnUyVy1scWhpZmJKdUZMaHJ0SzhSRmt3Ny1VanAyMk1aNUh4bV93OWI4MUE0OHZxQ0luMWJ0RnJReDhpdk9sQkJHLXAzMmZLc2JCZnlKbGEwUWM1cDhNZGxxcDFTejlUYnVNYTItSlBKdXdSYnVEcGV4aXJWQjczcVpiRWRLS2ZDUG0xUnZwb3BuTTdTM1lHMHBpd1h3bHJNRXN4M1NZTnZWMWVaWE5hb3fSAbICQVVfeXFMTnI4b2Y5eFQ5Rm0wZXpPbUJhUkItOVIzZGtDYmZmSDJDS2IzTFpPc19WU0paNnRyVm1JS0ZVOUxxa1ZsdnBtQ2NaYXJpb0pEaDVMOHA5S25hcGFSZ2lIM093NWVsbHQ5M3U0R0hoVjZwbTFncTJLbEhyaENneWJwd3hvSC1zdExJQzZ1MlctbHFoaWZiSnVGTGhydEs4UkZrdzctVWpwMjJNWjVIeG1fdzliODFBNDh2cUNJbjFidEZyUXg4aXZPbEJCRy1wMzJmS3NiQmZ5SmxhMFFjNXA4TWRscXAxU3o5VGJ1TWEyLUpQSnV3UmJ1RHBleGlyVkI3M3FaYkVkS0tmQ1BtMVJ2cG9wbk03UzNZRzBwaXdYd2xyTUVzeDNTWU52VjFlWlhOYW93?oc=5"
+  },
+  {
+   "key": "8c9cb8b6dc91e0cc9d60970ba83bf0f98848d58c",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "How to Read Betting Odds: What do the + and - Mean in Betting",
+   "title_key": "a1c79d58ab106c8f9b5a75c534392aa3be92c9f9",
+   "title_norm": "how read betting odds what do mean betting",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sVjg1aWpPY0k4N25UbVp3N3pJaDBIdjBWaDJ4aDF4OVppU3RQRWZFYjQ0d19aN2t1YXVISUQ4R2VpZjZGSF9QVUtxVFNOMzRFRU5KcmxsQzF5VDJscjByOTVoMEthQnh2ZnB1WldGYUUzYWZ30gF0QVVfeXFMTWxWODVpak9jSTg3blRtWnc3ekloMEh2MFZoMnhoMXg5WmlTdFBFZkViNDR3X1o3a3VhdUhJRDhHZWlmNkZIX1BVS3FUU04zNEVFTkpybGxDMXlUMmxyMHI5NWgwS2FCeHZmcHVaV0ZhRTNhZnc?oc=5"
+  },
+  {
+   "key": "94678e5acd2bc40bb20b7e365ecf765a7b77b831",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Dodgers move Shohei Ohtani back to leadoff while facing NLCS elimination vs. Brewers",
+   "title_key": "702da2bc7e570177c7a64481a721d53c35540953",
+   "title_norm": "dodgers move shohei ohtani back leadoff while facing nlcs elimination vs brewers",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkJvaGhPZC0zdDBMUGo4aUNEYXJzeXc1S2QxY0VYY0l0aVdVSjVfcHhNdDg2NWNMQ0FERGZIMG4zRDhFc1ZDLVpTdXVlMndGVDUyNWItT0oyMElYeGZSRXdvYWxTR1FObEh6NFdQRXVvWXZ5aG1lYS1Sd1hpR0hiNHBEQmhnTzRhcHVSbGk2S0JKdkpTNi1DU3pkT0l2dWltdDc0R3J2S0lHamRfaXRJeGwtVHR1SjQ1Y2oxNmhpYkVOWml0Y0tjUHNaaUs1NjBv?oc=5"
+  },
+  {
+   "key": "c3e1d87739f9f3aa90429974eca6c10a73687da8",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "UWC regresará el viernes 20 de noviembre a la Arena Tecate",
+   "title_key": "f87b3af0b61a5bcabd343e3ea1f67453f8973dc5",
+   "title_norm": "uwc regresara viernes 20 noviembre arena tecate",
+   "ts": "2026-10-15T22:24:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOanBUZUJHRnRFZkF1bWZvTkZQNkNwaXpVZDhQd3piQTJPd2JGT3UzNjBoVHV6ZEd3Q21vcXBqTUQ5Zmx0MzZNQkp5X2pLN1pNOFdSZVAzZ19vR1Rrd0JhWmozX3ppQlJBelBaQTZHSk9yVUtZTzFPUGVtMXBVd1pBQ1dQUU5oZGpSMGduQm1vSXVYQWZPa3RuSVY1VzlmYnNwQUx4VXpubHdDNmMtSU8wRWwxWmJYMzhKaWc?oc=5"
+  },
+  {
+   "key": "187eb11cbeef98dd6a88297c4b8c63063b6867d1",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Raoni Barcelos still awaits diagnosis after health scare, admits MMA retirement ‘hasn&#8217;t been ruled out’ yet",
+   "title_key": "ab870d1f51f09a02ee9fcdc91383297b6623aae8",
+   "title_norm": "raoni barcelos still awaits diagnosis after health scare admits mma retirement hasn 8217 been ruled out yet",
+   "ts": "2026-10-15T22:24:56+00:00",
+   "url": "https://mmafighting.com/ufc/515750/raoni-barcelos-still-awaits-diagnosis-after-health-scare-admits-mma-retirement-hasnt-been-ruled-out-yet"
+  },
+  {
+   "key": "08ddbb509b391d16afbe4c7c2385b23304af30ef",
+   "score": 2,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Interesting and very relevant excerpt from A Fighter's Mind (2008)",
+   "title_key": "af67823f62db55e27f70d987a5b251cf5558d943",
+   "title_norm": "interesting very relevant excerpt fighter mind 2008",
+   "ts": "2026-10-15T22:24:59+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x6x3n7/interesting_and_very_relevant_excerpt_from_a"
+  },
+  {
+   "key": "551b6f366a1e939d967029efcea69e44cf7f9864",
+   "score": 8,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Israel Adesanya will fight Shara Bullet in the main event of UFC Saudi Arabia on December 5",
+   "title_key": "353a418e0aa34c6b41083249ef5ab6c6b0602aad",
+   "title_norm": "israel adesanya will fight shara bullet main event ufc saudi arabia december",
+   "ts": "2026-10-15T22:25:01+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x6x02f/israel_adesanya_will_fight_shara_bullet_in_the"
+  },
+  {
+   "key": "ea069055e11d173c11c441fbb2157f557f6329b6",
+   "score": 5,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Brendan Allen calls for a rematch with Nassourdine Imavov: \"Give the people what they want!! Vacant or interim @ufc middleweight belt! Run it back in the US whe",
+   "title_key": "ff3d70cc110ecd9398d796fbdae491f20cc9bbd2",
+   "title_norm": "brendan allen calls rematch nassourdine imavov give people what they want vacant or interim ufc middleweight belt run back us where commissions won screw anything two young hungry killers ready bring new era",
+   "ts": "2026-10-15T22:25:02+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x6wfpt/brendan_allen_calls_for_a_rematch_with"
   }
  ],
  "stats": {
   "descartados": 3,
-  "enviados": 0,
-  "llamadas_llm": 3,
-  "prefiltrados": 10,
-  "recogidos": 194,
-  "unicos": 96
+  "enviados": 1,
+  "llamadas_llm": 4,
+  "prefiltrados": 12,
+  "recogidos": 176,
+  "unicos": 89
  },
  "telegram_offset": 958387804,
  "version": 1
