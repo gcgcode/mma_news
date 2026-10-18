@@ -2,193 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "1e3b0ca0bdfa8e27082703757c1934499d401705",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[SPOILER] Natália Silva vs. Cong Wang",
-   "title_key": "1bb5e96a31024ced39c2dc14529ef827143bdcd6",
-   "title_norm": "spoiler natalia silva vs cong wang",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx4x11/spoiler_natália_silva_vs_cong_wang"
-  },
-  {
-   "key": "1e5d0f4c0c0e2bdf469b37b98bd0f00728419c24",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Valentina Shevchenko's message to the Silva vs Wang winner",
-   "title_key": "7794a22dafb5ec056686449b9acefde02a0d17f2",
-   "title_norm": "valentina shevchenko message silva vs wang winner",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx5dl2/valentina_shevchenkos_message_to_the_silva_vs"
-  },
-  {
-   "key": "02d88fb41297369ebadee766d5af0375d0cd6ffd",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Dana reveals injury that occurred in Prelim fight",
-   "title_key": "e5cfddda28bd8392da44e288abce00ac32a761a1",
-   "title_norm": "dana reveals injury that occurred prelim fight",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx83iu/dana_reveals_injury_that_occurred_in_prelim_fight"
-  },
-  {
-   "key": "587f6f76d1e19f8a7d4f7f2047e6131b98dd8b63",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Sean Strickland says the reason he isn't fighting Imavov at 335 is because of money",
-   "title_key": "2cb0f50b924dcc1e6f70a49ae0e882e4a15dd50e",
-   "title_norm": "sean strickland says reason isn fighting imavov 335 because money",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx8dyv/sean_strickland_says_the_reason_he_isnt_fighting"
-  },
-  {
-   "key": "3ed0ffd6480bd4ba5db88deb3f989c20c149dad1",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "La Nations League de Concacaf agarra fuerza; tiene eliminados inesperados",
-   "title_key": "94197f3bf59f88f4257a9b42bb5c13cc1297cc6b",
-   "title_norm": "nations league concacaf agarra fuerza tiene eliminados inesperados",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZjdlRHpnSWQ0UE9VQ0g0ZHRkV1RERHNUS0l2dzNJRkIwZ3MtTGdXa1dkTDd2eHBDak5fVWhCMU9MaVVocEhzcFpkLWxJQmttVjVkcll0SHM0dEVTb1RKQ2lEWHQ0dml0SFl5T2ZUWU9TZkhKcXhlZ2dDWXdEc0htWTl6dTQtazBGR3F3NmhHQkxBVElzWDk0enl4SG1UbWNHd0ZiNG1ERE9VVTBiX0NSNll3Q2ljWXh6Q2h6QVdKN2bSAcABQVVfeXFMTWY3ZUR6Z0lkNFBPVUNINGR0ZFdURERzVEtJdnczSUZCMGdzLUxnV2tXZEw3dnhwQ2pOX1VoQjFPTGlVaHBIc3BaZC1sSUJrbVY1ZHJZdEhzNHRFU29USkNpRFh0NHZpdEhZeU9mVFlPU2ZISnF4ZWdnQ1l3RHNIbVk5enU0LWswRkdxdzZoR0JMQVRJc1g5NHp5eEhtVG1jR3dGYjRtRERPVVUwYl9DUjZZd0NpY1l4ekNoekFXSjdm?oc=5"
-  },
-  {
-   "key": "2d73c9f0bea3010c74d13700f017b6006879d988",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Mahomes, el rey de un reino ajeno",
-   "title_key": "28b68c442aeecae9a8709480af5240589be1f42a",
-   "title_norm": "mahomes rey reino ajeno",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFlnUlJDWk5DRHRQbkhRX2dhdDVNTklyNGQwY0lsR2IxMEstdGMwRkl5VnNIOGtWZGFEQUk0bld4UWt1T2UteFh4MldDTjZLaUczVmNmaDZ2dWxNbERfZEhNQmN6SFhBRkhmQTVieGF6VVgtSXRDU0JFMFJhTEQ3cENGMXY5ZHPSAYcBQVVfeXFMTzBZZ1JSQ1pOQ0R0UG5IUV9nYXQ1TU5JcjRkMGNJbEdiMTBLLXRjMEZJeVZzSDhrVmRhREFJNG5XeFFrdU9lLXhYeDJXQ042S2lHM1ZjZmg2dnVsTWxEX2RITUJjekhYQUZIZkE1YnhhelVYLUl0Q1NCRTBSYUxEN3BDRjF2OWRz?oc=5"
-  },
-  {
-   "key": "8a482912c8aceff45a55198a2d5f019d8932d077",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Surinam y Guatemala repartieron puntos en la Concacaf Nations League",
-   "title_key": "db3ec668f1f09ac8bfaf2474d67984e9df82f533",
-   "title_norm": "surinam guatemala repartieron puntos concacaf nations league",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdThvUTlWRDN5V2ZYR1hoaFFjM1oyZmYzU0lmeE9XQWlnbEZWTVdUbHJaS1U4LWF3OUIwendwWTVLa29nSHpXZzgyRU1VaDF1YUJqemxyVDJJNVhhWmwwVWVYa3VjQzVnVm5OV25peDN3dGFITkFXMDJyQnowQVhqdHdWWHp5N0NGaUo1MVpUaVVFazh4VlFMTFJBWW82RDZfZ0dnbHF5dGg5SDU1MDE5ZlV3M0V5Y3BnRmVJ0gG7AUFVX3lxTE91OG9ROVZEM3lXZlhHWGhoUWMzWjJmZjNTSWZ4T1dBaWdsRlZNV1RsclpLVTgtYXc5QjB6d3BZNUtrb2dIeldnODJFTVVoMXVhQmp6bHJUMkk1WGFabDBVZVhrdWNDNWdWbk5Xbml4M3d0YUhOQVcwMnJCejBBWGp0d1ZYenk3Q0ZpSjUxWlRpVUVrOHhWUUxMUkFZbzZENl9nR2dscXl0aDlINTUwMTlmVXczRXljcGdGZUk?oc=5"
-  },
-  {
-   "key": "422e40ac65cd391e8fc194df9b0fc888ed330257",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Natalia Silva Se Impone En Intenso Duelo Y Es Campeona Mosca",
-   "title_key": "66f074f9719d092ac8d5555c1463f526f1b94b31",
-   "title_norm": "natalia silva impone intenso duelo campeona mosca",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlM1a2RuZkI2Y0hKV3J0Y0ppOFhFSUlRM085M3NFbVFwUU93aFd0dWtlaC16SkU3YnJ1M3hBTlB6SDRGR1ZHT2JOaGtuT0x3d1FudTJjWVFVbjFMMXFkMWJXcUliVHh0WFFBZ0ItZXdOZ2lCbkp5b18xeUJXTzMwX1I0bXRvd1FjMVREZkdPeUgzbGFscUlr?oc=5"
-  },
-  {
-   "key": "708daf720475397bdcc9fb3287e409697de5ecaa",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Congrats to Natalia Silva",
-   "title_key": "2292426617200a5b31acf1854c6efc0b2f5f6728",
-   "title_norm": "congrats natalia silva",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wx4xk5/congrats_to_natalia_silva"
-  },
-  {
-   "key": "529782ea35f7d2f54ecfaccd07439397fafb9ce8",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Another win for Brazil. Champ shit only",
-   "title_key": "6bdfd9490938d32d555d2883d5f83361b8cfc2a8",
-   "title_norm": "another win brazil champ shit only",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wx52ly/another_win_for_brazil_champ_shit_only"
-  },
-  {
-   "key": "2a532aaae3b4c21f494a28a4a4dedde7eace69f2",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Brazil poor > USA poor",
-   "title_key": "3197504d679b620e8a0f06b7f761e08331c089c3",
-   "title_norm": "brazil poor usa poor",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wx5mut/brazil_poor_usa_poor"
-  },
-  {
-   "key": "b8ba1a80d72d9b8df8875aab5bc3873d490f3aff",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "One year ago today",
-   "title_key": "cc183a01baa8104cd2563ff31073d40136253a7f",
-   "title_norm": "one year ago today",
-   "ts": "2026-10-04T09:16:53+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wx6jjs/one_year_ago_today"
-  },
-  {
-   "key": "14893e362a7ffd506d7173a9df437a5dba2e030f",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "UFC 332 post-fight show: Reaction to Natalia Silva’s title win, knockouts galore",
-   "title_key": "d31ce1fb710cf8fda3b7b1f1042122b064951eb1",
-   "title_norm": "ufc 332 post fight show reaction natalia silva title win knockouts galore",
-   "ts": "2026-10-04T09:17:00+00:00",
-   "url": "https://mmafighting.com/ufc/514200/ufc-332-post-fight-show-reaction-to-natalia-silvas-title-win-knockouts-galore"
-  },
-  {
-   "key": "2895bb291bae7ce8ff9b011c2eccb68024f9b669",
-   "score": 5,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "UFC 332 Bonuses",
-   "title_key": "b4b755a094df693a17d6064ba9e5e109c0d8063f",
-   "title_norm": "ufc 332 bonuses",
-   "ts": "2026-10-04T09:17:04+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx5vko/ufc_332_bonuses"
-  },
-  {
-   "key": "874cfb43fbe9f0fa3d28eab45951b95313414422",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "‘Don’t get too comfortable’: Valentina Shevchenko, pros react to Natalia Silva’s UFC 332 title triumph",
-   "title_key": "348713b3f829c6df535b0e5b5fc0afca2d12e024",
-   "title_norm": "don get too comfortable valentina shevchenko pros react natalia silva ufc 332 title triumph",
-   "ts": "2026-10-04T09:17:11+00:00",
-   "url": "https://mmafighting.com/ufc/514149/dont-get-too-comfortable-valentina-shevchenko-pros-react-to-natalia-silvas-ufc-332-title-triumph"
-  },
-  {
-   "key": "63dba986c63c15e6005c2754779b7fbb7fb108da",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "UFC 335 Opening Odds",
-   "title_key": "4d874929fb2ce0eb78b055a139d3b6e7527dcfb6",
-   "title_norm": "ufc 335 opening odds",
-   "ts": "2026-10-04T09:17:15+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx5fh0/ufc_335_opening_odds"
-  },
-  {
-   "key": "ed8287bc999d6ddda7356e754fc6586034dc2be4",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Natalia Silva outpoints Wang Cong in back-and-forth battle to claim flyweight title in UFC 332 main event",
-   "title_key": "46617e12c36441dc7ec22819cb147c4dd4b6c9f0",
-   "title_norm": "natalia silva outpoints wang cong back forth battle claim flyweight title ufc 332 main event",
-   "ts": "2026-10-04T09:17:21+00:00",
-   "url": "https://mmafighting.com/ufc/514126/natalia-silva-outpoints-wang-cong-in-back-and-forth-battle-to-claim-flyweight-title-in-ufc-332-main-event"
-  },
-  {
    "key": "90b5782477da1bc560c3800d187fc94843893dc9",
    "score": null,
    "sent": false,
@@ -13453,15 +13266,103 @@
    "title_norm": "ufc returns toronto ufc 336",
    "ts": "2026-10-18T09:06:31+00:00",
    "url": "https://reddit.com/r/MMA/comments/1x8r0bv/the_ufc_returns_to_toronto_for_ufc_336"
+  },
+  {
+   "key": "26d5845c33be4a8d8419ddd44e0ffc165bf43641",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Charlie Becker, de Indiana, demuestra su categoría en un momento emotivo con el entrenador en jefe de Ohio State, Ryan Day",
+   "title_key": "0a9e376d6fb9d5bcd8f4a9272363280956109e64",
+   "title_norm": "charlie becker indiana demuestra categoria momento emotivo entrenador jefe ohio state ryan day",
+   "ts": "2026-10-18T13:21:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2lPUWN3dnJyU0hDd3NCZEx1a19PWXVfSzJuamVxQ1lpb01KTlpaVElIWGpDX2ZTWElJUm1qeldscm5YZGItTDRJT0EyRVUtSi1iYWd2Z3NLb09uUVZfci1FaEhCcmw2cUp2bFM2Zy1NdU5EdHgtYmczMU5TeTdTNnV4SjJGSVBLS1MweWRpS0pUY3MteXl0S1pmMmN3eHNkaXM5ZjZYM3BCdFJWU2I2c2NhYmlwWU9iUUw4cTVKZXBkZjhnMGpjQUV4V2hRalN5a3V6b0xmUUp0WjA?oc=5"
+  },
+  {
+   "key": "50c8bec0992835ab527596c2fd8f9fd72389703c",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Joaquin Buckley speaks for the first time following the loss to Mike Malott: I truly believe what I did helped bring more eyes to the game. I’m gonna get back t",
+   "title_key": "3c457c770aad29e8d9c853740a1638233267af09",
+   "title_norm": "joaquin buckley speaks first time following loss mike malott truly believe what did helped bring more eyes game gonna get back work not gonna stop gonna keep moving forward",
+   "ts": "2026-10-18T13:21:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x8wn7b/joaquin_buckley_speaks_for_the_first_time"
+  },
+  {
+   "key": "b1e1a956e210019c9565cb6f9a8a43e23e9c9495",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "bro definitely know how to stay in character, we will give him that!",
+   "title_key": "0a9871b65c7ceef02086b453d46fc116a6758833",
+   "title_norm": "bro definitely know how stay character we will give him that",
+   "ts": "2026-10-18T13:21:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x91isa/bro_definitely_know_how_to_stay_in_character_we"
+  },
+  {
+   "key": "ff1c12007f2d4c014a7a4519353929593009dc5c",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Kayla Harrison opens up on brutal year that nearly drove her into retirement: 'I was devastated'",
+   "title_key": "af843f6e0b186009850883e602ce07859f93826e",
+   "title_norm": "kayla harrison opens up brutal year that nearly drove into retirement devastated",
+   "ts": "2026-10-18T13:21:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRlFNaHNyX3B5SmVEc0R6MnFocDJFNmdEOU5jSDZ2X2ZjUHpqdW56dVdaOFJlek5sTFQxZzVDNmJwUnIzRWJfbjJpck5BbS15cE8wSGFXc0xuRnBCZGUtOWk1aHFuZ1F2VUZFb05JTVdSMGN0RVlqUEZMd29QdGZDUTlidWhCSWpEeDYyeHdHbjlpbExMUm43aW9qV1E5ZVRicVlWemZSMEsyaHczOHEyeXBOZS1aeWd6WUpWeF94ZXZqZjVNQ1Y1QXdlb2dBTUhUbUlwOGdOQkt3SlpsdUNZbkZGalp6RlB2?oc=5"
+  },
+  {
+   "key": "61634796457bd8d08ff3f5afdb43dfb3f63e01dc",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Former Nebraska QB Dylan Raiola comes off bench in fourth quarter to lead Oregon to 17-14 win over the Cornhuskers",
+   "title_key": "239086259066182256cd666aca474d08b048aa30",
+   "title_norm": "former nebraska qb dylan raiola comes off bench fourth quarter lead oregon 17 14 win over cornhuskers",
+   "ts": "2026-10-18T13:21:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOQVdrcU1xODFPSTB2OHpod3NRTnNCVkhWZzBYbmVxVUJCazNZMU9YbzVudlBlcy1VTzZhU1ljcmlyYUtDU1dhajhCN1BsQmVVYmRSWWExMDVxWkpqLTIwOUtOakloSkFRejl6LU9jVmxVeWZNRGptSE9XOFM5OXZiOWo4dkNJSHh1UXBtRF80Y05kRWtlcm9EVUhzMDB4UnYwWmlUc1luR1hFemIxR2lmbGl6SEhoUnY5aTJjQWxxRmdEQ0VWanlqdURFcjNBZkRLSG0wdXpFQ3lvbmxyMUZsTklDNTlnUk9CbXlweFhDbmRWUnE1MlBYTXpFa1h5c0lCQ3JlTVN2UzFzREUzWjRZb01DMF9kQVZ0N2xxTmpB?oc=5"
+  },
+  {
+   "key": "e0cdbe883c22b3e75fa9d007a3eaf4975b436ca8",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "College football rankings after Week 7: Updated Coaches Poll, AP Top 25 for SEC",
+   "title_key": "8f625200941ada2b36f728d44439d046e73bd11f",
+   "title_norm": "college football rankings after week updated coaches poll ap top 25 sec",
+   "ts": "2026-10-18T13:21:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4Ny12MUVDYU13OFBjX2NyU1pqa3JUZDVyRTdiZUpuelAtX2ZVUy1IWlBZOURTX1FaYUtySWRXT1hUNGlVWGlfRm94QlpMU08yMmxvdkhiNXJDbUN0RnUxS3BEbnNFenNzWDI1amgxdzdEVVVJakdBVXlhSVZpeE03VHJtc1Nx?oc=5"
+  },
+  {
+   "key": "4f2f5974abfd55e001c30c8198967c7508b5e6d1",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Edmonton results: Mike Malott annihilates Joaquin Buckley with savage knee",
+   "title_key": "af554fb8cc2e04b880363cec34f16658b9f64ca5",
+   "title_norm": "ufc edmonton results mike malott annihilates joaquin buckley savage knee",
+   "ts": "2026-10-18T13:22:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMWkzdmFTcE1pSmNCVTI1VFRmc19Pb2VkV3FxOWFkZHVDdkh3d2lMaWpPVUEtZWk2MW5rWVpIc0hYLURIa0xyUjVYRE15UFlQN09walBURGxKVFlqQTJMOWJNZktUelhBeVhiODJYb2NydFJDRGo2MG1zOFFDZmlmTkV0ZnNOZmVjblotdnZBcU1TaUwyWjFkUDZxUFJIaGhaeFl3RzQxYnZRTHU5NF91U3lScHJDU2hhYzFRS0E5cHY2SmtJUi1ta2hYUEdSLWRXR0VOUFF3QlI3T2tzQTJ3LUtHRW4tdHZuWjJqTF9USFBlRFk?oc=5"
+  },
+  {
+   "key": "c04dedb4a60c2474b91cf23608a8b9c21d746c5b",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "PFL Chicago video: Sarvarjon Khamidov swarms Rafael do Nascimento",
+   "title_key": "8e68654e6f14c4544a06a49e16ad0f7ee3d5445f",
+   "title_norm": "pfl chicago video sarvarjon khamidov swarms rafael do nascimento",
+   "ts": "2026-10-18T13:22:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcjc5VDZDRGs0TF8za2J4VzZ1ZGZlX1hSYnlWLUFidGZSQmVYNnRDc0J6a0Nrc2dxTkpwMWktUDBVQWoxS2l2YlJLVW0zRll3R1dmdXM5OXVaZkYtSlBxLTlKS25mQXZRcUdjYWlTNUY2cnVENy12ZGNRZFl5MnAxdDQ3MWp1TE9mV0s0QzdmV0NudHl4QURCaGdiRHJWcWJ5NFR4akpIc1o1ZExYZGhjSUdtdk1STEdHNGRZRFRDZ0Z0Z3pLTkZjSi1Eblo?oc=5"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 2,
-  "llamadas_llm": 4,
-  "prefiltrados": 12,
-  "recogidos": 190,
-  "unicos": 87
+  "descartados": 1,
+  "enviados": 1,
+  "llamadas_llm": 2,
+  "prefiltrados": 6,
+  "recogidos": 192,
+  "unicos": 77
  },
  "telegram_offset": 958387804,
  "version": 1
