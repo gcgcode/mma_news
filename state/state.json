@@ -2,116 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "9f8f1a040afc0d4e899e89b73a7244f60190cc84",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Y'all missed a banger",
-   "title_key": "1e963b83f123bc02950bed05291d28d9821ea7e1",
-   "title_norm": "all missed banger",
-   "ts": "2026-10-04T21:54:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wxm7ng/yall_missed_a_banger"
-  },
-  {
-   "key": "6372aabd097ca2b6c739c9638b92a572e31ca509",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "One of those fights that was insanely high-level but somehow gets forgotten",
-   "title_key": "18a5496d7c6e27e519028a58acceeb2f0f073e4b",
-   "title_norm": "one those fights that insanely high level but somehow gets forgotten",
-   "ts": "2026-10-04T21:54:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wxmd7m/one_of_those_fights_that_was_insanely_highlevel"
-  },
-  {
-   "key": "93dd175a27b219ac37c9eb10f6f9322d90a21c80",
-   "score": null,
-   "sent": false,
-   "source": "Marca — UFC/MMA",
-   "title": "Jeremiah Smith ha dejado de lado la modestia: va tras el Trofeo Heisman",
-   "title_key": "c3b8f954a802376832050c09f5f885272088de5c",
-   "title_norm": "jeremiah smith ha dejado lado modestia va tras trofeo heisman",
-   "ts": "2026-10-04T21:54:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjNucHJiUndJM3o4cEYzRDh5cjNLb0VGZUNiVWduTUdTbTRvTl80d1VjRjdCRGRrNjNEOVV4ck41SmVZcjR0N1NINTl6RjRpYmNXOXRnekNGQndaYUhUVFhFaWFxLVdIWjJFbmg5MnBiT0l2SjQxd1JhOFdaRmtheXRnNTlZTjlTaEoydUM5eG0tWlRHLVRod1RIM2ZsLUJj0gGmAUFVX3lxTE91eE5BQnViNWVmeEZTN3IwWmU5QjdvOU9RNGJRQVJleXpuQUJ5WmhMamxOOWlOdWlhVlVleUVLMVo1dUM0Q2s0N01kU1VFMk52bUprR2dUX19BMW81Mk1PZEd3LThJcVR0N2Q4N0l6ZElxVENQX2hmZmdncXl3bWZUT0Y3Z3pHMHhBb0w0eWw3b0pYS21rRl95UlBMM0pkakVQSEkxbVE?oc=5"
-  },
-  {
-   "key": "62b4602a8bcfcaf0e0758a264581bd001eb5b557",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Is Strickland going insane again?",
-   "title_key": "86f30b64fbffdeb0c99ec6061829e4d5325ec8ed",
-   "title_norm": "strickland going insane again",
-   "ts": "2026-10-04T21:54:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wxpkw0/is_strickland_going_insane_again"
-  },
-  {
-   "key": "4b5649d6e115e663ed42934cb94a9a15e7dff21b",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "pick your favorite: chase hooper, mexican chase hooper, gay chase hooper, evil chase hooper",
-   "title_key": "23a60755ccdba4f6658eff046130ad23aacf3f89",
-   "title_norm": "pick your favorite chase hooper mexican chase hooper gay chase hooper evil chase hooper",
-   "ts": "2026-10-04T21:54:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wxrdmz/pick_your_favorite_chase_hooper_mexican_chase"
-  },
-  {
-   "key": "5ac1bd985f582a9a4bb28a657d4ac07282c20ebe",
-   "score": 8,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Michael Morales sends message to welterweight division: “If Islam Makhachev and Carlos Prates have different plans... I have mine for 2027. The final boss of th",
-   "title_key": "f9b167abf3a711512ff4ffb41059274cf0002613",
-   "title_norm": "michael morales sends message welterweight division if islam makhachev carlos prates have different plans have mine 2027 final boss this division shavkat rakhmonov oh almost forgot fuck ian garry",
-   "ts": "2026-10-04T21:54:50+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxr6g6/michael_morales_sends_message_to_welterweight"
-  },
-  {
-   "key": "9ea957c7fc407de46b62c4bdaf2d74d3279715c9",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Anthony Wint wants to give Sean Sharaf another chance to silence doubters: ‘I think I’m better than him’",
-   "title_key": "57249d850496c8efe0fbe90f0f6e43d10512af37",
-   "title_norm": "anthony wint wants give sean sharaf another chance silence doubters think better than him",
-   "ts": "2026-10-04T21:54:54+00:00",
-   "url": "https://mmafighting.com/ufc/514196/anthony-wint-wants-to-give-sean-sharaf-another-chance-to-silence-doubters-i-think-im-better-than-him"
-  },
-  {
-   "key": "10ce0b8c74acb2ffc8fef1a6333dbfbf3defdd51",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Wang Cong says eye poke led to slow start in first statement following main event loss to Natalia Silva at UFC 332",
-   "title_key": "a3d30a993c3272d76dd07f9d9196814681b6c3c9",
-   "title_norm": "wang cong says eye poke led slow start first statement following main event loss natalia silva ufc 332",
-   "ts": "2026-10-04T21:55:01+00:00",
-   "url": "https://mmafighting.com/ufc/514243/wang-cong-says-eye-poke-led-to-slow-start-in-first-statement-following-main-event-loss-to-natalia-silva-at-ufc-332"
-  },
-  {
-   "key": "d6c630b4b76e6939dbc3b22815c709c6dbfcb6e7",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "UFC Vegas 122 Bout Order",
-   "title_key": "5f89336ce16e80b485c1828f48a82a7e39dc754f",
-   "title_norm": "ufc vegas 122 bout order",
-   "ts": "2026-10-04T21:55:04+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxndz0/ufc_vegas_122_bout_order"
-  },
-  {
-   "key": "16a541be18d76f76f79a426f3517b892a1f743fa",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Jacobe Smith has harsh message for Kevin Holland after his UFC 332 withdrawal: ‘I want to murder’ him",
-   "title_key": "a6071a6bc84ae1c93d1a2d88983a0b42c1d5852f",
-   "title_norm": "jacobe smith has harsh message kevin holland after ufc 332 withdrawal want murder him",
-   "ts": "2026-10-04T21:55:08+00:00",
-   "url": "https://mmafighting.com/ufc/514201/jacobe-smith-has-harsh-message-for-kevin-holland-after-withdrawing-from-ufc-332-i-want-to-murder-kevin-holland"
-  },
-  {
    "key": "8d1f0309a9240d23c86c4b873cfa26f0e52a2b6a",
    "score": null,
    "sent": false,
@@ -13475,15 +13365,125 @@
    "title_norm": "dana white reacts sean strickland gives speech rally canada how did you let him",
    "ts": "2026-10-18T21:33:57+00:00",
    "url": "https://bloodyelbow.com/2026/10/18/dana-white-reacts-as-sean-strickland-gives-speech-at-rally-in-canada-how-did-you-let-him-in"
+  },
+  {
+   "key": "fe8679749c8c36f0bfd32d6b576d36cfc5da11d0",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Jake Paul trolls Tommy Fury after the Brit was kicked out of Halloween event for ‘being too drunk’",
+   "title_key": "5b8fa36d87546b3bc2cdf74cb8398b5253c3cdc3",
+   "title_norm": "jake paul trolls tommy fury after brit kicked out halloween event being too drunk",
+   "ts": "2026-10-18T23:37:41+00:00",
+   "url": "https://bloodyelbow.com/2026/10/18/jake-paul-trolls-tommy-fury-after-the-brit-was-kicked-out-of-halloween-event-for-being-too-drunk"
+  },
+  {
+   "key": "3b57c99727fa507c537a1ec5935718a0e0b87d15",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Did this dude shag Hunter Campbell's wife? Apologize. And then shag her again?",
+   "title_key": "87b36f278fa5458b83d1623acd5dd008aaf403b2",
+   "title_norm": "did this dude shag hunter campbell wife apologize then shag again",
+   "ts": "2026-10-18T23:37:41+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x9gg8d/did_this_dude_shag_hunter_campbells_wife"
+  },
+  {
+   "key": "94e189087f652d67604b3ae5ba780ffb17ec34f3",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Tommy Fury hits back at Jake Paul as he teases rematch years in the making… ‘See you soon’",
+   "title_key": "ad38121725123a07f6a72e140bdd38d8add5de43",
+   "title_norm": "tommy fury hits back jake paul teases rematch years making see you soon",
+   "ts": "2026-10-18T23:37:41+00:00",
+   "url": "https://bloodyelbow.com/2026/10/18/tommy-fury-hits-back-at-jake-paul-as-he-teases-rematch-years-in-the-making-see-you-soon"
+  },
+  {
+   "key": "1f174d192ae97aaa137b809ca6dc03aaf226746b",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Bills' C.J. Gardner-Johnson ejected for spitting at Raiders tight end Brock Bowers",
+   "title_key": "3f59dcc4fbf6215d90e1f435c13afe0fc40e4856",
+   "title_norm": "bills gardner johnson ejected spitting raiders tight end brock bowers",
+   "ts": "2026-10-18T23:37:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0tIQ0FCdG8yUndnWjJ4bF9LZmJXSzZNRDdVdlo1V29SUkhBT0Utb3RPQXRVcUloQTdpaU9YYmVXUHhGUTZqd3BlUVJxNFdWbVpWejAzaFRwZjdRYnlNZDBYblhCUnZUY3Jab3JGeDRWc3hJaWFncnhKOEZwOEkwOFpXUEhVRXVJaGVsOFJSd0tXSy13YVFFbnhWdVZQOFN2YXFESkQxRndkVmhnamR6b042XzROZzlwNHhJaHBxbjZEa2JxRXRyd3M2c3djTXhQc0FaMFJRMkJKVWxxQVE?oc=5"
+  },
+  {
+   "key": "b9f0f3be489b995136a7a9c49cc21b1a42947ba5",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "'I got punished': Giants' Cam Skattebo goes without a touch in loss to Saints, one week after critical OT fumble",
+   "title_key": "3da4320a7c22865014a50d8f80d1fe45c1969929",
+   "title_norm": "got punished giants cam skattebo goes without touch loss saints one week after critical ot fumble",
+   "ts": "2026-10-18T23:37:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMWctQzAyblg2VlNuQWNXelVNRUZfaGZjRUFranlUQW1VUEhsR2Z2eGJ5RE1CLXF0LVJ1WU5aWkM3d0k5NnBsaGxGS0p6UnJUN29SejAtWDJ5dFJrdnF5TTRRWFN0ck05Qmp0ZzVaREVGbUpzSWR1Y0RiOGJBbTM4WmM5UUJYNkxsMVVLTTlMOFFKT3NVb0lYZFJQdEJGb2M0VlJ0NHRRVE5Pbl9GdTIyMXVHQldVNmdMSk81Nm9UbEJHdmtSX2dxZXJuWnZFSmQzZUFZMUR4bmNpTWY0VHlGVWdOOF9tNkpJNDA4TGxGU1dlX2ZBY2lBNDhGdzZJTWRqRHZ3?oc=5"
+  },
+  {
+   "key": "f2994953eefb59afc62b8c393e3181273d440557",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Kings' Ben Simmons reportedly believed to have sustained torn Achilles tendon in practice",
+   "title_key": "f2ecdf25faa2a4bb4863ee4f2275c1c4af5071b7",
+   "title_norm": "kings ben simmons reportedly believed have sustained torn achilles tendon practice",
+   "ts": "2026-10-18T23:37:41+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNallrY2piVzBFWWlsNHBxSlRuTnZYazBtelFKTlBCdmdHcXo3ck1qQ05xLW9DMlVlZl95SUpPdTdNT29WZFRBcUxWOS1WT2pfNzJ2TzNaOUlvdmhjZmdIcTdTY0FNRHJQWDM4OEJtWndZcnBlbDRkUmdFMUt0Y3FDcGtEWXVXcVNXbzQzVUtDQkFGb1I5bFhORHVFMkcwa211Q3YxZlRLQUxaVE9KVUhlNFRrNGI0cTYzT0N5VFVjWE5EcVZkeC1vZThUMDc4NmxNRzJ2aXU0aw?oc=5"
+  },
+  {
+   "key": "2032ebbb00bad71829c8f43d87b25d73354a304e",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "UFC 336 announced for return to Toronto in January",
+   "title_key": "c746d2626d64ec60dcc071e2cdbd3596f3d2ee7d",
+   "title_norm": "ufc 336 announced return toronto january",
+   "ts": "2026-10-18T23:37:51+00:00",
+   "url": "https://mmafighting.com/ufc/516395/ufc-336-announced-for-return-to-toronto-in-january"
+  },
+  {
+   "key": "5e692ac2b4ff53f44ae94c04531ed2615fab26f7",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Alexander Volkanovski predicts UFC 333 win vs. Movsar Evloev 'in pretty wild fashion'",
+   "title_key": "41fe77aee9f3839fe2182fb0e942800a133dafcf",
+   "title_norm": "alexander volkanovski predicts ufc 333 win vs movsar evloev pretty wild fashion",
+   "ts": "2026-10-18T23:38:05+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVlhTMW1mLUxQdnIzY001RE5HdUFTdjVreU4xZTBBT3pETkdQd0RtbXVBY0NveGx4bGdYd1NTaDRsOUtQUFlrMkNiMnM4UzFvdk5uMVhNNU9Cd1pSNlpKb0R1ZDhYRmJocHlVQUhwam9HOE12LXNYWEs5NGpVbWxPb0U2QzBUVUJoWlpnNEFlRFNqQ2NpV2Q1cnVDV3V4cUpPX1lycWotOHJ1QWVBYjJjWmFpS25aYTEwV3pDWS1nWDMzRVJ6OHVjQ1dNcWJVLWtuV0pIeXlHQTJCeFFDVEE?oc=5"
+  },
+  {
+   "key": "36a90d33a4f9d23420dde4a7963a18dc476a47c0",
+   "score": 2,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Two former UFC Champs btw🫡😂",
+   "title_key": "893fa0a5f4db1bcc4331c7f44466d95719030d3c",
+   "title_norm": "two former ufc champs btw",
+   "ts": "2026-10-18T23:38:06+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x9d3ne/two_former_ufc_champs_btw"
+  },
+  {
+   "key": "1a03dbfb52fe644ab52b8a6506f9e133ecb84dd2",
+   "score": 4,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "UFC 336 in Toronto announced: A rare opportunity for the promotion to create an unofficial tournament",
+   "title_key": "313db4f47cb60a05f60f16e17773099817f68a08",
+   "title_norm": "ufc 336 toronto announced rare opportunity promotion create unofficial tournament",
+   "ts": "2026-10-18T23:38:07+00:00",
+   "url": "https://bloodyelbow.com/2026/10/18/ufc-336-in-toronto-announced-a-rare-opportunity-for-the-promotion-to-create-an-unofficial-tournament"
   }
  ],
  "stats": {
-  "descartados": 5,
+  "descartados": 4,
   "enviados": 0,
-  "llamadas_llm": 5,
-  "prefiltrados": 9,
-  "recogidos": 192,
-  "unicos": 81
+  "llamadas_llm": 4,
+  "prefiltrados": 6,
+  "recogidos": 182,
+  "unicos": 74
  },
  "telegram_offset": 958387804,
  "version": 1
