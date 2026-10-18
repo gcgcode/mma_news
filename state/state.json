@@ -2,105 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "eaf410ca0f849328bc7ed30c4e67debee6521e25",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "what sort of twisted necromancy was Rogan trying to cast last night?",
-   "title_key": "a93134995d407c2594aa2c4da2253f3cc62b6cc1",
-   "title_norm": "what sort twisted necromancy rogan trying cast last night",
-   "ts": "2026-10-04T18:31:37+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wxha3y/what_sort_of_twisted_necromancy_was_rogan_trying"
-  },
-  {
-   "key": "3558eac0d8f5a93908e688849fab2a7cb2d6df20",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "El efecto Pochettino comienza a tomar forma en Estados Unidos",
-   "title_key": "eaa28448c83aab76d59eb926aee0c4b10005c9d3",
-   "title_norm": "efecto pochettino comienza tomar forma estados unidos",
-   "ts": "2026-10-04T18:31:37+00:00",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmVkMzN5Q2FVbzlta29GOGlJQlFRckNPS3dfYThJTHE3R1h5NHp3SWVqVEJNajZUWXAtV042Z3pSQ0JBVTRJYl9NWHRkaUxlMHYxenJQOXd6U2xENUdsOXBlMUlSNDROcm1ld09wNFJMdTlyeGluQnZLWEJVT3hhRkxBeE1uZUVadWxzdXZmMVQtOC1LZ0o3aEh0TXJ0RUgwcVpZSWZVMW9ac1ZjMmliYXZR0gGyAUFVX3lxTFBuZWQzM3lDYVVvOW1rb0Y4aUlCUVFyQ09Ld19hOElMcTdHWHk0endJZWpUQk1qNlRZcC1XTjZnelJDQkFVNEliX01YdGRpTGUwdjF6clA5d3pTbEQ1R2w5cGUxSVI0NE5ybWV3T3A0Ukx1OXJ4aW5CdktYQlVPeGFGTEF4TW5lRVp1bHN1dmYxVC04LUtnSjdoSHRNcnRFSDBxWllJZlUxb1pzVmMyaWJhdlE?oc=5"
-  },
-  {
-   "key": "ace2c88459e301144ec44913dd8971fc2cbdddf6",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "He loves it!!",
-   "title_key": "c9066be544fb0fa01a9c4a12dbe9bc1b1a8a3ac3",
-   "title_norm": "loves",
-   "ts": "2026-10-04T18:31:37+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1wxjxu2/he_loves_it"
-  },
-  {
-   "key": "46912309c795b2e209d89806f44adc45dfe92324",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Brayden McNabb - NHL News & Rumors",
-   "title_key": "b3e9269535420385b18e977b495695d869f6b076",
-   "title_norm": "brayden mcnabb nhl news rumors",
-   "ts": "2026-10-04T18:31:37+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhdnlzdDlfZXdtbXlzT2pZSDVVSFVfYkJNSHN3ZDRyekEtOEVGUW9kOEdnandQdEoyeklYSUxwVkxMbnNScURydWNURDJTUHJHZVNYeUJJSUhPRGZYZ1BPSg?oc=5"
-  },
-  {
-   "key": "45429005bfd07e156cb408c6260f100237a070ed",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Esteban Ribovics blames UFC 332 weight miss on hotel issue",
-   "title_key": "5aec6ba9b164dc1bea0734141a1f516cc7dcef44",
-   "title_norm": "esteban ribovics blames ufc 332 weight miss hotel issue",
-   "ts": "2026-10-04T18:31:50+00:00",
-   "url": "https://mmafighting.com/ufc/514180/esteban-ribovics-blames-ufc-332-weight-miss-on-hotel-issue"
-  },
-  {
-   "key": "d4420c72cfb3b6b4e982b8fc9b501f428f383dcf",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Payton Talbott explains what it might take for Sean O’Malley to accept his callout versus waiting for title shot",
-   "title_key": "1a52fccd5f86e334e65c1a67a41f548cba7f6bd3",
-   "title_norm": "payton talbott explains what might take sean malley accept callout versus waiting title shot",
-   "ts": "2026-10-04T18:31:59+00:00",
-   "url": "https://mmafighting.com/ufc/514183/payton-talbott-explains-what-it-might-take-for-sean-omalley-to-accept-his-callout-versus-waiting-for-title-shot"
-  },
-  {
-   "key": "af6af6e063a4bd39b7454aaf6c3546a0a8d50bfe",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Pavlovich vs Pereira is the UFC 335 Co-Main Event",
-   "title_key": "2b1ad468182aaf2237ea92e7592d84e32742aa14",
-   "title_norm": "pavlovich vs pereira ufc 335 co main event",
-   "ts": "2026-10-04T18:32:06+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx3pot/pavlovich_vs_pereira_is_the_ufc_335_comain_event"
-  },
-  {
-   "key": "a0d2318992267665b9f8cd56744f9ba3f33b0d6e",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Natalia Silva or Wang Cong: Who leaves UFC 332 in SLC as new champion?",
-   "title_key": "8191f58ac5e01b9c6bd14a81e7a7a57017f4f54a",
-   "title_norm": "natalia silva or wang cong who leaves ufc 332 slc new champion",
-   "ts": "2026-10-04T18:32:11+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMFlQM0lqcEUxcjVkY2NTMkk0Mm5IbEg1bVhPM3QzcWdXRzRHOFBsX3kzS0xKTEp4TER3N3lfcmpmVm1aZ2o1cGN0bzEyRTluTjJKS3FlaDZtY1I5bWtFMjlpWXNqNEUtQmR4RHNxUTRFZF9kM3lBS0c4Wko5UUdTc2wyZThTWTNKLWVaVm5JbU1jLTMxMlp4UnF4Qi15WmVBXzdhcnpmekpPdzI4M2U5NWxZajhwUzFRTXpLWUc4UXk0ZlBaeGt3dDZDbXExSTBvbGlzVUhyaUx5RzJ6SUhwQ0UwbDVDWEh5OEk5aFZNZXhabnJiVi15QQ?oc=5"
-  },
-  {
-   "key": "caa132b3e361c97445f01242a850105cbbe5d45e",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Analyst could see Ronda Rousey being Dana White's successor as 'UFC face job'",
-   "title_key": "3cb664a37fd3f816580e0e008bb7f48d81a6675c",
-   "title_norm": "analyst could see ronda rousey being dana white successor ufc face job",
-   "ts": "2026-10-04T18:32:15+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzdNdUdOMHRhWGM0YTlkRHNtWkNEMm1iOG11TEZFVm9acUFLMzJncVdHaFpaTW91RGZ1WF8wclZhWlI0OTY5dEFCRjZMemE5YUNXSlFRTGNXVmZJRk5ybFVJeGg1WmxoMmJFNFBYOEZzNm1JazdwNUlaU0hhX19UUGNYcHRQMTJLU3FuMzBZcUVCVUZTc2JnZ1RXNkVGNjVzbjBtTlROX1pqSTNnZlFOeGZrZk8yRlhMNkhrTjFnWFlXZw?oc=5"
-  },
-  {
    "key": "9f8f1a040afc0d4e899e89b73a7244f60190cc84",
    "score": null,
    "sent": false,
@@ -13321,15 +13222,114 @@
    "title_norm": "movsar evloev thinks ufc 333 fight alexander volkanovski could be 1st ufc finish why not",
    "ts": "2026-10-18T16:52:43+00:00",
    "url": "https://mmafighting.com/ufc/516278/movsar-evloev-thinks-ufc-333-fight-with-alexander-volkanovski-could-be-1st-ufc-finish-why-not"
+  },
+  {
+   "key": "5db62a251637db7130fb2848fa8de1d8b7b78754",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Prime Stipe would've folded Jon Jones. He 50-44d Ngannou in his prime.",
+   "title_key": "9ac25c77ff96c356140b320fb8eee7dd44c5b095",
+   "title_norm": "prime stipe would ve folded jon jones 50 44d ngannou prime",
+   "ts": "2026-10-18T19:12:50+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x9912b/prime_stipe_wouldve_folded_jon_jones_he_5044d"
+  },
+  {
+   "key": "f727ab217eaa7862eb2927b56efc633d041b1fd5",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Buckley reacts to getting slept by Mike Mallot.",
+   "title_key": "7c08279df8edabb7cef8691363fe7c2d76777d75",
+   "title_norm": "buckley reacts getting slept mike mallot",
+   "ts": "2026-10-18T19:12:50+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x99g4k/buckley_reacts_to_getting_slept_by_mike_mallot"
+  },
+  {
+   "key": "df093d1b054778a13a271dd958061ada7961e1dd",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Influencers in BKFC? President Dave Feldman teases potential integration with popularity growing",
+   "title_key": "e45b884976d6eb7cf6451dd3712e5ed64785052a",
+   "title_norm": "influencers bkfc president dave feldman teases potential integration popularity growing",
+   "ts": "2026-10-18T19:12:50+00:00",
+   "url": "https://bloodyelbow.com/2026/10/18/influencers-in-bkfc-president-dave-feldman-teases-potential-integration-with-popularity-growing"
+  },
+  {
+   "key": "72ca8c4bddc83f4e9a12fd90720d4f88c4428d8c",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Travis Hunter becomes first player in 24 years to have an INT and receiving TD in the same game",
+   "title_key": "d973983e6a6a4f1da4b1924a43f3ebc79714668a",
+   "title_norm": "travis hunter becomes first player 24 years have int receiving td same game",
+   "ts": "2026-10-18T19:12:50+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2V0VEM4S0s5ZzRQSjlRWUI2Z01tV3B0NXdfM3hpQ1ZLMG9uWE5qOUpDdVV4bVJVZHQ2TDNmWnNidUlsTF91NnIwZ2xYYnJ3aGZTWHNiMlhDa1NuWXpITUpJanZhZG1fMlh5S0tBOU9SSzBZbVBLYW13OThWRUtMS3ZsQ0hPMGV0QXZlaERINHI2ZE9aZHhJcTRtd2xXYlpaWFhQeld4Ny05RE42a1JHUUVjM3F2TlJ4emFjbFdhMmN0aUNlYWkwQ3Bsdi1vOVd3dEVGckVTT3psNTdya0s1bw?oc=5"
+  },
+  {
+   "key": "b18853ea04f71840ab012ec3dc060c47a5d99c58",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Jasmine Jasudavicius believes Erin Blanchfield made mistake of underestimating her at UFC Edmonton",
+   "title_key": "f88611e1989f82fcdec6be64bec64238c2c7241b",
+   "title_norm": "jasmine jasudavicius believes erin blanchfield made mistake underestimating ufc edmonton",
+   "ts": "2026-10-18T19:12:57+00:00",
+   "url": "https://mmafighting.com/ufc/516499/jasmine-jasudavicius-believes-erin-blanchfield-made-mistake-of-underestimating-her-at-ufc-edmonton"
+  },
+  {
+   "key": "726a9afbee32707bd288038c3e0f58d078d8c848",
+   "score": 7,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "Dana White on Farid Basharat: “I think that when guys’ contracts are up—I mean, this isn't the first time—either guys aren’t good to deal with for the matchmake",
+   "title_key": "de880570c2e0fc92ae8a8bc2144d5779aada77e4",
+   "title_norm": "dana white farid basharat think that when guys contracts are up mean this isn first time either guys aren good deal matchmakers which could be turning down fights or whatever if you re 16 ufc wins don get re signed there definitely reason",
+   "ts": "2026-10-18T19:13:05+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x9au7w/dana_white_on_farid_basharat_i_think_that_when"
+  },
+  {
+   "key": "867541a8ded215e8d868dc7f05359aa6c6e2ed78",
+   "score": 6,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Video: Ex-UFC fighter Jimmy Rivera delivers brutal faceplant knockout at BKFC 95",
+   "title_key": "e45d397ac4739b4fa5145718736c8e613ac7fba6",
+   "title_norm": "ex ufc fighter jimmy rivera delivers brutal faceplant knockout bkfc 95",
+   "ts": "2026-10-18T19:13:06+00:00",
+   "url": "https://mmafighting.com/bkfc/516504/video-jimmy-rivera-delivers-brutal-faceplant-knockout-at-bkfc-95"
+  },
+  {
+   "key": "567bfd2adbbfe364e413e0e8437360e8df3fa065",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Fight Night 291 post-event facts: History made in Canada",
+   "title_key": "079c4af2d20b73f8eabbe2f8e8ae519f6d4d9079",
+   "title_norm": "ufc fight night 291 post event facts history made canada",
+   "ts": "2026-10-18T19:13:07+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUdfcmlJc2xOeDZELUJ0NTZJbVRaWkV1RDFweGxJZkZMc09XaFczSHZVZHd4RW5aTDM1VXdMM2JBRDBBVjBuaDdUVkJSV1I0eTJXNXNPN091aWlzRmVCOGZTOFhIZGdRd0RtNHpMS2lTVC1mQWVLUkxfd0RTNkpvT2M5MHBCWDBHOEthVU9PX1pUcnBuSTVCMXVUYkw1ZEtLSEtRbnJ0WXVUWk5CV3V4RC1xYWlKWHJnNVp5TlZuR2xzWnk4Wk9fYVNyTkw1bEVyb3ZV?oc=5"
+  },
+  {
+   "key": "0ebe3bb0cf1f66de596ce69c45b6e81d0fe99ec7",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Mike Malott wants UFC 336 spot in Toronto after Edmonton KO",
+   "title_key": "3e760eedccf631a3ed9d63b2b540815067f9e4ff",
+   "title_norm": "mike malott wants ufc 336 spot toronto after edmonton ko",
+   "ts": "2026-10-18T19:13:08+00:00",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ0N4WW90UUJubnhiSmpRaVZ6TkJEMWVzeEd3dndmM0RLbTVzelJYbkxVRmJ0RDBFT2YwNEpETHFxRmU0Ul8xSm9aWTNNeDFvbDB1Njl2SkExeERLWklCRW9QVjgxXzFsRVB4ODB6dDg0Z0ZmamJuaXZ1cDh6SG0zc3VqQ19wQlF3SzhUaWo4SkFVYU9JQnUybEU4QVU5d1RsX1U1N3AtaTZ2eDRqeXBXcEpwNW1aZGtsM3ZaVE9HeEUycDdHeGhhLVJmOXFMMWpYQVE1Qmhoc0Q0REtvQnpYT2drY1Jma1l6eWhIVDJJanhWeFVVZ1owNE44djBSbDh4?oc=5"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 4,
+  "enviados": 1,
   "llamadas_llm": 5,
-  "prefiltrados": 8,
+  "prefiltrados": 4,
   "recogidos": 192,
-  "unicos": 86
+  "unicos": 83
  },
  "telegram_offset": 958387804,
  "version": 1
