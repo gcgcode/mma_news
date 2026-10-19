@@ -2,116 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "31804ca41e198a515ffc5c414783a79ffd8ecad1",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[SPOILER] Deiveson Figueiredo vs. Payton Talbott",
-   "title_key": "3ced73ecfa822208cad50c749b495a1c13dce9a1",
-   "title_norm": "spoiler deiveson figueiredo vs payton talbott",
-   "ts": "2026-10-05T06:16:56+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wx3ycr/spoiler_deiveson_figueiredo_vs_payton_talbott"
-  },
-  {
-   "key": "5820ce042da834ef824dabda83b27ccbfd04ab03",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "In the last 10 years Marvin Vettori has only had one fight not go to the Judges-Karl Roberson who he submitted in mid 2020.",
-   "title_key": "3c597bf7d62dd290dcca50042b74bc18b7087899",
-   "title_norm": "last 10 years marvin vettori has only had one fight not go judges karl roberson who submitted mid 2020",
-   "ts": "2026-10-05T06:16:56+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxyfcm/in_the_last_10_years_marvin_vettori_has_only_had"
-  },
-  {
-   "key": "f7e35e5bda808c759f96d56a0f6a890affed79c4",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "RDA: Unfortunately, I couldn’t win, but I’m just blessed to compete again after a rough 2 years, 3 surgeries. A little bit of ring rust, but everything was goin",
-   "title_key": "d806288ab36cbf447be601160db29490b79449bb",
-   "title_norm": "rda unfortunately couldn win but just blessed compete again after rough years surgeries little bit ring rust but everything going according plan until last seconds first round when got caught lead hook kind messed me up",
-   "ts": "2026-10-05T06:16:56+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxyk33/rda_unfortunately_i_couldnt_win_but_im_just"
-  },
-  {
-   "key": "f8347eca3483e706bf1fa12dffb003f465c63838",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Robbie Lawler vs Rory MacDonald 2 | FULL FIGHT",
-   "title_key": "c84164ffc99c2a929e521dfa0e11557e282f8e40",
-   "title_norm": "robbie lawler vs rory macdonald full fight",
-   "ts": "2026-10-05T06:16:56+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxz6dr/robbie_lawler_vs_rory_macdonald_2_full_fight"
-  },
-  {
-   "key": "241f7ce27f2e92f9ba881a72ba386e6009bfeb8b",
-   "score": null,
-   "sent": false,
-   "source": "Sherdog",
-   "title": "Michael Morales calls Carlos Prates an ‘easy’ fight for Islam Makhachev",
-   "title_key": "c3f9528983c86690118eb91a3700fbd65b3596d2",
-   "title_norm": "michael morales calls carlos prates easy fight islam makhachev",
-   "ts": "2026-10-05T06:16:56+00:00",
-   "url": "https://sherdog.com/news/news/Michael-Morales-calls-Carlos-Prates-an-easy-fight-for-Islam-Makhachev-203064"
-  },
-  {
-   "key": "64afe85bc61dab6380aa227ea5e5e33a737aa3d8",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "What’s up with the match making at the top of the UFC’s Middleweight division recently?",
-   "title_key": "c5e4a3880b3b59dc28245c7a3e5d8e44fab1a0d6",
-   "title_norm": "what up match making top ufc middleweight division recently",
-   "ts": "2026-10-05T06:17:16+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wy0i3h/whats_up_with_the_match_making_at_the_top_of_the"
-  },
-  {
-   "key": "3a236fea65691c3d3f78d0310ab589a0d490f710",
-   "score": 1,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[Official] Technique & Training Thread - Week of October 05, 2026",
-   "title_key": "ad3aa9e6dc97f1e54e8e21e367c35296fc508552",
-   "title_norm": "official technique training thread week october 05 2026",
-   "ts": "2026-10-05T06:17:17+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxyym0/official_technique_training_thread_week_of"
-  },
-  {
-   "key": "29f9f89f2c31373a3bbab51e7469a08d23c78ec6",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "4 fighters from 322's main card will not make a single appearance in 2026 and Brady and Saint Denis will be the only ones to fight more than 1x this year.",
-   "title_key": "20c8c723660c3e647917689934ae933b93dd5cb1",
-   "title_norm": "fighters 322 main card will not make single appearance 2026 brady saint denis will be only ones fight more than 1x this year",
-   "ts": "2026-10-05T06:17:18+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxxrxf/4_fighters_from_322s_main_card_will_not_make_a"
-  },
-  {
-   "key": "69d1eb1b6f5787bc033a084df664d964d2fd2ee4",
-   "score": 8,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Dana White down for Paddy vs. Ilia season of The Ultimate Fighter: ‘I love the idea’",
-   "title_key": "0fa5bd141b950b70c3d460ce4b5a37cd15b8294d",
-   "title_norm": "dana white down paddy vs ilia season ultimate fighter love idea",
-   "ts": "2026-10-05T06:17:20+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1wxvy7m/dana_white_down_for_paddy_vs_ilia_season_of_the"
-  },
-  {
-   "key": "0f7f2da664488927c5781551468752d935680088",
-   "score": 7,
-   "sent": true,
-   "source": "Sherdog",
-   "title": "Glover Teixeira: Raoni Barcelos had brain swelling after UFC Vegas 121",
-   "title_key": "6735ce82d7b05caf4e5dec2bd4e9c5d43d275872",
-   "title_norm": "glover teixeira raoni barcelos had brain swelling after ufc vegas 121",
-   "ts": "2026-10-05T06:17:39+00:00",
-   "url": "https://sherdog.com/news/news/Glover-Teixeira-Raoni-Barcelos-had-brain-swelling-after-UFC-Vegas-121-203063"
-  },
-  {
    "key": "7796eced865685c8915f113834f9a3cb6a9d731a",
    "score": null,
    "sent": false,
@@ -13497,15 +13387,213 @@
    "title_norm": "farid basharat responds dana white comments yesterday press conference",
    "ts": "2026-10-19T01:38:58+00:00",
    "url": "https://reddit.com/r/ufc/comments/1x9ifod/farid_basharat_responds_to_dana_whites_comments"
+  },
+  {
+   "key": "2543a293abb6096a1e2cfdbe4f26fabaf60f2e01",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Jugador de Duke enfrenta críticas tras apartar bruscamente a una preparadora física",
+   "title_key": "192dac1cd88148e695f34677b8cdb3132cc83dc6",
+   "title_norm": "jugador duke enfrenta criticas tras apartar bruscamente preparadora fisica",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQk0wQi1NSG5kNWRKUXhrZkttQ2UwaEZFMkNaeHNhV2ZGVlRIR1FOdWotQlNoa1duV0pTTjU5QWNuNkRIOWl6TWJDRHp3aC1pOXNwQmR1aUpfYy1LS2VPbWsyMTBOVXVDd0QtY1JzVWt0eUo1Q1RKRnVUSHlCdV8ySVFOdDZUZllab0FwaFNvRzNwVUZGeUE3LTQ4bEFyUUlzMFk1elpRVEY0b3RySzZXZGdfZzE0TDIzY2fSAb8BQVVfeXFMTWpZLTI1X2hUbk84VGc3SnVNcTMwT0FNVVJHNDI3S2x0cFE3UHZYX0d1RHNhUDBCNDh3SFVVOWRoaTFCektpekdvLVFmZVhxZlhUNUxGVkxibVlQdjRWYk9tejlPWGQ4djcwTVZ2NUpTT0Q3MzZjT0xEVko2azNJY1lPS3MySDZYTUlIazhpYS1wS2gtRWMxNmlqd05iZmdKd2pPcE5fbjZtcG0ycUlxdFJlZEtzYm1IaE5VSWxubzg?oc=5"
+  },
+  {
+   "key": "b46da5863d78b42cd3625c79eb89e10e2ea5b596",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Streamer HSTikkyTokky claims he will ‘dethrone’ Sean Strickland with just six months of training",
+   "title_key": "df385f9952bd9d808f4371c9afb875ec6de4e835",
+   "title_norm": "streamer hstikkytokky claims will dethrone sean strickland just six months training",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://bloodyelbow.com/2026/10/18/streamer-hstikkytokky-claims-he-will-dethrone-sean-strickland-with-just-six-months-of-training"
+  },
+  {
+   "key": "89c06cbfdfcc3af407f83aac095e5a8deaf6fdd3",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Back when Buckley fought Imavov at MW",
+   "title_key": "f5527845acc399276f8e56034a596119d1846091",
+   "title_norm": "back when buckley fought imavov mw",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x9kj8k/back_when_buckley_fought_imavov_at_mw"
+  },
+  {
+   "key": "5209671b9fbe59fba85e4283fa92c05c1f4a80fd",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Merab Dvalishvili calls himself a 'decision machine' before Yan trilogy",
+   "title_key": "9984261ed758f8d5b5a70e7bb32b48007baf1a87",
+   "title_norm": "merab dvalishvili calls himself decision machine before yan trilogy",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://sherdog.com/news/news/Merab-Dvalishvili-calls-himself-a-decision-machine-before-Yan-trilogy-203272"
+  },
+  {
+   "key": "ff9d802a8f8c00bb74472efea942a87500affba2",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Jake Paul shuts down Tommy Fury rematch as bitter feud continues… ‘Ship has sailed’",
+   "title_key": "aa17ecd8995179fb5630d3270953a49f973aef25",
+   "title_norm": "jake paul shuts down tommy fury rematch bitter feud continues ship has sailed",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://bloodyelbow.com/2026/10/18/jake-paul-shuts-down-tommy-fury-rematch-as-bitter-feud-continues-ship-has-sailed"
+  },
+  {
+   "key": "326163192e680f02a194f829c019ac5b25fb7552",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Alexander Volkanovski (28-4-0) dares Movsar Evloev (20-0-0) to take him down and keep him there: Even if you do grab a hip or grab a leg or even get me down, tr",
+   "title_key": "e0c73a29a3409414f88b6913a9fb2c832784fd07",
+   "title_norm": "alexander volkanovski 28 dares movsar evloev 20 take him down keep him there even if you do grab hip or grab leg or even get me down try hold me after second or third time let see if you want do fourth time going be able defend all day",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x9oelm/alexander_volkanovski_2840_dares_movsar_evloev"
+  },
+  {
+   "key": "4e2e1754004224602d9389678aa62cd6e363ec07",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Alexander Volkanovski’s teammate passed out from exhaustion during one of their challenges",
+   "title_key": "bfc59a89fc6fef7f8ead5f06a2cfba20a15aace4",
+   "title_norm": "alexander volkanovski teammate passed out exhaustion during one their challenges",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1x9pewl/alexander_volkanovskis_teammate_passed_out_from"
+  },
+  {
+   "key": "4aa5a333a0c361c3be020f4b972bc7e9059a4776",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Mike Malott Interested in Fighting Jack Della Maddalena Next",
+   "title_key": "066219a08cfda359c73798cee7c3d75ca5dfc2c1",
+   "title_norm": "mike malott interested fighting jack della maddalena next",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PMzVaRTZyLTVGWG1tNU9nOGdCZEdoLTkxbXNNSEdrZkpVRFdqemk1YjJ5aWhXcldVN2IzRTlSWWx4MXFhTTVMRkJEVWMtOVB5eDVqMXBOUGE1ZzJlRUJLSDA4MHpHQjlyWnZnYVNhc3ExZG01QjJySFc5RWk1UQ?oc=5"
+  },
+  {
+   "key": "15905cec192bf162633608af01a812ad15241eb9",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Davante Adams leaves Rams' late loss to Cardinals due to apparent knee injury",
+   "title_key": "44da341ae28deb003e30a3603c92e5f1dc64cfff",
+   "title_norm": "davante adams leaves rams late loss cardinals due apparent knee injury",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0FiVTVWVi1zSjYwN1lWRV9YcDB5a3dHQnppZ2RnV2k3OXYtT21ndzVpeWFLZXhGbGxDeEt2WDJ5Zm56OWN6Q0NfcmdCVk9paHFqLXhOM2FLWk5EOHF5RkZzU2tpdVZKckRzaGVKcUVhekMtWHRwMG5JeUhGZWtGS2hTd1Jib3JXbW93ZEJfTHpYeXZSTHFpSWljQS1Da25yZVI0UWRibGJseUZfTEdGakxZeEczQ0lSYnhCZmFWWEFZNmsyaTFKNTlTLWoxOXlmTWJtcFIzMl9TZw?oc=5"
+  },
+  {
+   "key": "4dd378f1db2cbb8ae49fa36178e24c708703e76d",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Volkanovski pensó en retirarse tras perder ante Topuria",
+   "title_key": "923a2404203ca855c900033c3628da1ae66759cf",
+   "title_norm": "volkanovski penso retirarse tras perder ante topuria",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUlHd1JPVHZpd0FnZzdpbUlHUkNVYVQyVW5jcVRqRVc3bHF5SUVhNUc4MUs3c2lSNWkwT1ladjFpRFZKbjYtQ0drQnV6ZmNLSFM1bnZYWk9mc1ZQMzdOUjhJQUlHMmEyMlo3M1RoTFJLSzRYb2JtbWtHSTlsQmo0NzhJLVM0N0xuQVlOSGlPXzFKa2lFS0RSYko0TE1qQnpNa2NNYi1qaF9GN0QzRTlQRWpRRkFqOVdCU1ZuV1lLTEx5WDdj0gHKAUFVX3lxTFBXX0ZTb1hRU05kQ2gzaEUxcHNWTzRTSzNKY1V5TkJ3bU9VeU5tdkRSUjNkRjRtdzU4eE0yemRKV2lkbzF0S09NdHFxM1RJd1VfbDZ1aWdBTnFxWDhxM1llbHprSEpYQTB1NklIeEF2Z3JaTnJMTFIxMUhqdUZEclNESkdVbk84MnIzZjBybkZWMHdTY0NkT01OM0lwLU90ekVhQl9fZ3NydnNjSTR2VDZhaGM4UmdUNGZ6bUNCSFVKT0hHZUJCX2VjNGc?oc=5"
+  },
+  {
+   "key": "b2f45137575a5618159f8ab67837fad3012b7ed2",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Sherdog’s official mixed martial arts rankings: Bishop debuts, Malott replaces Usman",
+   "title_key": "a3bd09677c81e6261e884f0ef60a5f5ffde4e41f",
+   "title_norm": "sherdog official mixed martial arts rankings bishop debuts malott replaces usman",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPREtqSW9xSUNXNVNQZnFPUmNXeUdOTUp5clF2dnZTQlc1OE4yYmVmVG9DWEVxaXVsMUhOcWtXNThmSGdiUFEtWkg1SURsWVIwbUZLWVpSYXhUWnVDcE1xVjdON25WNm41LTZjOHZPZGthVEFsb0tNYWlIZFhscEh4b2kteGZTd01LZzZ3WHgtcnhTOHQ5Qmt5WklhZ1QxYTZQNFRJOUVPbThreWNQNEd5NHFwYmF6NmxwV1psMGVwYm4yc3NDVElJ0gHMAUFVX3lxTFBJdUpYUkJYaVZLRFdYanZTUkxFcHlRcWx6b1VGUEJNVnFJeEdIQXgwR0FpdU1RMm5TbDJLbGZzU2swTnZRUXI4UDRjcmxLcks0M0dPRzJtMGQ5TDh2aG1KOWZxeWJreFdITGJlUFhVeGlVMGY3TWZtazBTZ0Fhd0V4VktyUzdVb0Y0U2xWTWdGZEdWNTA0VWEwN1FETTBLWG5nQ1E4NGlyVGlRZGxmMkdiUkVETU1qeGpqS2Joc2kwWS1Sd1JjaTNhQzVxcg?oc=5"
+  },
+  {
+   "key": "141c25c7d6a5b788ead88f869e593e576a57772e",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Thunder, Cason Wallace reportedly beat deadline, agree to 5-year, $139M contract extension",
+   "title_key": "d8fbac684fdda37863843cff96619dd9f49300ee",
+   "title_norm": "thunder cason wallace reportedly beat deadline agree year 139m contract extension",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnZhZUh3LUttXzBQeklpRmN5N3lLT3JqRHhFai1YR3IxNUxiOGNmeGlhN3lYaEM2VWZpOVBIcW1qTFJvMXVQTWRSVVduTWNKamFrSnd6OHFldmpJWk13T2VyR2V0RmFESlp1NlMzWGNLcU0yM1F2cnNPREY2cFNLUWRqM3JHVFRzdW9tbm9LMUF0aWVhbHJmcE9kVHJEQkhrYV9mbkdNeGpZT0FsbzdpSzJrbGlGTkdTXzZRQmhwNkZfdC14dk1Henk1eEd1ZVZScEJnMGR5eHhwME9JeHBmZWppcW82cTA?oc=5"
+  },
+  {
+   "key": "936c4e056f22fa2c9b95fc65d2e7fe5b508cd065",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Daniel Richardson: \"Me considero mejor que Quirama en todos los ámbitos y tengo la habilidad para ganar en WOW Vitoria\"",
+   "title_key": "86a6c1ae7a41c641f4274a1ae82306c635775886",
+   "title_norm": "daniel richardson me considero mejor quirama todos ambitos tengo habilidad ganar wow vitoria",
+   "ts": "2026-10-19T06:47:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOUtYUmNVRTFTVHp0N09YaDhUQjBmblVlXzFxcXJxbG1SM1Vpb1BBbThuY2E1dWs0ZHlpNUo1RG9ONzVIdDhBdlZUV21tM3lWYlVLbDVETnRaWWQxNEZ6eEVKQmxXRFZndkpUVFpJbXhKVXZIZDFGaGhQS19PdDNheG1ZYzM3U1hvLXk2VTFhOHV6Mm1qU211ZllnV2xONlZadmFLejlST3FuYW5pdnlwdjVXX0RZX1JRakttbFJycjM3bl9jMzgwMWxWRGZKTG1EMkNwMldWbzJHZDItLXM00gHsAUFVX3lxTE5fbkpYbTMySmhyRVRGM2pJaTlfT19jOWdvZ1FYMWxzbWplN0JGdjBkVXN3YmI3UUMzMUJ2UU1MUF8tRHJBQi1MYmVwMTZ3emdsZnp1azgyVlIyQkJqbnAtcGV4SmowR2pybWlQdkthN3k2WkVpTUkzZWNJWm9QaXgyNGUzN0hJQU1XZURGV3l6YkJtYmZWem5wWkFHTXVYSm1tNmtVVVR4Vkh5SG5OUUNodHJETVNrT09jZFUyMUE3a2E5V2lUQmV1X2ZDQnN5MlVMeEFqc1JnTzZtYXBOMFgweEZkdkMzMHVjaXlY?oc=5"
+  },
+  {
+   "key": "99f6ebcb862ae2132fed004902297e76a8464f16",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "UFC 333 Countdown - Full Episode",
+   "title_key": "9a1ca887ef26c0b160929c7c93141ae840651937",
+   "title_norm": "ufc 333 countdown full episode",
+   "ts": "2026-10-19T06:47:51+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x9oq12/ufc_333_countdown_full_episode"
+  },
+  {
+   "key": "39924e4ac0ec0a9fd5623b8b7bc2b770135461f3",
+   "score": 1,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "[Official] Technique & Training Thread - Week of October 19, 2026",
+   "title_key": "2f7b2dbfe5c5049505fad70cd444e792b6b2093c",
+   "title_norm": "official technique training thread week october 19 2026",
+   "ts": "2026-10-19T06:47:54+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1x9mwjn/official_technique_training_thread_week_of"
+  },
+  {
+   "key": "04be31e288b45b2f4e88cb06f397227c6902b601",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Fight Night 291 Promotional Guidelines Compliance pay: No fighters reach $21k tier",
+   "title_key": "3124cabc982cfb5f0906bc8d4cca4b6b6c817320",
+   "title_norm": "ufc fight night 291 promotional guidelines compliance pay no fighters reach 21k tier",
+   "ts": "2026-10-19T06:47:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbVkzM2REcWxEeV9QRm1Oa1BQUHkxS19nalNWSkZ2TXBneW5DMkRiR3dOV3pmOUlEQXJEQXhQNzV5aEYtSFZyRWk3ZkNsbS1IUGlQd0hCSkExcG9MYjhNMHJueGFNcUI0aFdaRmFEZEtSVVBRVUZGWWQzZUozT2hmODRxRi1VSHdNTGNOU2JFa01mZ1p1d2RWQnoxcC15M0Z1YTNQdEFYcTE3SnpYdVNjN1ZzOFVMWkRxRXJob2xQbHByZ2JKYVVCay0xd0lVbTJwYm9EaWI3N29lVzFR?oc=5"
+  },
+  {
+   "key": "32118c9738085a2728bac300fb87c7774e4eefba",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Mandel Nallo says patience learned from debut loss paid off at UFC Edmonton",
+   "title_key": "f58461f1ed09b218f971308cea7033a27033167c",
+   "title_norm": "mandel nallo says patience learned debut loss paid off ufc edmonton",
+   "ts": "2026-10-19T06:48:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWF8wU1ZDS01nVFFzMTlSUmI4QmdGd3NuMkVCQV9TTlV3YlR0WG56Z1doSlpjUG8wdTc2UDZIY1dSVDcxVURJUlpMX0ZORGd5MjRVNGlHblU1UDBVN3h1dG9hVnA2aHRLRjJ6VjVjWFVCNjZab0I0cHpqbk5VbkF2Qy0zX1dCd0NFYnhtcW1YQnlrMERHTFhDSjVCNmh5SVV0V1hQMDhoZ1cxVjQ0alE0aFAzVU1sNFdjd1VxNzJob2ZWalhTb1RyZnpDb1pFX0lCVERoRXdTT1phRXhhNk93?oc=5"
+  },
+  {
+   "key": "1a2d4718002b25a3a63d7025ec74175ec13976a8",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "Marc-Andre Barriault commits to patient performances after UFC Edmonton",
+   "title_key": "fffc732be1e9083e6885992bce496f74efc5c48b",
+   "title_norm": "marc andre barriault commits patient performances after ufc edmonton",
+   "ts": "2026-10-19T06:48:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX3JDTnNZYzVwWFdKRHlIclNmMEVoWHFTNUxhS09oRmxrcTY0X2hpYnZiSDhwM0xnWTNzcDQ5QXRjY2x6VVJOSk52a18zak93dTQwcWpPMmJWT0VOSjA1QWN1N3FzeG52SWZhZjE4SG14Tzd6aURYcmFLWHZmcmhKMDZJalBaYllPbjIyMWs5UGp1Y1NYc0o3M2FXSW1jOWxNZnR2YzdoQ0U1QWo3RnFVNUpYYXAzUlpRbVN2U2FNZTVlUVRCMGFoTnFWVk44eTBiVHVEZXRPclZvaVBNRXc?oc=5"
   }
  ],
  "stats": {
   "descartados": 5,
   "enviados": 0,
   "llamadas_llm": 5,
-  "prefiltrados": 6,
+  "prefiltrados": 13,
   "recogidos": 188,
-  "unicos": 68
+  "unicos": 71
  },
  "telegram_offset": 958387804,
  "version": 1
