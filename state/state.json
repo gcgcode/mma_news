@@ -2,83 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "abc1d4e2a7badcd2ca896954a136e8f294340b01",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Demetrious Johnson compares banning oblique kicks to NFL protecting quarterbacks: \"It can ruin somebody's career. I don't do heel hooks and I don't do oblique k",
-   "title_key": "fd328c3bd5fb4eaf8127d9f1e8f19498685a5b2e",
-   "title_norm": "demetrious johnson compares banning oblique kicks nfl protecting quarterbacks can ruin somebody career don do heel hooks don do oblique kicks because there another way can take you out ll break somebody arm because you have opportunity tap right",
-   "ts": "2026-10-14T22:36:29+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1x61k7n/demetrious_johnson_compares_banning_oblique_kicks"
-  },
-  {
-   "key": "b45bdc16ac7f80abb81b7fe9d384203b4ae7b2ab",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Farid Basharat has been removed from the roster",
-   "title_key": "69adbf3b39167a5d59e940d2cb6bfe508eff5849",
-   "title_norm": "farid basharat has been removed roster",
-   "ts": "2026-10-14T22:36:29+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1x63baf/farid_basharat_has_been_removed_from_the_roster"
-  },
-  {
-   "key": "48f7b2e420890195033a25fcdd62b7764d917ecd",
-   "score": null,
-   "sent": false,
-   "source": "AS — UFC/MMA",
-   "title": "Alineaciones Deportivo vs Levante, LALIGA EA Sports 2026/2027",
-   "title_key": "37e38167ea93db5e268b48898111142efd7a9f34",
-   "title_norm": "alineaciones deportivo vs levante laliga ea sports 2026 2027",
-   "ts": "2026-10-14T22:36:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOURoYS0zbUJHRjNGeHp0TkFGT3pyd3pXQk92TkdGU292cFBiT0w4NW5LTjZEZnVTQVk2SEJCeUdYeXpycTJSalRwakZ0X2M0WllzbkxYSE15Z3o1Mk9URW5MaFdiQXg1QkZuaDI0UC02UHJyNU5lYkc5QzdTWDJZR09nYzYta0J1OUJKNWk1YnprRG4wVF9veV9mcmJna3lNR0JxZl84bw?oc=5"
-  },
-  {
-   "key": "802bc400a219a3d035933df3cc549ce63304e5f1",
-   "score": null,
-   "sent": false,
-   "source": "Yahoo Sports MMA",
-   "title": "Mark Sanchez reportedly reaches agreement with truck driver in civil case stemming from stabbing incident in Indianapolis",
-   "title_key": "7b3cf06f5df066528861b360e2d9b734afb56e92",
-   "title_norm": "mark sanchez reportedly reaches agreement truck driver civil case stemming stabbing incident indianapolis",
-   "ts": "2026-10-14T22:36:29+00:00",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQckREMEFZdFdMdkdwTVJMUEZrQ0dQVmluZjd6dHlLeTg3dmFacEdkSnhjR0pHSDQ1V2p3dXFlQldJM05fU3FFMXI1MjUyekZhd3pLMjVqcFFNX2V3bzJnQlhBSms3SHNtZ3BPWmd1dGNLYkk1ekJqdk9SbnA1Qnh1aFZDOEhmTkp0TkFhcUJ3S0VFRGhFVkVuRGYtLXBFcWFteUtGZ3FMVkd2YUM0MDh3cG5XRkZvRlFwMnpzOFNqdktoY0EyMl9xeG8wYU5heUJUQVZtVWdfZzRxYjZPX2pPTXI0TlVWTmZaM040eUVNaW5aRjVHTFpaWEUxM0x5ZGRweWxF?oc=5"
-  },
-  {
-   "key": "3f52dc92de9494be3581cea1dedf2fd5d25cd527",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Jasmine Jasudavicius in disbelief at being fined $10K for alleged ’dip’ in UFC Winnipeg fight",
-   "title_key": "dcbfc98e0d5da0f54fe3291cce909ef633c04dcb",
-   "title_norm": "jasmine jasudavicius disbelief being fined 10k alleged dip ufc winnipeg fight",
-   "ts": "2026-10-14T22:36:41+00:00",
-   "url": "https://mmafighting.com/ufc/515687/jasmine-jasudavicius-in-disbelief-at-being-fined-10k-for-alleged-dip-in-ufc-winnipeg-fight"
-  },
-  {
-   "key": "d90ca7713df08c7d38245b428d76f5ad7c85902f",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Grant Dawson: Time will come when Nurullo Aliev is better than me – but not at UFC 333",
-   "title_key": "b4fcb3269e08031e92e73b32bb3f044fac0d6ca3",
-   "title_norm": "grant dawson time will come when nurullo aliev better than me but not ufc 333",
-   "ts": "2026-10-14T22:36:42+00:00",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMHc0QXJEZWVjMkNKM0ZlS2h2akp3Y3JQNGd6ODBtSWlCdTdGR3U2Mi11Tl9UWHQ1TUVRVkFPSDRpbjBqTGNDLTBvX0ZtMlZzR0hfSUJKTVdkSlVLNzFaNlotUWM4VzZteUhkbnFSUnZVT2hjLTRlNXdaRFlYelJhaXh1MVBHdzdvV0g5RHRyeVhMQ2kxTjk5WGp3emtFMFlxc05TVXAzLUhhZ2l5X2ZVSU0wX19WTVpEWDF1Tg?oc=5"
-  },
-  {
-   "key": "0edfe109cf7707df368be1b54200b3b3f3d5beb6",
-   "score": 5,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Robert Whittaker names surprising opponent for Brendan Allen following UFC Vegas 122 win",
-   "title_key": "4036ba86c10f4248b8b03bfcd266eaa2bb69f7aa",
-   "title_norm": "robert whittaker names surprising opponent brendan allen following ufc vegas 122 win",
-   "ts": "2026-10-14T22:36:54+00:00",
-   "url": "https://mmafighting.com/ufc/515385/robert-whittaker-names-surprising-opponent-for-brendan-allen-following-ufc-vegas-122-win"
-  },
-  {
    "key": "7e5879cb0fa8126b703ffa0a30afe976ed58e0a2",
    "score": null,
    "sent": false,
@@ -14487,15 +14410,191 @@
    "title_norm": "alexander schlemenko vs ramazan emeev vacant aca middleweight title announced aca 211 december 25",
    "ts": "2026-10-28T19:51:53+00:00",
    "url": "https://reddit.com/r/MMA/comments/1xhokjy/alexander_schlemenko_vs_ramazan_emeev_for_the"
+  },
+  {
+   "key": "0b699e219c737c23f5180804d04070b606b053bd",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Arsenal acelera por Gilberto Mora de cara al invierno",
+   "title_key": "9e16a3095d8313fa685644ebcf4d4bda2558202c",
+   "title_norm": "arsenal acelera gilberto mora cara invierno",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWExNdlM3VHdmM3ZkT1A4Z1RrazZYMm9vTHRkSjVHbG5acnEtZW9mQUdoMmI4Q0dUcGNMejJRWVhmOFh2ei1xOUtFNENPTjBaemZuRXhudnRTUXhmTl9FY0dNSmVFVmlzdGZCODJtNzJKWlBsWEMwbnVrY2I1LU5HTXBfQW5aWmtZLUVjZmpnQ0U2T1lHTnVsaUV6aFotNlpmNVA4VlQxMDhwbm1JTVE?oc=5"
+  },
+  {
+   "key": "b59d98b4a3ebcec687b16471913396901f673615",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Piera Rodríguez: Bandera Venezolana En Acción",
+   "title_key": "50be7a542f20b4d3305080fd0cd3c382b297e236",
+   "title_norm": "piera rodriguez bandera venezolana accion",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFR1YmFyMVY0SFdkbENDUDd5SkkwZ21kdkd0cjV6Z3VLUFZ5MlhpTmhwbks3OUItOFVpT1JhV05lVHFqYWdOVUVwS2stb2NZaFJfdWlsUVpSQmZZVkdMV1dtSmI5VDhpc1lYSGU5SXRieTZXNF8tRTRQTk4yNlRuLWZR?oc=5"
+  },
+  {
+   "key": "1fd7d83ee43f2c3a4f8f191a64529d2f1a3beecc",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Usyk celebra a lo CR7 con la camiseta de Messi a la espalda",
+   "title_key": "9d6639ee23c5e8f573f53ef2e77619f3d9cb96c6",
+   "title_norm": "usyk celebra lo cr7 camiseta messi espalda",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVE2ZFJWZ0pJX21QUkkzeTlxOXZ5bkpvT3lFaGRTekhMeXh5aWtHUzhtdWJ2bmdOcjBqNEMtUjBBRUFBRndMaWJneFFUa21ZeFJHVFlzdmh1X1FvSTlZbUllYVA4Si1Db0ljaUZkTXJrU28yMUNHUjV1Sm8zcl9TWjZ6dEpwX1BpWWwwZ3NCbFXSAZABQVVfeXFMTzlRNmRSVmdKSV9tUFJJM3k5cTl2eW5Kb095RWhkU3pITHl4eWlrR1M4bXVidm5nTnIwajRDLVIwQUVBQUZ3TGliZ3hRVGttWXhSR1RZc3ZodV9Rb0k5WW1JZWFQOEotQ29JY2lGZE1ya1NvMjFDR1I1dUpvM3JfU1o2enRKcF9QaVlsMGdzQmxV?oc=5"
+  },
+  {
+   "key": "003e6d9fb38aa652d5ad8537f25df892f81d54f5",
+   "score": null,
+   "sent": false,
+   "source": "Sherdog",
+   "title": "Tom Nolan makes permanent City Kickboxing move before Moicano fight",
+   "title_key": "61cd3224581459dabc04f2ec442a4bcdb083e421",
+   "title_norm": "tom nolan makes permanent city kickboxing move before moicano fight",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://sherdog.com/news/news/Tom-Nolan-makes-permanent-City-Kickboxing-move-before-Moicano-fight-203396"
+  },
+  {
+   "key": "eb2359498d3551864b8887463b63f922656ea4c8",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "¡Vacío vergonzoso, susto para el City!",
+   "title_key": "ab5efc99d55a3f0f395db2deac5436aa0a51d4e7",
+   "title_norm": "vacio vergonzoso susto city",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjhFXzItLV9lcDNxOG5sblY3ajhUenFtN0pFUW1WMjFLcGQyb2FTWlRyQi1YM3ZUQzFYelJDcmR0U3ZzS0xZRnYyY2xNekVSaFhRRnRMalc2eXZmcDAzYk1zZmIxbHFRTVAwWm44WjY0RG1KbXpfTHg0VU12eEt5WHFBNWx5ZXc4MXfSAZ4BQVVfeXFMTTVHZXB6dzBDdlNZT1VFM2FlUmY2bGh1QzNsdThXaHFQY3ZlbnpCOHJfanppNElWNVZoX0JOcDlaNUUwRlRsd1h3b2lGSFVvdXoyVldhZTF0VUpmQTczM1dFXzg1NXRIY1RFYXdmTDloUWNFVHNGd3ZiQmEwbUhNTDd3NVZvTGNyazVDc21JTFhSTGRkaW8xTU9fMm9jTnc?oc=5"
+  },
+  {
+   "key": "708b7b5a14aa8e815f6c91f5aee82115f9828732",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Latest Updates",
+   "title_key": "6f6d1fa8e64b64b03867dd776a7fdbabea46572b",
+   "title_norm": "latest updates",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ucThEV19oYy1sRndiU1hyZFlyLUdlOWxWc1BsOUJDV3JvNE1lTkpZQmFpYWJiTDRRMWR0aUtxZ3ZyendkdGF4XzNFaEc1Zw?oc=5"
+  },
+  {
+   "key": "12bc8eef3fd626f3d8ecc78e93a0e33febe14fa7",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Caesars Promo Code FOXDYW: Bet $1, Double Your Winnings Your Next 10 Wagers",
+   "title_key": "625def8d7f3467e890bbafd8f19052f478d052a7",
+   "title_norm": "caesars promo code foxdyw bet double your winnings your next 10 wagers",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tX0x5aGllQXIwamZjaEFzOWtxZ2NvTXlJSTJsQlhGeV94d1ljWEtOQzBhVTVKV0NuX2toQWZDeGp3R1daVE9EakV2WnN6Ync4REY4d1lSRXRIV2haOFMyT0dxTHNPUDF0c3FoOUNXLVcyTWpTNzdzQjFNUdIBe0FVX3lxTE05QXZka2dUNmtYZEdSVkJJdjNkbzA1TlZjY3Ntdzlnem4zZnVYR3JZT2FwbFZLU3Iycm9oRXY2WWk5WWI2RmFhVTJyTndvc292M0lhaW0tdWZqVXpHdy1yNnNwUmNlQmpEUGxUMkZnT29HWWU4bjlFQV9Ecw?oc=5"
+  },
+  {
+   "key": "b81195d308fb6e451dc81999d97b4c3bfefeb9c0",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA breaking (EN)",
+   "title": "Quillan Salkilld Gets Biggest Fight Of His Career Against Benoit Saint-Denis In Australia",
+   "title_key": "23b47cd2d071ce3c37c5ea4be6a95bb23bb7d40d",
+   "title_norm": "quillan salkilld gets biggest fight career against benoit saint denis australia",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzF1aC1laWhkNHN0bXZNOGF3SlBoVkdKQ29OanJwZEUyT2FiYjNOWlROYU5xd2tfMzhXODFlUXBXY3hVRkxXeE1WY0VQSV8wYjhGelJGakpXbDYxWXljbGFhQ0s2ckdZdWJPQm1LcXVBUGIxUXgzQUxMZURNM0FkWWJ1RXQyMmN5WHFhb21JRE1yNmhEOEh1MnF3SXJjNFpLZ2hKLW5wQ1JTMUlXdmwwVF9jWmNTNkMwZlRpUGRNa2Njb2I0cmdZSA?oc=5"
+  },
+  {
+   "key": "594abe169ac8165a4b072d21a1369e36fc374f28",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Netflix reportedly censors WWE star Liv Morgan’s near-wardrobe malfunction on RAW",
+   "title_key": "18e9312c3d3f0c154c0d041e61568f6e2ef159d9",
+   "title_norm": "netflix reportedly censors wwe star liv morgan near wardrobe malfunction raw",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlVabXE2R2poOG55NlF1T1gzWkZaN2hWTWV5WmxNLVFnSXY4MmZUcDN6OU1sbFhvdDZvQzdDZDRMclpOWFhzRWxNVlF1UHc1WUxJc2NEVmJSUFdOZkxDQkVYQ3BmQ3dpcmJIN080UTJpc1JXZ0VaYXUzSkV6TS13czFNaFJkRkN0OUY5Yw?oc=5"
+  },
+  {
+   "key": "fd2451153be82f6d56be3c37014993b2e069fa64",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Lane Kiffin wants to know why LSU-Alabama kickoff isn't scheduled for prime time",
+   "title_key": "8e96a8344f17c203bb62a5598817391e65d66806",
+   "title_norm": "lane kiffin wants know why lsu alabama kickoff isn scheduled prime time",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY0hsVFUxeFlqeVNmZVIxdG9hQU1MN19sdVY1UWdtNVJ0NWwtLTN5b2U2dDhQYmdpNnowYnY1cUVLNEppY21ucklWWnFDcmtnMDd1VlhhVjRyelFZM1ZsTEtSMHZLbElSWDZzNEpNWGJRMmdnRThwclc3eEpYZUhGZGV0Q2hyRWdvMmw2czItdW0zdFp3WW5Ydzl2MklRV2I5bF91NXNwaDNFV0FGNE8xcWU4b1B2cUxBQVdoR05LNGt0Qmh6ZEtqTVRtWG9iLUFyN19GQ1dhYjJWQ3k3?oc=5"
+  },
+  {
+   "key": "44d0b80bffccca2eb4c26a8b7cf657f7a086c1c3",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Ilia Topuria expresa su dolor por el accidente de tren en Toledo",
+   "title_key": "d40412704223ef09d6ced462b9ee655b67702cfe",
+   "title_norm": "ilia topuria expresa dolor accidente tren toledo",
+   "ts": "2026-10-28T23:50:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFVVHdZMktKZmdWNV9mNV9jVXIxMWZIUnNrTWZTdlo4WDFPN1ZUek9oUHhXTGItV2U5UUJVZTduaG9yd0pUZWplR202b2w2cXEwNUZYUlVFQUU2YlZVMkVqRC1ldmIzS1laNDNGZHI4QWRTUnZRNWZGSExGRnBNS2w2cDJ3MUhValZsSHpHQVg5OVZwSVRIa0kycVg1djhqbGpJSTBwb1RaUk5FS3ZqSzhzbHTSAboBQVVfeXFMT1pVVGVqdkltX1NaeS16OElsazlSdEZlRFdtZVVZZ1JMT1FIWk9XVmJobG9vaXlYSVI5NnV3a0VIY3BiZTV6dXQxd0gwb1hYUkRDbWhfYzdCeEFza3A2VExVaXFKYVlTWHp1dzhIc21zSzZFbEkxeTV2QTJMdzBBTWpjODBZcGtZR0liX25mazVFaHVWZ3FvQXVkOGdxNW9wY0s5U0ZqZjNQNEY0dVZGVXQ2TDBKdUMzS0ln?oc=5"
+  },
+  {
+   "key": "82639c89fe8d9e505d53d47a3d3303e3dc9ab3b3",
+   "score": 2,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Canelo Alvarez vs. Christian Mbilli fight card, start time",
+   "title_key": "f2a0097b54bef2e80ea2677b9d72a0ff05e6447e",
+   "title_norm": "canelo alvarez vs christian mbilli fight card start time",
+   "ts": "2026-10-28T23:50:34+00:00",
+   "url": "https://mmafighting.com/boxing/518207/canelo-alvarez-vs-christian-mbilli-fight-card-start-time"
+  },
+  {
+   "key": "c6240f4de22aae87b9c935ed02e633f11b3e268c",
+   "score": 4,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Angela Hill vs. Shanelle Dyer added to UFC 335",
+   "title_key": "fc30b3df653e0c956cf7b88a67e07aea67fd4ec4",
+   "title_norm": "angela hill vs shanelle dyer added ufc 335",
+   "ts": "2026-10-28T23:50:42+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1xi2l9p/angela_hill_vs_shanelle_dyer_added_to_ufc_335"
+  },
+  {
+   "key": "0300fef1a672414af303493e330951948cd65c92",
+   "score": 8,
+   "sent": true,
+   "source": "r/MMA",
+   "title": "[News]Volk is increasingly interested in fighting Arman for the lightweight title and would be willing to vacate his featherweight belt to make it happen",
+   "title_key": "f9628dc13d279934ca21d046e312623b595797ca",
+   "title_norm": "news volk increasingly interested fighting arman lightweight title would be willing vacate featherweight belt make happen",
+   "ts": "2026-10-28T23:50:45+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1xi0ew3/newsvolk_is_increasingly_interested_in_fighting"
+  },
+  {
+   "key": "f0fb47b8e2006c88512d7d0cbeaa4f12a502fb04",
+   "score": 3,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Amanda Serrano set for retirement fight in January",
+   "title_key": "f64a62d9fa5c3cf53a7fc53e0f96d3351b2b8b6e",
+   "title_norm": "amanda serrano set retirement fight january",
+   "ts": "2026-10-28T23:50:47+00:00",
+   "url": "https://mmafighting.com/boxing/518199/amanda-serrano-set-for-retirement-fight-in-january"
+  },
+  {
+   "key": "61e73c913f8129c34ad5cd4ba717129a9eadadba",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC champion expects Quillan Salkilld to 'smoke' Benoit Saint Denis",
+   "title_key": "6e02f85c91998e9d345549b952d821f15710e1f1",
+   "title_norm": "ufc champion expects quillan salkilld smoke benoit saint denis",
+   "ts": "2026-10-28T23:50:54+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVVFfZk15OTJybzB3ZmQwV0tlcHktNDdWODJKMTlpbmVNM3VDR19RcEZFOGFVV3RBMjM1X0Rac3lRRGRBYkZvb2JoVk54WXp1WmZVTWwyTmkzTU13YUxRRERNRlNfQWpwVTVUYjJVMlBZcS1ZNTBGVDJ3dC1JVzN3N2VmQ1dPTnhoUjR2ek01WXN1TkZBZ3JFajh5WnlrUFdQbVRRNDg4SWhJTGx3MmdMaEJxSmlEUU14YWtweE15Tzl5Vjg3TXhkcEsxd1ZGTlBYaDVsZWg1cXU1ZlE?oc=5"
   }
  ],
  "stats": {
   "descartados": 4,
-  "enviados": 0,
-  "llamadas_llm": 4,
-  "prefiltrados": 26,
-  "recogidos": 189,
-  "unicos": 109
+  "enviados": 1,
+  "llamadas_llm": 5,
+  "prefiltrados": 11,
+  "recogidos": 170,
+  "unicos": 89
  },
  "telegram_offset": 958387804,
  "version": 1
