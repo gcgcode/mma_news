@@ -2,94 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "40c515eba2db0fec136cb0a0543d5663bad2aa80",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Maria Henderson (Bendo's wife) vs. Hope Holmes - Fusion Fight League: Garcia vs. Mendez",
-   "title_key": "4074d5008ddb8c0cd4a615fb09106d27a857bebb",
-   "title_norm": "maria henderson bendo wife vs hope holmes fusion fight league garcia vs mendez",
-   "ts": "2026-10-25T14:04:34+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xer3uh/maria_henderson_bendos_wife_vs_hope_holmes_fusion"
-  },
-  {
-   "key": "560404d54a50ebf22e3fbd2f92b48b6464206e40",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Yan Ended the Trilogy....with a Jumping Liver Kick.",
-   "title_key": "679fe4918576e5945da5d3cd467db66325970514",
-   "title_norm": "yan ended trilogy jumping liver kick",
-   "ts": "2026-10-25T14:04:34+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1xeydb1/yan_ended_the_trilogywith_a_jumping_liver_kick"
-  },
-  {
-   "key": "9406d77935bad5027622f1aa2c2dc95a4000f319",
-   "score": null,
-   "sent": false,
-   "source": "Fox Sports MMA",
-   "title": "Jackson scores 24 and Peterson makes go-ahead FTs to lift Jazz over Pelicans",
-   "title_key": "ebc61d485e502add2bed6bdc5b367ba425667def",
-   "title_norm": "jackson scores 24 peterson makes go ahead fts lift jazz over pelicans",
-   "ts": "2026-10-25T14:04:34+00:00",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0I1VUlnUklzMFUtQUMyOEJxVExEQWpLZ09vcFdsZUxxUkFMNlNXRkpMRW0xb0REcW9LVktoemdURkpmN1Q3Z1RLMjVqQnRmQXphbHZYZEQwMkRYVG5ZTzMxMEEwRVQyeURnbGp4eGVSMUlxSmY4T0ZTNFJMZVB0SlJwQnFVRDlFZ2ZnVE8yT0xLOERzSzg1dVV2aFJBSzdVelQyVGdsSVBPdHBPX25HWnBmeUI?oc=5"
-  },
-  {
-   "key": "1e50fedad4bd2bbe0dffdedaa5c5009d6fa00c03",
-   "score": 3,
-   "sent": false,
-   "source": "MMA Fighting",
-   "title": "Dana White reveals why Shakur Stevenson was released so quickly from Zuffa Boxing",
-   "title_key": "bdcce30f7d577638ac8bfe23e152fb4dce15b236",
-   "title_norm": "dana white reveals why shakur stevenson released so quickly zuffa boxing",
-   "ts": "2026-10-25T14:04:44+00:00",
-   "url": "https://mmafighting.com/boxing/517731/dana-white-reveals-why-shakur-stevenson-was-released-so-quickly-from-zuffa-boxing"
-  },
-  {
-   "key": "3a08da94a46d193897be157c38c7e82eb3053c0b",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Dominick Reyes accuses Daniel Cormier of ‘clear bias’ on UFC 333 commentary, Cormier responds",
-   "title_key": "38bce8cec76a9e11c6008ddfa8999dd11b0e9595",
-   "title_norm": "dominick reyes accuses daniel cormier clear bias ufc 333 commentary cormier responds",
-   "ts": "2026-10-25T14:05:00+00:00",
-   "url": "https://mmafighting.com/ufc/517768/dominick-reyes-accuses-daniel-cormier-of-clear-bias-on-ufc-333-commentary-cormier-responds"
-  },
-  {
-   "key": "f053a37b47f1ec35710b57799b582845b72acf42",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Carlos Prates blasts ‘coward’ Islam Makhachev for UFC 336 withdrawal, vows to retire him",
-   "title_key": "7aa891ba3d1fa8570c84de920e689cfc6a54ff25",
-   "title_norm": "carlos prates blasts coward islam makhachev ufc 336 withdrawal vows retire him",
-   "ts": "2026-10-25T14:05:13+00:00",
-   "url": "https://mmafighting.com/ufc/517703/carlos-prates-blasts-coward-islam-makhachev-for-ufc-336-withdrawal-vows-to-retire-him"
-  },
-  {
-   "key": "5f97fd850fb5411a8fe8c73d57de27a0ebd93e57",
-   "score": 7,
-   "sent": true,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Petr Yan relieved to close trilogy with Merab Dvalishvili: 'This was a long, hard story'",
-   "title_key": "af00b2aca70ac733b177b50026964951a113cff0",
-   "title_norm": "petr yan relieved close trilogy merab dvalishvili this long hard story",
-   "ts": "2026-10-25T14:05:23+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1RLTkRLNk9HaUh4Zy00NEFpRnN4UmxPZ2RxV0dFdUt0dzNHUUMyYXVzU0pyU2JrQVlvNFgtNkJMcHVhQ3l2RDNmbjN6Vm8tenZ3R2JGSUpseXdTSEZWSllDamFPSk1jRlpTWXltTzJVT2NlSEl6RGpoMlk3Vko4NWJTcldHRlFKWFFqUjBuVFZGR0hiZGF5WkVsTzR5MlItOG1wQkFtcjJleDRyeE5sQWVXVHZxZ05zTFFlZ1pyMHE?oc=5"
-  },
-  {
-   "key": "ce3934e4dea148137b4c932c918b18a4ef177f3d",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "[SPOILER] Deja vu in main card fight",
-   "title_key": "b1db8570c717d4d43d62480c25a58b57ebaed378",
-   "title_norm": "spoiler deja vu main card fight",
-   "ts": "2026-10-25T14:05:40+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xej88c/spoiler_deja_vu_in_main_card_fight"
-  },
-  {
    "key": "d4a591fd5a3d9eb948965b42f8088c0f28870f33",
    "score": null,
    "sent": false,
@@ -13442,15 +13354,191 @@
    "title_norm": "main event winner almost hit jason herzog",
    "ts": "2026-11-08T11:31:10+00:00",
    "url": "https://reddit.com/r/MMA/comments/1xqq221/main_event_winner_almost_hit_jason_herzog"
+  },
+  {
+   "key": "eecdc0d244fc5a93cd9a5bf3f98b3e5d9f323cbd",
+   "score": null,
+   "sent": false,
+   "source": "r/MMA",
+   "title": "Shavkat Rakhmonov responds to injury rumors and says he will return soon",
+   "title_key": "cc9f9c7c42676d615e9ab8426a3eae280bf359ac",
+   "title_norm": "shavkat rakhmonov responds injury rumors says will return soon",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://reddit.com/r/MMA/comments/1xr31kf/shavkat_rakhmonov_responds_to_injury_rumors_and"
+  },
+  {
+   "key": "f423759b2dc65e54acf68e4f114eaf832409971f",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Ilia Topuria: \"Si me dice que me voy a quedar ciego, que le den a Justin y a todo el mundo\"",
+   "title_key": "59eee14089d33f6e4917893fd463b11f369f6f3e",
+   "title_norm": "ilia topuria si me dice me voy quedar ciego le den justin todo mundo",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUN0ZlhuQjZ4bjZrVl9VRkxLbER0bUhvOWxxQTFWR0NYWl8xTGg5SWxGNEFMYnZGMWJ2ak9MTFNabVl0MFlqZ1FwZjdMdkpVaThWSGpVVlhVVnltREFRNEpUbHMydWM2SWY3S2k0ZWN0T0xmOGpFWHBmRHBpd0ZCZHZtMzR5b3czT3pWWlB2aEJFLUpvdzRPNWRfQnRjQTRSeWpGNTAyYkFmcUnSAasBQVVfeXFMT010enpkODhCa3VTWkhaYTl4SGVYRVl4dkZ5aVVtSUlmNGtrd19SR2N5YlRnb0xkc2RyWWs5amEzODZOeUFLbHpIRldFdVVpMDR3UFpQZGVBcDZJeE9LaHpOd2tJV0Z3R1VaVzlMRG90b1AwQnB4WnlESU5mZWxCekhtREhPLXZMQ0tJTDRtYmxzOEg4ZDI2bUlaOWV6UHF6Y2EzODBOSnlMcVRF?oc=5"
+  },
+  {
+   "key": "3c3770147f3e6f358a6e1a801f58076e7cab954e",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "América, una de las ‘pesadillas’ de Keylor Navas en Liga MX",
+   "title_key": "5067f723a85818aa2b50deb82274058e73bc33fd",
+   "title_norm": "america pesadillas keylor navas liga mx",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVZ1VGJwXzhRcDZXdUN0UTRySnFDZFNPckpOVy1lbVZ1TG0tZFFObmVTTFNZN0tncF9oYXlGTXV4bXVOWWFadmhDc0VLRDE4bHU2V0ljNHZMR1plcmZ5UWN3VW14UDZhWTZuYllGdldfZ0VNR0hGTlVQd0MyUWdDcmtmRlZPaWJMbmZxN2xQLXdZejBSQzgzckszeC1jekN2LThCZ2ctTk55MzhFbUZxX0F30gHGAUFVX3lxTFAxNmE1Wmd3ckFuVzljdC0tTk1LOXd0OFZpbmZHX0VZc1RBbWNDcDNGLU5NSnYxN2tMLXpXYlhxX3ltTEZ4UFAxVEJJNjF0VWhCSTM0TmlfeVNBc25sSWJIZnF5Mm5pYm9KRHRGclNiaTVPZThRNlNndVRtUHU0MWJ0dVg4TzlPLURnZWRVUGZQMjA3WEd6bDdIRUFUVG1wdzUyektfZmpkSGxITVN2cC1hYlNaLWVxY2Z4ZEx2b0JwWC11RlRoQQ?oc=5"
+  },
+  {
+   "key": "58b0e2ec6182508dac451aef6ac9dc84bbdf7e52",
+   "score": null,
+   "sent": false,
+   "source": "UFC Español",
+   "title": "Thomas Petersen: Entrevista Octágono",
+   "title_key": "6a259b21cb52d0dba735567c63d6bf71477e1cfd",
+   "title_norm": "thomas petersen entrevista octagono",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYXZJVnZ5aWJFbGFWR0FTQkdpRU0zNzU2cmtIOEh1eWt3bVpaUXQ2LUx5aEVNeEZXWlE0TDI5MUtCZ09yeWhycnhZUXlKNksxejVkX1puaERMWmZ6SWhDM2lGTWc2YTBUb0l4WTB5SVpzUF9QYzVz?oc=5"
+  },
+  {
+   "key": "d11011b8caca57961c56e3ebb0c1aab9df9ecef7",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Would Prime DC explain America's complex geopolitics before just actually getting a text message?",
+   "title_key": "a85099f706bea3dbcdc3319e048ba29c7a3d4f38",
+   "title_norm": "would prime dc explain america complex geopolitics before just actually getting text message",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1xqx0v9/would_prime_dc_explain_americas_complex"
+  },
+  {
+   "key": "e5dd75d54ee9360b20534210921ed3bdab6ece97",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Justin Gaethje’s manager responds after fans back Ilia Topuria’s pursuit of a rematch",
+   "title_key": "09f66363e3f8fd30340bc8f7b5904d7afac51707",
+   "title_norm": "justin gaethje manager responds after fans back ilia topuria pursuit rematch",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://bloodyelbow.com/2026/11/08/justin-gaethjes-manager-responds-after-fans-back-ilia-topurias-pursuit-of-a-rematch"
+  },
+  {
+   "key": "7c4e62a2780b6f670df2dc37ba3d05045e3c1d7a",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Walker vs Blaydes next would make sense",
+   "title_key": "054d3341150ca0df8104b6c11914a9d6ffe761de",
+   "title_norm": "walker vs blaydes next would make sense",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1xr045e/walker_vs_blaydes_next_would_make_sense"
+  },
+  {
+   "key": "47fa7e816cbb82b66ebb8140ba32f3a5042d8bf3",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Fully hydrated Walker knocked clean out by 19 year old 168 pounder in 16oz gloves and full head gear",
+   "title_key": "fe209414686de7a28f87b6adaf63aefdab58ab44",
+   "title_norm": "fully hydrated walker knocked clean out 19 year old 168 pounder 16oz gloves full head gear",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1xr2fr0/fully_hydrated_walker_knocked_clean_out_by_19"
+  },
+  {
+   "key": "3374d42ee6201f69d1667872ff8d1fb992cfbde2",
+   "score": null,
+   "sent": false,
+   "source": "r/ufc",
+   "title": "Who's ready?",
+   "title_key": "d652d15512bf5ea24f75f680474434658f7cc392",
+   "title_norm": "who ready",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://reddit.com/r/ufc/comments/1xr2xis/whos_ready"
+  },
+  {
+   "key": "1964a691cabda318039c5750317f2df7e2e42cd7",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Rams vs. Commanders - Live Score - November 08, 2026",
+   "title_key": "7e74b21b64fd8634a6ae995b80ee18646877e794",
+   "title_norm": "rams vs commanders live score november 08 2026",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmswdGNVangzTm1ITU5fYXJycVphblR4SFRoNXJKS3pBdW9iMHVudHFIel9RdVQ2aGpmOE52T2tCTF9WelpIb19yOGJXX052MlFGZ2EyU1VKbWo4cWMzczVBOWtBeVhkMU1EOUZMajh2NG10NjQ1Qkp4N3BXSm1mZnlBOG5KR3BMZ2RDUHBxM2RHUXpTQnNtWjRrTUx0YzR4eW9aVzVQaWFGM09GVHQ0?oc=5"
+  },
+  {
+   "key": "9a8ed57d46cd7cbdde169d9283a1cf9f017236a5",
+   "score": null,
+   "sent": false,
+   "source": "Yahoo Sports MMA",
+   "title": "Lions pay tribute to injured linebacker Jack Campbell a week after he was carted off field",
+   "title_key": "a45a8f9f0068dce7c3979bbccb149ad8a1fa6d52",
+   "title_norm": "lions pay tribute injured linebacker jack campbell week after carted off field",
+   "ts": "2026-11-08T17:14:49+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTUwycEEwLXNNeWFSSEk1VGVWU2EtZW5Nb1U3SDAxQXl1Zlh1SW1UV0V2N3pPcWw4MXY2OV9DdWg1VExwWkpQbGZmSndfcEotVlcyNG1BUUVhLVZXc0NtSUVwcEJyb183T0RSZ2dfeUhZMGt0d0Y1Z29Kc1J5ajhTUVZnVkwzYmNScl95b0pxM1NCdXBfZ21Nd25jN0w0blYxbmtYTEZ1MjBzMHhpcl9RN2t0bHFsQmExRWtPWnlvcDlfVlJFN3NrZTc2aU9xbzRBaVI1YVpLNG1JNlh5THg3XzNjUzUyZDFWN0FzZw?oc=5"
+  },
+  {
+   "key": "35d83bcb4f32cbe46143e37d81b378ec7ceddfce",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Ilia Topuria goes in on Paddy Pimblett, open to coaching against him on The Ultimate Fighter",
+   "title_key": "a23fbd0219f32d412caf6351fb42dc5582ea1494",
+   "title_norm": "ilia topuria goes paddy pimblett open coaching against him ultimate fighter",
+   "ts": "2026-11-08T17:14:57+00:00",
+   "url": "https://mmafighting.com/ufc/519799/ilia-topuria-goes-in-on-paddy-pimblett-open-to-coaching-against-him-on-the-ultimate-fighter"
+  },
+  {
+   "key": "4d2c9f57625895790701290104b9fa1b79478921",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "‘Surprise motherf*cker!’: Johnny Walker admits he pulled out some ‘street fight sh*t’ to beat Waldo Cortes-Acosta",
+   "title_key": "4e9066bdb19e5761d36389ad607cb82dd75748ef",
+   "title_norm": "surprise motherf cker johnny walker admits pulled out some street fight sh beat waldo cortes acosta",
+   "ts": "2026-11-08T17:15:05+00:00",
+   "url": "https://mmafighting.com/ufc/520037/surprise-motherfcker-johnny-walker-admits-he-pulled-out-some-street-fight-sht-to-beat-waldo-cortes-acosta"
+  },
+  {
+   "key": "dd7d1092ea53935a586611cc40891ff53f05a14b",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "'Gutted' Davey Grant issues statement after first KO loss at UFC Vegas 124",
+   "title_key": "9b117987e566bacf77a595034b3357486fef7abc",
+   "title_norm": "gutted davey grant issues statement after first ko loss ufc vegas 124",
+   "ts": "2026-11-08T17:15:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTdBOWdEdWpack5uSDhZVlJvN2FnZ0djNHp4V3daTE54SlM2bEpiaG5rbXowUVNqTk5BTWdsYjY5eElFYnBsSTVER1I5V01SX2xtWUp4dmM3eno0czJMT2RNZVRVcWZjZVd6WlJiY0pJZHJkTVhYaXotWnFiTWZLeG0wQjZPRjFaLVJwczc5U0ZnZVV6czJOdzhOa3RtWE4zUHR1dHN4ZldrTWNHcEZvTk5ua0w0TGV3Sm5lM0pOZ013TG5aZjN2MzF3b1JyWXp3clVLWmYzV0lDWEMwa1N2WA?oc=5"
+  },
+  {
+   "key": "50d54da98e8e76c55cc8cbd5eed979cfeb5141ae",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Dana White reveals meeting with President Trump to discuss press secretary job offer Monday",
+   "title_key": "44d201274c27bd9713008853bc6592446eb3e6e0",
+   "title_norm": "dana white reveals meeting president trump discuss press secretary job offer monday",
+   "ts": "2026-11-08T17:15:18+00:00",
+   "url": "https://mmafighting.com/ufc/519883/dana-white-reveals-meeting-with-president-trump-to-discuss-press-secretary-job-offer-monday"
+  },
+  {
+   "key": "0a17d0c11ee05810c0a20cbeba301f51804758f7",
+   "score": 7,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "Conor McGregor: ‘It has to be Max Holloway’ for final UFC fight, issues profane warning to lower level fighters",
+   "title_key": "826a5798c569446bebbaf730882bfe156da4ff76",
+   "title_norm": "conor mcgregor has be max holloway final ufc fight issues profane warning lower level fighters",
+   "ts": "2026-11-08T17:15:26+00:00",
+   "url": "https://mmafighting.com/ufc/519891/conor-mcgregor-it-has-to-be-max-holloway-for-final-ufc-fight-issues-profane-warning-to-lower-level-fighters"
   }
  ],
  "stats": {
-  "descartados": 3,
-  "enviados": 2,
+  "descartados": 1,
+  "enviados": 4,
   "llamadas_llm": 5,
-  "prefiltrados": 6,
-  "recogidos": 187,
-  "unicos": 93
+  "prefiltrados": 11,
+  "recogidos": 184,
+  "unicos": 100
  },
  "telegram_offset": 958387804,
  "version": 1
