@@ -2,116 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "443f744dff8bbf89f9245aa9b3778cbd51277e08",
-   "score": null,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Vettori to Buckley: “You can’t tell me black people of today feel anything of what it was for black slaves back then, we read it on history books. Eventually yo",
-   "title_key": "35c2803c719d0a3f744a63f993ecebbe11482789",
-   "title_norm": "vettori buckley you can tell me black people today feel anything what black slaves back then we read history books eventually you gonna have get over right",
-   "ts": "2026-11-05T03:31:45+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xo7u8p/vettori_to_buckley_you_cant_tell_me_black_people"
-  },
-  {
-   "key": "a67b73e26764ae78a5c21b6034498af89a55fad3",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Richard Jacobi",
-   "title_key": "1df35f8dcb5021616816cc56829137d9c528cb81",
-   "title_norm": "richard jacobi",
-   "ts": "2026-11-05T03:31:45+00:00",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhei1mUWNiZG9GTWZZR0Q2WFo5TTJCQjA1UzVublk0aWFteUhYOHozZ3cyZXdYSDA2WHBDcldGWEo2a1plcUlTZVFWZzBpT1VyLUR5MTFpOGRTNklJOEE?oc=5"
-  },
-  {
-   "key": "e57cfd98b6e44d8e17fe73bae3f447ded090c4f2",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "\"Would pretty much do anything for Alexander Volkanovski at this point in his career” Dana on booking him against Gaethje",
-   "title_key": "fe94a627e2803c210aaf15ba1c4899ac9ccad597",
-   "title_norm": "would pretty much do anything alexander volkanovski this point career dana booking him against gaethje",
-   "ts": "2026-11-05T03:31:45+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1xo5dbb/would_pretty_much_do_anything_for_alexander"
-  },
-  {
-   "key": "7c04135df2d16c919ce2649e86dc325e364c489b",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "TJ Dillashaw identifies what Merab Dvalishvili must change after back-to-back Petr Yan defeats",
-   "title_key": "69c2e51e4cc4fd668ef9c57d2760bce852992ccb",
-   "title_norm": "tj dillashaw identifies what merab dvalishvili must change after back back petr yan defeats",
-   "ts": "2026-11-05T03:31:45+00:00",
-   "url": "https://bloodyelbow.com/2026/11/04/tj-dillashaw-identifies-what-merab-dvalishvili-must-change-after-back-to-back-petr-yan-defeats"
-  },
-  {
-   "key": "7139fb24a33d25d639cf2a95ac5cbc4817643fed",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Marvin vettori giving an actually nuanced take on buckley calling out Strickland for using the n word",
-   "title_key": "920c28772ee600a14f4aa10805b5e470374856b3",
-   "title_norm": "marvin vettori giving actually nuanced take buckley calling out strickland using word",
-   "ts": "2026-11-05T03:31:45+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1xo87k6/marvin_vettori_giving_an_actually_nuanced_take_on"
-  },
-  {
-   "key": "b1952fb7db08c02ba583bf19994455250adf273f",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Boletos para UFC 335 en Las Vegas, Oliveira vs. Lopes: Cómo comprar y precios",
-   "title_key": "7ec650148933d88a7ab8a4e78b2333f2b5ce504c",
-   "title_norm": "boletos ufc 335 vegas oliveira vs lopes como comprar precios",
-   "ts": "2026-11-05T03:31:45+00:00",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNG55LWxucjFDc0xTMDRWTWhRV2hDRk9nQnMwYjNlNndEckRfOEozQVFtX3oxWE83ejR2N25TM0cxNnpyeXduLWdRdHlUUEhGb1czVG9jNWhOd09QODgzaVhTRnB3dFNXU0FaU2V1YVBXc3g3dzg4MDNUWjU2QzFMMHowcDVLM09fbXNUbHUtWGZuY0hTdFlweGJPQVFGcDhfOU5mZXNKRzhudDUwc1FCN29GRnNuUUJ4SnFuMnhkVUdXYWZvX2ZBRU9tWVF3N0U?oc=5"
-  },
-  {
-   "key": "7922efd46858470cb9a2883dc9c438c4e9ed8ffb",
-   "score": 8,
-   "sent": true,
-   "source": "r/MMA",
-   "title": "Dana White says he wants to make Gaethje vs. Volkanovski next, but is waiting on Gaethje’s decision on whether he wants to continue fighting or not.",
-   "title_key": "938f5eff8ef10dc1037cde36aa625bc60bfa8efc",
-   "title_norm": "dana white says wants make gaethje vs volkanovski next but waiting gaethje decision whether wants continue fighting or not",
-   "ts": "2026-11-05T03:31:57+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xo71un/dana_white_says_he_wants_to_make_gaethje_vs"
-  },
-  {
-   "key": "b8d70970e06b62dcebfc09fb4c30a5b5e39ed2f8",
-   "score": 4,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "Johnny Walker wanted slow heavyweight rise, but 'God's plan' is different",
-   "title_key": "85cb66f40f612a3f35f8d5f66d16e32820765c2b",
-   "title_norm": "johnny walker wanted slow heavyweight rise but god plan different",
-   "ts": "2026-11-05T03:32:00+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUV9NWnpWUWJ0dVkyRkdvUEJKNFZSQk5nd0pGdWVkdThiaGJvaVlUcTE0WjVWMkwxbU9SVmJQbVRxdHdkOVZiMTVaR0ZWSzNxOWtyQXFNT3QycXY0clhzRmo0ZE0xNm9UdHRmRjdfMmFsQjE5ekRSZUR3bmNhWG9VMnRnQ2VaWmFkUUtiSmVLWUYwaUdBUHBCRjZBUXdWYUxxOU5kOUVFSE5reWNpYTF0SVpaekw4Rlk2UERkTlBUS3ZSS2tZVXRXSThMWXpxV29P?oc=5"
-  },
-  {
-   "key": "87593c8cba848b9b7a76ef16e2d52b115db81bfc",
-   "score": 3,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "David Onama posts possible 335 full card",
-   "title_key": "810b428050367f469a645d3af144b4b64ee813d8",
-   "title_norm": "david onama posts possible 335 full card",
-   "ts": "2026-11-05T03:32:05+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xo5c6u/david_onama_posts_possible_335_full_card"
-  },
-  {
-   "key": "19e178104e30072422944557a52e48942f4fbbbc",
-   "score": 5,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Several TKO executives just returned from a trip to Africa about looking to put on @UFC's first event on the continent, per Mark Shapiro.",
-   "title_key": "b0bea37b2c41b61cbec5307a8e3edf0e1447729a",
-   "title_norm": "several tko executives just returned trip africa about looking put ufc first event continent per mark shapiro",
-   "ts": "2026-11-05T03:32:12+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xo3oo8/several_tko_executives_just_returned_from_a_trip"
-  },
-  {
    "key": "48a7a91e5c186566f1e55bd201222fa103d87151",
    "score": null,
    "sent": false,
@@ -11495,14 +11385,125 @@
    "title_norm": "ravens marlon humphrey apologizes joking that baltimore best making criminals mayor requests sit down cb",
    "ts": "2026-11-19T01:16:42+00:00",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU09meUEtU3NBVWM3ZDRoWW5CVVJXYk84VXZBZm9YREtuS19KWjQxRFlsX20xRnpITE4tLVFKSkdodFhXcXMyOURWZVBxTmN6Zzd6VlV2bUJLZGFWQXVuWV9JUkc5TE9tLW03Mm9iWHBRU0ZkZEhLR1dkNVEwcl9hTF8wV1Vsa0VROW14OV9EOG1nUHhQWTJvU3NnSEZLUVFVZ3FQRkowblA5RExYUXRReFA2Sm1rWFBzU0JIVHZkWVFFaThFa3A3Y19JV2RieWhxY0RHQjZ3UUhwWVU4VTVqem5aWngzR3NxNzBwYnZXQ2FWem9GVm9NWUczdzBtNS1q?oc=5"
+  },
+  {
+   "key": "8acfbd465c25cd199d8e78a9e026f09e96d9e5f5",
+   "score": null,
+   "sent": false,
+   "source": "MMA Fighting",
+   "title": "Tommy McMillen reveals details of his overdose: ‘My body just gave out’",
+   "title_key": "249ea752ab8636b91cd03af1130ec1c6759a2532",
+   "title_norm": "tommy mcmillen reveals details overdose my body just gave out",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://mmafighting.com/ufc/522050/tommy-mcmillen-reveals-details-of-his-overdose-my-body-just-gave-out"
+  },
+  {
+   "key": "43a63b116cfd1e75f3fb6543fb2e377e8e251b09",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "- ESPN Argentina",
+   "title_key": "b9fdce0780f119e3ebefff929ffd50b1b3328b10",
+   "title_norm": "espn argentina",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWVyTWo1dmFWRmhGT2JCbGFIV2dFdXUxd291MzRJcEdidVd5dGhPNUpnN0t5QWJUenBKVDRYaFh2c3Q2bDN3TER4T2I2VUZadG9jQmxqYjNSU3RPZ3RVLVBkZjdKU3Z0VTlYTEF5ZVV0Y3NHby1jUUQwbUZ2MDlITlN6YTJjSmwwQ1hmMUViTVBydk9xa1RCNEVnbjNWd05VOEFWMkRhZEkyc3JzMlJIU0ROZnBhYVNpZmFSQnV0U0MxNDBFOWFuRnM3QkhLWjc5Ymd5MjlGR193ak1UeGdN?oc=5"
+  },
+  {
+   "key": "3efde67b6efc359827660af8ec7e237c382a239e",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "- ESPN Argentina",
+   "title_key": "b9fdce0780f119e3ebefff929ffd50b1b3328b10",
+   "title_norm": "espn argentina",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1dVaDJ1MXNiYXo3dEt3cjJVTklyeUdGTkNzd2x2UzcxMy1NNy1HXzFNWmdUR0F4Z01SSERmQWFYUjZTRHcxY3NJR0VoWE5GbGxWWlJ1OTZlZWdxNlNEMm95V2pTLVROOFBGdVp5d1l4Nkc3amxTR2VDVlNYVzZuYnN0NURRN3pWc1ltM18tekZQWjVSa0o5X3UyMU8wY3puMXRGcDJxZjJuckU?oc=5"
+  },
+  {
+   "key": "e01960d1d96ce7f006151f94b0875f86505dd7b7",
+   "score": null,
+   "sent": false,
+   "source": "ESPN Argentina MMA",
+   "title": "- ESPN Argentina",
+   "title_key": "b9fdce0780f119e3ebefff929ffd50b1b3328b10",
+   "title_norm": "espn argentina",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUhXdl90c2RFX04ta19XX1QyUFFEU3BwZ2FOR3pFcFh2ck5SUUNsTHRMS0JfSG1hQUdMbHNDS3BraWQ5NlhGUnIzQ1NxV1hXUGw2RlZPVmd6aEN4ZVJqMkpRYmVQdm5EbnhNR1hGdFFTSlZNYlU1QjhQdVQ5TVpVYVVwUlpYMlY4RVFLX0ctTWlPYWhNTGpRUHlGTlhuMEJMM2xoa2RBOFBLdVpsODZ5WmtR?oc=5"
+  },
+  {
+   "key": "eb3c29de198676d9adff313205e36aa703978e0b",
+   "score": null,
+   "sent": false,
+   "source": "Bloody Elbow",
+   "title": "Joe Rogan tells Ilia Topuria to move back down to 145lbs after Justin Gaethje beating",
+   "title_key": "a137fb85c26a9118362fbdd9ea2a6287c4a9ae71",
+   "title_norm": "joe rogan tells ilia topuria move back down 145lbs after justin gaethje beating",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://bloodyelbow.com/2026/11/18/joe-rogan-tells-ilia-topuria-to-move-back-down-to-145lbs-after-justin-gaethje-beating"
+  },
+  {
+   "key": "b8900c2425b42547c311f0ce3c8de3030b67b20c",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Aleks Topuria: “Con Ilia, llegamos al límite del cuerpo”",
+   "title_key": "d905f360bb2b214b24eb3f84b525e2bca1c64762",
+   "title_norm": "aleks topuria ilia llegamos limite cuerpo",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUpROUw2TF9Cbk92MTFCOWI0QUhaLUY2Q0NGRmRvd3B3cDBZcjhNUWRrallVbzdqNGMtdVZPQmRHY0phT08tVV9WVEZqM1J3XzNNeGtDV0FYcDh3Q3NnSlNEQWpvSnFoQjE2LW1Ma013Q2ZQckxiZTJ2ZWR6VE53cG83ckhnaVhweWNWNF9MdnBvZll5UV9KRXMtbXRlZ1JaRURTWUtR0gG6AUFVX3lxTFBtVlFLNTg0aHVZVVY4YnFQRFZNNURiV2lXYTEwQkRWb2ZHTUFXdnFaMzBQbzZQdlRWLXNCanY5ZUNPTDJYUVJib3lDUURIV3hJeGxlcmc5WWlYUjAxZmFlTzdubENwZFlIUGpWYXUxTncyX1FESTVic0FBajg4WV9tYTVHQ2djdERZdnhMS3E0UVF6UGY0VzhBeXI0bmU5Vk9jVnJod1paYzFsNUxkSkxXMmQtR3dzeTlHUQ?oc=5"
+  },
+  {
+   "key": "971c291b704621c90a5a4e91f3cfa71fb02def3e",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Polymarket promo code FOX: Deposit $10, Get a $25 bonus for November Sports",
+   "title_key": "17052fe49386345e268868bf211bb1dc70bfdad7",
+   "title_norm": "polymarket promo code fox deposit 10 get 25 bonus november sports",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzMkxRSnY1XzZwYnN3OXY2YTJTMEVPckFleWd1MGlOMTVDNjdOUldzdzJpdFRaTWxlekUwN1BJTWJkRDROWHRpbjZVemhqMVVxY0JWV3kyV1FEc1FjWHM1WndwNEFzTGZBc0JITUt2VXTSAXBBVV95cUxQOTVWcUsyMVlOQXdsdHBtR3ZPRWR1T1Zrb2FpbllSNmR0NUoydlFWdDJ5RUFSaG5nMXRZYWJwTXV6OEdjV2JlYk41T3UyZ1dDVWhVbmlpVVM5V3NBZWlmNHhXNy1LTWlGRTdRd1gycTZk?oc=5"
+  },
+  {
+   "key": "03168c83f27a09658341ec20f58673a79c7db8b5",
+   "score": null,
+   "sent": false,
+   "source": "El Rocktagono",
+   "title": "Aljamain Sterling acusa a Umar Nurmagomedov de golpear a traición a Merab Dvalishvili",
+   "title_key": "c54f793282e9129311685d50c1ed8954d26cb22f",
+   "title_norm": "aljamain sterling acusa umar nurmagomedov golpear traicion merab dvalishvili",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUc2T1dWVkdISGhvemNzVHd6eTNmeUxWUEtlOHVLX2dPZnk1eWlrQW9xaUVpdEtfcExkMU9BcUo5STFBZWlYa3hSOGdieFQwbDM3bERpUTRMMGZidmxINGxtb1phVm0ycXRHWHlsanRQYThLRzk2VlkyVXV3U09nSmx4bHpDcE9DaEdTRWFVSWFMTnZGVWVxU2dZVWtYX3UxZTk3UlBrbGd6cW8tWDRJc285Mjl1dw?oc=5"
+  },
+  {
+   "key": "b3fb8417a79666e1b8c28dde48933fc970eb3776",
+   "score": null,
+   "sent": false,
+   "source": "Google News — MMA en español",
+   "title": "Presentan función amateur de Artes Marciales Mixtas de LAP",
+   "title_key": "5b5f04783c2acd04f9d0d7bcac4a100a305d71f2",
+   "title_norm": "presentan funcion amateur artes marciales mixtas lap",
+   "ts": "2026-11-19T08:52:34+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0VKbktkOGVGZ1VnWVRNT252cV9PZDFnaXJVYlEySHVWUnRqQUZzOGs3ZDdyZjU1YVdGdFpVSzhoQ1VhcWJJMTI1NkR4S191S2YzRmVnYU1LTlVTaFFsellJMXZKYU5kWjdJSE01QWxzUG9lbnlpS25wYmp3N1VxNEhxSmFsblpWcWtodWotb3JhaldlVFE?oc=5"
+  },
+  {
+   "key": "c9e93466b3525f1b57749c2693aad600f761f227",
+   "score": 4,
+   "sent": false,
+   "source": "MMA Junkie (vía Google News)",
+   "title": "UFC Qatar adds newcomer battle days prior to event",
+   "title_key": "7756341ebe05b3b21ebc7139ef65d0afd9ffab96",
+   "title_norm": "ufc qatar adds newcomer battle days prior event",
+   "ts": "2026-11-19T08:53:21+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2R2UlBhSmVpVllSeDVubEh4bTlPdE9WeFZlbXdTQVZrN0hMQ0l6eXBkNmNmX2RPUW1TYldOME0tT09PUHZRNGZleVA5al9oREpYOGNNYzdITjV5d2FGalAtcWtRVzlfM2JlcWlfRFdnazFBcE83SlNLbS16Z1Eza01NYWphSDhfQjREUjlfMGdnMHVZaV9NT3I0c3BoWG5ONTVkdnc5SGZoN1dlaklmbDFB?oc=5"
   }
  ],
  "stats": {
-  "descartados": 0,
+  "descartados": 1,
   "enviados": 0,
-  "prefiltrados": 27,
-  "recogidos": 145,
-  "unicos": 107
+  "llamadas_llm": 1,
+  "prefiltrados": 9,
+  "recogidos": 146,
+  "unicos": 86
  },
  "telegram_offset": 958387804,
  "version": 1
