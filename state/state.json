@@ -2,127 +2,6 @@
  "manual_queue": [],
  "seen": [
   {
-   "key": "21f03302623f430eac6043de26695923ff759c4c",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "Within 5 seconds, the tide had already turned.",
-   "title_key": "d3488883761a3cfb7c80ddca8f4f2d42b303be2d",
-   "title_norm": "within seconds tide had already turned",
-   "ts": "2026-11-08T11:30:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1xqpqlh/within_5_seconds_the_tide_had_already_turned"
-  },
-  {
-   "key": "e44c23d7ac897800c1a7724c6327e63188f31fbc",
-   "score": null,
-   "sent": false,
-   "source": "r/ufc",
-   "title": "The Succession has begun",
-   "title_key": "6f16f09975144fce2277aca99f5174d6413a3b02",
-   "title_norm": "succession has begun",
-   "ts": "2026-11-08T11:30:43+00:00",
-   "url": "https://reddit.com/r/ufc/comments/1xqpu5a/the_succession_has_begun"
-  },
-  {
-   "key": "3303f0d155a44d42924b9f9df2d42a9b9f85e78f",
-   "score": null,
-   "sent": false,
-   "source": "UFC Español",
-   "title": "Tatiana Suárez: Entrevista Octágono",
-   "title_key": "3e36ee7a4ff7641772ce8030b5016377bde5dfac",
-   "title_norm": "tatiana suarez entrevista octagono",
-   "ts": "2026-11-08T11:30:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XcEhkRXdqSTRqdUdHYWh6UV83VXhVXzZHMDJqX0dvWDY4dmJRaDQzR25wZ1dkd0FaU0pmRFpWUnd2OVRqM0puM1BqanVjandYaF91a05FRlFFaGdxNW1EU0k0dUN6d3dhSVFpTENkT3JRbm5qcFM0?oc=5"
-  },
-  {
-   "key": "b8c8d3b72d88b0a72e3b09418cd81dfc5c02c62e",
-   "score": null,
-   "sent": false,
-   "source": "Bloody Elbow",
-   "title": "Andrei Arlovski apologizes for controversial remark about Anthony ‘Rumble’ Johnson’s death",
-   "title_key": "4aa408d5a194d2d21bf251352848eb6baedaae91",
-   "title_norm": "andrei arlovski apologizes controversial remark about anthony rumble johnson death",
-   "ts": "2026-11-08T11:30:43+00:00",
-   "url": "https://bloodyelbow.com/2026/11/08/andrei-arlovski-apologizes-for-controversial-remark-about-anthony-rumble-johnsons-death"
-  },
-  {
-   "key": "efb826cf279ce78e25a9e79c4f3c0bfc9caf6580",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Cortés-Acosta Vs Walker: Pelea De La Noche",
-   "title_key": "d140585d3c2c46216ba3d2b0a9145d3713c89630",
-   "title_norm": "cortes acosta vs walker pelea noche",
-   "ts": "2026-11-08T11:30:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FbWtxUzV3VlRkYVRwYXV2WTlJZkxOaFFEbmE5NjZfcjFrS0dpM3k5aUZTNWs2bVBnSEkzZmF0ZGlwd0VOU1VZUnlPemV2MmVQSU5JaWFOMDJZVldCU0M0TDdOSmp1Ulg3dGNGS0R2Mm1vdmZHRENEclNleHptUQ?oc=5"
-  },
-  {
-   "key": "9459c4e682d3a54d0836e4f583486ccae1b30ccf",
-   "score": null,
-   "sent": false,
-   "source": "Google News — MMA en español",
-   "title": "Johnny Walker cayó en el primer asalto y acabó noqueando a Waldo Cortés Acosta: \"¿Quién no tiene aguante ahora?\"",
-   "title_key": "683f5ec47828b025d568996a5183f6d99fcafe59",
-   "title_norm": "johnny walker cayo primer asalto acabo noqueando waldo cortes acosta quien no tiene aguante ahora",
-   "ts": "2026-11-08T11:30:43+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVW9LdkFiSWo1NWxvb1piRWlFRWdQbVNWUE9xNGFrVkdzWXU1Q0RlYlkzWXlSYzJtQ0JxUmdBLW45QTVCNXpFY2V4cXNXRFRLLXZ6Y3c5V2w4Q0VnSHo0ZktKTTZPNGNlS0ozOUNSSHBpcWI5aWNGOXpKV1R1eGZRM09MYmJnQ0d0SlVMd2hkM0VfVDA3Q1VRRGZ2WXRqakZDMTQ5ZnRfQkJSN0ZpZV9IYXliZl9tWjlWOERQdVplUTJQRXNkdGhnQlRmV3cwcjNvTmFYc0RTWVo?oc=5"
-  },
-  {
-   "key": "9c842391a5989cd2ef852b644d3128fcda779b28",
-   "score": 4,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Korean Zombie and Song Yadong both at the RIZIN 55 event tonight",
-   "title_key": "22914f43114e9c6bcb159678fd2ed7a8fa22d463",
-   "title_norm": "korean zombie song yadong both rizin 55 event tonight",
-   "ts": "2026-11-08T11:30:46+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xquaj6/korean_zombie_and_song_yadong_both_at_the_rizin"
-  },
-  {
-   "key": "4643cff5606c5975ef0b2b3253d94e5dbeb304e6",
-   "score": 8,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "UFC Vegas 124 post-fight show: Reaction to Johnny Walker’s knockout in wild main event",
-   "title_key": "ddceabf61b3f88418ef49c92116e742e5b44d943",
-   "title_norm": "ufc vegas 124 post fight show reaction johnny walker knockout wild main event",
-   "ts": "2026-11-08T11:30:53+00:00",
-   "url": "https://mmafighting.com/ufc/520041/ufc-vegas-124-post-fight-show-reaction-to-johnny-walkers-knockout-in-wild-main-event"
-  },
-  {
-   "key": "1bb33ede053e640f1b9879ad949d7103b7e6127f",
-   "score": 9,
-   "sent": true,
-   "source": "MMA Fighting",
-   "title": "Israel Adesanya vs. Shara Magomedov, Ian Machado Garry vs. Yaroslav Amosov set for UFC Saudi Arabia",
-   "title_key": "3c60c55fab7a62d06634212c2d66056c590254a7",
-   "title_norm": "israel adesanya vs shara magomedov ian machado garry vs yaroslav amosov set ufc saudi arabia",
-   "ts": "2026-11-08T11:31:00+00:00",
-   "url": "https://mmafighting.com/ufc/519978/israel-adesanya-vs-shara-magomedov-ian-machado-garry-vs-yaroslav-amosov-set-for-ufc-saudi-arabia"
-  },
-  {
-   "key": "b2ba700534c32f9d2612dffd9a7a57afc2e21688",
-   "score": 6,
-   "sent": false,
-   "source": "MMA Junkie (vía Google News)",
-   "title": "UFC Fight Night 293 bonuses: Walker winds up, worms way to wicked $100K",
-   "title_key": "07f97218bf0c4ac14ef24a146d633c178771916d",
-   "title_norm": "ufc fight night 293 bonuses walker winds up worms way wicked 100k",
-   "ts": "2026-11-08T11:31:06+00:00",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLXhUbUdqX1ViT0R4Y2lEVmwxZFNKcm1oQUZhTmZ6OWdzb0NJeUNRQjJVRXVvMzhBNmpIREFIUXp1TU42VDZiUGFTY3R2RXRnRGlVSnRXQWZKRElzQUFNcF9tOHctTGZOX0FxNXlrZzdrZzJ5Q3plbWExWm5tZ1VvZ2JmaWxGTWE4RFBMNlo2RGFWTU1vTHJ6aWlsVDVXYllOWkVnT0VLSF9COVBBMGlaUDkwV0o5d2NqU1Z5NGt3SDJTUi1mLWpGbkJUd3BRNU05REx4NXRORXBoWEN5TDVwRC1oV2VJQ0lkM0VzNFZYXzhQTDhYT1hTcE1KSmRMUQ?oc=5"
-  },
-  {
-   "key": "397a3bd2d5fc98c64d5e55cafcc1abf16f8e16cb",
-   "score": 5,
-   "sent": false,
-   "source": "r/MMA",
-   "title": "Main event winner almost hit Jason herzog",
-   "title_key": "b346c0786469e5795c2bcbfe3a6255fbe5c287a9",
-   "title_norm": "main event winner almost hit jason herzog",
-   "ts": "2026-11-08T11:31:10+00:00",
-   "url": "https://reddit.com/r/MMA/comments/1xqq221/main_event_winner_almost_hit_jason_herzog"
-  },
-  {
    "key": "eecdc0d244fc5a93cd9a5bf3f98b3e5d9f323cbd",
    "score": null,
    "sent": false,
@@ -9944,15 +9823,81 @@
    "title_norm": "ufc qatar results kevin vallejos tops aljamain sterling calls out alexander volkanovski",
    "ts": "2026-11-22T04:45:13+00:00",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNVM1ZEMzVzluaG5YUHhTaXIyRnNtbTQteXY5TzJGQ3ZhMTJMTVFvRm1tNGR4WU5tSHVyaUNKMG4zTUZNaFhwR3FSODZEMlRUUGNpckxCWEZaZC1NNjItWkN5a0JHUGFsVkhwZUpGeTJLSGFoTlNYRnhxS2pzTjZLWEVMekY2NXJNOXFza00wand3U2twMHpIWVdPOG1qekhzdDQ5dURZejMzZnlVLVVIZjRjdjVTQjNodE9jZ3lPbDZEU21BT2t6MGUyVFBXX19jZkJ4dk9mbV9MQ3NpOFpwOW03WjRwU1FLbzNqNnBpWlhQRExh?oc=5"
+  },
+  {
+   "key": "b657affbd6985380f95d92d11e172135149a34a9",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Alcaraz iguala a Moyá como segundo español con más victorias en las Finals",
+   "title_key": "6f81e8f6a7ae89b0f1e4bed1da3081ebe225cd79",
+   "title_norm": "alcaraz iguala moya como segundo espanol mas victorias finals",
+   "ts": "2026-11-22T13:01:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDFFeC1iYjlfU05oUEtVOU15NTRlNDBiMWlIRlUya1JvZnZLVEVHNjE4a1AxeTVodFdCTnpMYjlGYlY4S3pza2dvWEhrcXk2dU1ncW1qdV9rTkFvVWozcTJFU1NLQlNaOWgySlV5NnllaU5LcjJlOVUtV2U0b1Z3M3BzZHREcDh0Z01paDVOQ2puV20wcy02VnFfc2plMWh2Y2ZrbFlKN09lOW5aVUJWZHZQc29mQ2NSOWNZVnRRNVVNSEtkUFFYMW8wUdIBywFBVV95cUxOVDFFeC1iYjlfU05oUEtVOU15NTRlNDBiMWlIRlUya1JvZnZLVEVHNjE4a1AxeTVodFdCTnpMYjlGYlY4S3pza2dvWEhrcXk2dU1ncW1qdV9rTkFvVWozcTJFU1NLQlNaOWgySlV5NnllaU5LcjJlOVUtV2U0b1Z3M3BzZHREcDh0Z01paDVOQ2puV20wcy02VnFfc2plMWh2Y2ZrbFlKN09lOW5aVUJWZHZQc29mQ2NSOWNZVnRRNVVNSEtkUFFYMW8wUQ?oc=5"
+  },
+  {
+   "key": "261e1508b51277f492120650abbe8a591be5aa01",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "¿Salen más los números del centro en el reintegro de la Lotería de Navidad?",
+   "title_key": "5f310326485e312f5b968a562fad969a5f858152",
+   "title_norm": "salen mas numeros centro reintegro loteria navidad",
+   "ts": "2026-11-22T13:01:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1dYSkV2ekJmbUZfNmRydHFWeEhJMTZGMkhJNUl2d3E3cmhVQV9jS3dmQlU3eGIxelNNT0E5V3JZbEdBLUNZczBDM2hEUnVoSGpJMk5yZ0kxdHNkUzhXU0RmLWdMblRxYmFramZXR1BvZnlWaktJTi14UWcxTHNPXzFMWE1Wdkp6YlB1akI2akw2aE9MRjQ3YlgzOUNxQ2I1LV85eWJDT2NQT3l4ZFc5NkRjb25TR2FNY0lBUVNjZnFsZzA0RDhpZkhvOHBWZ9IBzgFBVV95cUxNR1dYSkV2ekJmbUZfNmRydHFWeEhJMTZGMkhJNUl2d3E3cmhVQV9jS3dmQlU3eGIxelNNT0E5V3JZbEdBLUNZczBDM2hEUnVoSGpJMk5yZ0kxdHNkUzhXU0RmLWdMblRxYmFramZXR1BvZnlWaktJTi14UWcxTHNPXzFMWE1Wdkp6YlB1akI2akw2aE9MRjQ3YlgzOUNxQ2I1LV85eWJDT2NQT3l4ZFc5NkRjb25TR2FNY0lBUVNjZnFsZzA0RDhpZkhvOHBWZw?oc=5"
+  },
+  {
+   "key": "a83daebd1b6d8b20a9224b98da1da0a0b4fd47b3",
+   "score": null,
+   "sent": false,
+   "source": "AS — UFC/MMA",
+   "title": "Ilia Topuria: “Mi hermano peleó con un hombro dislocado”",
+   "title_key": "bb35d7fd4b403cade60fe505e2e6f4876477f51f",
+   "title_norm": "ilia topuria mi hermano peleo hombro dislocado",
+   "ts": "2026-11-22T13:01:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUnFHWl9INGtnX0RFM1ZBZnQxVDU0aU5fb255cUtXa0Q4OUNkUURDdzFzWHhIaHZtdzg2RlhyUlgxX1VyNWJXWkI1ZjBTelQ3Zk9MZDVtaWZUZDYzWlJyNmNTUDFTakRlTldDaGd2aWRXNTBhQV81QktJRHp3SDd6M093ZU9QVXVXWVNDblQ0VEtkMlQw0gGoAUFVX3lxTE5FZDJDWUFEWldZenBjYnFmNng0ak10cVZoUnNUalRPVWRfM204ZGZZdXZmNktoa0RfU0RXa2pJZTFHU0JkUDVIcUM1ekkxWm41c3hqXzdMUU91QXRVdHRYWDBkM0EzaEVsWTh3aGt0R1l6eDVIYmZYakhUbUloVklMQlJBQ0ktME40MEtWMDVkMDlTbXdoU0ZYRUFERW9zVGM5eEM4S2hiaA?oc=5"
+  },
+  {
+   "key": "5fa25244bcffe3b113aea8d4db8337b916db6870",
+   "score": null,
+   "sent": false,
+   "source": "Marca — UFC/MMA",
+   "title": "Ilia Topuria: \"Este año nos ha enseñado a los dos que incluso los guerreros mejor preparados pueden caer\"",
+   "title_key": "77083f67dedcc97ed1189d17dd01103da50cbf60",
+   "title_norm": "ilia topuria este ano nos ha ensenado dos incluso guerreros mejor preparados pueden caer",
+   "ts": "2026-11-22T13:01:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU09YQzYyby00LWZBTHNXeUViVnloMWNkaUdRMmVmUlJ6MnNfSTlfQU5iSDdqRV84aXVOeVZPaTlQRHNMZE1LVnQwYXZPYi1jUUxRR09panIxdFFKYTB0VHlITnB0elBSZWRvSWJQdS1UcUtRRXVzSnRNeGlVU29ld2JjOHFkNEVSSG5xQlRXRGZlRl91ZFBDWk04V3JmZnV0TmM1cWh0dWtBek1mZ1VQcFRR0gGyAUFVX3lxTFBWSXE2emtGZWo1RU9LeEltQkl6V2FTVk1iTW42UWh1UENwbEFXWE9uU2tEQkZuWWhHWnJnU3hyUnh6alJQaU1GeHdiM2w5cnpDTDNTOFJJYjFxd1FZUE9kTVdTVXJEeE9FT3hHYzhoZXQyWjZuWEl0T1g2Zm9kcFVpN0thRDk4VXliWWJoc2xSZFFwb2tiMFRCZjloVDV5UG1vbGxrdE4yLWdnNEw1Q1liN0E?oc=5"
+  },
+  {
+   "key": "e79d65940aff9ecad7557d20e2189499bb0afd3d",
+   "score": null,
+   "sent": false,
+   "source": "Fox Sports MMA",
+   "title": "Betting",
+   "title_key": "762096d00725fd9ff7d205e115612ca8b334c460",
+   "title_norm": "betting",
+   "ts": "2026-11-22T13:01:59+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yYWdFekQ3UmhTcHJDWVMzU2YtMkt5dFV6QlB2MmVjN1o3aVpwS0YtQlNkcU13VTVhd24yVE9WODB4eEliWlBYVw?oc=5"
+  },
+  {
+   "key": "27928b019d2b0833b6201944cae4ebf6cbe4762e",
+   "score": 8,
+   "sent": true,
+   "source": "MMA Fighting",
+   "title": "UFC Qatar results: Dan Hooker calls out Max Holloway after win, Brian Ortega announces retirement",
+   "title_key": "1f12e7e1b0eb2e22386b1e8bb8a246628b3231ec",
+   "title_norm": "ufc qatar results dan hooker calls out max holloway after win brian ortega announces retirement",
+   "ts": "2026-11-22T13:02:30+00:00",
+   "url": "https://mmafighting.com/ufc/522721/ufc-qatar-results-dan-hooker-calls-out-max-holloway-after-winning-brian-ortega-announces-his-retirement"
   }
  ],
  "stats": {
-  "descartados": 2,
-  "enviados": 3,
-  "llamadas_llm": 5,
-  "prefiltrados": 2,
-  "recogidos": 145,
-  "unicos": 72
+  "descartados": 0,
+  "enviados": 1,
+  "llamadas_llm": 1,
+  "prefiltrados": 5,
+  "recogidos": 146,
+  "unicos": 71
  },
  "telegram_offset": 958387804,
  "version": 1
